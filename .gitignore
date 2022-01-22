@@ -112,3 +112,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+credentials/credentials.json
+credentials/token-1.json
+credentials/token.json
+credentials/config.py
+apps/credentials/config.py
+apps/credentials/credentials.json
+apps/credentials/token-1.json
+apps/credentials/token.json
