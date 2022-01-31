@@ -9,7 +9,7 @@ from matplotlib.figure import Figure
 import tkinter as tk
 from tkinter import ttk
 from scrape import meta_scrape
-from playlist_app import get_week_num
+from playlist_app import get_date_info
 from credentials.config import scrape_path, clean_path
 from dedup_csv import dedup_meta_scrape
 
@@ -22,8 +22,8 @@ window.title('Create Playlist from meta_scrape')
 window.geometry('800x800')
 # window.state('zoomed')
 # set week_num variable to current week
-week_num = IntVar(window, value = get_week_num())
-print(f'GUI week_num {week_num}')
+date_info = get_date_info()
+week_num = IntVar(window, value = date_info[1])
 # import meta_scrape data for plot
 def data_list():
     scrape_dict = {
@@ -42,8 +42,7 @@ def data_list():
     return scrape_dict
 # import scrape module and set to week_num variable to value in week field
 def scrape():
-    meta_scrape(week_field.get())
-    # print(week_num)
+    meta_scrape(int(week_field.get()))
 # dedup csv file for db
 def dedup():
     dedup_meta_scrape(scrape_path, clean_path)
