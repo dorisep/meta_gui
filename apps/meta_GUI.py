@@ -50,11 +50,11 @@ def dedup():
 def plot():
     fig = None
     meta_dict = data_list()
-    print(meta_dict.keys)
+    # print(meta_dict.keys)
     datalst = meta_dict['datalst']
-    print(datalst)
+    # print(datalst)
     albumlst = meta_dict['albumlst']
-    print(albumlst)
+    # print(albumlst)
     fig = Figure(figsize=(10,10), dpi=100)
     chart = fig.add_subplot(111)
     ind = np.arange(len(datalst))

@@ -80,12 +80,10 @@ def get_album_tracks(album_ids):
         tracks = response_json['items']
         for track in tracks:
             track_uris.append(track['uri'])
-    print(get_track_features(track_uris))
     return track_uris
 
 def search_for_albums(week_num, csv_path):
-    print('line 88')
-    print(f'search for albums  {week_num} {csv_path}')
+
     artists=[]
     albums=[]
     meta_score=[]
@@ -99,19 +97,18 @@ def search_for_albums(week_num, csv_path):
 
     with open(csv_path, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
-        print('line 103 is for loop')
+
         for row in reader:
-            print(row)
+
 #         filter for artists and albums from current week
             if int(row['week_num'])== week_num:
-                print(row)
+
                 artists.append(row['artist'])
                 albums.append(row['album'])
                 meta_score.append(row['meta_score'])
                 user_score.append(row['user_score'])
 #   initialize spotify client
-        print('line 110')
-        print(len(artists))
+ 
     spotify = SpotifyAPI(client_id, client_secret)
     for al, ar in zip(albums, artists):
 #       trim album names of suffixes (e.g. .vol 1, [ep] etc.)
@@ -128,17 +125,15 @@ def search_for_albums(week_num, csv_path):
     return(get_album_tracks(album_ids))
 
 def add_tracks_to_playlist(week_num, playlist_id):
-    print(f'add tracks: {week_num}, {playlist_id}')
     track_uris = [track for track in search_for_albums(week_num, csv_path)]
-    print('line 127')
-    print(track_uris)
+ 
     track_limit = 100 
     # using list comprehension 
     batched_tracks = [track_uris[i * track_limit:(i + 1) * track_limit] for i in range((len(track_uris) + track_limit - 1) // track_limit)]  
     url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks'
 
     for batch in batched_tracks:
-        print(batch)
+ 
         request_data = json.dumps(batch)
 
         requests.post(
@@ -151,7 +146,6 @@ def add_tracks_to_playlist(week_num, playlist_id):
     return
 
 def create_playlist(week_num):
-    print(f'week_num value at beginning of create_playlist {week_num}')
     date_info =  get_date_info()
     year = date_info[0]
     
@@ -174,5 +168,4 @@ def create_playlist(week_num):
     response_json = response.json()
     playlist_id = (response_json['id'])
     # code here for traking playlists by writing playlist ids to file
-    print('line 170')
-    print(add_tracks_to_playlist(week_num, playlist_id))
+    add_tracks_to_playlist(week_num, playlist_id)
