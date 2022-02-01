@@ -21,6 +21,7 @@ def meta_scrape(week_num):
         album_dict = {}
         # scrape album name
         album_dict['album']=item.find('a', class_= 'title').text
+        print(item.find('a', class_= 'title').text)
         # scrape artist name and strip white space and extra characters
         album_dict['artist']=item.find('div', class_='artist').text.strip().lstrip('by ')
         # scrape date
@@ -74,7 +75,7 @@ def write_csv(album_dicts, week_num):
     # create variable for data to be written
     keys = album_dicts[0].keys()
     # output to csv
-    with open(output_path, 'w') as csvfile:
+    with open(output_path, 'w', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, keys)
         writer.writeheader()
         writer.writerows(album_dicts)

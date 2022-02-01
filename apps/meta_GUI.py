@@ -19,7 +19,7 @@ window = tk.Tk()
 #set title
 window.title('Create Playlist from meta_scrape')
 #set window size
-window.geometry('800x800')
+window.geometry('1000x1000')
 # window.state('zoomed')
 # set week_num variable to current week
 date_info = get_date_info()
@@ -48,10 +48,14 @@ def dedup():
     dedup_meta_scrape(scrape_path, clean_path)
 # set plotting function
 def plot():
+    fig = None
     meta_dict = data_list()
+    print(meta_dict.keys)
     datalst = meta_dict['datalst']
+    print(datalst)
     albumlst = meta_dict['albumlst']
-    fig = Figure(figsize=(6,6), dpi=100)
+    print(albumlst)
+    fig = Figure(figsize=(10,10), dpi=100)
     chart = fig.add_subplot(111)
     ind = np.arange(len(datalst))
     chart.bar(ind, datalst, 0.8)
