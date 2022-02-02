@@ -1,102 +1,102 @@
-album,artist,date,week_num,meta_score,user_score
+album,artist,date,year,week_num,meta_score,user_score,img,crit_num,user_num,label,genre
 
-Time Skiffs,Animal Collective,"February 4, 2022",5,75,tbd
-Laurel Hell,Mitski,"February 4, 2022",5,81,tbd
-Ants From Up There,"Black Country, New Road","February 4, 2022",5,89,tbd
-Extreme Witchcraft,Eels,"January 28, 2022",4,73,tbd
-"And Now, Letâ€™s Turn to Page...",Brent Cobb,"January 28, 2022",4,79,tbd
-Godmother,Josephine Foster,"January 28, 2022",4,80,tbd
-AnaÃ¯s Mitchell,AnaÃ¯s Mitchell,"January 28, 2022",4,83,tbd
-The Sun is Shining Down,John Mayall,"January 28, 2022",4,78,tbd
-The Alien Coast,St. Paul & the Broken Bones,"January 28, 2022",4,70,tbd
-11:11,Pinegrove,"January 28, 2022",4,73,tbd
-Set Sail,North Mississippi Allstars,"January 28, 2022",4,77,tbd
-Motordrome,MÃ˜,"January 28, 2022",4,69,86
-Three Dimensions Deep,Amber Mark,"January 28, 2022",4,75,86
-The Zealot Gene,Jethro Tull,"January 28, 2022",4,67,tbd
-Aboogi,Imarhan,"January 28, 2022",4,86,tbd
-C91,Various Artists,"January 28, 2022",4,69,tbd
-All the Bright Coins,Simone Felice,"January 28, 2022",4,72,tbd
-In Free Fall,Maya Shenfeld,"January 28, 2022",4,82,tbd
-Vertigo of Flaws: Emancipation of the Dissonance and Temperaments in Irrational Waveforms,Trees Speak,"January 21, 2022",3,72,tbd
-The Overload,Yard Act,"January 21, 2022",3,85,78
-The Gods We Can Touch,Aurora,"January 21, 2022",3,80,94
-Archive Material,Silverbacks,"January 21, 2022",3,71,tbd
-Change the Show,Miles Kane,"January 21, 2022",3,71,tbd
-Night Call,Years & Years,"January 21, 2022",3,71,78
-Good To Be...,Keb' Mo',"January 21, 2022",3,69,tbd
-W,Boris,"January 21, 2022",3,81,tbd
-Wilds,The Soundcarriers,"January 21, 2022",3,77,tbd
-Age of Apathy,Aoife O'Donovan,"January 21, 2022",3,72,tbd
-Shoals,Palace,"January 21, 2022",3,73,tbd
-Crisis of Faith,Billy Talent,"January 21, 2022",3,77,78
-Tissues,Pan Daijing,"January 21, 2022",3,72,tbd
-on to better things,Iann Dior,"January 21, 2022",3,65,68
-Optimism,Jana Horn,"January 21, 2022",3,81,tbd
-Strictly a One-Eyed Jack,John Mellencamp,"January 21, 2022",3,70,tbd
-Ghost Stories,The Whitmore Sisters,"January 21, 2022",3,81,tbd
-Havasu,Pedro the Lion,"January 20, 2022",3,69,tbd
-Covers,Cat Power,"January 14, 2022",2,79,78
-Fragments,Bonobo,"January 14, 2022",2,74,68
-The Boy Named If,Elvis Costello & the Imposters,"January 14, 2022",2,83,82
-Dodging Dues,Garcia Peoples,"January 14, 2022",2,78,tbd
-Caprisongs [Mixtape],FKA twigs,"January 14, 2022",2,80,84
-Sick!,Earl Sweatshirt,"January 14, 2022",2,86,76
-The World to Come [Original Motion Picture Soundtrack],Daniel Blumberg,"January 14, 2022",2,74,tbd
-"Fix Yourself, Not the World",The Wombats,"January 14, 2022",2,70,76
-Hop Up,Orlando Weeks,"January 14, 2022",2,77,tbd
-Brightside,The Lumineers,"January 14, 2022",2,72,tbd
-Storm Queen,Grace Cummings,"January 14, 2022",2,78,tbd
-From A Birds Eye View,Cordae,"January 14, 2022",2,73,77
-Ghosts on Tape,Blood Red Shoes,"January 14, 2022",2,67,tbd
-Transparency,Twin Atlantic,"January 7, 2022",1,66,50
-Dawn FM,The Weeknd,"January 7, 2022",1,88,92
-Now Or Whenever,Spector,"January 7, 2022",1,72,71
-DS4EVER,Gunna,"January 7, 2022",1,51,tbd
-Antidawn [EP],Burial,"January 6, 2022",1,80,68
-Magic,Nas,"December 24, 2021",51,82,89
-Gong Splat,John Dwyer,"December 17, 2021",50,70,tbd
-Live Life Fast,Roddy Ricch,"December 17, 2021",50,68,47
-Cahoots [50th Anniversary Edition],The Band,"December 10, 2021",49,73,tbd
-Time of the Foxgloves,Michael Hurley,"December 10, 2021",49,83,tbd
-The Dreaming,Monsta X,"December 10, 2021",49,76,tbd
-Tokyo Glow,Various Artists,"December 10, 2021",49,72,tbd
-Blind Date Party,Bill Callahan,"December 10, 2021",49,82,tbd
-Forfolks,Jeff Parker,"December 10, 2021",49,87,tbd
-Barn,Neil Young & Crazy Horse,"December 10, 2021",49,75,83
-KEYS,Alicia Keys,"December 10, 2021",49,65,78
-An Orchestrated Songbook: Paul Weller with Jules Buckley & the BBC Symphony Orchestra [Live],Paul Weller,"December 10, 2021",49,69,tbd
-Observatory,Aeon Station,"December 10, 2021",49,78,78
-Richer Than I Ever Been,Rick Ross,"December 10, 2021",49,66,tbd
-Fighting Demons,Juice WRLD,"December 10, 2021",49,73,66
-BBC Sessions,Green Day,"December 10, 2021",49,84,78
-Essiebons Special 1973 - 1984/Ghana Music Power House,Various Artists,"December 3, 2021",48,81,tbd
-Live in Brighton 1975,Can,"December 3, 2021",48,79,tbd
-Der Lange Marsch,Gas,"December 3, 2021",48,81,tbd
-Scenic Drive (The Tape),Khalid,"December 3, 2021",48,58,tbd
-The Light Saw Me,Jason Boland & the Stragglers,"December 3, 2021",48,74,tbd
-Speak,Eera,"December 3, 2021",48,77,tbd
-Windswept Adan,Ichiko Aoba,"December 3, 2021",48,82,84
-Kick ii,Arca,"December 3, 2021",48,76,80
-KicK iii,Arca,"December 3, 2021",48,78,83
-kick iiii,Arca,"December 3, 2021",48,77,83
-kiCK iiiii,Arca,"December 3, 2021",48,77,85
-Overflow,Rival Consoles,"December 3, 2021",48,75,tbd
-It's All Smiles,No Rome,"December 3, 2021",48,70,tbd
-Island of Noise,Modern Nature,"December 3, 2021",48,79,tbd
-Old Friends New Friends,Nils Frahm,"December 3, 2021",48,71,tbd
-Entangled Routes,Pye Corner Audio,"November 26, 2021",47,80,tbd
-Henki,Richard Dawson,"November 26, 2021",47,87,tbd
-Brilliant Adventure (1992-2001) [Box Set],David Bowie,"November 26, 2021",47,81,tbd
-I Thought of You,Julie Doiron,"November 26, 2021",47,80,tbd
-Unity,The KVB,"November 26, 2021",47,81,tbd
-Where the Viaduct Looms,Nell Smith,"November 26, 2021",47,67,tbd
-Admonitions,Endless Boogie,"November 19, 2021",46,83,tbd
-Open Arms to Open Us,Ben LaMar Gay,"November 19, 2021",46,85,tbd
-Spinning Wheel,Youth,"November 19, 2021",46,78,tbd
-Tempest Revisited,Hedvig Mollestad Trio,"November 19, 2021",46,88,tbd
-Raise The Roof,Robert Plant And Alison Krauss,"November 19, 2021",46,82,87
-30,Adele,"November 19, 2021",46,88,86
-Stomping Ground,Dion,"November 19, 2021",46,69,tbd
-Flying Dream 1,Elbow,"November 19, 2021",46,83,72
-Bloodmoon: I,Converge,"November 19, 2021",46,89,73
+Time Skiffs,Animal Collective,"February 4, 2022",2022,5,76,0,https://static.metacritic.com/images/products/music/6/ea784f82710802ee47d2293394e451fe-98.jpg,7,0,Domino,Pop/Rock
+Laurel Hell,Mitski,"February 4, 2022",2022,5,85,0,https://static.metacritic.com/images/products/music/8/871949bd90b6f2e8913a264e762ed500-98.jpg,10,0,Dead Oceans,Pop/Rock
+Ants From Up There,Black Country New Road,"February 4, 2022",2022,5,91,0,https://static.metacritic.com/images/products/music/8/9c17fee3e23f4595f9a424bbc57f055a-98.jpg,6,0,Ninja Tune,Pop/Rock
+Pompeii,Cate Le Bon,"February 4, 2022",2022,5,83,0,https://static.metacritic.com/images/products/music/1/be80b6e7d36a08073e8d44ef1d7bede6-98.jpg,6,0,Mexican Summer,Pop/Rock
+Extreme Witchcraft,Eels,"January 28, 2022",2022,4,72,85,https://static.metacritic.com/images/products/music/1/b46880639ff8b1a82625b3c4d2410249-98.jpg,13,85,E Works,Pop/Rock
+And Now Lets Turn to Page,Brent Cobb,"January 28, 2022",2022,4,80,0,https://static.metacritic.com/images/products/music/4/a8017968e4d7787d0dff7e23603d745e-98.jpg,5,0,Ol' Buddy Records,Gospel
+Godmother,Josephine Foster,"January 28, 2022",2022,4,80,0,https://static.metacritic.com/images/products/music/8/8682027536f55b2c7a0e525d4227cf8c-98.jpg,5,0,Fire Records,Avant-Garde
+Anas Mitchell,Anas Mitchell,"January 28, 2022",2022,4,83,0,,,0,,
+The Sun is Shining Down,John Mayall,"January 28, 2022",2022,4,78,0,https://static.metacritic.com/images/products/music/4/6a9e4ff8aeac6215a7b96d0b9dcabca9-98.jpg,4,0,Forty Below Records,Blues
+The Alien Coast,St Paul the Broken Bones,"January 28, 2022",2022,4,70,0,https://static.metacritic.com/images/products/music/5/fa18361f26e9be97a689f3de0e70693a-98.jpg,6,0,ATO,R&B
+1111,Pinegrove,"January 28, 2022",2022,4,73,0,https://static.metacritic.com/images/products/music/5/111a84b24c2748c83a0a5f4c2cdf3512-98.jpg,7,0,Rough Trade,Pop/Rock
+Set Sail,North Mississippi Allstars,"January 28, 2022",2022,4,77,0,https://static.metacritic.com/images/products/music/9/855a653441a803dc24c358d2daa4430b-98.jpg,5,0,New West,Country
+Motordrome,M,"January 28, 2022",2022,4,69,84,https://static.metacritic.com/images/products/music/0/3c708ab10675ee4b04bdd3ff909d4a06-98.jpg,8,84,Sony,Electronic
+Three Dimensions Deep,Amber Mark,"January 28, 2022",2022,4,76,88,https://static.metacritic.com/images/products/music/7/5867d0c3f030d6282063d2657f2a8c4a-98.jpg,7,88,Interscope,R&B
+The Zealot Gene,Jethro Tull,"January 28, 2022",2022,4,67,0,https://static.metacritic.com/images/products/music/0/c695a0494dcea34f4a111161b02eadf7-98.jpg,4,0,Inside Out Music,Pop/Rock
+Aboogi,Imarhan,"January 28, 2022",2022,4,86,0,https://static.metacritic.com/images/products/music/5/128533549086df931f2cbc1785fe5f78-98.jpg,4,0,City Slang,International
+C91,Various Artists,"January 28, 2022",2022,4,69,0,https://static.metacritic.com/images/products/music/6/98261c89e11b3ad03e9938e14421d877-98.jpg,4,0,Cherry Red,Pop/Rock
+All the Bright Coins,Simone Felice,"January 28, 2022",2022,4,72,0,https://static.metacritic.com/images/products/music/7/76ad31fb6b58a96c4d5229376c68bde4-98.jpg,4,0,Chrysalis Records,Pop/Rock
+In Free Fall,Maya Shenfeld,"January 28, 2022",2022,4,82,0,https://static.metacritic.com/images/products/music/0/eef7ac1433dc3def7a02ccf74fc6231b-98.jpg,4,0,Thrill Jockey,Electronic
+Summer of Soul Or When the Revolution Could Not Be Televised OST,Original Motion Picture Soundtrack,"January 28, 2022",2022,4,94,0,https://static.metacritic.com/images/products/music/9/4509a039f911d1edd67a739ed0f82ca6-98.jpg,4,0,Sony Music,R&B
+Vertigo of Flaws Emancipation of the Dissonance and Temperaments in Irrational Waveforms,Trees Speak,"January 21, 2022",2022,3,72,0,https://static.metacritic.com/images/products/music/5/8371169abf10b496486a5ee3d5544cf3-98.jpg,4,0,Soul Jazz,Electronic
+The Overload,Yard Act,"January 21, 2022",2022,3,85,78,https://static.metacritic.com/images/products/music/0/c2908e53b38e9b95733e3e574f6a1ae9-98.jpg,16,78,Island,Pop/Rock
+The Gods We Can Touch,Aurora,"January 21, 2022",2022,3,80,94,https://static.metacritic.com/images/products/music/9/b47a1f76e9f954662698c49551bd8d95-98.jpg,8,94,Glassnote Entertainment Group,Pop/Rock
+Archive Material,Silverbacks,"January 21, 2022",2022,3,71,0,https://static.metacritic.com/images/products/music/6/27794a7b9ba4a69ec66a1c2b37e30f96-98.jpg,7,0,Full Time Hobby,Pop/Rock
+Change the Show,Miles Kane,"January 21, 2022",2022,3,71,0,https://static.metacritic.com/images/products/music/7/404d810465f3e837207b1fb5bf683176-98.jpg,7,0,BMG,Pop/Rock
+Night Call,Years Years,"January 21, 2022",2022,3,71,78,https://static.metacritic.com/images/products/music/0/3bdb4adcd6d544957e9d6601aa13054b-98.jpg,13,78,Interscope,Pop/Rock
+Good To Be,Keb Mo,"January 21, 2022",2022,3,67,0,https://static.metacritic.com/images/products/music/2/7ab36a57fd0b9d5fa4d69a5f12516493-98.jpg,6,0,Rounder,Blues
+W,Boris,"January 21, 2022",2022,3,81,0,https://static.metacritic.com/images/products/music/5/a082ade96fdfab1dffd48037c2a8e59e-98.jpg,8,0,Sacred Bones,Alternative/Indie Rock
+Wilds,The Soundcarriers,"January 21, 2022",2022,3,77,0,https://static.metacritic.com/images/products/music/9/234f4944ea25fa5100a539556e72101f-98.jpg,5,0,Phosphonic,Pop/Rock
+Age of Apathy,Aoife ODonovan,"January 21, 2022",2022,3,72,0,https://static.metacritic.com/images/products/music/0/f83a8d1ebcadcab50fbd207458235710-98.jpg,4,0,Yep Roc,Folk
+Shoals,Palace,"January 21, 2022",2022,3,73,0,https://static.metacritic.com/images/products/music/5/b9fa2e96899fc605ff44194b9e04ab90-98.jpg,5,0,Virgin,Pop/Rock
+Crisis of Faith,Billy Talent,"January 21, 2022",2022,3,77,78,https://static.metacritic.com/images/products/music/6/aa1956fdf9c006a30828983f5a7b7e0f-98.jpg,4,78,Spinefarm Records,Alternative/Indie Rock
+Tissues,Pan Daijing,"January 21, 2022",2022,3,72,0,https://static.metacritic.com/images/products/music/0/1b02bec939fc0477f7333c089c2ad653-98.jpg,4,0,Pan,Pop/Rock
+on to better things,Iann Dior,"January 21, 2022",2022,3,65,68,https://static.metacritic.com/images/products/music/8/5e84997840467a791a301b9a1f0e1624-98.jpg,4,68,Tenthousand Projects,Rap
+Optimism,Jana Horn,"January 21, 2022",2022,3,81,0,https://static.metacritic.com/images/products/music/2/4c422a69c0b1eab4a7a76107ff19dfa3-98.jpg,4,0,No Quarter,Pop/Rock
+Strictly a One-Eyed Jack,John Mellencamp,"January 21, 2022",2022,3,70,0,https://static.metacritic.com/images/products/music/3/e65f9e3edba13a46b75bee01b138657a-98.jpg,5,0,Republic,Rap
+Ghost Stories,The Whitmore Sisters,"January 21, 2022",2022,3,81,0,https://static.metacritic.com/images/products/music/5/797d2d3d120f2f88e47cb4144aa94c19-98.jpg,5,0,Red House Records,Country
+Havasu,Pedro the Lion,"January 20, 2022",2022,3,69,0,https://static.metacritic.com/images/products/music/2/a2a5a92ef7af67917f6568d06663938a-98.jpg,5,0,Polyvinyl,Pop/Rock
+Covers,Cat Power,"January 14, 2022",2022,2,79,78,https://static.metacritic.com/images/products/music/7/daac9453499a7e605fa5a11c39d4868c-98.jpg,16,78,Domino,Pop/Rock
+Fragments,Bonobo,"January 14, 2022",2022,2,74,68,https://static.metacritic.com/images/products/music/0/e53be81b7106cdda715dbc401f29df6f-98.jpg,15,68,Ninja Tune,Electronic
+The Boy Named If,Elvis Costello the Imposters,"January 14, 2022",2022,2,83,81,https://static.metacritic.com/images/products/music/9/fa707ad19f2c6d0d35ebbb7550ce3e27-98.jpg,15,82,Capitol,Pop/Rock
+Dodging Dues,Garcia Peoples,"January 14, 2022",2022,2,78,0,https://static.metacritic.com/images/products/music/7/dff7a98403a7de5d40ec98ba3111be8c-98.jpg,5,0,No Quarter,Pop/Rock
+Caprisongs Mixtape,FKA twigs,"January 14, 2022",2022,2,80,84,https://static.metacritic.com/images/products/music/0/b2aa22584453dbc903abdc859c25f899-98.jpg,15,84,N/A,Pop/Rock
+Sick!,Earl Sweatshirt,"January 14, 2022",2022,2,86,76,https://static.metacritic.com/images/products/music/1/4b0b5811e99de7401acc27689d9a9779-98.jpg,15,76,Warner Music,Rap
+The World to Come Original Motion Picture Soundtrack,Daniel Blumberg,"January 14, 2022",2022,2,74,0,https://static.metacritic.com/images/products/music/2/b460bebad1ecbcd06759a4e2f25149f2-98.jpg,4,0,Mute,Classical
+Fix Yourself Not the World,The Wombats,"January 14, 2022",2022,2,72,76,https://static.metacritic.com/images/products/music/3/c04f65b27b484b40ebc067f5c2baf15d-98.jpg,8,76,The Wombats,Pop/Rock
+Hop Up,Orlando Weeks,"January 14, 2022",2022,2,77,0,https://static.metacritic.com/images/products/music/6/823c85a081038a1c0d816479b00821a4-98.jpg,5,0,PIAS,Pop/Rock
+Brightside,The Lumineers,"January 14, 2022",2022,2,72,0,https://static.metacritic.com/images/products/music/5/62f8ec9e5628691f67227254c2c8de57-98.jpg,4,0,Dualtone Music,Country
+Storm Queen,Grace Cummings,"January 14, 2022",2022,2,78,0,https://static.metacritic.com/images/products/music/9/0ecc2dfb612e0bc2d889de736be59cf1-98.jpg,6,0,ATO Records,Folk
+From A Birds Eye View,Cordae,"January 14, 2022",2022,2,71,77,https://static.metacritic.com/images/products/music/7/c7b0675122ffd16aafb9804f1609ede0-98.jpg,7,77,Art@War / Atlantic,Rap
+Ghosts on Tape,Blood Red Shoes,"January 14, 2022",2022,2,69,0,https://static.metacritic.com/images/products/music/9/af2633e1b3b824db065a79900452c682-98.jpg,5,0,Jazzlife,Pop/Rock
+Transparency,Twin Atlantic,"January 7, 2022",2022,1,66,50,https://static.metacritic.com/images/products/music/1/8e83b2e886667c7c80add86700e5af6c-98.jpg,6,50,Believe,Pop/Rock
+Dawn FM,The Weeknd,"January 7, 2022",2022,1,88,92,https://static.metacritic.com/images/products/music/3/e752a10bd75a6ceecef70d79ea4cef55-98.jpg,24,92,Republic,Pop
+Now Or Whenever,Spector,"January 7, 2022",2022,1,72,71,https://static.metacritic.com/images/products/music/4/d370d2e1dc623e08cb060716741728cb-98.jpg,4,71,N/A,Pop/Rock
+DS4EVER,Gunna,"January 7, 2022",2022,1,51,0,https://static.metacritic.com/images/products/music/3/449c0ac1472880c19235d0a33b6a7039-98.jpg,5,0,300 Entertainment,Rap
+Antidawn EP,Burial,"January 6, 2022",2022,1,80,68,https://static.metacritic.com/images/products/music/2/b8a64b693d5850b0be7e195d5ec320e5-98.jpg,5,68,Hyperdub,Electronic
+Magic,Nas,"December 24, 2021",2021,51,82,90,https://static.metacritic.com/images/products/music/8/e2cfdc5d86d50a2cb11a730429f72fc0-98.jpg,7,90,Mass Appeal,Rap
+Gong Splat,John Dwyer,"December 17, 2021",2021,50,70,0,https://static.metacritic.com/images/products/music/4/4f25be922a7e1661ccc3a1222009f484-98.jpg,4,0,Castle Face,Jazz
+Live Life Fast,Roddy Ricch,"December 17, 2021",2021,50,68,47,https://static.metacritic.com/images/products/music/3/c6c89c9f5f42addc0b55e2090ff8d2c8-98.jpg,7,47,Atlantic,Rap
+Cahoots 50th Anniversary Edition,The Band,"December 10, 2021",2021,49,73,0,https://static.metacritic.com/images/products/music/4/a25efe3e6d9002acd01a9eb9b233231f-98.jpg,5,0,Virgin,
+Time of the Foxgloves,Michael Hurley,"December 10, 2021",2021,49,83,0,https://static.metacritic.com/images/products/music/3/b774f7c9a28ae4ce244eba7152bc9fe5-98.jpg,5,0,No Quarter,Folk
+The Dreaming,Monsta X,"December 10, 2021",2021,49,71,0,https://static.metacritic.com/images/products/music/6/3a49765005d317161d787ef99ceaa9d0-98.jpg,5,0,BMG,Pop/Rock
+Tokyo Glow,Various Artists,"December 10, 2021",2021,49,72,0,https://static.metacritic.com/images/products/music/6/bce19dfda19dcca5bee5d8fc99655784-98.jpg,4,0,Wewantsounds,Adult Contemporary
+Blind Date Party,Bill Callahan,"December 10, 2021",2021,49,82,0,https://static.metacritic.com/images/products/music/4/68042576bdbcf6df2c1274752b8957aa-98.jpg,6,0,Drag City,Pop/Rock
+Forfolks,Jeff Parker,"December 10, 2021",2021,49,87,0,https://static.metacritic.com/images/products/music/9/262b8b54c2adfc23aad6abf9c0e1a489-98.jpg,6,0,Nonesuch,Jazz
+Barn,Neil Young Crazy Horse,"December 10, 2021",2021,49,75,83,https://static.metacritic.com/images/products/music/0/59dcc3bdfa1b45b6da4c720d77948c83-98.jpg,17,83,Reprise,Pop/Rock
+KEYS,Alicia Keys,"December 10, 2021",2021,49,65,78,https://static.metacritic.com/images/products/music/4/e3c0b0d1836a64c024fb4d5f95042029-98.jpg,11,78,RCA,R&B
+An Orchestrated Songbook Paul Weller with Jules Buckley the BBC Symphony Orchestra Live,Paul Weller,"December 10, 2021",2021,49,69,0,https://static.metacritic.com/images/products/music/5/41a50326d07e0ebe2f922b9f8679f485-98.jpg,5,0,Polydor,Pop/Rock
+Observatory,Aeon Station,"December 10, 2021",2021,49,78,78,https://static.metacritic.com/images/products/music/8/65851c052844ef0a54ddf142c29517ae-98.jpg,6,78,Sub Pop,Pop/Rock
+Richer Than I Ever Been,Rick Ross,"December 10, 2021",2021,49,66,0,https://static.metacritic.com/images/products/music/3/9669865cf1c36276dd2deab3ea897ca6-98.jpg,7,0,Epic,Rap
+Fighting Demons,Juice WRLD,"December 10, 2021",2021,49,73,66,https://static.metacritic.com/images/products/music/5/c86da280b4bb16e06b81c023bf94a990-98.jpg,7,66,Grade A,Rap
+BBC Sessions,Green Day,"December 10, 2021",2021,49,84,78,https://static.metacritic.com/images/products/music/6/660482a0fea20be4e4da74216b4dd92c-98.jpg,4,78,Reprise,Pop/Rock
+Essiebons Special 1973 - 1984Ghana Music Power House,Various Artists,"December 3, 2021",2021,48,81,0,https://static.metacritic.com/images/products/music/8/89db041b11d5c0b2c9a3b0be01d74ff5-98.jpg,6,0,Analog Africa,International
+Live in Brighton 1975,Can,"December 3, 2021",2021,48,79,0,https://static.metacritic.com/images/products/music/1/98b2c1dbc405de20f8166cf33730042c-98.jpg,5,0,Mute,Experimental
+Der Lange Marsch,Gas,"December 3, 2021",2021,48,81,0,https://static.metacritic.com/images/products/music/0/8decb2e2f62eca10faf51c7c47213827-98.jpg,7,0,Kompakt,Electronic
+Scenic Drive The Tape,Khalid,"December 3, 2021",2021,48,58,0,https://static.metacritic.com/images/products/music/3/fd47bea35e72430dad818f15b56064c0-98.jpg,4,0,RCA,Rap
+The Light Saw Me,Jason Boland the Stragglers,"December 3, 2021",2021,48,74,0,https://static.metacritic.com/images/products/music/5/7c1ddb9cdff4a22ff39888930fdad185-98.jpg,4,0,Proud Souls,Country
+Speak,Eera,"December 3, 2021",2021,48,77,0,https://static.metacritic.com/images/products/music/7/b421ca47906d176ea558209d1d161ee0-98.jpg,4,0,N/A,Pop/Rock
+Windswept Adan,Ichiko Aoba,"December 3, 2021",2021,48,82,84,https://static.metacritic.com/images/products/music/0/bfc2fab477fe9d97593c4a69b85e2a5a-98.jpg,6,84,Ba Da Bing Records,Pop/Rock
+Kick ii,Arca,"December 3, 2021",2021,48,76,80,https://static.metacritic.com/images/products/music/8/498138ba55d4f87c067f84609a26b429-98.jpg,14,80,XL Recordings,Pop/Rock
+KicK iii,Arca,"December 3, 2021",2021,48,78,83,https://static.metacritic.com/images/products/music/9/d8631369ca75a244144217dc10fa30a3-98.jpg,14,83,XL,Pop/Rock
+kick iiii,Arca,"December 3, 2021",2021,48,77,83,https://static.metacritic.com/images/products/music/0/852bc941596376c04ae73129b88743c5-98.jpg,13,83,XL,Pop/Rock
+kiCK iiiii,Arca,"December 3, 2021",2021,48,77,85,https://static.metacritic.com/images/products/music/1/681a4265447fece004bc79c7bbf545a4-98.jpg,13,85,XL,Pop/Rock
+Overflow,Rival Consoles,"December 3, 2021",2021,48,75,0,https://static.metacritic.com/images/products/music/3/506f130bf852363cfd948aaf1d9fd1a7-98.jpg,4,0,Erased Tapes Records,Electronic
+Its All Smiles,No Rome,"December 3, 2021",2021,48,70,0,https://static.metacritic.com/images/products/music/4/f45161550041140b42bdfe7ea03e8ec6-98.jpg,5,0,Dirty Hit,Pop/Rock
+Island of Noise,Modern Nature,"December 3, 2021",2021,48,79,0,https://static.metacritic.com/images/products/music/6/85b80fe537689ad19bda6a35ba7dce08-98.jpg,6,0,Bella Union,Folk
+Old Friends New Friends,Nils Frahm,"December 3, 2021",2021,48,71,0,https://static.metacritic.com/images/products/music/7/826e7d89bfb36c1dc760cf7be43302d5-98.jpg,7,0,BMG,Avant-Garde
+Entangled Routes,Pye Corner Audio,"November 26, 2021",2021,47,80,0,https://static.metacritic.com/images/products/music/4/4672cb31ce14e84186d8c82d5b387fc4-98.jpg,4,0,Ghost Box,Electronic
+Henki,Richard Dawson,"November 26, 2021",2021,47,87,0,https://static.metacritic.com/images/products/music/2/03bb5937d14d8d58cf3e9c039836dda5-98.jpg,9,0,Domino,Experimental
+Brilliant Adventure 1992-2001 Box Set,David Bowie,"November 26, 2021",2021,47,81,0,https://static.metacritic.com/images/products/music/5/74d108184e4c72d1be7899f03ad98e55-98.jpg,9,0,Rhino,Pop/Rock
+I Thought of You,Julie Doiron,"November 26, 2021",2021,47,80,0,https://static.metacritic.com/images/products/music/7/4a2dcf70c657a08eab013f185048c564-98.jpg,7,0,You've Changed Records,Pop/Rock
+Unity,The KVB,"November 26, 2021",2021,47,81,0,https://static.metacritic.com/images/products/music/0/daa3d13cf2bc1766f77fd8f6c4b024eb-98.jpg,6,0,Invada,Pop/Rock
+Where the Viaduct Looms,Nell Smith,"November 26, 2021",2021,47,67,0,https://static.metacritic.com/images/products/music/8/f1d1a83f53a6153fc60d66b63543d1ff-98.jpg,5,0,Bella Union,Pop/Rock
+Admonitions,Endless Boogie,"November 19, 2021",2021,46,83,0,https://static.metacritic.com/images/products/music/6/14c1b041cabbe1634720b4046440aad6-98.jpg,5,0,No Quarter,Pop/Rock
+Open Arms to Open Us,Ben LaMar Gay,"November 19, 2021",2021,46,85,0,https://static.metacritic.com/images/products/music/8/b162a1f00ae8e62b28d25fd53106d896-98.jpg,4,0,Nonesuch,Experimental
+Spinning Wheel,Youth,"November 19, 2021",2021,46,78,0,https://static.metacritic.com/images/products/music/3/9eec7e03d323bc91053e80187008cfe3-98.jpg,4,0,Cadiz,Pop/Rock
+Tempest Revisited,Hedvig Mollestad Trio,"November 19, 2021",2021,46,88,0,https://static.metacritic.com/images/products/music/4/bd839ebfa8aa8d0eaf0b0a183fd4884b-98.jpg,4,0,Rune Grammofon,Jazz
+Raise The Roof,Robert Plant And Alison Krauss,"November 19, 2021",2021,46,82,87,https://static.metacritic.com/images/products/music/9/6f9cdfe566ecde0fd50369dd5348d922-98.jpg,15,87,Rounder,Country
+30,Adele,"November 19, 2021",2021,46,88,86,https://static.metacritic.com/images/products/music/6/e0e4d38e03c89fecb5f07f41039ade5c-98.jpg,23,86,Columbia,Pop/Rock
+Stomping Ground,Dion,"November 19, 2021",2021,46,69,0,https://static.metacritic.com/images/products/music/3/1159aef202edc0fba9bbb3655dfbab63-98.jpg,4,0,KTBA Records,Blues
