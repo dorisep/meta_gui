@@ -9,9 +9,8 @@ import playlist_app
 import re
 import time
 
-def meta_scrape(week_num):
+def meta_scrape(week_num, year):
     
-    week_num = week_num
     url_for_scrape = 'https://www.metacritic.com/browse/albums/release-date/new-releases/date'
     user_agent = {'User-agent': 'Mozilla/5.0'}
     # send response
@@ -21,20 +20,24 @@ def meta_scrape(week_num):
     # create list for dictionarys 
     album_dicts = []
     # create soup 
+
+    
+
     for item in soup_score.find_all('td', class_='clamp-summary-wrap'):
         album_dict = {}
-                ###        
+        ###        
         # scrape date
         #sqlite doesn't support datetime objects date column will be string
         #make an objec of date to extract week num and year
         ###
         date_string = (item.find('div', class_='clamp-details').find('span').text)
         date_obj = datetime.strptime(date_string, '%B %d, %Y')
-        year, album_week_num, day_of_week = date_obj.isocalendar()
+        album_year, album_week_num, day_of_week = date_obj.isocalendar()
 
-        if album_week_num > (week_num + 4):
+        if album_week_num < (week_num - 3) or album_year < year:
             break   
         else:
+            print(f"{album_week_num}+':  '+{week_num}")
             album_dict['date']=date_string
             album_dict['year'] = year
             album_dict['week_num']=album_week_num
@@ -72,8 +75,9 @@ def meta_scrape(week_num):
                 user_score = int(float(user_string)*10)
                 album_dict['user_score']=user_score
             album_dicts.append(album_dict)
-            time.sleep(2)
-    scrape_reviews(album_dicts, week_num, user_agent)
+            time.sleep(1)
+    # scrape_reviews(album_dicts, week_num, user_agent)
+    write_csv(album_dicts, week_num)
     
 
 def scrape_reviews(album_dicts, week_num, user_agent):
@@ -81,7 +85,7 @@ def scrape_reviews(album_dicts, week_num, user_agent):
 
     for album_dict in album_dicts:
         # only check for the last 4 weeks of albums
-        if album_dict['week_num'] > (week_num + 4):
+        if album_dict['week_num'] < (week_num - 4):
             break
         else:
             url_end = f"{album_dict['album']}/{album_dict['artist']}".replace(" ", "-").lower() 

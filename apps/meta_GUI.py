@@ -42,7 +42,8 @@ def data_list():
     return scrape_dict
 # import scrape module and set to week_num variable to value in week field
 def scrape():
-    meta_scrape(int(week_field.get()))
+    week_num = int(week_field.get())
+    meta_scrape(week_num, year=date_info[0])
 # dedup csv file for db
 def dedup():
     dedup_meta_scrape(scrape_path, clean_path)
@@ -79,4 +80,5 @@ plotter = tk.Button(window,text='plot',command=plot, height=1,width=25,state='no
 plotter.place(x=12, y=70)
 
 window.mainloop()
+
 
