@@ -1,65 +1,75 @@
-date,year,week_num,album,artist,meta_score,user_score
-"February 4, 2022",2022,5,Let the Festivities Begin!,Los Bitchos,77,0
-"February 4, 2022",2022,5,Few Good Things,Saba,77,92
-"February 4, 2022",2022,5,Dope Dont Sell Itself,2 Chainz,61,0
-"February 4, 2022",2022,5,Where Myth Becomes Memory,Rolo Tomassi,84,0
-"February 4, 2022",2022,5,Time Skiffs,Animal Collective,77,92
-"February 4, 2022",2022,5,Laurel Hell,Mitski,83,89
-"February 4, 2022",2022,5,Ants From Up There,Black Country New Road,92,97
-"February 4, 2022",2022,5,Pompeii,Cate Le Bon,85,88
-"February 4, 2022",2022,5,Requiem,Korn,85,79
-"February 4, 2022",2022,5,Give Me the Future,Bastille,77,85
-"February 4, 2022",2022,5,Glitch Princess,eule,82,97
-"January 28, 2022",2022,4,Dissolution Wave,Cloakroom,76,0
-"January 28, 2022",2022,4,Extreme Witchcraft,Eels,72,85
-"January 28, 2022",2022,4,And Now Lets Turn to Page,Brent Cobb,80,0
-"January 28, 2022",2022,4,Godmother,Josephine Foster,80,0
-"January 28, 2022",2022,4,Anas Mitchell,Anas Mitchell,83,0
-"January 28, 2022",2022,4,The Sun is Shining Down,John Mayall,78,0
-"January 28, 2022",2022,4,The Alien Coast,St Paul the Broken Bones,70,0
-"January 28, 2022",2022,4,1111,Pinegrove,73,0
-"January 28, 2022",2022,4,Set Sail,North Mississippi Allstars,77,0
-"January 28, 2022",2022,4,Motordrome,M,68,87
-"January 28, 2022",2022,4,Three Dimensions Deep,Amber Mark,76,89
-"January 28, 2022",2022,4,The Zealot Gene,Jethro Tull,67,0
-"January 28, 2022",2022,4,Aboogi,Imarhan,86,0
-"January 28, 2022",2022,4,C91,Various Artists,69,0
-"January 28, 2022",2022,4,All the Bright Coins,Simone Felice,72,0
-"January 28, 2022",2022,4,In Free Fall,Maya Shenfeld,83,0
-"January 28, 2022",2022,4,Summer of Soul Or When the Revolution Could Not Be Televised OST,Original Motion Picture Soundtrack,94,0
-"January 28, 2022",2022,4,The 7th Hand,Immanuel Wilkins,87,0
-"January 21, 2022",2022,3,Vertigo of Flaws Emancipation of the Dissonance and Temperaments in Irrational Waveforms,Trees Speak,72,0
-"January 21, 2022",2022,3,The Overload,Yard Act,85,78
-"January 21, 2022",2022,3,The Gods We Can Touch,Aurora,80,94
-"January 21, 2022",2022,3,Archive Material,Silverbacks,71,0
-"January 21, 2022",2022,3,Change the Show,Miles Kane,71,0
-"January 21, 2022",2022,3,Night Call,Years Years,71,78
-"January 21, 2022",2022,3,Good To Be,Keb Mo,67,0
-"January 21, 2022",2022,3,W,Boris,81,0
-"January 21, 2022",2022,3,Wilds,The Soundcarriers,77,0
-"January 21, 2022",2022,3,Age of Apathy,Aoife ODonovan,72,0
-"January 21, 2022",2022,3,Shoals,Palace,73,0
-"January 21, 2022",2022,3,Crisis of Faith,Billy Talent,76,79
-"January 21, 2022",2022,3,Tissues,Pan Daijing,72,0
-"January 21, 2022",2022,3,on to better things,Iann Dior,65,68
-"January 21, 2022",2022,3,Optimism,Jana Horn,81,0
-"January 21, 2022",2022,3,Strictly a One-Eyed Jack,John Mellencamp,70,0
-"January 21, 2022",2022,3,Ghost Stories,The Whitmore Sisters,81,0
-"January 21, 2022",2022,3,The Runner Original Soundtrack,Boy Harsher,73,0
-"January 21, 2022",2022,3,Good and Green Again,Jake Xerxes Fussell,87,0
-"January 20, 2022",2022,3,Havasu,Pedro the Lion,69,0
-"January 14, 2022",2022,2,Covers,Cat Power,79,78
-"January 14, 2022",2022,2,Fragments,Bonobo,74,68
-"January 14, 2022",2022,2,The Boy Named If,Elvis Costello the Imposters,83,81
-"January 14, 2022",2022,2,Dodging Dues,Garcia Peoples,78,0
-"January 14, 2022",2022,2,Caprisongs Mixtape,FKA twigs,81,85
-"January 14, 2022",2022,2,Sick!,Earl Sweatshirt,86,76
-"January 14, 2022",2022,2,The World to Come Original Motion Picture Soundtrack,Daniel Blumberg,74,0
-"January 14, 2022",2022,2,Fix Yourself Not the World,The Wombats,72,76
-"January 14, 2022",2022,2,Hop Up,Orlando Weeks,77,0
-"January 14, 2022",2022,2,Brightside,The Lumineers,72,0
-"January 14, 2022",2022,2,Storm Queen,Grace Cummings,78,0
-"January 14, 2022",2022,2,From A Birds Eye View,Cordae,71,77
-"January 14, 2022",2022,2,Ghosts on Tape,Blood Red Shoes,69,0
-"January 14, 2022",2022,2,Metal Bird,Eve Adams,82,0
-"January 14, 2022",2022,2,Live at Montreux Jazz Festival,Anna von Hausswolff,82,0
+date,year,week_num,album,artist,meta_score,user_score,img,crit_num,user_num,label,genre
+"February 11, 2022",2022,6,Dragon New Warm Mountain I Believe in You,Big Thief,87,0,https://static.metacritic.com/images/products/music/2/55395c1702474dfcc1d1b94d27d3a25c-98.jpg,10,0,4AD,Pop/Rock
+"February 11, 2022",2022,6,Lucifer on the Sofa,Spoon,86,0,https://static.metacritic.com/images/products/music/5/02ba1c637cace069edb9f41e0b0f1316-98.jpg,5,0,Matador,Pop/Rock
+"February 11, 2022",2022,6,Earthling,Eddie Vedder,82,0,https://static.metacritic.com/images/products/music/0/3d438e2ab05bb81dc5bf9243ed6bc80a-98.jpg,5,0,Republic,Pop/Rock
+"February 4, 2022",2022,5,Let the Festivities Begin!,Los Bitchos,74,0,https://static.metacritic.com/images/products/music/2/17cb2a8a061aec419cac6b4840d7fea0-98.jpg,7,0,City Slang,Pop/Rock
+"February 4, 2022",2022,5,Few Good Things,Saba,83,92,https://static.metacritic.com/images/products/music/3/bfaad6be54eec356fe150ee5ec5f89e0-98.jpg,9,14,Saba Pivot,Rap
+"February 4, 2022",2022,5,Dope Dont Sell Itself,2 Chainz,61,0,https://static.metacritic.com/images/products/music/4/4a153ce9829f56069b3e015cbd672ab3-98.jpg,4,0,Def Jam,Rap
+"February 4, 2022",2022,5,Where Myth Becomes Memory,Rolo Tomassi,84,0,https://static.metacritic.com/images/products/music/7/1b5705182935515763aa3d1f253913bb-98.jpg,4,0,eOne,Pop/Rock
+"February 4, 2022",2022,5,See Through You,A Place to Bury Strangers,81,0,https://static.metacritic.com/images/products/music/4/74cb34eaf26a0479ce0d4424c916b26d-98.jpg,6,0,Ded Strange,Pop/Rock
+"February 4, 2022",2022,5,Time Skiffs,Animal Collective,76,89,https://static.metacritic.com/images/products/music/6/ea784f82710802ee47d2293394e451fe-98.jpg,23,20,Domino,Pop/Rock
+"February 4, 2022",2022,5,Laurel Hell,Mitski,83,89,https://static.metacritic.com/images/products/music/8/871949bd90b6f2e8913a264e762ed500-98.jpg,26,36,Dead Oceans,Pop/Rock
+"February 4, 2022",2022,5,Ants From Up There,Black Country New Road,92,96,https://static.metacritic.com/images/products/music/8/9c17fee3e23f4595f9a424bbc57f055a-98.jpg,20,76,Ninja Tune,Pop/Rock
+"February 4, 2022",2022,5,Pompeii,Cate Le Bon,85,88,https://static.metacritic.com/images/products/music/1/be80b6e7d36a08073e8d44ef1d7bede6-98.jpg,17,8,Mexican Summer,Pop/Rock
+"February 4, 2022",2022,5,Requiem,Korn,85,79,https://static.metacritic.com/images/products/music/2/592f568755ba3157312d7c85abe113c2-98.jpg,6,22,Loma Vista,Pop/Rock
+"February 4, 2022",2022,5,Give Me the Future,Bastille,77,86,https://static.metacritic.com/images/products/music/4/942cb919589dfe204a9a2fc1cc123968-98.jpg,7,15,EMI,Pop/Rock
+"February 4, 2022",2022,5,Glitch Princess,eule,85,91,,,0,,
+"January 28, 2022",2022,4,Dissolution Wave,Cloakroom,76,0,https://static.metacritic.com/images/products/music/5/591e3c1cf0932a351ddf9dc8e8a3e82c-98.jpg,4,0,Relapse Records,Pop/Rock
+"January 28, 2022",2022,4,Extreme Witchcraft,Eels,72,85,https://static.metacritic.com/images/products/music/1/b46880639ff8b1a82625b3c4d2410249-98.jpg,13,4,E Works,Pop/Rock
+"January 28, 2022",2022,4,And Now Lets Turn to Page,Brent Cobb,80,0,https://static.metacritic.com/images/products/music/4/a8017968e4d7787d0dff7e23603d745e-98.jpg,5,0,Ol' Buddy Records,Gospel
+"January 28, 2022",2022,4,Godmother,Josephine Foster,80,0,https://static.metacritic.com/images/products/music/8/8682027536f55b2c7a0e525d4227cf8c-98.jpg,5,0,Fire Records,Avant-Garde
+"January 28, 2022",2022,4,Anas Mitchell,Anas Mitchell,83,0,,,0,,
+"January 28, 2022",2022,4,The Sun is Shining Down,John Mayall,78,0,https://static.metacritic.com/images/products/music/4/6a9e4ff8aeac6215a7b96d0b9dcabca9-98.jpg,4,0,Forty Below Records,Blues
+"January 28, 2022",2022,4,The Alien Coast,St Paul the Broken Bones,70,0,https://static.metacritic.com/images/products/music/5/fa18361f26e9be97a689f3de0e70693a-98.jpg,6,0,ATO,R&B
+"January 28, 2022",2022,4,1111,Pinegrove,73,0,https://static.metacritic.com/images/products/music/5/111a84b24c2748c83a0a5f4c2cdf3512-98.jpg,9,0,Rough Trade,Pop/Rock
+"January 28, 2022",2022,4,Set Sail,North Mississippi Allstars,77,0,https://static.metacritic.com/images/products/music/9/855a653441a803dc24c358d2daa4430b-98.jpg,5,0,New West,Country
+"January 28, 2022",2022,4,Motordrome,M,68,87,https://static.metacritic.com/images/products/music/0/3c708ab10675ee4b04bdd3ff909d4a06-98.jpg,10,16,Sony,Electronic
+"January 28, 2022",2022,4,Three Dimensions Deep,Amber Mark,76,89,https://static.metacritic.com/images/products/music/7/5867d0c3f030d6282063d2657f2a8c4a-98.jpg,7,10,Interscope,R&B
+"January 28, 2022",2022,4,The Zealot Gene,Jethro Tull,67,0,https://static.metacritic.com/images/products/music/0/c695a0494dcea34f4a111161b02eadf7-98.jpg,4,0,Inside Out Music,Pop/Rock
+"January 28, 2022",2022,4,Aboogi,Imarhan,86,0,https://static.metacritic.com/images/products/music/5/128533549086df931f2cbc1785fe5f78-98.jpg,4,0,City Slang,International
+"January 28, 2022",2022,4,C91,Various Artists,70,0,https://static.metacritic.com/images/products/music/6/98261c89e11b3ad03e9938e14421d877-98.jpg,5,0,Cherry Red,Pop/Rock
+"January 28, 2022",2022,4,All the Bright Coins,Simone Felice,72,0,https://static.metacritic.com/images/products/music/7/76ad31fb6b58a96c4d5229376c68bde4-98.jpg,4,0,Chrysalis Records,Pop/Rock
+"January 28, 2022",2022,4,In Free Fall,Maya Shenfeld,83,0,https://static.metacritic.com/images/products/music/0/eef7ac1433dc3def7a02ccf74fc6231b-98.jpg,5,0,Thrill Jockey,Electronic
+"January 28, 2022",2022,4,Summer of Soul Or When the Revolution Could Not Be Televised OST,Original Motion Picture Soundtrack,94,0,https://static.metacritic.com/images/products/music/9/4509a039f911d1edd67a739ed0f82ca6-98.jpg,4,0,Sony Music,R&B
+"January 28, 2022",2022,4,The 7th Hand,Immanuel Wilkins,87,0,https://static.metacritic.com/images/products/music/1/e764c73b3d1282d696f7fef2c522fb00-98.jpg,4,0,Blue Note,Jazz
+"January 21, 2022",2022,3,Vertigo of Flaws Emancipation of the Dissonance and Temperaments in Irrational Waveforms,Trees Speak,72,0,https://static.metacritic.com/images/products/music/5/8371169abf10b496486a5ee3d5544cf3-98.jpg,4,0,Soul Jazz,Electronic
+"January 21, 2022",2022,3,The Overload,Yard Act,85,78,https://static.metacritic.com/images/products/music/0/c2908e53b38e9b95733e3e574f6a1ae9-98.jpg,17,8,Island,Pop/Rock
+"January 21, 2022",2022,3,The Gods We Can Touch,Aurora,80,94,https://static.metacritic.com/images/products/music/9/b47a1f76e9f954662698c49551bd8d95-98.jpg,8,94,Glassnote Entertainment Group,Pop/Rock
+"January 21, 2022",2022,3,Archive Material,Silverbacks,71,0,https://static.metacritic.com/images/products/music/6/27794a7b9ba4a69ec66a1c2b37e30f96-98.jpg,8,0,Full Time Hobby,Pop/Rock
+"January 21, 2022",2022,3,Change the Show,Miles Kane,71,0,https://static.metacritic.com/images/products/music/7/404d810465f3e837207b1fb5bf683176-98.jpg,8,0,BMG,Pop/Rock
+"January 21, 2022",2022,3,Night Call,Years Years,71,78,https://static.metacritic.com/images/products/music/0/3bdb4adcd6d544957e9d6601aa13054b-98.jpg,13,18,Interscope,Pop/Rock
+"January 21, 2022",2022,3,Good To Be,Keb Mo,67,0,https://static.metacritic.com/images/products/music/2/7ab36a57fd0b9d5fa4d69a5f12516493-98.jpg,6,0,Rounder,Blues
+"January 21, 2022",2022,3,W,Boris,81,0,https://static.metacritic.com/images/products/music/5/a082ade96fdfab1dffd48037c2a8e59e-98.jpg,8,0,Sacred Bones,Alternative/Indie Rock
+"January 21, 2022",2022,3,Wilds,The Soundcarriers,77,0,https://static.metacritic.com/images/products/music/9/234f4944ea25fa5100a539556e72101f-98.jpg,5,0,Phosphonic,Pop/Rock
+"January 21, 2022",2022,3,Age of Apathy,Aoife ODonovan,72,0,https://static.metacritic.com/images/products/music/0/f83a8d1ebcadcab50fbd207458235710-98.jpg,4,0,Yep Roc,Folk
+"January 21, 2022",2022,3,Shoals,Palace,73,0,https://static.metacritic.com/images/products/music/5/b9fa2e96899fc605ff44194b9e04ab90-98.jpg,5,0,Virgin,Pop/Rock
+"January 21, 2022",2022,3,Crisis of Faith,Billy Talent,76,79,https://static.metacritic.com/images/products/music/6/aa1956fdf9c006a30828983f5a7b7e0f-98.jpg,5,7,Spinefarm Records,Alternative/Indie Rock
+"January 21, 2022",2022,3,Tissues,Pan Daijing,72,0,https://static.metacritic.com/images/products/music/0/1b02bec939fc0477f7333c089c2ad653-98.jpg,4,0,Pan,Pop/Rock
+"January 21, 2022",2022,3,on to better things,Iann Dior,65,68,https://static.metacritic.com/images/products/music/8/5e84997840467a791a301b9a1f0e1624-98.jpg,4,4,Tenthousand Projects,Rap
+"January 21, 2022",2022,3,Optimism,Jana Horn,81,0,https://static.metacritic.com/images/products/music/2/4c422a69c0b1eab4a7a76107ff19dfa3-98.jpg,4,0,No Quarter,Pop/Rock
+"January 21, 2022",2022,3,Strictly a One-Eyed Jack,John Mellencamp,70,0,https://static.metacritic.com/images/products/music/3/e65f9e3edba13a46b75bee01b138657a-98.jpg,5,0,Republic,Rap
+"January 21, 2022",2022,3,Ghost Stories,The Whitmore Sisters,81,0,https://static.metacritic.com/images/products/music/5/797d2d3d120f2f88e47cb4144aa94c19-98.jpg,5,0,Red House Records,Country
+"January 21, 2022",2022,3,The Runner Original Soundtrack,Boy Harsher,73,0,https://static.metacritic.com/images/products/music/2/8014568abca30a4b575c48fd4b959275-98.jpg,6,0,Nude Club,Electronic
+"January 21, 2022",2022,3,Good and Green Again,Jake Xerxes Fussell,87,0,https://static.metacritic.com/images/products/music/6/9c9f22cbd0970ea81ec4a82bec45a534-98.jpg,5,0,Paradise of Bachelors,Folk
+"January 20, 2022",2022,3,Havasu,Pedro the Lion,69,0,https://static.metacritic.com/images/products/music/2/a2a5a92ef7af67917f6568d06663938a-98.jpg,5,0,Polyvinyl,Pop/Rock
+"January 14, 2022",2022,2,Hell on Church Street,Punch Brothers,79,0,https://static.metacritic.com/images/products/music/7/48866af39ab0d7e1a299a4b7656ef7ca-98.jpg,4,0,Nonesuch,Bluegrass
+"January 14, 2022",2022,2,Covers,Cat Power,79,78,https://static.metacritic.com/images/products/music/7/daac9453499a7e605fa5a11c39d4868c-98.jpg,16,5,Domino,Pop/Rock
+"January 14, 2022",2022,2,Fragments,Bonobo,74,68,https://static.metacritic.com/images/products/music/0/e53be81b7106cdda715dbc401f29df6f-98.jpg,15,13,Ninja Tune,Electronic
+"January 14, 2022",2022,2,The Boy Named If,Elvis Costello the Imposters,83,81,https://static.metacritic.com/images/products/music/9/fa707ad19f2c6d0d35ebbb7550ce3e27-98.jpg,15,10,Capitol,Pop/Rock
+"January 14, 2022",2022,2,Dodging Dues,Garcia Peoples,78,0,https://static.metacritic.com/images/products/music/7/dff7a98403a7de5d40ec98ba3111be8c-98.jpg,5,0,No Quarter,Pop/Rock
+"January 14, 2022",2022,2,Caprisongs Mixtape,FKA twigs,81,85,https://static.metacritic.com/images/products/music/0/b2aa22584453dbc903abdc859c25f899-98.jpg,16,54,N/A,Pop/Rock
+"January 14, 2022",2022,2,Sick!,Earl Sweatshirt,86,76,https://static.metacritic.com/images/products/music/1/4b0b5811e99de7401acc27689d9a9779-98.jpg,15,51,Warner Music,Rap
+"January 14, 2022",2022,2,The World to Come Original Motion Picture Soundtrack,Daniel Blumberg,74,0,https://static.metacritic.com/images/products/music/2/b460bebad1ecbcd06759a4e2f25149f2-98.jpg,4,0,Mute,Classical
+"January 14, 2022",2022,2,Fix Yourself Not the World,The Wombats,72,76,https://static.metacritic.com/images/products/music/3/c04f65b27b484b40ebc067f5c2baf15d-98.jpg,8,8,The Wombats,Pop/Rock
+"January 14, 2022",2022,2,Hop Up,Orlando Weeks,77,0,https://static.metacritic.com/images/products/music/6/823c85a081038a1c0d816479b00821a4-98.jpg,5,0,PIAS,Pop/Rock
+"January 14, 2022",2022,2,Brightside,The Lumineers,72,0,https://static.metacritic.com/images/products/music/5/62f8ec9e5628691f67227254c2c8de57-98.jpg,4,0,Dualtone Music,Country
+"January 14, 2022",2022,2,Storm Queen,Grace Cummings,78,0,https://static.metacritic.com/images/products/music/9/0ecc2dfb612e0bc2d889de736be59cf1-98.jpg,6,0,ATO Records,Folk
+"January 14, 2022",2022,2,From A Birds Eye View,Cordae,71,77,https://static.metacritic.com/images/products/music/7/c7b0675122ffd16aafb9804f1609ede0-98.jpg,7,12,Art@War / Atlantic,Rap
+"January 14, 2022",2022,2,Ghosts on Tape,Blood Red Shoes,69,0,https://static.metacritic.com/images/products/music/9/af2633e1b3b824db065a79900452c682-98.jpg,5,0,Jazzlife,Pop/Rock
+"January 14, 2022",2022,2,Metal Bird,Eve Adams,82,0,https://static.metacritic.com/images/products/music/7/311fd9d46119d03ac0e4eb039d88c41b-98.jpg,4,0,Basin Rock,Pop/Rock
+"January 14, 2022",2022,2,Live at Montreux Jazz Festival,Anna von Hausswolff,82,0,https://static.metacritic.com/images/products/music/9/c8ff09c7db4fbe3a8c9d41d2d98ff527-98.jpg,4,0,Southern Lord Records,Pop/Rock
+"January 7, 2022",2022,1,Transparency,Twin Atlantic,66,50,https://static.metacritic.com/images/products/music/1/8e83b2e886667c7c80add86700e5af6c-98.jpg,6,10,Believe,Pop/Rock
+"January 7, 2022",2022,1,Dawn FM,The Weeknd,88,92,https://static.metacritic.com/images/products/music/3/e752a10bd75a6ceecef70d79ea4cef55-98.jpg,24,832,Republic,Pop
+"January 7, 2022",2022,1,Now Or Whenever,Spector,72,71,https://static.metacritic.com/images/products/music/4/d370d2e1dc623e08cb060716741728cb-98.jpg,4,7,N/A,Pop/Rock
+"January 7, 2022",2022,1,DS4EVER,Gunna,51,53,https://static.metacritic.com/images/products/music/3/449c0ac1472880c19235d0a33b6a7039-98.jpg,5,4,300 Entertainment,Rap
+"January 6, 2022",2022,1,Antidawn EP,Burial,81,64,https://static.metacritic.com/images/products/music/2/b8a64b693d5850b0be7e195d5ec320e5-98.jpg,6,7,Hyperdub,Electronic

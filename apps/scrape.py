@@ -20,9 +20,6 @@ def meta_scrape(week_num, year):
     # create list for dictionarys 
     album_dicts = []
     # create soup 
-
-    
-
     for item in soup_score.find_all('td', class_='clamp-summary-wrap'):
         album_dict = {}
         ###        
@@ -33,11 +30,13 @@ def meta_scrape(week_num, year):
         date_string = (item.find('div', class_='clamp-details').find('span').text)
         date_obj = datetime.strptime(date_string, '%B %d, %Y')
         album_year, album_week_num, day_of_week = date_obj.isocalendar()
-
-        if album_week_num < (week_num - 3) or album_year < year:
+        ###
+        # limit scrape to previous three weeks of albums and current 
+        # year of release date
+        ###
+        if album_week_num < (week_num - 5) or album_year < year:
             break   
         else:
-            print(f"{album_week_num}+':  '+{week_num}")
             album_dict['date']=date_string
             album_dict['year'] = year
             album_dict['week_num']=album_week_num
@@ -75,17 +74,15 @@ def meta_scrape(week_num, year):
                 user_score = int(float(user_string)*10)
                 album_dict['user_score']=user_score
             album_dicts.append(album_dict)
-            time.sleep(1)
-    # scrape_reviews(album_dicts, week_num, user_agent)
-    write_csv(album_dicts, week_num)
+    scrape_reviews(album_dicts, week_num, user_agent, al, ar)
+
     
 
-def scrape_reviews(album_dicts, week_num, user_agent):
+def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
     url_beginning ='https://www.metacritic.com/music/'
-
     for album_dict in album_dicts:
         # only check for the last 4 weeks of albums
-        if album_dict['week_num'] < (week_num - 4):
+        if album_dict['week_num'] < (week_num - 5):
             break
         else:
             url_end = f"{album_dict['album']}/{album_dict['artist']}".replace(" ", "-").lower() 
@@ -110,10 +107,10 @@ def scrape_reviews(album_dicts, week_num, user_agent):
             if album_dict['user_score'] == 0:
                 album_dict['user_num'] = 0
             else:
-                meta_user_pattern = re.compile('^metascore_w user')
-            
-                user_revs = float(soup_reviews.find('div', class_= meta_user_pattern).text)
-                album_dict['user_num'] = int(user_revs*10)
+                try:
+                    album_dict['user_num'] = int(soup_reviews.find_all("a", href=f"/music/{url_end}/user-reviews")[2].text.split()[0])
+                except:
+                    album_dict['user_num'] = 0
             # scrape record labels
             try:
                 label_class = soup_reviews.find_all("span", itemprop="name")
@@ -125,7 +122,7 @@ def scrape_reviews(album_dicts, week_num, user_agent):
                 album_dict['genre'] = soup_reviews.find("span", itemprop="genre").text
             except:
                 album_dict['genre'] = None
-            time.sleep(2)
+            time.sleep(3)
     write_csv(album_dicts, week_num)
         
 def write_csv(album_dicts, week_num):
@@ -134,7 +131,7 @@ def write_csv(album_dicts, week_num):
     # csv variables
     output_path = os.path.join('..', 'data', 'meta_scrape.csv')
     # create header
-    fields = ['artist', 'album', 'date', 'week_num', 'year', 'meta_score', 'user_score'] 
+    fields = ['artist', 'album', 'date', 'week_num', 'year', 'meta_score', 'user_score', ] 
     # create variable for data to be written
     keys = album_dicts[0].keys()
     # output to csv
