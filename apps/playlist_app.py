@@ -99,7 +99,7 @@ def search_for_albums(week_num, csv_path):
         reader = csv.DictReader(csvfile)
 
         for row in reader:
-
+            
 #         filter for artists and albums from current week
             if int(row['week_num'])== week_num:
 
@@ -133,7 +133,6 @@ def add_tracks_to_playlist(week_num, playlist_id):
     url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks'
 
     for batch in batched_tracks:
- 
         request_data = json.dumps(batch)
 
         requests.post(
