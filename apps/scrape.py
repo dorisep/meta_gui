@@ -52,11 +52,13 @@ def meta_scrape(week_num, year):
             ###
             # scrape artist name and strip white space and extra characters
             ###
-            artist_raw = item.find('div', class_='artist').text.strip().lstrip('by ')
+            # artist_raw = item.find('div', class_='artist').text.strip().lstrip('by ')
+            print(artist_raw:= item.find('div', class_='artist').text.strip()[3:])
+
             ar = re.sub(r'[^-A-Za-z0-9!áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ ]+', '', artist_raw)
             artist_clean= re.sub(' +', ' ', ar)
             album_dict['artist']=artist_clean
-            
+           
             ###
             # Handle for varaitions in classes for critic name by pattern matching with regular expression.
             # then scrape critic and user scores
@@ -90,13 +92,6 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
             response_reviews = requests.get(url, headers = user_agent)
             # scrape website into variable to parse
             soup_reviews = BeautifulSoup(response_reviews.text, 'html.parser')
-            ########### comment back in from here
-            # scrape album image 
-            try:
-                img_soup = soup_reviews.find('meta', property="og:image")
-                album_dict['img'] = img_soup['content']
-            except:
-                album_dict['img'] = None
             # scrape num of critical reviews
             try:
                 num_rev=(soup_reviews.find('span', itemprop="reviewCount"))
@@ -119,9 +114,12 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
                 album_dict['label'] = None
             # scrape genre
             try:
-                album_dict['genre'] = soup_reviews.find("span", itemprop="genre").text
+                album_dict['genre'] = []
+                genre_elements = soup_reviews.find_all("span", itemprop="genre")
+                for genre in genre_elements:
+                    album_dict['genre'].append(genre.text)
             except:
-                album_dict['genre'] = None
+                album_dict['genre'] = 'unknown'
             time.sleep(3)
     write_csv(album_dicts, week_num)
         
@@ -135,7 +133,8 @@ def write_csv(album_dicts, week_num):
     # create variable for data to be written
     keys = album_dicts[0].keys()
     # output to csv
-    with open(output_path, 'w', encoding='utf-8') as csvfile:
+    print('writing')
+    with open(output_path, 'w', encoding='utf-8', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, keys)
         writer.writeheader()
         writer.writerows(album_dicts)
