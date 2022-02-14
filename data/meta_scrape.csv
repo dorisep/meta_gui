@@ -1,9 +1,9 @@
 date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genre
-"February 11, 2022",2022,6,Dragon New Warm Mountain I Believe in You,Big Thief,88,90,20,4,4AD,['Pop/Rock']
-"February 11, 2022",2022,6,Lucifer on the Sofa,Spoon,90,100,15,6,Matador,['Pop/Rock']
+"February 11, 2022",2022,6,Dragon New Warm Mountain I Believe in You,Big Thief,88,92,20,10,4AD,['Pop/Rock']
+"February 11, 2022",2022,6,Lucifer on the Sofa,Spoon,90,98,15,10,Matador,['Pop/Rock']
 "February 11, 2022",2022,6,Earthling,Eddie Vedder,79,0,12,0,Republic,['Pop/Rock']
 "February 11, 2022",2022,6,Heterosexuality,Shamir,82,0,9,0,Self-released,"['Pop/Rock', 'Alternative/Indie Rock']"
-"February 11, 2022",2022,6,The Dream,Alt-J,80,0,,0,,[]
+"February 11, 2022",2022,6,The Dream,Alt-J,80,94,,0,,[]
 "February 11, 2022",2022,6,Cold as Weiss,Delvon Lamarr Organ Trio,75,0,4,0,Colemine,['Jazz']
 "February 11, 2022",2022,6,The Sea Drift,The Delines,84,0,4,0,Jealous Butcher,['Country']
 "February 4, 2022",2022,5,Let the Festivities Begin!,Los Bitchos,74,0,7,0,City Slang,"['Pop/Rock', 'Alternative/Indie Rock']"
@@ -12,9 +12,9 @@ date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,ge
 "February 4, 2022",2022,5,Where Myth Becomes Memory,Rolo Tomassi,84,90,4,4,eOne,"['Pop/Rock', 'Heavy Metal']"
 "February 4, 2022",2022,5,See Through You,A Place to Bury Strangers,81,0,6,0,Ded Strange,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival', 'Noise Pop', 'Shoegaze']"
 "February 4, 2022",2022,5,The Highest in the Land,The Jazz Butcher,76,0,5,0,Tapete Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter']"
-"February 4, 2022",2022,5,Time Skiffs,Animal Collective,76,89,24,20,Domino,['Pop/Rock']
+"February 4, 2022",2022,5,Time Skiffs,Animal Collective,76,88,24,20,Domino,['Pop/Rock']
 "February 4, 2022",2022,5,Laurel Hell,Mitski,83,88,26,40,Dead Oceans,['Pop/Rock']
-"February 4, 2022",2022,5,Ants From Up There,Black Country New Road,92,95,20,84,Ninja Tune,"['Pop/Rock', 'Alternative/Indie Rock', 'New Wave/Post-Punk Revival', 'Experimental Rock']"
+"February 4, 2022",2022,5,Ants From Up There,Black Country New Road,92,95,20,87,Ninja Tune,"['Pop/Rock', 'Alternative/Indie Rock', 'New Wave/Post-Punk Revival', 'Experimental Rock']"
 "February 4, 2022",2022,5,Pompeii,Cate Le Bon,85,88,19,8,Mexican Summer,['Pop/Rock']
 "February 4, 2022",2022,5,Requiem,Korn,77,78,7,25,Loma Vista,['Pop/Rock']
 "February 4, 2022",2022,5,Give Me the Future,Bastille,79,85,7,15,EMI,['Pop/Rock']
@@ -29,7 +29,7 @@ date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,ge
 "January 28, 2022",2022,4,The Alien Coast,St Paul the Broken Bones,68,0,7,0,ATO,"['R&B', 'Pop/Rock', 'Retro-Soul']"
 "January 28, 2022",2022,4,1111,Pinegrove,73,0,9,0,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
 "January 28, 2022",2022,4,Set Sail,North Mississippi Allstars,77,0,5,0,New West,"['Country', 'Americana', 'Pop/Rock', 'Blues-Rock', 'Southern Rock']"
-"January 28, 2022",2022,4,Motordrome,M,68,87,10,16,Sony,"['Electronic', 'Pop/Rock']"
+"January 28, 2022",2022,4,Motordrome,M,68,86,10,17,Sony,"['Electronic', 'Pop/Rock']"
 "January 28, 2022",2022,4,Three Dimensions Deep,Amber Mark,76,89,7,10,Interscope,['R&B']
 "January 28, 2022",2022,4,The Zealot Gene,Jethro Tull,67,0,4,0,Inside Out Music,['Pop/Rock']
 "January 28, 2022",2022,4,Aboogi,Imarhan,86,0,4,0,City Slang,['International']
@@ -38,7 +38,7 @@ date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,ge
 "January 28, 2022",2022,4,In Free Fall,Maya Shenfeld,83,0,5,0,Thrill Jockey,"['Electronic', 'Avant-Garde', 'Experimental Ambient', 'Experimental Electronic', 'Post-Minimalism', 'Drone']"
 "January 28, 2022",2022,4,Summer of Soul Or When the Revolution Could Not Be Televised OST,Original Motion Picture Soundtrack,94,0,4,0,Sony Music,"['R&B', 'Soul', 'Funk', 'Soundtracks', 'Stage & Screen', 'Soul-Blues', 'Soul Jazz', 'Black Gospel', 'Pop-Soul', 'Afro-Cuban Jazz']"
 "January 28, 2022",2022,4,The 7th Hand,Immanuel Wilkins,87,0,4,0,Blue Note,"['Jazz', 'Post-Bop', 'Modern Jazz', 'Spiritual Jazz']"
-"January 21, 2022",2022,3,Tongues,Tanya Tagaq,82,0,13,0,Domino,"['Indie', 'Electronic', 'Experimental', 'Jazz']"
+"January 21, 2022",2022,3,Tongues,Tanya Tagaq,82,0,4,0,Universal,['Pop/Rock']
 "January 21, 2022",2022,3,Vertigo of Flaws Emancipation of the Dissonance and Temperaments in Irrational Waveforms,Trees Speak,72,0,4,0,Soul Jazz,['Electronic']
 "January 21, 2022",2022,3,The Overload,Yard Act,85,78,17,9,Island,['Pop/Rock']
 "January 21, 2022",2022,3,The Gods We Can Touch,Aurora,81,94,9,96,Glassnote Entertainment Group,"['Pop/Rock', 'Contemporary Singer/Songwriter']"
@@ -65,7 +65,7 @@ date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,ge
 "January 14, 2022",2022,2,The Boy Named If,Elvis Costello the Imposters,83,80,15,11,Capitol,['Pop/Rock']
 "January 14, 2022",2022,2,Dodging Dues,Garcia Peoples,78,0,5,0,No Quarter,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
 "January 14, 2022",2022,2,Caprisongs Mixtape,FKA twigs,80,85,17,55,N/A,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative R&B']"
-"January 14, 2022",2022,2,Sick!,Earl Sweatshirt,86,76,15,54,Warner Music,"['Rap', 'Alternative Rap', 'Contemporary Rap']"
+"January 14, 2022",2022,2,Sick!,Earl Sweatshirt,86,75,15,55,Warner Music,"['Rap', 'Alternative Rap', 'Contemporary Rap']"
 "January 14, 2022",2022,2,The World to Come Original Motion Picture Soundtrack,Daniel Blumberg,74,0,4,0,Mute,"['Classical', 'Soundtracks', 'Stage & Screen', 'Film Score', 'Original Score']"
 "January 14, 2022",2022,2,Fix Yourself Not the World,The Wombats,72,76,8,8,The Wombats,['Pop/Rock']
 "January 14, 2022",2022,2,Hop Up,Orlando Weeks,77,0,5,0,PIAS,"['Pop/Rock', 'Alternative/Indie Rock']"
@@ -76,7 +76,7 @@ date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,ge
 "January 14, 2022",2022,2,Metal Bird,Eve Adams,82,0,4,0,Basin Rock,['Pop/Rock']
 "January 14, 2022",2022,2,Live at Montreux Jazz Festival,Anna von Hausswolff,82,0,4,0,Southern Lord Records,['Pop/Rock']
 "January 7, 2022",2022,1,Transparency,Twin Atlantic,66,50,6,10,Believe,['Pop/Rock']
-"January 7, 2022",2022,1,Dawn FM,The Weeknd,88,91,24,836,Republic,"['Pop', 'R&B', 'Contemporary R&B', 'Alternative R&B']"
+"January 7, 2022",2022,1,Dawn FM,The Weeknd,88,91,24,837,Republic,"['Pop', 'R&B', 'Contemporary R&B', 'Alternative R&B']"
 "January 7, 2022",2022,1,Now Or Whenever,Spector,72,71,4,7,N/A,"['Pop/Rock', 'Indie Rock']"
-"January 7, 2022",2022,1,DS4EVER,Gunna,51,53,5,4,300 Entertainment,"['Rap', 'Contemporary Rap']"
+"January 7, 2022",2022,1,DS4EVER,Gunna,51,53,5,5,300 Entertainment,"['Rap', 'Contemporary Rap']"
 "January 6, 2022",2022,1,Antidawn EP,Burial,81,64,6,7,Hyperdub,"['Electronic', 'Ambient', 'Pop/Rock', 'Experimental Ambient']"
