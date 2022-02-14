@@ -27,7 +27,7 @@ week_num = IntVar(window, value = date_info[1])
 # import meta_scrape data for plot
 def data_list():
     scrape_dict = {
-        'datalst': [],
+        'scores': [],
         'albumlst': [],
         'artistlst': []
     }
@@ -36,7 +36,7 @@ def data_list():
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             if int(row['week_num']) == week_num.get():
-                scrape_dict['datalst'].append(row['meta_score'])
+                scrape_dict['scores'].append(row['meta_score'])
                 scrape_dict['albumlst'].append(row['album'])
                 scrape_dict['artistlst'].append(row['artist']) 
     return scrape_dict
@@ -52,17 +52,17 @@ def plot():
     fig = None
     meta_dict = data_list()
     # print(meta_dict.keys)
-    datalst = meta_dict['datalst']
+    scores = meta_dict['scores']
     # print(datalst)
     albumlst = meta_dict['albumlst']
     # print(albumlst)
     fig = Figure(figsize=(10,10), dpi=100)
     chart = fig.add_subplot(111)
     ind = np.arange(len(datalst))
-    chart.bar(ind, datalst, 0.8)
+    chart.bar(ind, scores, 0.8)
     chart.set_ylabel('meta_score')
     chart.set_xlabel('albums')
-    chart.set_xticklabels(albumlst, rotation=45)
+    chart.set_xticklabels(len(albumlst), rotation=45)
     canvas = FigureCanvasTkAgg(fig, master=window)
     canvas.draw()
     canvas.get_tk_widget().pack(side=tk.RIGHT)

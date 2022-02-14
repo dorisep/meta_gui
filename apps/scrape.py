@@ -1,13 +1,14 @@
+from wsgiref import headers
 import requests
 from bs4 import BeautifulSoup
-from splinter import Browser
-from webdriver_manager.chrome import ChromeDriverManager
-import os
+import os 
 import csv
-from datetime import datetime
+from datetime import datetime as dt
 import playlist_app
 import re
 import time
+from base64 import b64encode
+from pickle import load, dump
 
 def meta_scrape(week_num, year):
     
@@ -28,7 +29,7 @@ def meta_scrape(week_num, year):
         #make an objec of date to extract week num and year
         ###
         date_string = (item.find('div', class_='clamp-details').find('span').text)
-        date_obj = datetime.strptime(date_string, '%B %d, %Y')
+        date_obj = dt.strptime(date_string, '%B %d, %Y')
         album_year, album_week_num, day_of_week = date_obj.isocalendar()
         ###
         # limit scrape to previous three weeks of albums and current 
@@ -87,11 +88,28 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
         if album_dict['week_num'] < (week_num - 5):
             break
         else:
+            
             url_end = f"{album_dict['album']}/{album_dict['artist']}".replace(" ", "-").lower() 
             url = url_beginning + url_end
-            response_reviews = requests.get(url, headers = user_agent)
-            # scrape website into variable to parse
-            soup_reviews = BeautifulSoup(response_reviews.text, 'html.parser')
+            ###
+            # creating pickles to prevent disconnect from too many pings
+            # check if a pickle file exists for the current day 
+            # if not run scrape for url
+            ###
+            picklefile = os.path.join('..', 'data', 'pickles',str(b64encode(url.encode('utf-8')),'utf-8'))
+            print(picklefile)
+            if os.path.exists(picklefile) and dt.fromtimestamp(os.path.getctime(picklefile)).day==dt.now().day().day:
+                with open(picklefile,'rb') as pickleload:
+                    print('loading a pickle')
+                    content = load(pickleload)
+            else:
+                content = requests.get(url, headers = user_agent)
+                with open(picklefile,'wb') as picklesave:
+                    print('creating a pickle')
+                    dump(content, picklesave)
+                # scrape website into variable to parse
+            soup_reviews = BeautifulSoup(content.text, 'html.parser')
+            print('parsing a review')
             # scrape num of critical reviews
             try:
                 num_rev=(soup_reviews.find('span', itemprop="reviewCount"))
