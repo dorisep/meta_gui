@@ -1,14 +1,13 @@
-from wsgiref import headers
+import os
+import re
+import csv
+import time 
 import requests
 from bs4 import BeautifulSoup
-import os 
-import csv
 from datetime import datetime as dt
-import playlist_app
-import re
-import time
 from base64 import b64encode
 from pickle import load, dump
+from playlist_app import create_playlist
 
 def meta_scrape(week_num, year):
     
@@ -83,9 +82,10 @@ def meta_scrape(week_num, year):
 
 def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
     url_beginning ='https://www.metacritic.com/music/'
+    text_file_path = '..//data//genre.txt'
     for album_dict in album_dicts:
-        # only check for the last 4 weeks of albums
-        if album_dict['week_num'] < (week_num - 5):
+        # only check for the last 3 weeks of albums
+        if album_dict['week_num'] < (week_num - 6):
             break
         else:
             
@@ -97,21 +97,18 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
             # if not run scrape for url and create a pickle file
             ###
             picklefile = os.path.join('..', 'data', 'pickles',str(b64encode(url.encode('utf-8')),'utf-8'))
-            print(picklefile)
+            
             if os.path.exists(picklefile) and dt.fromtimestamp(os.path.getctime(picklefile)).day==dt.now().date().day:
                 with open(picklefile,'rb') as pickleload:
-                    print('loading a pickle')
                     content = load(pickleload)
             else:
                 content = requests.get(url, headers = user_agent)
                 with open(picklefile,'wb') as picklesave:
-                    print('creating a pickle')
                     dump(content, picklesave)
-                    # sleep so as to not get bounced from connection
+            # sleep so as to not get bounced from connection
                     time.sleep(3)
-                # scrape website into variable to parse
+            # scrape website into variable to parse
             soup_reviews = BeautifulSoup(content.text, 'html.parser')
-            print('parsing a review')
             # scrape num of critical reviews
             try:
                 num_rev=(soup_reviews.find('span', itemprop="reviewCount"))
@@ -132,24 +129,47 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
                 album_dict['label'] = label_class[2].text.strip()
             except:
                 album_dict['label'] = None
-            # scrape genre
+            ###
+            # scrape genre and ensure pop/rock is not provided in case of 
+            # alternative genres being present. Too many artist were being
+            # represented as pop/rock
+            ###
             try:
-                album_dict['genre'] = []
+                genres_lst = []
                 genre_elements = soup_reviews.find_all("span", itemprop="genre")
                 for genre in genre_elements:
-                    album_dict['genre'].append(genre.text)
+                    genres_lst.append(genre.text)
             except:
                 album_dict['genre'] = 'unknown'
-            
-    write_csv(album_dicts, week_num)
+            if len(genres_lst) == 0:
+                album_dict['genre'] = 'unknown'
+            elif len(genres_lst) == 1:
+                album_dict['genre'] = genres_lst[0]
+            else:
+                for g in genres_lst:
+                    if g != 'Pop/Rock':
+                        album_dict['genre'] = g
+                        break
+
+
+            with open(text_file_path, 'w') as file:
+                file.write(f'''
+                    
+                    {album_dict['genre']}  for artist: {album_dict['artist']}
+                    out of: {genres_lst}
+                ''')
+    with  open(text_file_path, "r") as file:
+        for f in file:
+            print(f.read())
+
+#open and read the file after the appending:
+
+    # write_csv(album_dicts, week_num)
         
 def write_csv(album_dicts, week_num):
-
     # write dictionary to csv
     # csv variables
     output_path = os.path.join('..', 'data', 'meta_scrape.csv')
-    # create header
-    fields = ['artist', 'album', 'date', 'week_num', 'year', 'meta_score', 'user_score', ] 
     # create variable for data to be written
     keys = album_dicts[0].keys()
     # output to csv
@@ -160,4 +180,4 @@ def write_csv(album_dicts, week_num):
         writer.writerows(album_dicts)
     # call create playlist script
      
-    return playlist_app.create_playlist(week_num)
+    return create_playlist(week_num)

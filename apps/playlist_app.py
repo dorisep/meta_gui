@@ -1,4 +1,3 @@
-import traceback
 import requests
 import os
 import base64
@@ -120,8 +119,9 @@ def search_for_albums(week_num, csv_path):
 #   create dicitonary for albums not found
         except:
             albums_not_found['artist'].append(ar)
-            albums_not_found['album'].append(al)
+            albums_not_found['album'].append(al) 
         album_ids.add(parse_album_ids)
+#   create log of albums_not_found
     return(get_album_tracks(album_ids))
 
 def add_tracks_to_playlist(week_num, playlist_id):
