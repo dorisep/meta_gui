@@ -3,7 +3,7 @@ from tkinter import *
 import csv
 import numpy as np
 # from more_itertools import unique_everseen
-import matplotlib
+import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 import tkinter as tk
@@ -48,24 +48,43 @@ def scrape():
 def dedup():
     dedup_meta_scrape(scrape_path, clean_path)
 # set plotting function
+
+
+# import meta_scrape data for plot
+def data_list():
+    week_num = int(week_field.get())
+    print(week_num)
+    scrape_dict = {
+        'scores': [],
+        'albumlst': [],
+        'artistlst': []
+    }
+    file_path = os.path.join('..', 'data', 'meta_scrape.csv')
+    with open(file_path) as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=',')
+        for row in reader:
+            if int(row['week_num']) == week_num:
+                scrape_dict['scores'].append(row['meta_score'])
+                scrape_dict['albumlst'].append(row['album'])
+                scrape_dict['artistlst'].append(row['artist']) 
+    return scrape_dict
+
+def scrape_bar(scrape_dict):
+    scores = [float(x) for x in scrape_dict['scores']]
+
+    albums = scrape_dict['albumlst']
+
+    fig = plt.figure(figsize = (5, 2.5))
+    plt.xticks(rotation = 90)
+    plt.bar(albums, scores, color='cornflowerblue')
+
+    plt.xlabel('album names')
+    plt.ylabel('metascores')
+    plt.title('Current Week Scores')
+    plt.show()
+
 def plot():
-    fig = None
-    meta_dict = data_list()
-    # print(meta_dict.keys)
-    scores = meta_dict['scores']
-    # print(datalst)
-    albumlst = meta_dict['albumlst']
-    # print(albumlst)
-    fig = Figure(figsize=(10,10), dpi=100)
-    chart = fig.add_subplot(111)
-    ind = np.arange(len(datalst))
-    chart.bar(ind, scores, 0.8)
-    chart.set_ylabel('meta_score')
-    chart.set_xlabel('albums')
-    chart.set_xticklabels(len(albumlst), rotation=45)
-    canvas = FigureCanvasTkAgg(fig, master=window)
-    canvas.draw()
-    canvas.get_tk_widget().pack(side=tk.RIGHT)
+    scrape_bar(data_list())
 # create button for scrape
 scraper = tk.Button(window,text='Run Scrape for week number:',command=scrape, height=1,width=25,state='normal')
 scraper.place(x=12, y=20)

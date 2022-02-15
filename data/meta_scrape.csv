@@ -15,6 +15,7 @@ date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,ge
 "February 4, 2022",2022,5,Where Myth Becomes Memory,Rolo Tomassi,84,90,4,4,eOne,"['Pop/Rock', 'Heavy Metal']"
 "February 4, 2022",2022,5,See Through You,A Place to Bury Strangers,81,0,6,0,Ded Strange,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival', 'Noise Pop', 'Shoegaze']"
 "February 4, 2022",2022,5,The Highest in the Land,The Jazz Butcher,76,0,5,0,Tapete Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter']"
+"February 4, 2022",2022,5,Lighten Up,Erin Rae,81,0,4,0,Good Memory,['Folk']
 "February 4, 2022",2022,5,Time Skiffs,Animal Collective,76,88,24,21,Domino,['Pop/Rock']
 "February 4, 2022",2022,5,Laurel Hell,Mitski,83,88,26,41,Dead Oceans,['Pop/Rock']
 "February 4, 2022",2022,5,Ants From Up There,Black Country New Road,92,95,20,87,Ninja Tune,"['Pop/Rock', 'Alternative/Indie Rock', 'New Wave/Post-Punk Revival', 'Experimental Rock']"
@@ -62,24 +63,3 @@ date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,ge
 "January 21, 2022",2022,3,The Runner Original Soundtrack,Boy Harsher,75,0,7,0,Nude Club,['Electronic']
 "January 21, 2022",2022,3,Good and Green Again,Jake Xerxes Fussell,87,0,5,0,Paradise of Bachelors,"['Folk', 'Blues', 'Alternative/Indie Rock', 'Neo-Traditional Folk']"
 "January 20, 2022",2022,3,Havasu,Pedro the Lion,69,0,5,0,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
-"January 14, 2022",2022,2,Hell on Church Street,Punch Brothers,79,0,4,0,Nonesuch,"['Bluegrass', 'Country', 'Folk', 'Pop/Rock', 'Contemporary Bluegrass', 'Progressive Bluegrass', 'String Bands']"
-"January 14, 2022",2022,2,Covers,Cat Power,79,77,16,6,Domino,['Pop/Rock']
-"January 14, 2022",2022,2,Fragments,Bonobo,74,69,,0,,[]
-"January 14, 2022",2022,2,The Boy Named If,Elvis Costello the Imposters,83,80,15,11,Capitol,['Pop/Rock']
-"January 14, 2022",2022,2,Dodging Dues,Garcia Peoples,78,0,5,0,No Quarter,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
-"January 14, 2022",2022,2,Caprisongs Mixtape,FKA twigs,80,85,17,57,N/A,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative R&B']"
-"January 14, 2022",2022,2,Sick!,Earl Sweatshirt,86,75,15,55,Warner Music,"['Rap', 'Alternative Rap', 'Contemporary Rap']"
-"January 14, 2022",2022,2,The World to Come Original Motion Picture Soundtrack,Daniel Blumberg,74,0,4,0,Mute,"['Classical', 'Soundtracks', 'Stage & Screen', 'Film Score', 'Original Score']"
-"January 14, 2022",2022,2,Fix Yourself Not the World,The Wombats,72,76,8,8,The Wombats,['Pop/Rock']
-"January 14, 2022",2022,2,Hop Up,Orlando Weeks,77,0,5,0,PIAS,"['Pop/Rock', 'Alternative/Indie Rock']"
-"January 14, 2022",2022,2,Brightside,The Lumineers,72,83,,0,,[]
-"January 14, 2022",2022,2,Storm Queen,Grace Cummings,78,0,6,0,ATO Records,"['Folk', 'Pop/Rock']"
-"January 14, 2022",2022,2,From A Birds Eye View,Cordae,71,75,7,14,Art@War / Atlantic,['Rap']
-"January 14, 2022",2022,2,Ghosts on Tape,Blood Red Shoes,69,0,5,0,Jazzlife,"['Pop/Rock', 'Alternative/Indie Rock']"
-"January 14, 2022",2022,2,Metal Bird,Eve Adams,82,0,4,0,Basin Rock,['Pop/Rock']
-"January 14, 2022",2022,2,Live at Montreux Jazz Festival,Anna von Hausswolff,82,0,4,0,Southern Lord Records,['Pop/Rock']
-"January 7, 2022",2022,1,Transparency,Twin Atlantic,66,50,6,10,Believe,['Pop/Rock']
-"January 7, 2022",2022,1,Dawn FM,The Weeknd,88,91,24,838,Republic,"['Pop', 'R&B', 'Contemporary R&B', 'Alternative R&B']"
-"January 7, 2022",2022,1,Now Or Whenever,Spector,72,71,4,7,N/A,"['Pop/Rock', 'Indie Rock']"
-"January 7, 2022",2022,1,DS4EVER,Gunna,51,60,5,5,300 Entertainment,"['Rap', 'Contemporary Rap']"
-"January 6, 2022",2022,1,Antidawn EP,Burial,81,64,6,7,Hyperdub,"['Electronic', 'Ambient', 'Pop/Rock', 'Experimental Ambient']"

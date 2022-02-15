@@ -35,7 +35,7 @@ def meta_scrape(week_num, year):
         # limit scrape to previous three weeks of albums and current 
         # year of release date
         ###
-        if album_week_num < (week_num - 5) or album_year < year:
+        if album_week_num < (week_num - 3) or album_year < year:
             break   
         else:
             album_dict['date']=date_string
@@ -94,11 +94,11 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
             ###
             # creating pickles to prevent disconnect from too many pings
             # check if a pickle file exists for the current day 
-            # if not run scrape for url
+            # if not run scrape for url and create a pickle file
             ###
             picklefile = os.path.join('..', 'data', 'pickles',str(b64encode(url.encode('utf-8')),'utf-8'))
             print(picklefile)
-            if os.path.exists(picklefile) and dt.fromtimestamp(os.path.getctime(picklefile)).day==dt.now().day().day:
+            if os.path.exists(picklefile) and dt.fromtimestamp(os.path.getctime(picklefile)).day==dt.now().date().day:
                 with open(picklefile,'rb') as pickleload:
                     print('loading a pickle')
                     content = load(pickleload)
@@ -107,6 +107,8 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
                 with open(picklefile,'wb') as picklesave:
                     print('creating a pickle')
                     dump(content, picklesave)
+                    # sleep so as to not get bounced from connection
+                    time.sleep(3)
                 # scrape website into variable to parse
             soup_reviews = BeautifulSoup(content.text, 'html.parser')
             print('parsing a review')
@@ -138,7 +140,7 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
                     album_dict['genre'].append(genre.text)
             except:
                 album_dict['genre'] = 'unknown'
-            time.sleep(3)
+            
     write_csv(album_dicts, week_num)
         
 def write_csv(album_dicts, week_num):
