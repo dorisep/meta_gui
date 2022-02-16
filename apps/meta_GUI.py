@@ -3,10 +3,7 @@ from tkinter import *
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from matplotlib.figure import Figure
 import tkinter as tk
-from tkinter import ttk
 from scrape import meta_scrape
 from playlist_app import get_date_info
 from credentials.config import scrape_path, clean_path
