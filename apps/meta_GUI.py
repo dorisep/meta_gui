@@ -15,7 +15,7 @@ window = tk.Tk()
 #set title
 window.title('Create Playlist from meta_scrape')
 #set window size
-window.geometry('1000x1000')
+window.geometry('300x200')
 # window.state('zoomed')
 # set week_num variable to current week
 date_info = get_date_info()
@@ -83,12 +83,11 @@ week_field.place(x=270, y=22)
 # create_depuped_csv
 cleaner = tk.Button(window,text='create deduped csv',command=dedup, height=1,width=25,state='normal')
 cleaner.place(x=12, y=45)
-# create button for plot
+# create button for plots
 plotter = tk.Button(window,text='plot',command=plot, height=1,width=25,state='normal')
 plotter.place(x=12, y=70)
 # button to disply scrape results for QA
-plotter = tk.Button(window,text='scrape results',command=plot, height=1,width=25,state='normal')
-plotter.place(x=12, y=70)
+
 
 window.mainloop()
 

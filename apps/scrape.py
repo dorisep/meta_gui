@@ -52,9 +52,7 @@ def meta_scrape(week_num, year):
             ###
             # scrape artist name and strip white space and extra characters
             ###
-            # artist_raw = item.find('div', class_='artist').text.strip().lstrip('by ')
-            print(artist_raw:= item.find('div', class_='artist').text.strip()[3:])
-
+            artist_raw = item.find('div', class_='artist').text.strip().lstrip('by ')
             ar = re.sub(r'[^-A-Za-z0-9!áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ ]+', '', artist_raw)
             artist_clean= re.sub(' +', ' ', ar)
             album_dict['artist']=artist_clean
@@ -82,7 +80,7 @@ def meta_scrape(week_num, year):
 
 def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
     url_beginning ='https://www.metacritic.com/music/'
-    text_file_path = '..//data//genre.txt'
+    genre_lsts = []
     for album_dict in album_dicts:
         # only check for the last 3 weeks of albums
         if album_dict['week_num'] < (week_num - 6):
@@ -149,22 +147,18 @@ def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
                 for g in genres_lst:
                     if g != 'Pop/Rock':
                         album_dict['genre'] = g
-                        break
+            #             break
 
-
-            with open(text_file_path, 'w') as file:
-                file.write(f'''
-                    
-                    {album_dict['genre']}  for artist: {album_dict['artist']}
-                    out of: {genres_lst}
-                ''')
-    with  open(text_file_path, "r") as file:
-        for f in file:
-            print(f.read())
+            # genre_lsts.append(f"{album_dict['genre']}  for artist: {album_dict['artist']}")
+            # genre_lsts.append(f'out of: {genres_lst}')
+     
+    # with  open(text_file_path, "r") as file:
+    #     for f in file:
+    #         print(f.read())
 
 #open and read the file after the appending:
 
-    # write_csv(album_dicts, week_num)
+    write_csv(album_dicts, week_num)
         
 def write_csv(album_dicts, week_num):
     # write dictionary to csv
