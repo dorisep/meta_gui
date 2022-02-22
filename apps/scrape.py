@@ -74,11 +74,11 @@ def meta_scrape(week_num, year):
                 user_score = int(float(user_string)*10)
                 album_dict['user_score']=user_score
             album_dicts.append(album_dict)
-    scrape_reviews(album_dicts, week_num, user_agent, al, ar)
+    scrape_reviews(album_dicts, week_num, user_agent)
 
     
 
-def scrape_reviews(album_dicts, week_num, user_agent, al, ar):
+def scrape_reviews(album_dicts, week_num, user_agent):
     url_beginning ='https://www.metacritic.com/music/'
     genre_lsts = []
     for album_dict in album_dicts:
