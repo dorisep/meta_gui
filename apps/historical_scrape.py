@@ -20,7 +20,7 @@ def metaScrape(page_num, year):
     response_score = requests.get(url_for_scrape, headers = user_agent)
     # scrape website into variable to parse
     soup_score = BeautifulSoup(response_score.text, 'html.parser')
-    print(soup_score)
+
     #     create list for dictionarys 
     album_dicts = []
     # create soup 
@@ -51,6 +51,7 @@ def metaScrape(page_num, year):
         # scrape artist name and strip white space and extra characters
         ###
         artist_raw = item.find('div', class_='artist').text.strip().lstrip('by ')
+        print(artist_raw)
         ar = re.sub(r'[^-A-Za-z0-9!áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ ]+', '', artist_raw)
         artist_clean= re.sub(' +', ' ', ar)
         album_dict['artist']=artist_clean
@@ -72,7 +73,7 @@ def metaScrape(page_num, year):
             user_score = int(float(user_string)*10)
             album_dict['user_score']=user_score
         album_dicts.append(album_dict)
-    print('reviews')
+    print(len(album_dicts))
     scrape_reviews(album_dicts, user_agent, page_num, year)
 
 
@@ -98,8 +99,7 @@ def scrape_reviews(album_dicts, user_agent, page_num, year):
                 dump(content, picklesave)
         # sleep so as to not get bounced from connection
                 time.sleep(3)
-        print(type(content))
-        break
+
         # scrape website into variable to parse
         soup_reviews = BeautifulSoup(content.text, 'html.parser')
         # scrape num of critical reviews
@@ -142,7 +142,6 @@ def scrape_reviews(album_dicts, user_agent, page_num, year):
             for g in genres_lst:
                 if g != 'Pop/Rock':
                     album_dict['genre'] = g
-        print(url_end)
         time.sleep(1)
     write_csv(album_dicts, page_num, year)
 
