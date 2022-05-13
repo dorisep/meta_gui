@@ -1,65 +1,63 @@
 date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genre
-"March 4, 2022",2022,9,Things Are Great,Band of Horses,83,0,5,0,BMG,Alternative/Indie Rock
-"February 25, 2022",2022,8,The Tipping Point,Tears for Fears,87,0,,0,,unknown
-"February 18, 2022",2022,7,Once Twice Melody,Beach House,84,93,21,36,Sub Pop,Alternative/Indie Rock
-"February 18, 2022",2022,7,LIFE ON EARTH,Hurray for the Riff Raff,85,88,8,4,Nonesuch,Pop/Rock
-"February 18, 2022",2022,7,Eddie Piller Presents British Mod Sounds of the 1960s Box Set,Various Artists,85,0,4,0,Edsel,Mod
-"February 18, 2022",2022,7,Small World,Metronomy,74,0,9,0,Because Music,Electronic
-"February 18, 2022",2022,7,Texas Moon EP,Khruangbin,80,0,5,0,Dead Oceans,Deep Funk Revival
-"February 18, 2022",2022,7,Ocean Child Songs of Yoko Ono,Various Artists,79,0,4,0,Atlantic,Experimental Rock
-"February 18, 2022",2022,7,Manticore,Shovels Rope,70,0,5,0,Dualtone Music,Pop/Rock
-"February 18, 2022",2022,7,Sad Cities,Sally Shapiro,79,0,4,0,Italians Do It Better,Electronic
-"February 18, 2022",2022,7,Disrespectful Mixtape,Bad Boy Chiller Crew,82,0,4,0,Relentless,Rap
-"February 16, 2022",2022,7,PreyIV,Alice Glass,77,85,7,10,Eating Glass Records,Pop/Rock
-"February 11, 2022",2022,6,Dragon New Warm Mountain I Believe in You,Big Thief,88,94,24,26,4AD,Pop/Rock
-"February 11, 2022",2022,6,Lucifer on the Sofa,Spoon,85,90,20,24,Matador,Pop/Rock
-"February 11, 2022",2022,6,Earthling,Eddie Vedder,79,85,13,4,Republic,Pop/Rock
-"February 11, 2022",2022,6,Heterosexuality,Shamir,79,0,12,0,Self-released,Alternative/Indie Rock
-"February 11, 2022",2022,6,The Dream,Alt-J,79,91,,0,,unknown
-"February 11, 2022",2022,6,Everything Was Forever,Sea Power,78,0,6,0,Golden Chariot,Alternative/Indie Rock
-"February 11, 2022",2022,6,Cold as Weiss,Delvon Lamarr Organ Trio,75,0,4,0,Colemine,Jazz
-"February 11, 2022",2022,6,The Sea Drift,The Delines,84,0,4,0,Jealous Butcher,Country
-"February 11, 2022",2022,6,FTHC,Frank Turner,81,0,5,0,Virgin,Pop/Rock
-"February 11, 2022",2022,6,Good Morning Gorgeous,Mary J Blige,75,0,7,0,300 Entertainment,Contemporary R&B
-"February 11, 2022",2022,6,Visitor,Empath,80,0,5,0,Fat Possum Records,Pop/Rock
-"February 11, 2022",2022,6,Synchro Anarchy,Voivod,85,0,5,0,Century Media,Speed/Thrash Metal
-"February 11, 2022",2022,6,Ashas Awakening,Raveena,81,0,4,0,Warner Records,R&B
-"February 11, 2022",2022,6,Electric Cowboy Born in Carolina Mud,Boulevards,77,0,4,0,Normaltown Records,Deep Funk Revival
-"February 11, 2022",2022,6,B Flat A,Trupa Trupa,79,0,7,0,Glitterbeat,Heavy Metal
-"February 11, 2022",2022,6,Krller,Author Punisher,78,0,,0,,unknown
-"February 11, 2022",2022,6,The Kick,Foxes,80,98,4,13,PIAS,Left-Field Pop
-"February 11, 2022",2022,6,Memoria,Trentemller,80,0,,0,,unknown
-"February 4, 2022",2022,5,Let the Festivities Begin!,Los Bitchos,74,0,7,0,City Slang,Alternative/Indie Rock
-"February 4, 2022",2022,5,Few Good Things,Saba,83,85,9,19,Saba Pivot,Rap
-"February 4, 2022",2022,5,Dope Dont Sell Itself,2 Chainz,62,0,5,0,Def Jam,Rap
-"February 4, 2022",2022,5,Where Myth Becomes Memory,Rolo Tomassi,84,90,4,4,eOne,Heavy Metal
-"February 4, 2022",2022,5,See Through You,A Place to Bury Strangers,81,0,7,0,Ded Strange,Shoegaze
-"February 4, 2022",2022,5,The Highest in the Land,The Jazz Butcher,76,0,5,0,Tapete Records,Alternative Singer/Songwriter
-"February 4, 2022",2022,5,Lighten Up,Erin Rae,82,0,5,0,Good Memory,Folk
-"February 4, 2022",2022,5,Summer at Lands End,The Reds Pinks Purples,87,0,4,0,Slumberland,Indie Pop
-"February 4, 2022",2022,5,Time Skiffs,Animal Collective,76,88,24,22,Domino,Pop/Rock
-"February 4, 2022",2022,5,Laurel Hell,Mitski,83,88,26,47,Dead Oceans,Pop/Rock
-"February 4, 2022",2022,5,Ants From Up There,Black Country New Road,92,94,20,100,Ninja Tune,Experimental Rock
-"February 4, 2022",2022,5,Pompeii,Cate Le Bon,85,83,19,9,Mexican Summer,Pop/Rock
-"February 4, 2022",2022,5,Requiem,Korn,77,80,7,30,Loma Vista,Pop/Rock
-"February 4, 2022",2022,5,Give Me the Future,Bastille,72,85,8,17,EMI,Pop/Rock
-"February 4, 2022",2022,5,Glitch Princess,eule,85,85,,0,,unknown
-"January 28, 2022",2022,4,Dissolution Wave,Cloakroom,78,0,5,0,Relapse Records,Pop/Rock
-"January 28, 2022",2022,4,IRE,Combo Chimbita,81,0,4,0,Anti-,Colombian
-"January 28, 2022",2022,4,Extreme Witchcraft,Eels,72,82,13,5,E Works,Alternative/Indie Rock
-"January 28, 2022",2022,4,And Now Lets Turn to Page,Brent Cobb,78,0,6,0,Ol' Buddy Records,Gospel
-"January 28, 2022",2022,4,Godmother,Josephine Foster,80,0,5,0,Fire Records,Experimental Electronic
-"January 28, 2022",2022,4,Anas Mitchell,Anas Mitchell,83,80,,0,,unknown
-"January 28, 2022",2022,4,The Sun is Shining Down,John Mayall,78,0,4,0,Forty Below Records,Blues
-"January 28, 2022",2022,4,The Alien Coast,St Paul the Broken Bones,68,0,7,0,ATO,Retro-Soul
-"January 28, 2022",2022,4,1111,Pinegrove,73,85,9,4,Rough Trade,Indie Rock
-"January 28, 2022",2022,4,Set Sail,North Mississippi Allstars,77,0,5,0,New West,Southern Rock
-"January 28, 2022",2022,4,Motordrome,M,68,84,10,19,Sony,Electronic
-"January 28, 2022",2022,4,Three Dimensions Deep,Amber Mark,76,89,7,10,Interscope,R&B
-"January 28, 2022",2022,4,The Zealot Gene,Jethro Tull,67,0,4,0,Inside Out Music,Pop/Rock
-"January 28, 2022",2022,4,Aboogi,Imarhan,86,0,,0,,unknown
-"January 28, 2022",2022,4,C91,Various Artists,70,0,5,0,Cherry Red,Pop/Rock
-"January 28, 2022",2022,4,All the Bright Coins,Simone Felice,72,0,4,0,Chrysalis Records,Indie Folk
-"January 28, 2022",2022,4,In Free Fall,Maya Shenfeld,83,0,5,0,Thrill Jockey,Drone
-"January 28, 2022",2022,4,Summer of Soul Or When the Revolution Could Not Be Televised OST,Original Motion Picture Soundtrack,94,0,4,0,Sony Music,Afro-Cuban Jazz
-"January 28, 2022",2022,4,The 7th Hand,Immanuel Wilkins,87,0,4,0,Blue Note,Spiritual Jazz
+"May 13, 2022",2022,19,Dropout Boogie,The Black Keys,72,0,9,0,Nonesuch,Pop/Rock
+"May 13, 2022",2022,19,Dance Fever,Florence the Machine,84,99,,0,,unknown
+"May 13, 2022",2022,19,This Is a Photograph,Kevin Morby,93,0,6,0,Dead Oceans,Alternative Singer/Songwriter
+"May 13, 2022",2022,19,A Light for Attracting Attention,The Smile,85,90,10,6,XL Recordings,Pop/Rock
+"May 6, 2022",2022,18,All Souls Hill,The Waterboys,75,0,6,0,Cooking Vinyl,Pop/Rock
+"May 6, 2022",2022,18,A Bit of Previous,Belle and Sebastian,78,0,16,0,Matador,Twee Pop
+"May 6, 2022",2022,18,WE,Arcade Fire,74,83,27,65,Columbia,Pop/Rock
+"May 6, 2022",2022,18,Radiate Like This,Warpaint,79,88,13,4,Virgin,Pop/Rock
+"May 6, 2022",2022,18,Breaking the Thermometer,Leyla McCalla,84,0,5,0,Anti-,Folk
+"May 6, 2022",2022,18,Headful of Sugar,Sunflower Bean,79,0,,0,,unknown
+"May 6, 2022",2022,18,Happiness Not Included,Soft Cell,76,0,8,0,BMG,Synth Pop
+"May 6, 2022",2022,18,Endless Rooms,Rolling Blackouts Coastal Fever,81,0,11,0,Sub Pop,Pop/Rock
+"May 6, 2022",2022,18,Weve Been Going About This All Wrong,Sharon Van Etten,80,82,18,15,Jagjaguwar,Pop/Rock
+"May 6, 2022",2022,18,Dorothy Chandler Pavilion 1971 Live,Neil Young,80,0,6,0,Reprise,Country-Rock
+"May 6, 2022",2022,18,Citizen Kane Jr Blues 1974 Live at the Bottom Line,Neil Young,85,0,6,0,Reprise,Pop/Rock
+"May 6, 2022",2022,18,How to Let Go,Sigrid,77,87,8,19,Island,Scandinavian Pop
+"May 6, 2022",2022,18,Spell 31,Ibeyi,80,0,6,0,XL Recordings,Left-Field Pop
+"May 6, 2022",2022,18,Peacock Pools,Pink Mountaintops,71,0,4,0,ATO Records,Neo-Psychedelia
+"May 6, 2022",2022,18,Royce Hall 1971 Live,Neil Young,79,0,4,0,Reprise,Pop/Rock
+"May 6, 2022",2022,18,Un Verano Sin Ti,Bad Bunny,86,65,5,83,N/A,Latin Rap
+"May 6, 2022",2022,18,Come Home the Kids Miss You,Jack Harlow,52,37,7,40,Generation Now,Rap
+"May 3, 2022",2022,18,No Fear of Time,Black Star,79,0,5,0,N/A,Rap
+"April 29, 2022",2022,17,Zeit,Rammstein,81,93,8,38,Spinefarm Records,German
+"April 29, 2022",2022,17,Forgiveness,Girlpool,77,0,8,0,Anti-,Pop/Rock
+"April 29, 2022",2022,17,Fierce Bliss,Ann Wilson,63,0,4,0,N/A,Pop/Rock
+"April 29, 2022",2022,17,I NEVER LIKED YOU,Future,71,65,6,26,Freebandz / Epic,Rap
+"April 29, 2022",2022,17,Void,Scalping,77,0,5,0,Houndstooth,Electronic
+"April 29, 2022",2022,17,When It Comes,Dana Gavanski,70,0,5,0,Flemish Eye Records,Indie Folk
+"April 29, 2022",2022,17,Lady for Sale,Lola Kirke,70,0,5,0,Third Man Records,Folk
+"April 29, 2022",2022,17,Timbuktu,Oumou Sangaré,86,0,4,0,World Circuit,International
+"April 29, 2022",2022,17,Wheres the One,Congotronics International,83,0,6,0,Crammed Discs,Congolese
+"April 29, 2022",2022,17,Wet Tennis,Sofi Tukker,81,0,4,0,Sofi Tukker,Left-Field Pop
+"April 29, 2022",2022,17,Two Ribbons,Lets Eat Grandma,82,90,16,6,Transgressive,Pop/Rock
+"April 29, 2022",2022,17,I Dont Know Who Needs to Hear This,Tomberlin,85,0,12,0,Saddle Creek Records,Pop/Rock
+"April 29, 2022",2022,17,Emotional Eternal,Melodys Echo Chamber,77,0,7,0,Domino,Pop/Rock
+"April 29, 2022",2022,17,Mahal,Toro y Moi,78,89,8,7,Dead Oceans,Alternative/Indie Rock
+"April 29, 2022",2022,17,Alpha Games,Bloc Party,65,80,11,7,Infectious,Alternative/Indie Rock
+"April 29, 2022",2022,17,Blue Water Road,Kehlani,83,97,11,202,Atlantic,R&B
+"April 29, 2022",2022,17,LP8,Kelly Lee Owens,75,0,11,0,Smalltown Supersound,Experimental Electronic
+"April 29, 2022",2022,17,Profound Mysteries,Ryksopp,82,97,,0,,unknown
+"April 29, 2022",2022,17,Palomino,Miranda Lambert,83,92,7,11,SME,Country
+"April 29, 2022",2022,17,A Beautiful Time,Willie Nelson,84,0,4,0,Legacy,Traditional Country
+"April 22, 2022",2022,16,Everything Was Beautiful,Spiritualized,83,80,23,7,Fat Possum Records,Slowcore
+"April 22, 2022",2022,16,Skinty Fia,Fontaines DC,85,72,18,25,Partisan,Pop/Rock
+"April 22, 2022",2022,16,Paint This Town,Old Crow Medicine Show,84,0,5,0,ATO,Americana
+"April 22, 2022",2022,16,Bob Vylan Presents the Price of Life,Bob Vylan,85,0,9,0,Ghost Theatre,Pop/Rock
+"April 22, 2022",2022,16,Get On Board,Taj Mahal,80,0,,0,,unknown
+"April 22, 2022",2022,16,SongBook,The Lazy Eyes,76,0,5,0,The Lazy Eyes,Neo-Psychedelia
+"April 22, 2022",2022,16,Giving the World Away,Hatchie,73,88,12,13,Secretly Canadian,Pop/Rock
+"April 22, 2022",2022,16,For You Who Are the Wronged,Kathryn Joseph,87,0,7,0,Rock Action,Folk
+"April 22, 2022",2022,16,The Turning Year,Roger Eno,68,0,7,0,Deutsche Grammophon,Neo-Classical
+"April 22, 2022",2022,16,Its Almost Dry,Pusha T,87,86,11,102,Def Jam / GOOD,Rap
+"April 22, 2022",2022,16,Omnium Gatherum,King Gizzard the Lizard Wizard,72,89,7,15,KGLW,Neo-Prog
+"April 22, 2022",2022,16,Just Like That,Bonnie Raitt,76,0,8,0,Redwing Records,Rock & Roll
+"April 22, 2022",2022,16,Invisible Forces,James Heather,70,0,4,0,Ahead of Our Time,Neo-Classical
+"April 22, 2022",2022,16,Heart Tax,jennylee,67,0,4,0,N/A,Alternative/Indie Rock
+"April 22, 2022",2022,16,Cry Mfer,My Idea,71,0,6,0,Hardly Art,Indie Pop
+"April 22, 2022",2022,16,Everything Perfect Is Already Here,Claire Rousay,82,0,4,0,Shelter Press,Pop/Rock
+"April 22, 2022",2022,16,Glass Effect,Ben Marc,79,0,5,0,Innovative Leisure,Clubjazz
+"April 22, 2022",2022,16,Dont Wait for a Sign,Jeanines,80,0,4,0,Slumberland,Noise Pop
+"April 22, 2022",2022,16,Break Me Open,S Carey,70,0,4,0,Jagjaguwar,Indie Folk
+"April 22, 2022",2022,16,Wir Sind das Volk Ein Musical Aus Deutschland,Laibach,79,0,4,0,Mute,Alternative/Indie Rock

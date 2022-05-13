@@ -63,7 +63,10 @@ def meta_scrape(week_num, year):
             ###
             meta_critic_pattern = re.compile('^metascore_w large')
             meta_user_pattern = re.compile('^metascore_w user')
-            album_dict['meta_score']=int(item.find('div', class_= meta_critic_pattern).text)
+            try:
+                album_dict['meta_score']=int(item.find('div', class_= meta_critic_pattern).text)
+            except:
+                album_dict['meta_score']='tbd'
             user_string = (item.find('div', class_= meta_user_pattern).text)
             ###
             # Handle for variations in classes for user by filtering out strings from scores to and casting to ints

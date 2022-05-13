@@ -1,0 +1,505 @@
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"July 25, 2006",2006,30,Savane,Ali Farka Toure,94,84,11,66,Nonesuch,['World']
+"November 21, 2006",2006,47,Orphans Brawlers Bawlers Bastards,Tom Waits,92,88,32,167,Anti,['Rock']
+"August 29, 2006",2006,35,Modern Times,Bob Dylan,89,85,29,288,Sony,['Rock']
+"November 28, 2006",2006,48,Hell Hath No Fury,Clipse,89,83,29,188,Star Trak,['Rap']
+"September 12, 2006",2006,37,Return To Cookie Mountain,TV on the Radio,88,81,40,246,Interscope / 4AD,"['Indie', 'Rock']"
+"February 21, 2006",2006,8,Destroyers Rubies,Destroyer,88,80,30,124,Merge,"['Indie', 'Rock']"
+"March 28, 2006",2006,13,Fishscale,Ghostface Killah,88,87,32,108,Def Jam,['Rap']
+"September 12, 2006",2006,37,The Town And The City,Los Lobos,87,86,10,21,Hollywood,['Rock']
+"April 4, 2006",2006,14,DFA Remixes Chapter 1,The DFA,87,84,15,18,Astralwerks / DFA,"['Indie', 'Rock', 'Electronic']"
+"April 11, 2006",2006,15,Estudando o Pagode,Tom Zé,86,89,14,0,Luaka Bop,['World']
+"March 21, 2006",2006,12,Sno Angel Like You,Howe Gelb,86,83,15,20,Thrill Jockey,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Fox Confessor Brings The Flood,Neko Case,85,89,28,71,Anti,"['Indie', 'Rock', 'Alt-Country']"
+"October 3, 2006",2006,40,For Hero For Fool,Subtle,85,86,14,37,Lex,"['Indie', 'Rock', 'Rap']"
+"May 23, 2006",2006,21,The Drift,Scott Walker,85,81,30,118,4AD,"['Rock', 'Experimental', 'Singer-Songwriter']"
+"September 12, 2006",2006,37,I Am Not Afraid Of You And I Will Beat Your Ass,Yo La Tengo,85,89,37,61,Matador,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,Boys And Girls In America,The Hold Steady,85,84,36,108,Vagrant,"['Indie', 'Rock']"
+"November 14, 2006",2006,46,Ys,Joanna Newsom,85,84,35,370,Drag City,"['Indie', 'Rock', 'Folk']"
+"May 9, 2006",2006,19,Serena-Maneesh,Serena-Maneesh,84,77,18,40,Playlouder,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,Donuts,J Dilla aka Jay Dee,84,87,15,106,Stones Throw,['Rap']
+"January 24, 2006",2006,4,Black Cadillac,Rosanne Cash,84,84,15,22,Capitol,"['Country', 'Singer-Songwriter']"
+"April 11, 2006",2006,15,My Life In The Bush Of Ghosts 2006 Version,Brian Eno David Byrne,84,84,,0,,[]
+"October 3, 2006",2006,40,The Crane Wife,The Decemberists,84,88,33,158,Capitol,"['Indie', 'Rock']"
+"November 21, 2006",2006,47,Entomology,Josef K,84,0,17,0,Domino,"['Indie', 'Rock']"
+"August 22, 2006",2006,34,The Body The Blood The Machine,The Thermals,84,86,17,22,Sub Pop,"['Indie', 'Rock']"
+"September 19, 2006",2006,38,The Letting Go,Bonnie Prince Billy,84,84,24,31,Drag City,"['Indie', 'Rock', 'Singer-Songwriter', 'Alt-Country']"
+"September 19, 2006",2006,38,Food Liquor,Lupe Fiasco,83,88,20,245,Atlantic,['Rap']
+"August 29, 2006",2006,35,Game Theory,The Roots,83,87,26,93,Def Jam,['Rap']
+"November 21, 2006",2006,47,Love,The Beatles,83,83,22,193,Capitol,"['Rock', 'Pop']"
+"September 26, 2006",2006,39,Like Red On A Rose,Alan Jackson,83,71,8,11,Arista,['Country']
+"May 9, 2006",2006,19,Bang Bang Rock Roll,Art Brut,83,72,25,82,Downtown / Fierce Panda,"['Indie', 'Rock']"
+"September 26, 2006",2006,39,Nashville,Solomon Burke,83,0,11,0,Shout! Factory,"['R&B', 'Country']"
+"March 14, 2006",2006,11,Morph The Cat,Donald Fagen,83,82,16,45,Reprise,['Rock']
+"September 12, 2006",2006,37,Blood Mountain,Mastodon,82,88,24,177,Reprise,"['Rock', 'Alternative', 'Metal']"
+"February 21, 2006",2006,8,Whatever People Say I Am Thats What Im Not,Arctic Monkeys,82,82,33,871,Domino,"['Indie', 'Rock']"
+"July 4, 2006",2006,27,American V A Hundred Highways,Johnny Cash,82,87,29,30,Lost Highway,"['Rock', 'Country']"
+"May 30, 2006",2006,22,A Vintage Burden,Charalambides,82,86,9,5,Kranky,"['Indie', 'Rock']"
+"February 21, 2006",2006,8,OK Cowboy,Vitalic,82,87,15,38,Uncivilized World / Pias,['Electronic']
+"October 17, 2006",2006,42,These Days,Vince Gill,82,87,8,34,MCA,['Country']
+"April 25, 2006",2006,17,We Shall Overcome The Seeger Sessions,Bruce Springsteen,82,88,25,77,Sony,['Rock']
+"June 13, 2006",2006,24,Rather Ripped,Sonic Youth,82,88,34,58,Geffen,"['Rock', 'Alternative']"
+"April 18, 2006",2006,16,Chosen Lords,Aphex Twin,81,87,19,43,Rephlex,['Electronic']
+"June 6, 2006",2006,23,Now You Are One Of Us,The Paper Chase,81,85,10,8,Kill Rock Stars,"['Indie', 'Rock']"
+"March 13, 2006",2006,11,Love Travels At Illegal Speeds,Graham Coxon,81,85,22,32,Parlophone,"['Indie', 'Rock']"
+"May 30, 2006",2006,22,Scale,Matthew Herbert,81,80,20,27,K7,['Electronic']
+"September 19, 2006",2006,38,Nuclear Daydream,Joseph Arthur,81,86,8,19,Megaforce / Lonely Astronaut,"['Indie', 'Rock', 'Singer-Songwriter']"
+"August 8, 2006",2006,32,Avatar,Comets On Fire,81,79,27,10,Sub Pop,"['Indie', 'Rock']"
+"June 20, 2006",2006,25,Leaving Songs,Stuart A Staples,81,86,11,7,Beggars Banquet,"['Indie', 'Rock']"
+"April 11, 2006",2006,15,You In Reverse,Built to Spill,81,88,28,60,Warner Bros,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,Magnificent City,Aceyalone,81,72,10,11,DECON,"['Indie', 'Rap']"
+"May 2, 2006",2006,18,The Boxing Mirror,Alejandro Escovedo,81,81,16,7,Back Porch,"['Rock', 'Singer-Songwriter']"
+"August 22, 2006",2006,34,Damaged,Lambchop,81,85,28,11,Merge,"['Indie', 'Rock', 'Alt-Country']"
+"May 23, 2006",2006,21,The Obliterati,Mission of Burma,81,85,25,16,Matador,"['Indie', 'Rock']"
+"August 22, 2006",2006,34,Post-War,M Ward,81,85,30,30,Merge,"['Indie', 'Rock']"
+"April 11, 2006",2006,15,You Are There,Mono,81,85,14,14,Temporary Residence,"['Indie', 'Rock', 'Experimental']"
+"May 9, 2006",2006,19,The Rose Has Teeth In The Mouth Of A Beast,Matmos,81,80,22,9,Matador,['Electronic']
+"May 2, 2006",2006,18,Shut Up I Am Dreaming,Sunset Rubdown,81,87,9,52,Absolutely Kosher,"['Indie', 'Rock']"
+"October 10, 2006",2006,41,Be Still Please,Portastatic,81,75,10,4,Merge,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,St Elsewhere,Gnarls Barkley,81,84,37,110,Downtown,"['Indie', 'Rap', 'R&B']"
+"July 10, 2006",2006,28,Through The Windowpane,Guillemots,81,87,16,43,Polydor,"['Indie', 'Rock', 'Pop']"
+"February 6, 2006",2006,6,This Is My Demo,Sway,81,86,11,18,All City,['Rap']
+"February 21, 2006",2006,8,Congotronics 2 BuzzNRumble From The UrbNJungle,Various Artists,81,0,13,0,Crammed Discs,['World']
+"August 22, 2006",2006,34,The Shining,J Dilla aka Jay Dee,80,88,21,19,BBE,['Rap']
+"April 4, 2006",2006,14,Return To The Sea,Islands,80,84,18,44,Equator / Rough Trade,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,Destroy Rock Roll,Mylo,80,83,14,17,Red Ink,['Electronic']
+"February 21, 2006",2006,8,The Last Romance,Arab Strap,80,83,22,10,Transdreamer / Chemikal Underground,"['Indie', 'Rock']"
+"May 16, 2006",2006,20,Pink,Boris,80,85,13,15,Southern Lord,"['Rock', 'Metal']"
+"May 2, 2006",2006,18,Songs From The Year Of Our Demise,Jon Auer,80,83,11,6,Pattern 25,"['Indie', 'Rock']"
+"June 13, 2006",2006,24,Begin To Hope,Regina Spektor,80,89,29,100,Sire,"['Indie', 'Rock', 'Singer-Songwriter']"
+"January 24, 2006",2006,4,The Greatest,Cat Power,80,83,35,88,Matador,"['Indie', 'Rock', 'Singer-Songwriter']"
+"November 28, 2006",2006,48,Breaking Kayfabe,Cadence Weapon,80,0,9,0,Upper Class,['Rap']
+"May 9, 2006",2006,19,Gulag Orkestar,Beirut,80,88,22,57,Ba Da Bing,"['Indie', 'Rock']"
+"October 17, 2006",2006,42,The Way The Wind Blows,A Hawk and a Hacksaw,80,88,11,12,Leaf,"['Indie', 'Rock']"
+"April 18, 2006",2006,16,We The Vehicles,Maritime,80,88,12,15,Flameshovel / Grand Hotel Van,"['Indie', 'Rock']"
+"April 11, 2006",2006,15,Feathers,Feathers,80,0,7,0,Gnomonsong,"['Indie', 'Rock']"
+"May 30, 2006",2006,22,Citrus,Asobi Seksu,80,86,15,34,Friendly Fire,"['Indie', 'Rock']"
+"October 17, 2006",2006,42,The Black Swan,Bert Jansch,80,76,12,9,Drag City,['Folk']
+"March 14, 2006",2006,11,Heres My Song You Can Have It I Dont Want It AnymoreYours 4-Ever,Nicolai Dunger,80,0,9,0,Zoe,"['Indie', 'Rock', 'Singer-Songwriter']"
+"May 9, 2006",2006,19,Denies The Days Demise,Daedelus,80,0,12,0,Mush / Ninja Tune,['Electronic']
+"October 3, 2006",2006,40,Ole! Tarantula,Robyn Hitchcock,80,83,19,8,Yep Roc,"['Rock', 'Alternative']"
+"October 3, 2006",2006,40,Under The Skin,Lindsey Buckingham,80,77,15,31,Warner Bros.,['Rock']
+"November 21, 2006",2006,47,Songs For Christmas,Sufjan Stevens,80,83,19,34,Asthmatic Kitty,"['Indie', 'Rock', 'Holiday']"
+"June 13, 2006",2006,24,Last Days Of Wonder,The Handsome Family,80,78,17,5,Carrot Top,"['Indie', 'Rock']"
+"July 11, 2006",2006,28,Happy New Year,Oneida,80,0,18,0,Jagjaguwar,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Half The Perfect World,Madeleine Peyroux,80,88,10,5,Rounder,"['Pop', 'Jazz']"
+"September 26, 2006",2006,39,Okonokos Live,My Morning Jacket,80,85,21,28,ATO,"['Indie', 'Rock', 'Live']"
+"April 11, 2006",2006,15,The Animal Years,Josh Ritter,80,88,13,37,V2,"['Indie', 'Rock', 'Singer-Songwriter']"
+"October 3, 2006",2006,40,Gang Of Losers,The Dears,79,85,29,23,Arts & Crafts,"['Indie', 'Rock']"
+"June 6, 2006",2006,23,Son,Juana Molina,79,82,23,6,Domino,"['Indie', 'Rock', 'Electronic']"
+"September 12, 2006",2006,37,So This Is Goodbye,Junior Boys,79,86,32,37,Domino,['Electronic']
+"March 21, 2006",2006,12,Murrays Revenge,Murs,79,86,12,10,Record Collection,['Rap']
+"April 4, 2006",2006,14,His Hands,Candi Staton,79,83,13,4,Astralwerks,['R&B']
+"December 19, 2006",2006,51,Hip Hop Is Dead,Nas,79,87,22,166,Def Jam,['Rap']
+"July 25, 2006",2006,30,White Bread Black Beer,Scritti Politti,79,84,16,14,Nonesuch / Rough Trade,"['Rock', 'Alternative']"
+"September 5, 2006",2006,36,Yellow House,Grizzly Bear,79,88,19,94,Warp,"['Indie', 'Rock']"
+"May 16, 2006",2006,20,II,Espers,79,83,22,13,Drag City,"['Indie', 'Rock', 'Folk']"
+"July 11, 2006",2006,28,The Audiences Listening,Cut Chemist,79,79,15,7,Warner Bros,['Rap']
+"March 21, 2006",2006,12,Drums Not Dead,Liars,79,87,29,63,Mute,"['Indie', 'Rock']"
+"March 28, 2006",2006,13,Show Your Bones,Yeah Yeah Yeahs,79,80,35,97,Interscope,"['Indie', 'Rock']"
+"June 13, 2006",2006,24,The Warning,Hot Chip,79,88,27,55,Astralwerks,"['Indie', 'Rock', 'Electronic']"
+"July 25, 2006",2006,30,The Trials Of Van Occupanther,Midlake,79,88,23,41,Bella Union,"['Indie', 'Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"October 24, 2006",2006,43,The Black Parade,My Chemical Romance,79,88,24,761,Reprise,"['Rock', 'Alternative', 'Emo']"
+"March 7, 2006",2006,10,Supernature,Goldfrapp,79,83,27,79,Mute,"['Indie', 'Rock', 'Electronic']"
+"October 3, 2006",2006,40,DFA Remixes Chapter 2,The DFA,79,69,13,9,Astralwerks,"['Indie', 'Rock', 'Electronic']"
+"May 15, 2006",2006,20,Time Being,Ron Sexsmith,79,88,14,6,V2,"['Rock', 'Singer-Songwriter']"
+"February 21, 2006",2006,8,Six Demon Bag,Man Man,79,86,17,16,Ace Fu,"['Indie', 'Rock']"
+"January 24, 2006",2006,4,Tales From Turnpike House,Saint Etienne,79,87,22,26,Savoy Jazz / Sanctuary,"['Indie', 'Pop', 'Electronic']"
+"February 7, 2006",2006,6,Below The Branches,Kelley Stoltz,79,80,19,8,Sub Pop,"['Indie', 'Rock']"
+"April 25, 2006",2006,17,Pick A Bigger Weapon,The Coup,78,85,25,11,Epitaph,['Rap']
+"April 11, 2006",2006,15,Some Echoes,Aloha,78,82,9,10,Polyvinyl,"['Indie', 'Rock']"
+"June 13, 2006",2006,24,The Sun Awakens,Six Organs of Admittance,78,88,15,6,Drag City,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,Surprise,Paul Simon,78,85,23,55,Warner Bros.,"['Rock', 'Singer-Songwriter']"
+"March 7, 2006",2006,10,Ballad Of The Broken Seas,Isobel Campbell Mark Lanegan,78,85,23,15,V2,"['Indie', 'Rock']"
+"March 21, 2006",2006,12,Cannibal Sea,The Essex Green,78,80,16,7,Merge,"['Indie', 'Rock']"
+"August 22, 2006",2006,34,Happy Hollow,Cursive,78,86,24,20,Saddle Creek,"['Indie', 'Rock']"
+"May 16, 2006",2006,20,The True False Identity,T-Bone Burnett,78,78,7,4,Sony,"['Rock', 'Singer-Songwriter']"
+"September 12, 2006",2006,37,Taiga,OOIOO,78,79,9,10,Thrill Jockey,"['Indie', 'Rock']"
+"May 16, 2006",2006,20,Powder Burns,The Twilight Singers,78,88,17,36,One Little Indian,"['Indie', 'Rock']"
+"November 21, 2006",2006,47,The Devil And God Are Raging Inside Me,Brand New,78,88,17,198,Interscope,"['Rock', 'Alternative']"
+"September 26, 2006",2006,39,Human Animal,Wolf Eyes,78,63,18,15,Sub Pop,"['Indie', 'Rock', 'Experimental']"
+"October 10, 2006",2006,41,Long Island Shores,Mindy Smith,78,90,7,4,Vanguard,"['Country', 'Folk', 'Singer-Songwriter']"
+"January 24, 2006",2006,4,Rabbit Fur Coat,Jenny Lewis With The Watson Twins,78,75,24,58,Team Love / Rough Trade,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,The Life Pursuit,Belle and Sebastian,78,86,35,120,Matador / Rough Trade,"['Indie', 'Rock']"
+"June 6, 2006",2006,23,The River In Reverse,Elvis Costello Allen Toussaint,78,84,20,7,Verve Forecast,"['Rock', 'R&B', 'Soul']"
+"January 24, 2006",2006,4,Up Above,Town Country,78,0,7,0,Thrill Jockey,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,Remember That I Love You,Kimya Dawson,78,80,10,19,K Records,"['Indie', 'Rock']"
+"September 26, 2006",2006,39,Dreamt For Light Years In The Belly Of A Mountain,Sparklehorse,78,82,24,29,Astralwerks,"['Indie', 'Rock']"
+"October 31, 2006",2006,44,Pretty Little Head,Nellie McKay,78,83,17,9,Black Dove,"['Rock', 'Pop', 'Singer-Songwriter']"
+"February 21, 2006",2006,8,Leaders Of The Free World,Elbow,78,88,25,71,V2,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,Comfort Of Strangers,Beth Orton,78,78,32,29,Astralwerks,"['Indie', 'Rock', 'Singer-Songwriter']"
+"May 9, 2006",2006,19,Springtime Can Kill You,Jolie Holland,78,84,18,15,Anti / Epitaph,"['Indie', 'Rock', 'Folk', 'Singer-Songwriter']"
+"May 9, 2006",2006,19,Ships,Danielson,78,88,23,24,Secretly Canadian,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Get Yr Blood Sucked Out,Viva Voce,78,85,17,6,Barsuk,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,Live A Little,Pernice Brothers,78,88,18,9,Ashmont,"['Indie', 'Rock']"
+"April 18, 2006",2006,16,A Blessing And A Curse,Drive-By Truckers,78,87,24,19,New West,"['Indie', 'Rock']"
+"March 21, 2006",2006,12,Everything All The Time,Band of Horses,78,83,24,86,Sub Pop,"['Indie', 'Rock']"
+"December 12, 2006",2006,50,More Fish,Ghostface Killah,77,87,21,21,Def Jam,['Rap']
+"May 15, 2006",2006,20,Black Gold,King Biscuit Time,77,74,8,5,Poptones,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Hello Young Lovers,Sparks,77,85,18,16,In The Red / Gut,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,Idols Of Exile,Jason Collett,77,86,12,13,Arts & Crafts,"['Indie', 'Rock', 'Singer-Songwriter']"
+"March 28, 2006",2006,13,King,TI,77,85,18,57,Atlantic,['Rap']
+"October 24, 2006",2006,43,Once Again,John Legend,77,80,22,36,Sony,"['R&B', 'Soul']"
+"April 11, 2006",2006,15,Field Music,Field Music,77,84,18,13,Memphis Industries,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,Last Night Becomes This Morning,Swearing At Motorists,77,0,8,0,Secretly Canadian,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,Living With War,Neil Young,77,83,24,53,Reprise,['Rock']
+"October 10, 2006",2006,41,Roots Crowns,Califone,77,87,17,22,Thrill Jockey,"['Indie', 'Rock']"
+"November 7, 2006",2006,45,The Peel Sessions 1991-2004,PJ Harvey,77,73,12,12,Fontana,"['Rock', 'Alternative']"
+"September 5, 2006",2006,36,Slappers,Dani Siciliano,77,0,8,0,K7,['Electronic']
+"April 25, 2006",2006,17,Zeroes And Ones,Eleventh Dream Day,77,0,7,0,Thrill Jockey,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,Demon,Envelopes,77,86,11,5,Brille,"['Indie', 'Rock']"
+"June 6, 2006",2006,23,Lets Get Out Of This Country,Camera Obscura,77,86,22,26,Merge,"['Indie', 'Rock']"
+"January 10, 2006",2006,2,Colour The Small One,Sia,77,89,15,146,Astralwerks / Go Beat,"['Rock', 'Singer-Songwriter']"
+"July 11, 2006",2006,28,The Eraser,Thom Yorke,76,83,37,218,XL,"['Rock', 'Electronic', 'Alternative']"
+"August 22, 2006",2006,34,Future Crayon,Broadcast,76,0,17,0,Warp,"['Indie', 'Rock', 'Electronic']"
+"October 10, 2006",2006,41,And Now That Im In Your Shadow,Damien Jurado,76,86,11,7,Secretly Canadian,"['Indie', 'Rock', 'Singer-Songwriter']"
+"March 7, 2006",2006,10,Skeleton,Figurines,76,80,14,8,Control Group,"['Indie', 'Rock']"
+"June 20, 2006",2006,25,Ganging Up On The Sun,Guster,76,83,13,37,Reprise,"['Rock', 'Pop']"
+"September 12, 2006",2006,37,Meadow,Richard Buckner,76,78,11,5,Merge,"['Indie', 'Rock', 'Singer-Songwriter']"
+"February 7, 2006",2006,6,Eye To The Telescope,KT Tunstall,76,81,11,48,Virgin,"['Rock', 'Singer-Songwriter']"
+"August 22, 2006",2006,34,Trying To Never Catch Up,What Made Milwaukee Famous,76,80,12,6,Barsuk,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Etiquette,Casiotone For The Painfully Alone,76,0,17,0,Tomlab,"['Indie', 'Rock', 'Electronic']"
+"July 11, 2006",2006,28,The Avalanche Outtakes Extras From The Illinois Album,Sufjan Stevens,76,80,32,57,Asthmatic Kitty,"['Indie', 'Rock', 'Singer-Songwriter']"
+"March 21, 2006",2006,12,The Back Room,Editors,76,84,23,109,Fader / Kitchenware,"['Indie', 'Rock']"
+"January 24, 2006",2006,4,What Are You On,East River Pipe,76,87,10,6,Merge,"['Indie', 'Rock']"
+"February 21, 2006",2006,8,Future Women,The Ms,76,88,13,9,Polyvinyl,"['Indie', 'Rock']"
+"May 23, 2006",2006,21,To Find Me Gone,Vetiver,76,79,21,7,Dicristina Stair / Fat Cat,"['Indie', 'Rock', 'Folk']"
+"April 4, 2006",2006,14,The Loon,Tapes n Tapes,76,78,27,58,Ibid / XL,"['Indie', 'Rock']"
+"May 2, 2006",2006,18,Wolfmother,Wolfmother,76,85,22,103,Interscope,"['Rock', 'Metal']"
+"July 25, 2006",2006,30,Derdang Derdang,Archie Bronson Outfit,76,79,16,7,Domino,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,On Leaving,Nina Nastasia,76,83,15,8,Fat Cat,"['Indie', 'Rock', 'Singer-Songwriter']"
+"April 11, 2006",2006,15,Vessel States,Wilderness,76,85,11,8,Jagjaguwar,"['Indie', 'Rock']"
+"March 14, 2006",2006,11,Kicking The National Habit,Grand National,76,86,14,12,Sunday Best / Recall,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,The Air Force,Xiu Xiu,76,83,14,13,5 Rue Christine,"['Indie', 'Rock']"
+"July 25, 2006",2006,30,Putting The Days To Bed,The Long Winters,76,76,17,5,Barsuk,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,At War With The Mystics,The Flaming Lips,76,79,37,156,Warner Bros.,"['Indie', 'Rock']"
+"February 7, 2006",2006,6,Lantern,Clogs,76,84,14,10,Brassland,"['Indie', 'Rock', 'Experimental', 'Jazz']"
+"October 10, 2006",2006,41,Young Machetes,The Blood Brothers,76,88,22,34,V2,"['Indie', 'Rock']"
+"September 19, 2006",2006,38,Despite Our Differences,Indigo Girls,75,84,7,8,Hollywood,"['Rock', 'Adult Alternative', 'Folk', 'Singer-Songwriter']"
+"October 10, 2006",2006,41,Remember The Night Parties,Oxford Collapse,75,82,14,5,Sub Pop,"['Indie', 'Rock']"
+"June 6, 2006",2006,23,Be Your Own Pet,Be Your Own Pet,75,70,24,27,XL / Ecstatic Peace,"['Indie', 'Rock']"
+"August 22, 2006",2006,34,Get Lonely,The Mountain Goats,75,87,27,24,4AD,"['Indie', 'Rock']"
+"April 11, 2006",2006,15,Lunatico,Gotan Project,75,84,13,15,XL / Beggars Banquet,"['Electronic', 'World']"
+"April 25, 2006",2006,17,Ten Silver Drops,Secret Machines,75,74,23,16,Reprise,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Axis Of Evol,Pink Mountaintops,75,0,14,0,Jagjaguwar,"['Indie', 'Rock']"
+"June 27, 2006",2006,26,Nineteeneighties,Grant-Lee Phillips,75,0,10,0,Zoe / Cooking Vinyl,"['Indie', 'Rock']"
+"April 25, 2006",2006,17,Drowaton,Starlight Mints,75,83,10,6,Barsuk,"['Indie', 'Rock']"
+"June 27, 2006",2006,26,Fundamental,Pet Shop Boys,75,84,22,50,Rhino / Parlophone,"['Rock', 'Dance', 'Alternative']"
+"February 7, 2006",2006,6,The Minus 5 The Gun Album,The Minus 5,75,87,16,6,Yep Roc,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Pay The Devil,Van Morrison,75,68,16,13,Lost Highway,"['Rock', 'Country']"
+"May 16, 2006",2006,20,Broken Boy Soldiers,The Raconteurs,75,80,35,96,V2 / XL,"['Rock', 'Alternative']"
+"February 21, 2006",2006,8,With Strings Live At Town Hall,Eels,75,85,11,11,Vagrant,"['Indie', 'Rock', 'Live']"
+"April 4, 2006",2006,14,Ringleader Of The Tormentors,Morrissey,75,80,34,103,Sanctuary / Attack,"['Rock', 'Alternative']"
+"October 24, 2006",2006,43,Lets Build A Fire,-,75,80,,0,,[]
+"April 25, 2006",2006,17,Capture Release,The Rakes,75,85,18,20,V2,"['Indie', 'Rock']"
+"July 11, 2006",2006,28,Black Holes Revelations,Muse,75,87,32,493,Warner Bros,"['Rock', 'Alternative']"
+"July 25, 2006",2006,30,One Day It Will Please Us To Remember Even This,New York Dolls,75,78,21,22,Roadrunner,['Rock']
+"May 2, 2006",2006,18,A City By The Light Divided,Thursday,75,82,14,36,Island,"['Rock', 'Alternative', 'Emo']"
+"June 13, 2006",2006,24,MoMega,Mr Lif,75,71,22,8,Definitive Jux,"['Indie', 'Rap']"
+"March 21, 2006",2006,12,Beat Konducta Vol 1-2 Movie Scenes,Madlib,75,83,10,8,Stones Throw,['Rap']
+"April 11, 2006",2006,15,Garden Ruin,Calexico,75,78,27,26,Quarterstick / City Slang,"['Indie', 'Rock']"
+"February 21, 2006",2006,8,Everything Wrong Is Imaginary,Lilys,75,78,15,5,Manifesto,"['Indie', 'Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"March 21, 2006",2006,12,Bring It Back,Mates of State,74,84,20,11,Barsuk,"['Indie', 'Rock']"
+"September 26, 2006",2006,39,Love And Other Planets,Adem,74,74,24,5,Domino,"['Indie', 'Rock']"
+"August 8, 2006",2006,32,Reprieve,Ani DiFranco,74,76,12,13,Righteous Babe,"['Rock', 'Singer-Songwriter']"
+"July 25, 2006",2006,30,Silent Shout,The Knife,74,88,22,116,Mute / Brille / Rabid,"['Indie', 'Rock', 'Electronic']"
+"September 19, 2006",2006,38,Awoo,The Hidden Cameras,74,75,21,6,Arts & Crafts,"['Indie', 'Rock']"
+"October 10, 2006",2006,41,This Harness Cant Ride Anything,Chin Up Chin Up,74,0,12,0,Suicide Squeeze,"['Indie', 'Rock']"
+"May 2, 2006",2006,18,Pearl Jam,Pearl Jam,74,87,28,324,J-Records,"['Rock', 'Alternative']"
+"March 7, 2006",2006,10,The Invisible Deck,The Rogers Sisters,74,77,12,6,Too Pure / Beggars Banquet,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,Just Like The Fambly Cat,Grandaddy,74,85,25,22,V2,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,This Old Road,Kris Kristofferson,74,88,15,6,New West,['Country']
+"June 26, 2006",2006,26,Who Needs Actions When You Got Words,Plan B,74,80,18,43,679,"['Rock', 'Alternative', 'Rap']"
+"October 10, 2006",2006,41,The Tragic Treasury Songs From A Series Of Unfortunate Events,The Gothic Archies,74,86,8,8,Nonesuch,"['Indie', 'Rock']"
+"July 11, 2006",2006,28,Impeach My Bush,Peaches,74,67,22,15,XL,"['Indie', 'Rock', 'Electronic']"
+"April 18, 2006",2006,16,Yes Virginia,Dresden Dolls,74,87,17,26,Roadrunner,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Pieces Of The People We Love,The Rapture,74,75,27,39,Universal,"['Indie', 'Rock']"
+"September 19, 2006",2006,38,Ben Kweller,Ben Kweller,74,89,20,15,Red Ink,"['Indie', 'Rock']"
+"March 21, 2006",2006,12,When The Going Gets Dark,Quasi,74,73,21,6,Touch & Go / Domino,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,Ideal Lives,Rahim,74,0,9,0,French Kiss,"['Indie', 'Rock']"
+"June 13, 2006",2006,24,Stranger On The Sofa,Barry Adamson,74,0,8,0,Central Control,"['Rock', 'Alternative']"
+"February 21, 2006",2006,8,The Humbucking Coil,B Fleischmann,74,75,8,6,Morr Music,['Electronic']
+"March 14, 2006",2006,11,Stars Of CCTV,Hard-Fi,74,83,22,50,Atlantic,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,Catastrophe Keeps Us Together,Rainer Maria,74,0,13,0,Grunion,"['Indie', 'Rock']"
+"March 6, 2006",2006,10,Making Dens,Mystery Jets,74,86,9,7,679,"['Indie', 'Rock']"
+"February 14, 2006",2006,7,Voices,Matchbook Romance,74,69,8,17,Epitaph,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,Dancing With Daggers,Magneta Lane,74,0,9,0,Universal,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Mr Beast,Mogwai,74,84,36,39,Matador / PIAS,"['Indie', 'Rock']"
+"November 14, 2006",2006,46,Doctors Advocate,The Game,73,86,20,95,Geffen,['Rap']
+"July 25, 2006",2006,30,Nightlife,Erase Errata,73,0,13,0,Kill Rock Stars,"['Indie', 'Rock']"
+"August 22, 2006",2006,34,1968,Pajo,73,0,11,0,Drag City,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,Meek Warrior,AkronFamily,73,72,16,5,Young God,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Crazy Itch Radio,Basement Jaxx,73,70,28,22,XL,['Electronic']
+"May 9, 2006",2006,19,The Spell,The Black Heart Procession,73,0,20,0,Touch & Go,"['Indie', 'Rock']"
+"July 25, 2006",2006,30,Highway Companion,Tom Petty,73,85,21,28,American,['Rock']
+"January 24, 2006",2006,4,The Indian Tower,Pearls And Brass,73,80,10,6,Drag City,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,Stadium Arcadium,Red Hot Chili Peppers,73,89,25,1061,Warner Bros.,"['Rock', 'Alternative']"
+"October 10, 2006",2006,41,Hello Love,The Be Good Tanyas,73,80,11,4,Nettwerk,"['Indie', 'Rock', 'Folk']"
+"July 25, 2006",2006,30,Personality One Was A Spider One Was A Bird,The Sleepy Jackson,73,85,23,13,Astralwerks,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,Inside In Inside Out,The Kooks,73,77,18,80,Astralwerks / Virgin,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Witch,Witch,73,0,13,0,Tee Pee,"['Indie', 'Rock']"
+"June 13, 2006",2006,24,Getting Somewhere,Allison Moorer,73,79,9,7,Sugar Hill,"['Rock', 'Country']"
+"July 11, 2006",2006,28,Cansei De Ser Sexy,CSS,73,80,27,59,Sub Pop,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,The Information,Beck,73,82,36,112,Interscope,"['Rock', 'Alternative']"
+"March 6, 2006",2006,10,You See Colours,Delays,73,84,8,5,Rough Trade,"['Indie', 'Rock']"
+"August 8, 2006",2006,32,Tower Of Love,Jim Noir,73,80,18,7,Barsuk / My Dad,"['Indie', 'Rock', 'Singer-Songwriter']"
+"September 12, 2006",2006,37,Fading Trails,Magnolia Electric Co,73,0,11,0,Secretly Canadian,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,Beach House,Beach House,73,83,14,77,Carpark,"['Indie', 'Rock']"
+"June 20, 2006",2006,25,Brightblack Morning Light,Brightblack Morning Light,73,74,19,5,Matador,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Under A Billion Suns,Mudhoney,73,0,23,0,Sub Pop,"['Rock', 'Alternative']"
+"February 21, 2006",2006,8,Sound Mirrors,Coldcut,73,68,20,5,Ninja Tune,['Electronic']
+"September 26, 2006",2006,39,Knives Dont Have Your Back,Emily Haines,73,84,18,25,Last Gang,"['Indie', 'Rock']"
+"June 27, 2006",2006,26,Liberation Transmission,Lostprophets,73,77,7,49,Sony,"['Rock', 'Alternative', 'Metal']"
+"March 7, 2006",2006,10,Fear Is On Our Side,I Love You But Ive Chosen Darkness,73,83,14,11,Secretly Canadian,"['Indie', 'Rock']"
+"November 7, 2006",2006,45,Love Pain the whole crazy thing,Keith Urban,73,82,12,25,Capitol,['Country']
+"February 21, 2006",2006,8,Bitter Honey,Eef Barzelay,73,0,9,0,Spin Art,"['Indie', 'Rock']"
+"July 25, 2006",2006,30,WWI,White Whale,73,0,9,0,Merge,"['Indie', 'Rock']"
+"February 21, 2006",2006,8,Other Peoples Lives,Ray Davies,72,87,20,35,V2,['Rock']
+"March 21, 2006",2006,12,Born Again In The USA,Loose Fur,72,87,26,9,Drag City,"['Indie', 'Rock']"
+"June 6, 2006",2006,23,Decemberunderground,AFI,72,76,15,141,Interscope,"['Rock', 'Alternative']"
+"July 18, 2006",2006,29,Another Fine Day,Golden Smog,72,66,20,9,Lost Highway,"['Rock', 'Alt-Country']"
+"April 25, 2006",2006,17,The Hardest Way To Make An Easy Living,The Streets,72,72,36,31,Vice / 679,"['Indie', 'Rap']"
+"August 8, 2006",2006,32,Christ Illusion,Slayer,72,77,21,51,Warner Bros,"['Rock', 'Metal']"
+"March 7, 2006",2006,10,Fab Four Suture,Stereolab,72,84,22,11,Too Pure / Beggars Banquet,"['Indie', 'Rock']"
+"August 22, 2006",2006,34,Skelliconnection,Chad VanGaalen,72,74,11,5,Sub Pop,"['Indie', 'Rock']"
+"August 8, 2006",2006,32,Waterloo To Anywhere,Dirty Pretty Things,72,78,25,33,Interscope / Mercury,"['Rock', 'Alternative']"
+"April 11, 2006",2006,15,Death By Sexy,Eagles of Death Metal,72,80,17,20,Downtown,"['Indie', 'Rock']"
+"January 24, 2006",2006,4,Standing In The Way Of Control,Gossip,72,84,23,13,Kill Rock Stars,"['Indie', 'Rock']"
+"October 10, 2006",2006,41,Normal Happiness,Robert Pollard,72,78,17,8,Merge,"['Indie', 'Rock']"
+"March 21, 2006",2006,12,My Dark Places,The Television Personalities,72,80,17,4,Domino,"['Indie', 'Rock']"
+"May 23, 2006",2006,21,Taking The Long Way,Dixie Chicks,72,83,18,141,Sony,['Country']
+"August 22, 2006",2006,34,Idlewild,Outkast,72,79,30,92,La Face,"['Rap', 'R&B', 'Soundtrack']"
+"May 23, 2006",2006,21,Its Never Been Like That,Phoenix,72,88,25,43,Astralwerks / Source,"['Indie', 'Rock', 'Electronic']"
+"October 31, 2006",2006,44,Saturday Night Wrist,Deftones,72,86,18,134,Maverick,"['Rock', 'Alternative', 'Metal']"
+"October 10, 2006",2006,41,Micah P Hinson And The Opera Circuit,Micah P Hinson,72,77,20,6,Jade Tree,"['Indie', 'Rock', 'Singer-Songwriter']"
+"February 14, 2006",2006,7,Young For Eternity,The Subways,71,75,19,28,Sire,"['Rock', 'Alternative']"
+"September 26, 2006",2006,39,Ta-Dah,Scissor Sisters,71,81,30,57,Universal,"['Indie', 'Rock', 'Dance']"
+"January 24, 2006",2006,4,From A Compound Eye,Robert Pollard,71,88,24,9,Merge,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,Last Secrets,The Like Young,71,0,9,0,Polyvinyl,"['Indie', 'Rock']"
+"January 24, 2006",2006,4,Electric President,Electric President,71,88,7,24,Morr Music,['Electronic']
+"March 7, 2006",2006,10,Cuts Across The Land,The Duke Spirit,71,78,17,11,Star Time / Polydor,"['Indie', 'Rock']"
+"June 20, 2006",2006,25,Loose,Nelly Furtado,71,86,27,193,Geffen,"['Rock', 'Pop', 'R&B', 'Singer-Songwriter']"
+"June 13, 2006",2006,24,News And Tributes,The Futureheads,71,76,33,18,Vagrant / 679,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,Flat-Pack Philosophy,Buzzcocks,71,0,11,0,Cooking Vinyl,"['Rock', 'Alternative']"
+"February 21, 2006",2006,8,What The Toll Tells,Two Gallants,71,88,17,12,Saddle Creek,"['Indie', 'Rock']"
+"November 7, 2006",2006,45,Get Evens,The Evens,71,78,11,4,Dischord,"['Indie', 'Rock']"
+"July 4, 2006",2006,27,Keep On Moving,ESG,71,0,10,0,Soul Jazz,"['Rock', 'Dance', 'Alternative']"
+"September 12, 2006",2006,37,Talk To La Bomb,Brazilian Girls,71,73,10,6,Verve Forecast,"['Rock', 'Dance']"
+"February 28, 2006",2006,9,Precious Memories,Alan Jackson,71,84,7,8,Arista,"['Country', 'Gospel']"
+"January 24, 2006",2006,4,Amber,Clearlake,71,84,20,7,Domino,"['Indie', 'Rock']"
+"April 11, 2006",2006,15,Elan Vital,Pretty Girls Make Graves,71,65,18,15,Matador,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Varcharz,Mouse on Mars,71,74,10,5,Ipecac,['Electronic']
+"January 24, 2006",2006,4,Detrola,His Name Is Alive,71,80,15,5,Reincarnate,"['Indie', 'Rock']"
+"October 17, 2006",2006,42,World Waits,Jeremy Enigk,70,81,13,8,Reincarnate,"['Indie', 'Rock']"
+"March 21, 2006",2006,12,Duper Sessions,Sondre Lerche,70,83,14,8,Astralwerks,"['Indie', 'Pop']"
+"October 31, 2006",2006,44,In The Absence Of Truth,Isis,70,87,18,28,Ipecac,"['Rock', 'Alternative', 'Metal']"
+"May 2, 2006",2006,18,How We Operate,Gomez,70,85,21,36,ATO,"['Indie', 'Rock']"
+"December 12, 2006",2006,50,The Inspiration,Young Jeezy,70,72,17,35,Def Jam,['Rap']
+"April 4, 2006",2006,14,Death In The Garden Blood On The Flowers,Irving,70,0,8,0,Eenie Meenie,"['Indie', 'Rock']"
+"September 26, 2006",2006,39,The Lemonheads,The Lemonheads,70,83,23,14,Vagrant,"['Rock', 'Alternative']"
+"June 6, 2006",2006,23,Free To Stay,Smoosh,70,80,15,10,Barsuk,"['Indie', 'Rock']"
+"August 22, 2006",2006,34,Kelis Was Here,Kelis,70,81,23,38,Jive,"['Pop', 'R&B']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"June 6, 2006",2006,23,The Only Thing I Ever Wanted,Psapp,70,0,14,0,Domino,['Electronic']
+"June 6, 2006",2006,23,The Garden,Zero 7,70,78,21,29,Atlantic,['Electronic']
+"April 4, 2006",2006,14,Im Not Dead,P!nk,70,88,20,239,La Face,['Pop']
+"April 18, 2006",2006,16,Introduction,The Red Krayola,70,0,8,0,Drag City,"['Indie', 'Rock']"
+"September 19, 2006",2006,38,Tired Of Hanging Around,The Zutons,70,73,19,18,Deltasonic / Red Ink,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,FutureSex LoveSounds,Justin Timberlake,70,82,25,501,Jive,"['Pop', 'R&B']"
+"September 5, 2006",2006,36,BDay,Beyoncé,70,76,23,0,Sony,"['Pop', 'R&B']"
+"November 21, 2006",2006,47,Tha Blue Carpet Treatment,Snoop Dogg,70,74,19,40,Geffen,['Rap']
+"August 22, 2006",2006,34,Honey From The Tombs,Amy Millan,70,68,17,8,Arts & Crafts,"['Indie', 'Rock']"
+"May 23, 2006",2006,21,A Hundred Miles Off,The Walkmen,70,87,26,40,Record Collection,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,The Little Willies,The Little Willies,70,72,14,5,Milking Bull / Parlophone,"['Rock', 'Country']"
+"February 28, 2006",2006,9,In My Own Words,Ne-Yo,69,84,11,28,Def Jam,['R&B']
+"September 19, 2006",2006,38,The Captain The Kid,Elton John,69,80,16,43,Interscope,"['Rock', 'Pop']"
+"March 21, 2006",2006,12,3121,Prince,69,82,31,79,Universal,"['Rock', 'Pop', 'R&B']"
+"January 3, 2006",2006,1,First Impressions Of Earth,The Strokes,69,80,38,472,RCA,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Magic Potion,The Black Keys,69,77,23,84,Nonesuch,"['Indie', 'Rock']"
+"June 6, 2006",2006,23,Puzzles Like You,Mojave 3,69,85,15,15,4AD,"['Indie', 'Rock']"
+"May 23, 2006",2006,21,Stand Still Look Pretty,The Wreckers,69,86,7,31,Maverick,"['Rock', 'Pop', 'Country']"
+"March 7, 2006",2006,10,Mobile,Glenn Kotche,69,0,11,0,Nonesuch,"['Rock', 'Experimental', 'Instrumental']"
+"April 4, 2006",2006,14,In Colour,The Concretes,69,0,19,0,Astralwerks,"['Indie', 'Pop']"
+"August 15, 2006",2006,33,Back To Basics,Christina Aguilera,69,89,17,638,RCA,['Pop']
+"April 18, 2006",2006,16,Bitter Tea,The Fiery Furnaces,69,88,30,51,Fat Possum,"['Indie', 'Rock']"
+"March 14, 2006",2006,11,Showtunes,Stephin Merritt,69,69,12,9,Nonesuch,"['Indie', 'Rock', 'Soundtrack']"
+"June 20, 2006",2006,25,Corinne Bailey Rae,Corinne Bailey Rae,69,84,13,36,Capitol,"['Rock', 'Soul', 'Singer-Songwriter']"
+"August 22, 2006",2006,34,Classics,Ratatat,69,84,13,32,XL,"['Indie', 'Rock', 'Electronic']"
+"March 21, 2006",2006,12,Both Sides Of The Gun,Ben Harper,69,79,13,22,Virgin,"['Rock', 'Adult Alternative', 'Singer-Songwriter']"
+"August 22, 2006",2006,34,To The Races,Eric Bachmann,69,83,14,6,Saddle Creek,"['Indie', 'Rock']"
+"November 14, 2006",2006,46,So Divided,And You Will Know Us by the Trail of Dead,68,76,31,45,Interscope,"['Indie', 'Rock']"
+"March 21, 2006",2006,12,Dying To Say This To You,The Sounds,68,86,15,17,Scratchie / New Line,"['Indie', 'Rock']"
+"February 28, 2006",2006,9,Everything Is,Nine Black Alps,68,88,20,21,Island,"['Indie', 'Rock']"
+"March 7, 2006",2006,10,The Exchange Session Vol 1,Kieran Hebden and Steve Reid,68,0,16,0,Domino,"['Indie', 'Electronic', 'Experimental', 'Jazz']"
+"February 7, 2006",2006,6,Security Screenings,Prefuse 73,68,0,22,0,Warp,['Electronic']
+"January 24, 2006",2006,4,Makers,Rocky Votolato,68,86,13,14,Barsuk,"['Indie', 'Rock']"
+"July 18, 2006",2006,29,Two Thousand,French Kicks,68,80,13,8,Vagrant,"['Indie', 'Rock']"
+"May 2, 2006",2006,18,10000 Days,Tool,68,84,19,512,Volcano,"['Rock', 'Alternative', 'Metal']"
+"October 3, 2006",2006,40,Friendly Fire,Sean Lennon,68,84,22,36,Capitol,['Rock']
+"April 25, 2006",2006,17,Songs And Other Things,Tom Verlaine,68,0,16,0,Thrill Jockey,"['Indie', 'Rock']"
+"March 21, 2006",2006,12,Subtitulo,Josh Rouse,68,74,13,19,Nettwerk,"['Indie', 'Rock', 'Singer-Songwriter']"
+"April 10, 2006",2006,15,Jacket Full Of Danger,Adam Green,68,0,15,0,Rough Trade,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Dark Light Daybreak,Now Its Overhead,68,0,10,0,Saddle Creek,"['Indie', 'Rock']"
+"November 21, 2006",2006,47,Kingdom Come,Jay-Z,67,64,23,130,Roc-A-Fella,['Rap']
+"February 28, 2006",2006,9,Soft Money,Jel,67,81,14,9,Anticon,"['Indie', 'Electronic', 'Rap']"
+"February 14, 2006",2006,7,Ghetto Classics,Jaheim,67,78,13,6,Warner Bros.,['R&B']
+"October 24, 2006",2006,43,Noise Floor Rarities 1998-2005,Bright Eyes,67,80,19,20,Saddle Creek,"['Indie', 'Rock']"
+"January 10, 2006",2006,2,With Love And Squalor,We Are Scientists,67,82,16,32,Virgin,"['Indie', 'Rock']"
+"June 19, 2006",2006,25,Victory For The Comic Muse,The Divine Comedy,67,85,16,26,Parlophone,"['Indie', 'Rock', 'Britpop']"
+"April 11, 2006",2006,15,White Trash With Money,Toby Keith,67,42,9,23,Show Dog,['Country']
+"September 12, 2006",2006,37,Continuum,John Mayer,67,89,18,160,Sony,"['Adult Alternative', 'Singer-Songwriter']"
+"July 4, 2006",2006,27,Actual Fucking,Cex,67,0,8,0,Automation,"['Indie', 'Rock', 'Electronic']"
+"January 24, 2006",2006,4,Firewater,Tha Alkaholiks,67,0,9,0,Koch,['Rap']
+"October 31, 2006",2006,44,Songbird,Willie Nelson,67,57,19,17,Lost Highway,"['Rock', 'Country']"
+"October 24, 2006",2006,43,Pussy Cats Starring The Walkmen,The Walkmen,67,78,17,6,Record Collection,"['Indie', 'Rock']"
+"November 7, 2006",2006,45,Milk White Sheets,Isobel Campbell,67,0,22,0,V2,"['Indie', 'Rock']"
+"April 18, 2006",2006,16,Richard Butler,Richard Butler,67,80,10,10,Koch,"['Rock', 'Alternative']"
+"March 7, 2006",2006,10,On An Island,David Gilmour,67,79,16,81,Sony,['Rock']
+"January 24, 2006",2006,4,Omnibus,Tarkio,67,80,9,4,Kill Rock Stars,"['Indie', 'Rock', 'Alt-Country']"
+"June 6, 2006",2006,23,Who Loves The Sun OST,Portastatic,67,0,9,0,Merge,"['Indie', 'Rock', 'Soundtrack']"
+"February 14, 2006",2006,7,The Secret Life Of The Veronicas,The Veronicas,67,88,9,36,Sire,"['Rock', 'Pop']"
+"March 7, 2006",2006,10,Push The Heart,Devics,67,61,10,7,Reincarnate / Bella Union,"['Indie', 'Rock']"
+"April 17, 2006",2006,16,Kick,White Rose Movement,67,0,8,0,Independiente,"['Indie', 'Rock']"
+"October 31, 2006",2006,44,Public Warning,Lady Sovereign,67,60,34,28,Def Jam,['Rap']
+"September 12, 2006",2006,37,Into The Blue Again,The Album Leaf,67,74,15,8,Sub Pop,"['Indie', 'Rock']"
+"April 25, 2006",2006,17,Back To The Web,Elf Power,67,78,12,4,Rykodisc,"['Indie', 'Rock']"
+"April 18, 2006",2006,16,Under The Covers Vol 1,Matthew Sweet and Susanna Hoffs,67,79,12,8,Shout! Factory,"['Rock', 'Pop']"
+"August 29, 2006",2006,35,Nightcrawler,Pete Yorn,67,85,16,26,Red Ink,"['Rock', 'Adult Alternative', 'Singer-Songwriter']"
+"May 9, 2006",2006,19,Eyes Open,Snow Patrol,67,78,25,75,A&M / Polydor,"['Rock', 'Alternative']"
+"January 24, 2006",2006,4,Film School,Film School,66,71,14,9,Beggars Banquet,"['Indie', 'Rock']"
+"September 12, 2006",2006,37,Face The Promise,Bob Seger,66,84,10,19,Capitol,['Rock']
+"March 21, 2006",2006,12,Notes And The Like,Ms John Soda,66,0,7,0,Morr Music,"['Indie', 'Rock', 'Electronic']"
+"November 21, 2006",2006,47,Beast Moans,Swan Lake,66,77,20,17,Jagjaguwar,"['Indie', 'Rock']"
+"September 19, 2006",2006,38,From This Moment On,Diana Krall,66,0,7,0,Verve,"['Pop', 'Jazz']"
+"April 4, 2006",2006,14,Adventures In The Underground Journey To The Stars,South,66,73,14,10,Young American,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,The Charm,Bubba Sparxxx,66,68,18,4,Virgin,['Rap']
+"August 8, 2006",2006,32,Made In Brooklyn,Masta Killa,66,73,7,6,Nature Sounds,['Rap']
+"January 24, 2006",2006,4,For Screening Purposes Only,Test Icicles,66,76,23,7,Domino,"['Indie', 'Rock']"
+"October 17, 2006",2006,42,Long Trip Alone,Dierks Bentley,66,84,10,14,Capitol,['Country']
+"November 14, 2006",2006,46,An Other Cup,Yusuf,65,87,18,45,Atlantic,"['Rock', 'Pop']"
+"February 14, 2006",2006,7,The Tourniquet,Magnet,65,0,7,0,Filter / Atlantic,"['Indie', 'Rock', 'Singer-Songwriter']"
+"February 21, 2006",2006,8,Now Is The Time!,Polysics,65,0,11,0,Tofu / Tired & Lonesome,"['Indie', 'Rock']"
+"September 19, 2006",2006,38,Empire,Kasabian,65,71,20,80,RCA,"['Indie', 'Rock', 'Electronic']"
+"December 5, 2006",2006,49,The Evolution,Ciara,65,77,20,50,LaFace,"['Pop', 'R&B']"
+"January 24, 2006",2006,4,The Brave And The Bold,Tortoise Bonnie Prince Billy,65,75,28,11,Overcoat / Domino,"['Indie', 'Rock']"
+"December 12, 2006",2006,50,The Destroyed Room B-Sides And Rarities,Sonic Youth,65,65,19,11,Geffen,"['Indie', 'Rock']"
+"May 9, 2006",2006,19,Without Feathers,The Stills,65,65,20,22,Vice,"['Indie', 'Rock']"
+"July 11, 2006",2006,28,Greedy Baby,Plaid,65,0,9,0,Warp,['Electronic']
+"August 29, 2006",2006,35,421 The Day After,Method Man,65,72,17,9,Def Jam,['Rap']
+"April 4, 2006",2006,14,Meds,Placebo,65,77,16,100,Astralwerks / Elevator,"['Rock', 'Alternative']"
+"November 28, 2006",2006,48,Light Grenades,Incubus,65,78,13,92,Sony,"['Rock', 'Alternative', 'Metal']"
+"November 14, 2006",2006,46,9,Damien Rice,64,84,28,53,Heffa / Vector,"['Rock', 'Adult Alternative', 'Folk', 'Singer-Songwriter']"
+"May 30, 2006",2006,22,Peeping Tom,Peeping Tom,64,85,22,32,Ipecac,"['Rock', 'Electronic', 'Alternative']"
+"April 25, 2006",2006,17,Around,Tom Verlaine,64,0,14,0,Thrill Jockey,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,Vision Valley,The Vines,64,82,19,45,Capitol / Heavenly,"['Rock', 'Alternative']"
+"May 16, 2006",2006,20,Continental,Robin Guthrie,64,0,8,0,Darla,"['Indie', 'Rock', 'Instrumental']"
+"April 25, 2006",2006,17,Louder Now,Taking Back Sunday,64,81,13,49,Warner Bros.,"['Rock', 'Alternative']"
+"August 22, 2006",2006,34,Kill Them With Kindness,Headlights,64,83,9,4,Polyvinyl,"['Indie', 'Rock']"
+"June 6, 2006",2006,23,The Exchange Session Vol 2,Kieran Hebden and Steve Reid,64,0,13,0,Domino,"['Indie', 'Electronic', 'Experimental', 'Jazz']"
+"September 19, 2006",2006,38,Super Extra Gravity,The Cardigans,64,87,15,19,Nettwerk,"['Rock', 'Alternative']"
+"October 17, 2006",2006,42,Hello Everything,Squarepusher,64,79,19,11,Warp,['Electronic']
+"February 14, 2006",2006,7,9th Ward Pickin Parlor,Shawn Mullins,64,0,7,0,Vanguard,"['Rock', 'Singer-Songwriter']"
+"February 28, 2006",2006,9,The Believer,Rhett Miller,64,83,18,9,Verve Forecast,"['Rock', 'Singer-Songwriter', 'Alt-Country']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"August 22, 2006",2006,34,On The Outside,Starsailor,64,72,10,5,Adrenaline,"['Rock', 'Alternative']"
+"July 25, 2006",2006,30,Yell Fire!,Michael Franti Spearhead,64,88,11,11,Anti,"['Rap', 'R&B', 'Reggae']"
+"March 7, 2006",2006,10,In A Space Outta Sound,Nightmares on Wax,64,84,13,5,Warp,['Electronic']
+"June 13, 2006",2006,24,The Big Bang,Busta Rhymes,64,68,17,25,Aftermath,['Rap']
+"February 7, 2006",2006,6,Run The Road Volume 2,Various Artists,64,0,7,0,Vice,"['Indie', 'Rap']"
+"October 3, 2006",2006,40,Sams Town,The Killers,64,80,32,330,Island,"['Rock', 'Alternative']"
+"March 21, 2006",2006,12,All At Once,Young People,64,0,10,0,Too Pure / Beggars Banquet,"['Indie', 'Rock']"
+"April 4, 2006",2006,14,Things Go Better With RJ And Al,Soul Position,64,0,7,0,Rhymesayers,"['Indie', 'Rap']"
+"October 31, 2006",2006,44,Endless Wire,The Who,64,76,22,54,Republic,['Rock']
+"July 11, 2006",2006,28,Mistake Mistake Mistake Mistake,James Figurine,63,70,11,8,Plug Research,['Electronic']
+"February 21, 2006",2006,8,2020,Dilated Peoples,63,77,14,7,Capitol,['Rap']
+"January 24, 2006",2006,4,Sun Sun Sun,The Elected,63,85,24,15,Sub Pop,"['Indie', 'Rock']"
+"April 25, 2006",2006,17,All The Roadrunning,Mark Knopfler and Emmylou Harris,63,85,12,28,Warner Bros.,"['Rock', 'Country']"
+"June 20, 2006",2006,25,Under The Iron Sea,Keane,63,85,24,121,Interscope,"['Rock', 'Alternative']"
+"September 19, 2006",2006,38,The Outsider,DJ Shadow,62,44,31,46,Universal,['Rap']
+"April 4, 2006",2006,14,Karmacode,Lacuna Coil,62,79,7,16,Century Media,"['Rock', 'Metal']"
+"July 18, 2006",2006,29,The Looks,MSTRKRFT,62,59,14,19,Last Gang,"['Indie', 'Rock', 'Electronic']"
+"August 29, 2006",2006,35,Threes Co,The Tyde,62,0,17,0,Rough Trade,"['Indie', 'Rock']"
+"October 9, 2006",2006,41,Smoke Mirrors,The Datsuns,62,83,7,4,V2,"['Rock', 'Alternative']"
+"February 6, 2006",2006,6,Sexor,Tiga,62,59,11,10,Different,['Electronic']
+"March 21, 2006",2006,12,Kratitude,The Seconds,62,0,8,0,5 Rue Christine,"['Indie', 'Rock']"
+"October 3, 2006",2006,40,Shine On,Jet,62,59,16,69,Atlantic,['Rock']
+"August 1, 2006",2006,31,Monsieur Gainsbourg Revisited,Various Artists,62,0,9,0,Verve Forecast,"['Rock', 'Alternative']"
+"October 17, 2006",2006,42,Press Play,Diddy,62,53,19,41,Bad Boy,['Rap']
+"October 3, 2006",2006,40,The Open Door,Evanescence,61,84,12,228,Wind-Up,"['Rock', 'Alternative']"
+"September 12, 2006",2006,37,Amputechture,The Mars Volta,61,83,28,126,Universal,"['Rock', 'Alternative']"
+"July 18, 2006",2006,29,In The Maybe World,Lisa Germano,61,87,11,14,Young God,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"June 19, 2006",2006,25,Left,Hope Of The States,61,85,9,10,Columbia,"['Rock', 'Alternative']"
+"January 31, 2006",2006,5,For Me Its You,Train,61,73,7,8,Sony,"['Rock', 'Alternative']"
+"April 18, 2006",2006,16,Curses,Rye Coalition,61,0,11,0,Gern Blandsten,"['Indie', 'Rock']"
+"August 8, 2006",2006,32,Winter Women Holy Ghost Language School,Matthew Friedberger,61,83,18,7,859,"['Indie', 'Rock']"
+"June 27, 2006",2006,26,The Return Of Dr Octagon,Dr Octagon,61,74,22,11,OCD,"['Indie', 'Rap']"
+"January 24, 2006",2006,4,Kings Queens,The National Trust,60,0,10,0,Thrill Jockey,"['Indie', 'Rock']"
+"October 24, 2006",2006,43,Calamity,The Curtains,60,0,9,0,Asthmatic Kitty,"['Indie', 'Rock']"
+"June 27, 2006",2006,26,Dusk And Summer,Dashboard Confessional,60,65,18,48,Vagrant,"['Rock', 'Alternative', 'Emo']"
+"March 7, 2006",2006,10,Dead Drunk,Terrestrial Tones,60,73,9,4,Paw Tracks,"['Indie', 'Rock']"
+"February 27, 2006",2006,9,Breaking Up,The Research,60,0,11,0,At Large,"['Indie', 'Rock']"
+"November 14, 2006",2006,46,When Your Heart Stops Beating,44,60,82,,0,,[]
+"October 24, 2006",2006,43,Chops,Euros Childs,60,75,8,6,Wichita,"['Indie', 'Rock']"
+"August 1, 2006",2006,31,Year Of The Dog Again,DMX,60,66,13,21,Sony,['Rap']
+"October 24, 2006",2006,43,Threes,Sparta,60,81,15,12,Hollywood,"['Rock', 'Alternative']"
+"September 26, 2006",2006,39,Release Therapy,Ludacris,60,73,21,30,Def Jam,['Rap']
+"August 22, 2006",2006,34,Razorlight,Razorlight,60,61,18,38,Mercury,"['Rock', 'Alternative']"
+"February 14, 2006",2006,7,Timeless,Sergio Mendes,60,65,17,12,Concord,"['Pop', 'Rap', 'World']"
+"September 5, 2006",2006,36,Revelations,Audioslave,60,81,15,75,Sony,"['Rock', 'Alternative']"
+"May 16, 2006",2006,20,So Amazin,Christina Milian,59,76,12,20,Def Jam,"['Pop', 'R&B']"
+"February 21, 2006",2006,8,Hello Waveforms,William Orbit,59,78,9,6,Sanctuary,['Electronic']
+"January 24, 2006",2006,4,Lights And Sounds,Yellowcard,59,77,13,63,Capitol,"['Rock', 'Alternative']"
+"June 6, 2006",2006,23,Laugh Now Cry Later,Ice Cube,59,77,11,27,Lench Mob,['Rap']
+"August 22, 2006",2006,34,Riot City Blues,Primal Scream,59,65,19,31,Sony / Columbia,"['Rock', 'Alternative']"
+"October 3, 2006",2006,40,Mr Brown,Sleepy Brown,59,60,13,4,Virgin / Purple Ribbon,"['Rap', 'R&B']"
+"June 20, 2006",2006,25,Fast Man Raider Man,Frank Black,59,80,19,24,Back Porch / Cooking Vinyl,"['Indie', 'Rock']"
+"February 14, 2006",2006,7,Sing-Sing And I,Sing-Sing,59,0,11,0,Reincarnate / Aerial,"['Indie', 'Pop']"
+"March 27, 2006",2006,13,This New Day,Embrace,59,72,9,18,Independiente,"['Rock', 'Alternative']"
+"April 18, 2006",2006,16,Live From Dakota,Stereophonics,58,77,8,7,Vox Populi / V2,"['Rock', 'Alternative', 'Live']"
+"December 5, 2006",2006,49,The Sweet Escape,Gwen Stefani,58,73,24,210,Interscope,"['Rock', 'Dance', 'Pop']"
+"February 7, 2006",2006,6,Senor Smoke,Electric Six,58,84,13,22,Metropolis,"['Indie', 'Rock', 'Dance']"
+"September 19, 2006",2006,38,The Dutchess,Fergie,58,58,15,294,Interscope,"['Pop', 'R&B']"
+"June 5, 2006",2006,23,Twelve Stops And Home,The Feeling,58,76,7,34,Island,"['Rock', 'Pop']"
+"July 25, 2006",2006,30,Feedback,Jurassic 5,57,58,26,31,Interscope,['Rap']
+"May 2, 2006",2006,18,Goodbye Alice In Wonderland,Jewel,57,76,18,22,Atlantic,"['Rock', 'Pop', 'Singer-Songwriter']"
+"October 17, 2006",2006,42,Born In The UK,Badly Drawn Boy,57,66,30,23,Astralwerks,"['Indie', 'Rock']"
+"April 25, 2006",2006,17,Let Love In,Goo Goo Dolls,57,73,8,41,Warner Bros.,"['Rock', 'Pop']"
+"August 22, 2006",2006,34,Paris,Paris Hilton,57,53,17,197,Warner Bros,['Pop']
+"February 28, 2006",2006,9,If Only You Were Lonely,Hawthorne Heights,57,58,12,43,Victory,"['Indie', 'Rock']"
+"February 14, 2006",2006,7,Down In Albion,Babyshambles,56,74,22,107,Rough Trade,"['Indie', 'Rock']"
+"April 11, 2006",2006,15,Imaad Wasif,Imaad Wasif,56,0,7,0,Kill Rock Stars,"['Indie', 'Rock']"
+"January 10, 2006",2006,2,Morningwood,Morningwood,55,71,12,31,Capitol,"['Rock', 'Alternative']"
+"January 24, 2006",2006,4,Testify,POD,55,75,11,47,Atlantic,"['Rock', 'Alternative', 'Metal']"
+"April 18, 2006",2006,16,The Black Magic Show,Elefant,55,67,10,17,Kemado,"['Indie', 'Rock']"
+"May 16, 2006",2006,20,Enemies Like This,Radio 4,55,72,16,5,Astralwerks,"['Indie', 'Rock']"
+"July 11, 2006",2006,28,The Silver Lining,Soul Asylum,55,82,12,12,Sony,"['Rock', 'Alternative']"
+"May 2, 2006",2006,18,Blood Money,Mobb Deep,55,73,17,23,Interscope,['Rap']
+"September 19, 2006",2006,38,Darkel,Darkel,55,71,18,9,Astralwerks,"['Indie', 'Rock', 'Electronic']"
+"May 2, 2006",2006,18,Simpatico,The Charlatans UK,55,81,19,9,Sanctuary,"['Rock', 'Alternative']"
+"September 12, 2006",2006,37,Welcome To The Drama Club,Everclear,54,79,7,14,Eleven Seven Music,"['Rock', 'Alternative']"
+"April 11, 2006",2006,15,Daniel Powter,Daniel Powter,54,63,11,16,Warner Bros.,"['Pop', 'Singer-Songwriter']"
+"June 6, 2006",2006,23,Its Alive!,The New Cars,54,0,8,0,Eleven Seven Music,"['Rock', 'Live']"
+"June 27, 2006",2006,26,Testimony Vol 1 Life Relationship,IndiaArie,53,77,14,29,Universal,"['R&B', 'Soul']"
+"October 23, 2006",2006,43,Rudebox,Robbie Williams,53,73,12,77,Chrysalis,"['Rock', 'Pop']"
+"May 23, 2006",2006,21,We Dont Need To Whisper,Angels and Airwaves,53,75,12,271,Geffen,"['Rock', 'Alternative']"
+"May 16, 2006",2006,20,Every Man For Himself,Hoobastank,53,70,7,24,Island,"['Rock', 'Alternative']"
+"October 31, 2006",2006,44,Bat Out Of Hell III The Monster Is Loose,Meat Loaf,52,77,13,31,Virgin,['Rock']
+"March 21, 2006",2006,12,Keys To The World,Richard Ashcroft,52,69,19,66,Parlophone,"['Rock', 'Alternative', 'Britpop']"
+"September 26, 2006",2006,39,20 YO,Janet Jackson,52,68,14,73,Virgin,"['Dance', 'Pop', 'R&B']"
+"July 25, 2006",2006,30,In My Mind,Pharrell Williams,52,73,23,49,Interscope,"['Rap', 'R&B']"
+"November 14, 2006",2006,46,The Pick Of Destiny OST,Tenacious D,52,82,16,52,Sony,"['Rock', 'Soundtrack']"
+"April 11, 2006",2006,15,Todd Smith,LL Cool J,51,67,17,9,Def Jam,"['Rap', 'R&B']"
+"October 10, 2006",2006,41,Rotten Apple,Lloyd Banks,51,64,14,32,Interscope / G-Unit,['Rap']
+"June 6, 2006",2006,23,Songs From Black Mountain,Live,50,53,7,14,Epic,"['Rock', 'Alternative']"
+"December 5, 2006",2006,49,Eminem Presents The Re-Up,Eminem,50,76,13,296,Shady Records,['Rap']
+"September 12, 2006",2006,37,Switzerland,Electric Six,49,78,9,17,Metropolis,"['Indie', 'Rock']"
+"August 15, 2006",2006,33,Second Rounds On Me,Obie Trice,48,83,9,25,Shady Records,['Rap']
+"May 16, 2006",2006,20,Types Of Wood,Whirlwind Heat,47,0,7,0,Brille,"['Indie', 'Rock']"
+"December 29, 2006",2006,52,True Magic First Version,Mos Def,45,67,9,20,Geffen,['Rap']
+"January 24, 2006",2006,4,Generation,Audio Bullys,44,57,18,6,Astralwerks,['Electronic']
+"September 19, 2006",2006,38,Hoodstar,Chingy,41,24,11,26,Capitol,['Rap']
+"June 6, 2006",2006,23,A Lively Mind,Paul Oakenfold,40,25,9,26,Maverick / Perfecto,['Electronic']
+"August 15, 2006",2006,33,One,The Panic Channel,39,51,14,47,Capitol,"['Rock', 'Alternative']"
+"October 31, 2006",2006,44,Playing With Fire,Kevin Federline,15,22,7,393,Reincarnate,['Rap']

@@ -1,0 +1,714 @@
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"November 22, 2010",2010,47,My Beautiful Dark Twisted Fantasy,Kanye West,94,84,45,3522,Def Jam,"['Pop', 'Rap', 'Pop/Rock', 'Midwest Rap', 'Pop-Rap']"
+"May 18, 2010",2010,20,The ArchAndroid,Janelle Monáe,91,89,28,0,Atlantic,"['R&B', 'Soul']"
+"September 14, 2010",2010,37,The Guitar Song,Jamey Johnson,91,80,9,29,Mercury,"['Country', 'Contemporary Country', 'Outlaw Country']"
+"July 6, 2010",2010,27,Sir Lucious Left Foot The Son of Chico Dusty,Big Boi,90,87,33,183,Def Jam,"['Rap', 'Pop/Rock']"
+"February 23, 2010",2010,8,Ali Toumani,Ali Farka Toure And Toumani Diabate,89,85,12,23,World Circuit,['World']
+"October 19, 2010",2010,42,The Witmark Demos 1962-1964,Bob Dylan,88,77,13,18,Columbia,"['Folk', 'Pop/Rock', 'Political Folk']"
+"March 30, 2010",2010,13,Black Tambourine,Black Tambourine,88,75,8,12,Slumberland,"['Indie', 'Rock', 'Pop']"
+"September 28, 2010",2010,39,Silent Movies,Marc Ribot,87,76,7,5,Pi Recordings,"['Classical', 'Jazz', 'Avant-Garde', 'Film Music', 'Modern Creative', 'Film Score', 'Modern Composition']"
+"September 14, 2010",2010,37,Airtights Revenge,Bilal,87,86,9,12,Plug Research,"['R&B', 'Soul', 'Pop/Rock', 'Contemporary R&B']"
+"August 3, 2010",2010,31,The Suburbs,Arcade Fire,87,89,43,771,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"November 22, 2010",2010,47,Body Talk,Robyn,86,89,19,197,Interscope,"['Pop', 'Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Dance-Pop', 'Euro-Pop', 'Club/Dance', 'Alternative Dance']"
+"March 6, 2010",2010,9,This Is Still It,The Method Actors,86,83,8,4,Acute,['Rock']
+"June 22, 2010",2010,25,How I Got Over,The Roots,86,87,23,146,Def Jam,"['Rap', 'Hip Hop']"
+"September 28, 2010",2010,39,Halcyon Digest,Deerhunter,86,86,33,152,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 8, 2010",2010,23,Assume Crash Position,Konono No 1,86,75,12,0,Crammed Disc,"['Electronic', 'Alternative', 'Folk', 'World']"
+"May 4, 2010",2010,18,Cosmogramma,Flying Lotus,86,89,26,149,Warp,"['Electronic', 'Experimental']"
+"April 13, 2010",2010,15,I See The Sign,Sam Amidon,86,86,12,7,Bedroom Community,"['Folk', 'Singer-Songwriter']"
+"October 26, 2010",2010,43,Spiral Shadow,Kylesa,85,77,9,13,Season of Mist,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Heavy Metal']"
+"August 10, 2010",2010,32,The Budos Band III,The Budos Band,85,86,11,16,Daptone,['R&B']
+"February 23, 2010",2010,8,Have One On Me,Joanna Newsom,85,83,35,223,Drag City,"['Rock', 'Alternative']"
+"March 9, 2010",2010,10,Quarantine The Past,Pavement,85,87,16,24,Matador,"['Rock', 'Alternative']"
+"May 11, 2010",2010,19,High Violet,The National,85,89,36,293,4AD,"['Indie', 'Rock']"
+"June 8, 2010",2010,23,Before Today,Ariel Pinks Haunted Graffiti,85,81,25,81,4AD,"['Indie', 'Rock', 'Experimental']"
+"December 21, 2010",2010,51,Apollo Kids,Ghostface Killah,84,81,17,34,Def Jam,"['Rap', 'Pop/Rock', 'East Coast Rap', 'Hardcore Rap']"
+"May 18, 2010",2010,20,This Is Happening,LCD Soundsystem,84,86,38,233,DFA/Virgin,"['Indie', 'Rock', 'Electronic', 'Alternative']"
+"June 1, 2010",2010,22,Treats,Sleigh Bells,84,83,35,203,Mom + Pop/N.E.E.T.,"['Indie', 'Rock']"
+"November 9, 2010",2010,45,Sometimes the Blues is Just a Passing Bird,The Tallest Man on Earth,84,87,11,29,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 22, 2010",2010,25,Ten,Jason Moran,84,76,11,0,Blue Note,['Jazz']
+"September 28, 2010",2010,39,Forget,Twin Shadow,84,86,15,39,MRI Associated Labels,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 1, 2010",2010,22,Wake Up The Nation,Paul Weller,84,76,22,16,Yep Roc,['Rock']
+"March 30, 2010",2010,13,New Amerykah Part Two Return of the Ankh,Erykah Badu,83,85,25,77,Motown,"['R&B', 'Soul']"
+"September 21, 2010",2010,38,My Father Will Guide Me Up a Rope to the Sky,Swans,83,85,24,38,Young God Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Experimental Rock', 'Noise-Rock']"
+"November 9, 2010",2010,45, Disambiguation,Underoath,83,77,,0,,[]
+"September 14, 2010",2010,37,Lisbon,The Walkmen,83,87,30,38,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Garage Rock Revival']"
+"September 14, 2010",2010,37,Grinderman 2,Grinderman,83,81,37,33,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Punk Blues', 'Rock & Roll']"
+"March 2, 2010",2010,9,Hidden,These New Puritans,83,88,27,76,Domino,"['Indie', 'Rock']"
+"September 14, 2010",2010,37,Majesty Shredding,Superchunk,83,85,25,11,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"February 2, 2010",2010,5,Blackjazz,Shining,83,71,12,36,The End,"['Rock', 'Metal']"
+"April 20, 2010",2010,16,Swim,Caribou,83,84,31,64,Merge,['Electronic']
+"September 14, 2010",2010,37,Harlem River Blues,Justin Townes Earle,83,0,12,0,Bloodshot,"['Country', 'Alt-Country', 'Rockabilly', 'Americana', 'Contemporary Singer/Songwriter']"
+"February 9, 2010",2010,6,Black Noise,Pantha du Prince,83,73,20,36,Rough Trade,"['Electronic', 'Techno']"
+"June 8, 2010",2010,23,Eyes Nines,Trash Talk,83,75,8,6,Trash Talk Collective,['Rock']
+"April 20, 2010",2010,16,Blue Sky Noise,Circa Survive,83,87,7,39,Atlantic,"['Indie', 'Rock']"
+"February 23, 2010",2010,8,Luck In The Valley,Jack Rose,83,57,9,6,Thrill Jockey,['Folk']
+"May 18, 2010",2010,20,Royal Toast,The Claudia Quintet,83,0,9,0,Cuneiform,"['Experimental', 'Jazz']"
+"January 26, 2010",2010,4,Teen Dream,Beach House,82,82,35,380,Sub Pop,"['Rock', 'Pop']"
+"May 18, 2010",2010,20,The Foundling,Mary Gauthier,82,0,7,0,Razor & Tie,"['Pop/Rock', 'Contemporary Singer/Songwriter']"
+"March 23, 2010",2010,12,Option Paralysis,The Dillinger Escape Plan,82,73,16,130,Season of Mist,"['Rock', 'Metal']"
+"June 22, 2010",2010,25,Homeland,Laurie Anderson,82,88,17,0,Nonesuch,"['Rock', 'Experimental']"
+"September 21, 2010",2010,38,Epic,Sharon Van Etten,82,84,14,16,Ba Da Bing Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Folk']"
+"July 13, 2010",2010,28,Sky at Night,I Am Kloot,82,80,8,9,Shepard Moon,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 9, 2010",2010,10,The Monitor,Titus Andronicus,82,79,32,105,XL,"['Indie', 'Rock']"
+"May 18, 2010",2010,20,A Small Turn Of Human Kindness,Harvey Milk,82,65,14,6,Hydra Head,"['Rock', 'Metal']"
+"September 28, 2010",2010,39,Good Things,Aloe Blacc,82,78,13,17,Stones Throw,"['Rap', 'R&B', 'Soul', 'Neo-Soul', 'Contemporary R&B']"
+"September 21, 2010",2010,38,Pattern Grid World,Flying Lotus,82,81,,0,,[]
+"November 9, 2010",2010,45,For the Ghosts Within,Gilad Atzmon,82,0,,0,,[]
+"April 13, 2010",2010,15,Bears Mayors Scraps Bones,Cancer Bats,82,72,7,9,Distort,"['Rock', 'Metal', 'Punk']"
+"June 22, 2010",2010,25,Learning,Perfume Genius,82,83,11,29,Matador,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"May 25, 2010",2010,21,At Night We Live,Far,82,83,7,6,Vagrant,"['Rock', 'Alternative', 'Metal']"
+"October 26, 2010",2010,43,Funeral Mariachi,Sun City Girls,82,0,11,0,Abduction,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Psychedelic/Garage']"
+"January 26, 2010",2010,4,Couple Tracks Singles 2002-2009,Fucked Up,82,0,16,0,Matador,"['Rock', 'Punk']"
+"November 30, 2010",2010,48,Love Me Back,Jazmine Sullivan,82,88,11,37,RCA,"['R&B', 'Pop/Rock', 'Contemporary R&B']"
+"April 20, 2010",2010,16,True Love Cast Out All Evil,Roky Erickson With Okkervil River,82,83,26,4,Anti,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"January 26, 2010",2010,4,There Is Love In You,Four Tet,82,81,30,61,Domino,"['Indie', 'Rock']"
+"May 18, 2010",2010,20,Brothers,The Black Keys,82,86,31,227,Nonesuch,"['Rock', 'Alternative', 'Blues']"
+"September 14, 2010",2010,37,Solo,Vijay Iyer,81,0,11,0,Act Music + Vision,"['Jazz', 'Pop/Rock', 'Piano Jazz', 'Jazz Instrument']"
+"October 19, 2010",2010,42,Love Remains,How to Dress Well,81,83,15,20,Lefse,['R&B']
+"February 8, 2010",2010,6,The Shadow Of An Empire,Fionn Regan,81,83,8,6,Heavenly,"['Rock', 'Alternative', 'Folk', 'Singer-Songwriter']"
+"October 5, 2010",2010,40,TSOL,Shad,81,86,10,9,Black Box Recordings,"['Rap', 'Pop/Rock', 'Alternative Rap']"
+"January 12, 2010",2010,2,Contra,Vampire Weekend,81,69,39,595,XL,"['Indie', 'Rock', 'Pop']"
+"October 5, 2010",2010,40,Marnie Stern,Marnie Stern,81,81,19,14,Kill Rock Stars,['Pop/Rock']
+"April 27, 2010",2010,17,Avi Buffalo,Avi Buffalo,81,82,19,20,Sub Pop,"['Rock', 'Alternative']"
+"September 28, 2010",2010,39,Public Strain,Women,81,88,20,18,Jagjaguwar,"['Pop/Rock', 'Indie Rock', 'Noise-Rock']"
+"May 4, 2010",2010,18,So Runs The World Away,Josh Ritter,81,81,18,23,Pytheas,"['Alternative', 'Folk', 'Singer-Songwriter']"
+"May 4, 2010",2010,18,Your Future Our Clutter,The Fall,81,88,21,8,Domino,['Rock']
+"April 6, 2010",2010,14,I Speak Because I Can,Laura Marling,81,88,21,66,Astralwerks,"['Rock', 'Alternative']"
+"July 20, 2010",2010,29,The Way Out,The Books,81,79,22,13,Temporary Residence,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Electronic', 'Indie Pop', 'Post-Rock']"
+"March 2, 2010",2010,9,Going Places,Yellow Swans,81,86,7,5,Type,"['Rock', 'Electronic', 'Experimental']"
+"April 6, 2010",2010,14,I Learned The Hard Way,Sharon Jones the Dap-Kings,81,87,30,13,Daptone,"['R&B', 'Soul']"
+"March 23, 2010",2010,12,Heres The Tender Coming,The Unthanks,81,0,11,0,Rough Trade,['Folk']
+"January 26, 2010",2010,4,Boca Negra,Chicago Underground Duo,81,0,,0,,[]
+"October 12, 2010",2010,41,Recitation,Envy,81,0,7,0,Temporary Residence,['Pop/Rock']
+"June 8, 2010",2010,23,Shadows,Teenage Fanclub,81,85,18,15,Merge,"['Rock', 'Indie/Alternative']"
+"April 20, 2010",2010,16,I Am What I Am,Merle Haggard,81,0,14,0,Vanguard,['Country']
+"January 12, 2010",2010,2,July Flame,Laura Veirs,81,78,19,23,Raven Marching Band,"['Indie', 'Rock', 'Singer-Songwriter']"
+"October 5, 2010",2010,40,Infinite Love,Dustin Wong,81,0,8,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 14, 2010",2010,37,You Are Not Alone,Mavis Staples,81,88,16,4,Epitaph,"['R&B', 'Soul', 'Pop/Rock']"
+"May 24, 2010",2010,21,Micah P Hinson and the Pioneer Saboteurs,Micah P Hinson,81,0,8,0,Full Time Hobby,"['Country', 'Americana', 'Alternative/Indie Rock', 'Indie Pop']"
+"October 5, 2010",2010,40,Easy Wonderful,Guster,81,85,10,10,Republic,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"October 12, 2010",2010,41,The Age of Adz,Sufjan Stevens,80,85,33,180,Asthmatic Kitty,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Contemporary Pop/Rock', 'Indie Rock', 'Indie Pop']"
+"February 23, 2010",2010,8,I Liked It Better When You Had No Heart,Butch Walker And The Black Widows,80,77,8,6,One Haven,"['Rock', 'Pop', 'Alt-Country']"
+"January 19, 2010",2010,3,Real Life Is No Cool,Lindstrom Christabelle,80,73,22,22,Smalltown Supersound,['Electronic']
+"September 14, 2010",2010,37,Band of Joy,Robert Plant,80,78,22,16,Rounder,"['Country', 'Folk', 'Pop/Rock', 'Contemporary Folk', 'Modern Acoustic Blues']"
+"February 16, 2010",2010,7,Gorilla Manor,Local Natives,80,88,18,56,French Kiss,"['Indie', 'Rock']"
+"February 23, 2010",2010,8,Snakes For The Divine,High on Fire,80,68,16,52,Koch,"['Rock', 'Metal']"
+"June 15, 2010",2010,24,American Slang,The Gaslight Anthem,80,85,29,48,Side One Dummy,"['Rock', 'Indie/Alternative']"
+"September 28, 2010",2010,39,Le Noise,Neil Young,80,79,27,17,Reprise,"['Singer/Songwriter', 'Pop/Rock']"
+"October 12, 2010",2010,41,Lucky Shiner,Gold Panda,80,81,22,12,Ghostly International,"['Electronic', 'Club/Dance']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"May 18, 2010",2010,20,Revolutions Per Minute,Reflection Eternal,80,81,11,11,Warner Bros.,['Rap']
+"November 9, 2010",2010,45,The Lady Killer,Cee Lo Green,80,77,33,46,Atlantic,"['Rap', 'R&B', 'Soul', 'Pop/Rock', 'Neo-Soul', 'Southern Rap', 'Dirty South']"
+"July 27, 2010",2010,30,Praise Blame,Tom Jones,80,0,17,0,Mercury Nashville,"['Vocal', 'Pop/Rock', 'American Trad Rock']"
+"January 19, 2010",2010,3,Transference,Spoon,80,84,37,108,Merge,"['Indie', 'Rock']"
+"October 5, 2010",2010,40,There Is a Hell Believe Me Ive Seen It There is a Heaven Lets Keep It a Secret,Bring Me the Horizon,80,86,9,113,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Metal', 'Heavy Metal']"
+"September 28, 2010",2010,39,Everything in Between,No Age,80,78,35,22,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Punk/New Wave', 'Hardcore Punk']"
+"January 26, 2010",2010,4,IRM,Charlotte Gainsbourg,80,72,21,62,Elektra/Because,"['Rock', 'Pop']"
+"June 8, 2010",2010,23,Up On The Ridge,Dierks Bentley,80,0,,0,,[]
+"March 2, 2010",2010,9,Endless Falls,Loscil,80,79,8,9,Kranky,"['Electronic', 'Experimental', 'Techno']"
+"March 9, 2010",2010,10,The Besnard Lakes Are The Roaring Night,The Besnard Lakes,80,82,22,15,Jagjaguwar,['Rock']
+"February 9, 2010",2010,6,Ya-Ka-May,Galactic,80,73,10,10,Anti,"['Rock', 'Pop', 'R&B', 'Funk']"
+"November 22, 2010",2010,47,Progress,Take That,80,70,8,21,Polydor,"['Britpop', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Dance-Pop', 'Alternative Pop/Rock', 'Contemporary Pop/Rock']"
+"July 13, 2010",2010,28,Libraries,The Love Language,80,0,8,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"June 22, 2010",2010,25,Boys Outside,Steve Mason,80,0,16,0,Domino,"['Indie', 'Rock']"
+"March 23, 2010",2010,12,The Wondershow Of The World,Bonnie Prince Billy The Cairo Gang,80,80,14,8,Drag City,"['Indie', 'Rock', 'Folk']"
+"June 15, 2010",2010,24,Antifogmatic,Punch Brothers,80,88,7,4,Nonesuch,"['Country', 'Contemporary Bluegrass', 'Progressive Bluegrass', 'String Bands']"
+"April 27, 2010",2010,17,Pauls Tomb A Triumph,Frog Eyes,80,0,13,0,Dead Oceans,"['Indie', 'Rock']"
+"January 19, 2010",2010,3,OST,Crazy Heart,79,70,,0,,[]
+"January 12, 2010",2010,2,Rain On The City,Freedy Johnston,79,88,11,4,Bar None,"['Rock', 'Alternative', 'Country']"
+"October 12, 2010",2010,41,Swanlights,Antony and the Johnsons,79,81,28,32,Secretly Canadian,"['Vocal', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Art Rock', 'Chamber Pop', 'Cabaret']"
+"January 19, 2010",2010,3,My Dinosaur Life,Motion City Soundtrack,79,76,13,48,Sony,"['Rock', 'Punk']"
+"June 29, 2010",2010,26,Love King,The-Dream,79,84,21,0,Def Jam,['Rap']
+"February 23, 2010",2010,8,American VI Aint No Grave,Johnny Cash,79,87,20,16,Lost Highway,"['Rock', 'Country']"
+"January 26, 2010",2010,4,Downtown Church,Patty Griffin,79,87,10,6,Credential,['Folk']
+"November 2, 2010",2010,44,National Ransom,Elvis Costello,79,68,20,5,Hear Music,['Pop/Rock']
+"April 13, 2010",2010,15,Wild Hunt,The Tallest Man on Earth,79,88,26,72,Dead Oceans,"['Rock', 'Folk', 'Singer-Songwriter']"
+"August 3, 2010",2010,31,Tribal,Dr John,79,0,8,0,429 Records,"['R&B', 'Blues', 'Pop/Rock', 'Rock & Roll', 'New Orleans R&B', 'Piano Blues']"
+"May 4, 2010",2010,18,Subiza,Delorean,79,85,14,0,Mushroom Pillow,"['Indie', 'Electronic']"
+"July 20, 2010",2010,29,Teflon Don,Rick Ross,79,70,18,41,Def Jam,"['Rap', 'Pop/Rock', 'Gangsta Rap', 'Southern Rap']"
+"October 12, 2010",2010,41,The Secret Sisters,Secret Sisters,79,0,13,0,Universal Republic,"['Country', 'Pop/Rock', 'Neo-Traditional Folk', 'Contemporary Country', 'Country-Folk', 'Neo-Traditionalist Country']"
+"September 14, 2010",2010,37,Album of the Year,Black Milk,79,84,11,7,Fat Beats,"['Rap', 'Underground Rap', 'Midwest Rap']"
+"February 9, 2010",2010,6,Soldier Of Love,Sade,79,86,19,50,Sony,"['Pop', 'R&B', 'Soul']"
+"October 12, 2010",2010,41,Living with Yourself,Mark McGuire,79,0,7,0,Editions Mego,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 14, 2010",2010,37,Castle Talk,Screaming Females,79,0,12,0,Don Giovanni,"['Pop/Rock', 'Punk/New Wave']"
+"February 9, 2010",2010,6,Crows,Allison Moorer,79,0,12,0,Ryko,"['Indie', 'Alternative', 'Folk']"
+"March 30, 2010",2010,13,I Will Be,Dum Dum Girls,79,81,23,19,Sub Pop,"['Rock', 'Pop', 'Alternative']"
+"November 22, 2010",2010,47,Absolute Dissent,Killing Joke,79,78,8,9,Fontana / Interscope / Spinefarm Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 9, 2010",2010,6,One Life Stand,Hot Chip,79,74,34,76,Astralwerks,"['Indie', 'Rock', 'Electronic']"
+"November 22, 2010",2010,47,Pilot Talk II,Curreny,79,85,10,13,DD172,"['Rap', 'Pop/Rock', 'Southern Rap', 'Hardcore Rap']"
+"February 16, 2010",2010,7,Field Music Measure,Field Music,79,79,21,26,Memphis Industries/Revolver.,['Alternative']
+"March 23, 2010",2010,12,In The Court Of The Wrestling Lets,Lets Wrestle,79,0,12,0,Merge,"['Indie', 'Rock']"
+"January 19, 2010",2010,3,Astro Coast,Surfer Blood,79,80,25,27,Kanine,"['Rock', 'Pop', 'Alternative']"
+"January 4, 2010",2010,1,Chant Darling,Lawrence Arabia,79,82,9,5,Bella Union,"['Indie', 'Rock', 'Pop']"
+"March 16, 2010",2010,11,The Big To-Do,Drive-By Truckers,78,82,24,17,ATO,"['Rock', 'Alt-Country']"
+"January 26, 2010",2010,4,The Calcination Of Scout Niblett,Scout Niblett,78,75,14,4,Drag City,"['Indie', 'Rock', 'Alternative', 'Singer-Songwriter']"
+"June 8, 2010",2010,23,Becoming A Jackal,Villagers,78,87,16,18,Domino,"['Indie', 'Rock']"
+"August 17, 2010",2010,33,Black City,Matthew Dear,78,83,23,12,Ghostly International,"['Electronic', 'Techno', 'Club/Dance', 'Indie Electronic', 'Experimental Techno']"
+"April 20, 2010",2010,16,Country Music,Willie Nelson,78,0,15,0,Rounder,['Country']
+"August 17, 2010",2010,33,No Better Than This,John Mellencamp,78,81,14,7,Rounder,['Pop/Rock']
+"May 4, 2010",2010,18,Diamond Eyes,Deftones,78,88,19,158,Reprise,['Rock']
+"May 11, 2010",2010,19,Relayted,Gayngs,78,81,13,9,Jagjaguwar,"['Rock', 'Dance', 'Alternative']"
+"March 23, 2010",2010,12,The Way Of The World,Mose Allison,78,0,9,0,Anti,['Jazz']
+"March 9, 2010",2010,10,Sisterworld,Liars,78,76,30,26,Mute,"['Rock', 'Experimental']"
+"September 14, 2010",2010,37,Heretofore,Megafaun,78,0,9,0,Hometapes,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Country-Rock', 'Roots Rock']"
+"June 15, 2010",2010,24,Total Life Forever,Foals,78,85,30,108,Sub Pop,"['Indie', 'Rock']"
+"July 27, 2010",2010,30,Hunting My Dress,Jesca Hoop,78,79,11,9,Vanguard,"['Rock', 'Experimental', 'Singer-Songwriter']"
+"February 16, 2010",2010,7,Kollaps Tradixionales,Thee Silver Mt Zion Memorial Orchestra Tra-La-La Band,78,82,16,10,Constellation,"['Rock', 'Experimental']"
+"April 20, 2010",2010,16,Clinging To A Scheme,The Radio Dept,78,87,14,28,Labrador Sweden,"['Indie', 'Rock', 'Pop']"
+"February 9, 2010",2010,6,Im New Here,Gil Scott-Heron,78,86,28,14,XL,"['Rap', 'R&B', 'Blues']"
+"March 16, 2010",2010,11,Peepers,Polar Bear,78,84,9,7,Leaf Spain,"['Experimental', 'Jazz']"
+"March 9, 2010",2010,10,San Patricio,The Chieftains Featuring Ry Cooder,78,74,10,5,Hear,"['Folk', 'World']"
+"March 9, 2010",2010,10,The Winter Of Mixed Drinks,Frightened Rabbit,78,87,28,27,Fat Cat,"['Indie', 'Rock']"
+"March 9, 2010",2010,10,A Sufi And A Killer,Gonjasufi,78,86,16,22,Warp,['Electronic']
+"February 16, 2010",2010,7,Genuine Negro Jig,Carolina Chocolate Drops,78,87,7,6,Nonesuch,"['Country', 'Folk', 'Blues']"
+"February 16, 2010",2010,7,The Stimulus Package,Freeway Jake One,78,85,15,11,Rhymesayers,['Rap']
+"February 9, 2010",2010,6,Odd Blood,Yeasayer,78,88,36,149,Secretly Canadian,"['Indie', 'Rock', 'Alternative']"
+"June 22, 2010",2010,25,Part II The New December,The Booksman,78,0,,0,,[]
+"September 28, 2010",2010,39,Ring,Glasser,78,87,20,15,True Panther Sounds,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Electronic', 'Dream Pop']"
+"October 12, 2010",2010,41,Play It Strange,The Fresh Onlys,78,78,12,4,In the Red Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Noise Pop', 'Neo-Psychedelia']"
+"December 7, 2010",2010,49,Tron Legacy,Daft Punk,78,0,27,0,Disney / Walt Disney,"['Electronic', 'House', 'Electronica', 'Pop/Rock', 'Club/Dance', 'Soundtracks', 'Stage & Screen', 'Left-Field House', 'Progressive House']"
+"May 11, 2010",2010,19,Heres To Taking It Easy,Phosphorescent,78,0,25,0,Dead Oceans,"['Indie', 'Rock']"
+"August 24, 2010",2010,34,Special MovesBurning,Mogwai,78,80,13,7,Rock Action / Rock Action Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Post-Rock', 'Experimental Rock']"
+"March 16, 2010",2010,11,Under Great White Northern Lights Live,The White Stripes,78,87,16,26,Warner Bros.,"['Rock', 'Alternative', 'Live']"
+"January 26, 2010",2010,4,The Sea,Corinne Bailey Rae,78,87,21,38,Capitol,"['R&B', 'Soul']"
+"January 26, 2010",2010,4,2,Retribution Gospel Choir,78,0,,0,,[]
+"June 8, 2010",2010,23,Crystal Castles 2010,Crystal Castles,77,89,24,137,Fiction,"['Dance', 'Electronic']"
+"March 9, 2010",2010,10,Plastic Beach,Gorillaz,77,86,34,484,Virgin,"['Rock', 'Electronic', 'Alternative']"
+"July 6, 2010",2010,27,Flesh Tone,Kelis,77,84,16,53,A&M,"['R&B', 'Pop/Rock']"
+"July 13, 2010",2010,28,Admiral Fell Promises,Sun Kil Moon,77,83,16,9,Caldo Verde Records,['Pop/Rock']
+"December 7, 2010",2010,49,Ghost Blonde,No Joy,77,0,9,0,Mexican Summer,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Noise Pop', 'Shoegaze']"
+"October 12, 2010",2010,41,Steeple,Wolf People,77,0,11,0,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Neo-Psychedelia', 'Psychedelic/Garage', 'British Psychedelia']"
+"August 31, 2010",2010,35,Dream Attic,Richard Thompson,77,80,16,4,Shout! Factory,"['Singer/Songwriter', 'Pop/Rock', 'Contemporary Folk', 'British Folk-Rock', 'British Folk']"
+"September 14, 2010",2010,37,Root For Ruin,Les Savy Fav,77,73,22,6,French Kiss,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 16, 2010",2010,46,Light of a Vaster Dark,Faun Fables,77,0,12,0,Drag City,"['Folk', 'Folk-Rock', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Neo-Traditional Folk', 'American Underground', 'Acid Folk']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"August 24, 2010",2010,34,Rivers,Wildbirds Peacedrums,77,80,14,5,Control Group,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"December 14, 2010",2010,50,Love Letter,R Kelly,77,84,17,16,Jive,"['R&B', 'Adult Contemporary R&B', 'Contemporary R&B']"
+"October 26, 2010",2010,43,The Fool,Warpaint,77,82,33,28,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'New Wave/Post-Punk Revival', 'Dream Pop', 'Psychedelic/Garage']"
+"November 1, 2010",2010,44,Ancestral Star,Barn Owl,77,0,12,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Doom Metal']"
+"May 18, 2010",2010,20,Love And Its Opposite,Tracey Thorn,77,78,17,6,Merge,"['Rock', 'Alternative']"
+"April 6, 2010",2010,14,Shame Shame,Dr Dog,77,82,19,27,Anti,"['Rock', 'Alternative']"
+"April 27, 2010",2010,17,What We Lose In The Fire We Gain In The Flood,The Mynabirds,77,0,12,0,Saddle Creek,"['Indie', 'Rock']"
+"July 20, 2010",2010,29,Infra,Max Richter,77,82,14,5,Fat Cat,"['Electronic', 'Electronica']"
+"June 8, 2010",2010,23,Wild Smile,Suckers,77,0,8,0,French Kiss,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Experimental Rock']"
+"October 25, 2010",2010,43,Speak Now,Taylor Swift,77,88,20,1537,Big Machine,"['Pop', 'Country', 'Pop/Rock', 'Contemporary Country']"
+"June 1, 2010",2010,22,Bride Screamed Murder,The Melvins,77,74,16,5,Ipecac,"['Rock', 'Indie/Alternative']"
+"May 11, 2010",2010,19,Nothing Hurts,Male Bonding,77,80,22,6,Sub Pop,"['Indie', 'Rock', 'Pop']"
+"September 14, 2010",2010,37,What It Means to Be Left-Handed,Mice Parade,77,0,11,0,Fat Cat Records,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'IDM']"
+"February 1, 2010",2010,5,Unicorn,Chew Lips,77,75,9,4,Family,"['Indie', 'Rock']"
+"May 4, 2010",2010,18,Forgiveness Rock Record,Broken Social Scene,77,81,31,48,Arts & Crafts,"['Indie', 'Rock', 'Pop']"
+"July 13, 2010",2010,28,Pilot Talk,Curreny,77,83,9,23,Def Jam,"['Rap', 'Pop/Rock', 'Southern Rap', 'Hardcore Rap']"
+"September 21, 2010",2010,38,Duppy Writer,Wrongtom,77,0,,0,,[]
+"November 9, 2010",2010,45,Strychnine Dandelions,The Parting Gifts,77,0,7,0,In the Red Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Garage Punk', 'Garage Rock Revival']"
+"September 21, 2010",2010,38,Wake Up!,John Legend,77,73,,0,,[]
+"October 19, 2010",2010,42,Undercard,The Extra Lens,77,0,14,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"June 8, 2010",2010,23,White Crosses,Against Me!,77,70,18,24,Sire,"['Rock', 'Indie/Alternative']"
+"July 13, 2010",2010,28,Serotonin,Mystery Jets,77,78,15,8,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Neo-Psychedelia']"
+"June 1, 2010",2010,22,The Chaos,The Futureheads,77,78,19,4,Dovecote,"['Rock', 'Indie/Alternative']"
+"May 25, 2010",2010,21,Saint Bartlett,Damien Jurado,77,78,15,4,Secretly Canadian,"['Indie', 'Rock', 'Alternative', 'Singer-Songwriter']"
+"September 21, 2010",2010,38,Postcards From a Young Man,Manic Street Preachers,76,79,16,16,Columbia,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"October 5, 2010",2010,40,1000 Years,The Corin Tucker Band,76,0,18,0,Kill Rock Stars,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"September 7, 2010",2010,36,Body Talk Pt 2,Robyn,76,87,23,38,Island,"['Pop', 'Electronic', 'R&B', 'Urban', 'Pop/Rock', 'Alternative/Indie Rock', 'Dance-Pop', 'Euro-Pop', 'Club/Dance', 'Alternative Dance', 'Euro-Dance']"
+"July 27, 2010",2010,30,Crazy for You,Best Coast,76,79,29,43,Mexican Summer,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop', 'Noise Pop']"
+"April 6, 2010",2010,14,Go,Jónsi,76,87,6,0,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 3, 2010",2010,31,Tin Can Trust,Los Lobos,76,0,16,0,Shout! Factory,['Pop/Rock']
+"March 23, 2010",2010,12,Oversteps,Autechre,76,86,19,23,Warp,['Electronic']
+"November 9, 2010",2010,45,Sports,Weekend,76,0,13,0,Slumberland,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Noise Pop']"
+"September 14, 2010",2010,37,The Morning After,James,76,68,9,4,Mercury,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 9, 2010",2010,6,Eyelid Movies,Phantogram,76,87,13,34,Barsuk,"['Indie', 'Rock', 'Electronic']"
+"March 9, 2010",2010,10,Kairos,White Hinterland,76,78,13,5,Dead Oceans,"['Rock', 'Alternative']"
+"February 16, 2010",2010,7,Falling Down A Mountain,Tindersticks,76,78,21,4,Constellation,"['Indie', 'Rock', 'Alternative']"
+"June 8, 2010",2010,23,Destroyer Of The Void,Blitzen Trapper,76,74,25,8,Sub Pop,"['Rock', 'Indie/Alternative']"
+"November 30, 2010",2010,48,Northern Aggression,Steve Wynn and the Miracle 3,76,0,8,0,Yep Roc,['Pop/Rock']
+"May 4, 2010",2010,18,Stuck On Nothing,Free Energy,76,86,16,8,Astralwerks/Caroline,"['Rock', 'Alternative']"
+"April 6, 2010",2010,14,No Mas,Javelin,76,0,14,0,Luaka Bop,"['Indie', 'Rock', 'Electronic', 'Alternative']"
+"October 26, 2010",2010,43,Down There,Avey Tare,76,82,23,24,Paw Tracks,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi', 'Experimental Rock', 'Indie Folk']"
+"January 26, 2010",2010,4,To Realize,Clipd Beaks,76,67,10,6,Lovepump,"['Rock', 'Experimental']"
+"June 29, 2010",2010,26,Street Songs of Love,Alejandro Escovedo,76,0,15,0,Fantasy,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"November 16, 2010",2010,46,Get Closer,Keith Urban,76,88,7,4,Capitol,"['Country', 'Pop/Rock', 'Contemporary Pop/Rock', 'Contemporary Country', 'Country-Pop']"
+"June 15, 2010",2010,24,Time Flies 1994-2009,Oasis,76,78,11,49,Big Brother,"['Britpop', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Contemporary Pop/Rock', 'Hard Rock', 'British Trad Rock']"
+"September 7, 2010",2010,36,Everything Under the Sun,Jukebox the Ghost,76,0,7,0,Yep Roc,['Pop/Rock']
+"March 30, 2010",2010,13,Vol 2,Wooden Shjips,76,0,7,0,Sick Thirst,"['Rock', 'Alternative', 'Psychedelic']"
+"June 15, 2010",2010,24,Body Talk Pt 1,Robyn,76,87,23,41,Cherry Tree,"['Dance', 'Electronic']"
+"February 23, 2010",2010,8,Similes,Eluvium,76,76,13,8,Temporary Residence,"['Electronic', 'Ambient']"
+"September 14, 2010",2010,37,Outside the Box,Skream,76,88,13,10,Tempa,"['Electronic', 'Garage', 'Club/Dance', 'Dubstep']"
+"August 17, 2010",2010,33,Outside the Box,Skream,76,0,13,0,Tempa,"['Electronic', 'Garage', 'Club/Dance', 'Dubstep']"
+"September 21, 2010",2010,38,Maximum Balloon,Maximum Balloon,76,64,16,12,Fiction,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 13, 2010",2010,28,Masts of Manhatta,Tracy Bonham,76,0,8,0,Engine Room Recordings,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter']"
+"June 8, 2010",2010,23,The Twilight Saga Eclipse OST,Various Artists,76,54,7,0,Chop Shop/Atlantic,"['Indie', 'Rock', 'Alternative', 'Soundtrack']"
+"June 15, 2010",2010,24,Renmin Park,Cowboy Junkies,76,0,7,0,Razor & Tie,"['Indie', 'Rock', 'Alternative']"
+"March 1, 2010",2010,9,Come Down With Me,Errors,76,73,9,4,Rock Action,"['Indie', 'Electronic']"
+"January 12, 2010",2010,2,Heartland,Owen Pallett,76,83,21,47,Domino,"['Rock', 'Alternative']"
+"April 13, 2010",2010,15,Tommy,Dosh,76,0,11,0,Anticon,"['Electronic', 'Alternative', 'Experimental']"
+"October 19, 2010",2010,42,The Union,Leon Russell,76,71,,0,,[]
+"August 3, 2010",2010,31,Str8 Killa EP,Freddie Gibbs,76,83,13,6,DECON,"['Rap', 'Gangsta Rap', 'Hardcore Rap', 'Midwest Rap']"
+"May 18, 2010",2010,20,Compass,Jamie Lidell,76,81,30,8,Warp,"['Indie', 'Rock']"
+"August 31, 2010",2010,35,Isla,Portico Quartet,76,0,11,0,Real World Recordings,['Jazz']
+"June 8, 2010",2010,23,And They Have Escaped the Weight of Darkness,Ólafur Arnalds,76,82,12,0,Erased Tapes,"['Rock', 'Pop', 'Classical']"
+"June 15, 2010",2010,24,Lustre,Ed Harcourt,76,65,10,4,Piano Wolf,"['Rock', 'Pop']"
+"May 4, 2010",2010,18,Heaven Is Whenever,The Hold Steady,76,83,34,28,Vagrant,"['Rock', 'Alternative']"
+"August 3, 2010",2010,31,Transit Transit,Autolux,75,83,17,12,TBD,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"August 24, 2010",2010,34,Knoxville,Tony Buck,75,0,,0,,[]
+"February 9, 2010",2010,6,XXXX,You Say Party! We Say Die!,75,0,11,0,Paper Bag,"['Indie', 'Rock', 'Pop', 'Alternative']"
+"October 25, 2010",2010,43,A Bureaucratic Desire for Extra-Capsular Extraction,Earth,75,0,8,0,Southern Lord Records,"['Grunge', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Post-Rock', 'Heavy Metal', 'Doom Metal', 'Noise-Rock', 'Instrumental Rock']"
+"June 15, 2010",2010,24,Thank Me Later,Drake,75,68,26,327,Cash Money,['Rap']
+"April 6, 2010",2010,14,Pumps!,Growing,75,0,7,0,Vice,"['Indie', 'Rock', 'Electronic', 'Experimental']"
+"November 2, 2010",2010,44,Return of the Century,The 1900s,75,0,8,0,Parasol Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"January 12, 2010",2010,2,The Music Scene,Blockhead,75,77,9,7,Ninja Tune,['Rap']
+"April 13, 2010",2010,15,Leave Your Sleep,Natalie Merchant,75,88,10,19,Nonesuch,"['Rock', 'Pop']"
+"November 22, 2010",2010,47,Silver Pony,Cassandra Wilson,75,0,7,0,EMI,"['Vocal', 'Standards', 'Contemporary Jazz', 'Vocal Jazz', 'Contemporary Jazz Vocals', 'Vocal Music']"
+"October 12, 2010",2010,41,Belle and Sebastian Write About Love,Belle and Sebastian,75,78,30,34,Matador,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"June 29, 2010",2010,26,Expo 86,Wolf Parade,75,88,26,48,Sub Pop,['Rock']
+"July 6, 2010",2010,27,Disco2,HEALTH,75,83,14,0,Lovepump United,['Electronic']
+"May 11, 2010",2010,19,Latin,Holy Fuck,75,79,17,12,XL,"['Rock', 'Electronic', 'Alternative']"
+"January 27, 2010",2010,4,In Search Of Stoney Jackson,Strong Arm Steady,75,80,11,5,Stones Throw,['Rap']
+"July 13, 2010",2010,28,Intriguer,Crowded House,75,76,13,5,Fantasy,['Pop/Rock']
+"September 21, 2010",2010,38,Songs for Singles,Torche,75,80,13,5,Hydra Head,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal', 'Doom Metal', 'Sludge Metal']"
+"September 28, 2010",2010,39,The Inevitable Past Is the Future Forgotten,Three Mile Pilot,75,0,7,0,Temporary Residence,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop']"
+"October 5, 2010",2010,40,Flockaveli,Waka Flocka Flame,75,70,9,30,Warner Bros.,['Rap']
+"February 23, 2010",2010,8,One Armed Bandit,Jaga Jazzist,75,85,15,6,Ninja Tune,"['Indie', 'Rock', 'Jazz']"
+"October 5, 2010",2010,40,Allo Darlin,Allo Darlin,75,0,,0,,[]
+"September 28, 2010",2010,39,The Dissent of Man,Bad Religion,75,87,11,10,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Punk/New Wave', 'Hardcore Punk', 'Punk Revival']"
+"March 2, 2010",2010,9,The Creatures In The Garden Of Lady Walton,Clogs,75,83,7,4,Brassland,"['Rock', 'Alternative', 'Experimental', 'Classical']"
+"January 26, 2010",2010,4,Romance Is Boring,Los Campesinos!,75,82,28,38,Arts & Crafts,"['Indie', 'Rock']"
+"August 3, 2010",2010,31,Weareallgoingtoburninhellmegamixxx3,Jaime Meline,75,85,,0,,[]
+"March 9, 2010",2010,10,Broken Side Of Time,Alberta Cross,75,86,11,5,ATO,"['Indie', 'Rock', 'Alt-Country', 'Altternative']"
+"March 16, 2010",2010,11,Happy Birthday,Happy Birthday,75,0,12,0,Sub Pop,"['Indie', 'Rock']"
+"September 7, 2010",2010,36,Old Punch Card,Sam Prekop,75,0,8,0,Thrill Jockey,"['Electronic', 'Avant-Garde', 'Experimental Ambient', 'Experimental Electronic']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"June 22, 2010",2010,25,We Walk This Road,Robert Randolph,75,0,13,0,Warner Bros.,"['Gospel', 'Contemporary Christian', 'Religious']"
+"September 14, 2010",2010,37,Fields,Junip,75,82,17,5,Mute,"['Alt-Country', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop', 'Alternative Singer/Songwriter']"
+"March 2, 2010",2010,9,Black Light,Groove Armada,75,79,15,18,OM,"['Dance', 'Electronic']"
+"December 14, 2010",2010,50,Last Train to Paris,Dirty Money,75,72,,0,,[]
+"April 6, 2010",2010,14,Propellor Time,Robyn Hitchcock The Venus 3,75,83,7,9,Satorial,"['Rock', 'Alternative']"
+"March 9, 2010",2010,10,El Turista,Josh Rouse,75,56,7,18,Yep Roc,"['Rock', 'Alternative', 'Folk', 'Singer-Songwriter']"
+"January 26, 2010",2010,4,Orchestrion,Pat Metheny,75,0,7,0,Nonesuch,['Jazz']
+"November 9, 2010",2010,45,Four Stars,The Greenhornes,75,0,12,0,Warner Bros.,"['Pop/Rock', 'Garage Punk', 'Garage Rock Revival', 'Psychedelic/Garage', 'Garage Rock']"
+"September 14, 2010",2010,37,Skit I Allt,Dungen,75,0,16,0,Mexican Summer,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Neo-Psychedelia', 'International', 'Psychedelic/Garage']"
+"August 24, 2010",2010,34,Hawk,Isobel Campbell,75,74,22,9,!K7,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Singer/Songwriter']"
+"September 27, 2010",2010,39,Silver,Eternal Summers,74,0,7,0,Kanine Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Lo-Fi', 'Indie Pop', 'Sadcore']"
+"June 8, 2010",2010,23,If I Had A Hi-Fi,Nada Surf,74,79,14,8,Mardev,"['Rock', 'Indie/Alternative']"
+"April 13, 2010",2010,15,Prins Thomas,Prins Thomas,74,0,10,0,FULL PUPP,['Electronic']
+"April 6, 2010",2010,14,And Then We Saw Land,Tunng,74,0,15,0,Thrill Jockey,"['Rock', 'Electronic', 'Alternative', 'Folk']"
+"September 28, 2010",2010,39,Crush,Abe Vigoda,74,85,17,4,PPM,['Indie Rock']
+"September 21, 2010",2010,38,The Hundred in the Hands,The Hundred in the Hands,74,0,13,0,Warp,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic']"
+"May 4, 2010",2010,18,Mondo Cane,Mike Patton,74,87,17,12,Ipecac,"['Pop', 'Vocal']"
+"September 14, 2010",2010,37,Pop Negro,El Guincho,74,0,13,0,Young Turks,"['Electronic', 'Latin', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Electronic', 'Indie Pop']"
+"August 3, 2010",2010,31,On the Ones and Threes,Versus,74,0,8,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"October 25, 2010",2010,43,Living Proof,Buddy Guy,74,0,10,0,Jive,"['Rap', 'Blues', 'Pop/Rock', 'Modern Electric Blues', 'Regional Blues', 'Chicago Blues', 'Electric Chicago Blues', 'Modern Electric Chicago Blues']"
+"February 23, 2010",2010,8,Dear God I Hate Myself,Xiu Xiu,74,81,20,14,Kill Rock Stars,"['Indie', 'Alternative', 'Experimental']"
+"October 12, 2010",2010,41,The Grand Theatre Vol 1,Old 97s,74,0,14,0,New West,"['Country', 'Alt-Country', 'Americana', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Country-Rock']"
+"March 30, 2010",2010,13,Love To Live,The Living Sisters,74,0,9,0,Vanguard,['Folk']
+"March 9, 2010",2010,10,The Brutalist Bricks,Ted Leo The Pharmacists,74,78,22,10,Matador,"['Rock', 'Punk']"
+"February 23, 2010",2010,8,Golden Archipelago,Shearwater,74,88,23,15,Matador,['Alternative-Folk']
+"November 2, 2010",2010,44,North,Darkstar,74,78,14,4,Hyperdub,"['Electronic', 'Club/Dance']"
+"March 23, 2010",2010,12,Two Thousand And Ten Injuries,Love Is All,74,0,19,0,Polyvinyl,"['Indie', 'Rock', 'Pop']"
+"October 19, 2010",2010,42,Face Tat,Zach Hill,74,87,13,9,Sargent House,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Experimental Rock', 'Neo-Psychedelia', 'Noise-Rock']"
+"February 2, 2010",2010,5,The Soft Pack,The Soft Pack,74,80,21,9,Kemado,"['Indie', 'Rock']"
+"June 8, 2010",2010,23,History From Below,Delta Spirit,74,87,9,0,Rounder,"['Indie', 'Rock', 'Alternative', 'Country']"
+"September 14, 2010",2010,37,Innundir Skinni,Ólf Arnalds,74,0,11,0,One Little Indian,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 7, 2010",2010,36,No Ghost,The Acorn,74,0,10,0,Bella Union,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 9, 2010",2010,45,One Less Heartless To Fear,Shipping News,74,0,7,0,Noise Pollution,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"May 4, 2010",2010,18,In Evening Air,Future Islands,74,87,11,16,Thrill Jockey,"['Pop', 'Electronic']"
+"February 23, 2010",2010,8,Tapestry Of Webs,Past Lives,74,0,9,0,Suicide Squeeze,"['Indie', 'Rock', 'Experimental']"
+"September 14, 2010",2010,37,False Priest,Of Montreal,74,87,29,27,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 9, 2010",2010,10,Home Acres,Aloha,74,0,11,0,Polyvinyl,"['Indie', 'Rock', 'Experimental']"
+"November 9, 2010",2010,45,Coal Miners Daughter A Tribute to Loretta Lynn,Loretta Lynn,74,0,11,0,Sony Music Distribution,['Country']
+"July 27, 2010",2010,30,Mines,Menomena,74,81,25,16,Barsuk,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Rock', 'Experimental Rock']"
+"August 17, 2010",2010,33,Let It Sway,Someone Still Loves You Boris Yeltsin,74,0,11,0,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"August 24, 2010",2010,34,Pickin Up The Pieces,Fitz the Tantrums,74,77,10,9,Dangerbird Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Neo-Soul']"
+"April 6, 2010",2010,14,Steal Your Face,Mi Ami,74,0,11,0,Thrill Jockey,"['Rock', 'Alternative']"
+"August 31, 2010",2010,35,Minotaur,The Clientele,73,0,11,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"October 26, 2010",2010,43,Death Seat,Wooden Wand,73,0,10,0,Young God Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Singer/Songwriter', 'Psychedelic/Garage', 'Free Folk']"
+"May 25, 2010",2010,21,Dirty Side Down,Widespread Panic,73,88,7,9,ATO,['Rock']
+"July 20, 2010",2010,29,The Long Shadow of the Paper Tiger,Mahjongg,73,0,7,0,K Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic', 'Post-Rock']"
+"March 23, 2010",2010,12,Volume Two,She Him,73,80,29,42,Merge,"['Indie', 'Rock']"
+"July 27, 2010",2010,30,Beach Fossils,Beach Fossils,73,78,9,13,Captured Tracks,['Pop/Rock']
+"July 12, 2010",2010,28,Butterfly House,The Coral,73,81,8,8,Deltasonic,['Pop/Rock']
+"July 13, 2010",2010,28,Dark Night Of The Soul,Danger Mouse And Sparklehorse,73,79,30,36,Capitol,"['Indie', 'Rock']"
+"November 22, 2010",2010,47,Libra Scale,Ne-Yo,73,65,14,20,Def Jam,"['Pop', 'Rap', 'R&B', 'Soul', 'Urban', 'Pop/Rock', 'Adult Contemporary R&B', 'Contemporary R&B']"
+"October 5, 2010",2010,40,Bubblegum,Clinic,73,0,17,0,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"August 24, 2010",2010,34,Past Time,Grass Widow,73,0,11,0,Kill Rock Stars,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Pop', 'New Wave/Post-Punk Revival']"
+"August 10, 2010",2010,32,Church with No Magic,Miller,73,0,,0,,[]
+"June 8, 2010",2010,23,The Black Dirt Sessions,Deer Tick,73,75,18,8,Partisan,"['Indie', 'Rock', 'Alternative', 'Folk']"
+"February 2, 2010",2010,5,Earthology,The Whitefield Brothers,73,0,9,0,Now-Again,"['Rock', 'Funk']"
+"October 5, 2010",2010,40,Tiger Suit,KT Tunstall,73,84,15,22,Virgin,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter', 'Alternative Pop/Rock', 'Contemporary Pop/Rock']"
+"June 1, 2010",2010,22,Fever,Sleepy Sun,73,0,11,0,ATP,"['Indie', 'Rock', 'Alternative']"
+"August 24, 2010",2010,34,All We Grow,S Carey,73,78,15,8,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"January 26, 2010",2010,4,Dream Get Together,Citay,73,0,14,0,Dead Oceans,"['Indie', 'Rock']"
+"June 22, 2010",2010,25,Deth Red Sabaoth,Danzig,73,0,7,0,Evilive Records,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal', 'Hard Rock']"
+"May 25, 2010",2010,21,Interpretations The British Rock Songbook,Bettye LaVette,73,0,14,0,Anti-,"['R&B', 'Soul']"
+"September 14, 2010",2010,37,The Drums,The Drums,73,79,22,0,Downtown,"['Indie', 'Rock', 'Pop']"
+"February 23, 2010",2010,8,Magic Chairs,Efterklang,73,84,20,8,4AD,"['Rock', 'Pop', 'Experimental']"
+"September 14, 2010",2010,37,Wilderness Heart,Black Mountain,73,77,21,11,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 30, 2010",2010,13,Medicine County,Holly Golightly the Brokeoffs,73,0,,0,,[]
+"June 1, 2010",2010,22,See You On The Moon,Tift Merritt,73,0,10,0,Fantasy,"['Alternative', 'Country']"
+"March 30, 2010",2010,13,Wu-Massacre,Meth-Ghost-Rae,73,77,14,15,Def Jam,['Rap']
+"November 23, 2010",2010,47,Blurry Blue Mountain,Giant Sand,73,0,14,0,Fire,"['Country', 'Americana', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Country-Rock']"
+"April 20, 2010",2010,16,Judy Sucks A Lemon For Breakfast,Cornershop,73,72,14,9,Ample Play,"['Indie', 'Rock']"
+"July 27, 2010",2010,30,Lazers Never Die,Major Lazer,73,71,7,7,Interscope,"['Electronic', 'Reggae', 'Dancehall', 'Club/Dance', 'Ragga']"
+"March 23, 2010",2010,12,High Places Vs Mankind,High Places,73,0,14,0,Thrill Jockey,"['Indie', 'Rock', 'Electronic']"
+"January 26, 2010",2010,4,Eggs,Oh No Ono,73,77,10,6,Friendly Fire,"['Indie', 'Rock']"
+"May 18, 2010",2010,20,Distant Relatives,Nas And Damian Marley,73,87,23,97,Republic,"['Rap', 'Reggae']"
+"March 23, 2010",2010,12,Black Sands,Bonobo,73,88,10,24,Ninja Tune,['Electronic']
+"April 27, 2010",2010,17,Trans-Continental Hustle,Gogol Bordello,72,85,23,11,Columbia,"['Rock', 'Alternative']"
+"August 17, 2010",2010,33,God Willin the Creek Dont Rise,The Pariah Dogs,72,86,,0,,[]
+"September 14, 2010",2010,37,Light Chasers,Cloud Cult,72,80,7,6,Rebel Group,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Experimental Rock', 'Chamber Pop']"
+"February 23, 2010",2010,8,European,Sambassadeur,72,0,9,0,Labrador Sweden,"['Indie', 'Rock', 'Pop']"
+"January 19, 2010",2010,3,Pictures,The Len Price 3,72,0,7,0,Wicked Cool,"['Rock', 'Alternative']"
+"April 13, 2010",2010,15,Junior,Kaki King,72,77,10,7,Rounder,"['Indie', 'Rock', 'Experimental']"
+"September 28, 2010",2010,39,King Night,Salem,72,82,22,12,Iamsound,"['Electronic', 'Electronica', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 20, 2010",2010,16,Thing,Trans Am,72,0,11,0,Thrill Jockey,"['Indie', 'Rock']"
+"April 27, 2010",2010,17,Our Inventions,Lali Puna,72,0,13,0,Morr,"['Indie', 'Pop', 'Electronic']"
+"March 2, 2010",2010,9,The Pursuit,Jamie Cullum,72,80,9,9,Decca,"['Pop', 'Jazz']"
+"January 26, 2010",2010,4,Realism,Magnetic Fields,72,71,28,12,Nonesuch,"['Rock', 'Alternative']"
+"April 20, 2010",2010,16,Tears Lies And Alibis,Shelby Lynne,72,73,9,4,Everso,"['Alternative', 'Country']"
+"April 13, 2010",2010,15,Congratulations,MGMT,72,82,39,245,Columbia,"['Rock', 'Alternative']"
+"October 25, 2010",2010,43,Olympia,Bryan Ferry,72,72,25,9,Virgin,['Pop/Rock']
+"March 9, 2010",2010,10,Big Echo,The Morning Benders,72,83,22,15,Rough Trade,"['Rock', 'Alternative']"
+"February 23, 2010",2010,8,White Hills,White Hills,72,0,10,0,Thrill Jockey,"['Indie', 'Rock']"
+"April 20, 2010",2010,16,All Days Are Nights Songs For Lulu,Rufus Wainwright,72,0,23,0,Decca,"['Rock', 'Pop', 'Singer-Songwriter']"
+"January 26, 2010",2010,4,Heart Of My Own,Basia Bulat,72,87,14,6,Secert City,"['Indie', 'Pop', 'Folk']"
+"September 21, 2010",2010,38,Frankie Rose and the Outs,Frankie Rose and the Outs,72,0,12,0,Memphis Industries,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Pop', 'Noise Pop']"
+"September 7, 2010",2010,36,Personal Life,The Thermals,72,77,27,7,Kill Rock Stars,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"July 27, 2010",2010,30,Many Colored Kite,Mark Olson,72,0,7,0,Rykodisc,"['Country', 'Americana', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative Country-Rock']"
+"July 20, 2010",2010,29,Pink Graffiti,Secret Cities,72,0,12,0,Western Vinyl Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 15, 2010",2010,24,Mojo,Tom Petty the Heartbreakers,72,81,18,27,Repries/WEA,['Rock']
+"April 6, 2010",2010,14,Women Country,Jakob Dylan,72,75,,0,,[]
+"August 30, 2010",2010,35,Man Alive,Everything Everything,72,83,8,18,Geffen,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 2, 2010",2010,9,The Law Of Large Numbers,Emma Pollock,72,0,11,0,Chemikal Underground,"['Rock', 'Alternative']"
+"August 31, 2010",2010,35,Im Having Fun Now,Jenny and Johnny,72,72,18,10,Warner Bros.,['Pop/Rock']
+"September 28, 2010",2010,39,Clapton,Eric Clapton,72,84,10,9,Reprise,"['Pop/Rock', 'Contemporary Pop/Rock']"
+"February 9, 2010",2010,6,Heligoland,Massive Attack,72,82,31,96,Virgin,"['Electronic', 'Trip-Hop']"
+"June 15, 2010",2010,24,Release Me,The Like,72,83,13,4,Downtown,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Garage Rock Revival']"
+"August 24, 2010",2010,34,Warp Riders,The Sword,72,83,16,9,Kemado Records,"['Pop/Rock', 'Heavy Metal', 'Doom Metal', 'Stoner Metal']"
+"April 20, 2010",2010,16,Travellers In Space And Time,The Apples In Stereo,72,76,19,14,Yep Roc,"['Indie', 'Rock']"
+"April 13, 2010",2010,15,Fornever,Murs 9th Wonder,72,0,7,0,SMC,['Rap']
+"February 2, 2010",2010,5,The Courage Of Others,Midlake,72,82,32,52,Bella Union,"['Rock', 'Pop']"
+"March 23, 2010",2010,12,Coconut,Archie Bronson Outfit,72,73,13,4,Domino,"['Indie', 'Rock']"
+"November 2, 2010",2010,44,Small Craft On A Milk Sea,Leo Abrahams,72,77,,0,,[]
+"October 12, 2010",2010,41,Metallic Spheres,The Orb,72,74,14,7,Columbia,"['Electronic', 'Ambient', 'Pop/Rock', 'Ambient Techno']"
+"June 29, 2010",2010,26,Night Work,Scissor Sisters,72,86,21,53,Polydor,['Electronic']
+"August 3, 2010",2010,31,King of the Beach,Wavves,72,83,30,45,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"December 14, 2010",2010,50,Basic Instinct,Ciara,72,63,8,54,LaFace,"['Pop', 'R&B', 'Contemporary R&B']"
+"October 12, 2010",2010,41,Opticks,Silje Nes,72,0,8,0,FatCat Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop', 'Experimental Rock']"
+"July 13, 2010",2010,28,Wildwood,Chatham County Line,72,0,8,0,Yep Roc,"['Country', 'Alt-Country', 'Contemporary Bluegrass', 'Country-Rock']"
+"March 9, 2010",2010,10,Rat A Tat Tat,Jason Collett,72,0,9,0,Arts & Crafts,"['Indie', 'Rock']"
+"February 16, 2010",2010,7,Life Is Sweet! Nice To Meet You,Lightspeed Champion,72,68,23,5,Domino,"['Indie', 'Alternative']"
+"June 8, 2010",2010,23,El Che,Rhymefest,71,0,8,0,dN Be,['Rap']
+"August 24, 2010",2010,34,Cloak and Cipher,Land of Talk,71,82,14,5,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"July 20, 2010",2010,29,Sun Comes Up Again,I Am Arrows,71,0,7,0,Mercury,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"June 8, 2010",2010,23,Splazsh,Actress,71,82,11,11,Honest Jon's,"['Electronic', 'Club/Dance']"
+"March 9, 2010",2010,10,Broken Bells,Broken Bells,71,85,31,82,Sony,"['Indie', 'Rock']"
+"July 13, 2010",2010,28,Blue Giant,Blue Giant,71,0,7,0,Vanguard,"['Country', 'Americana', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"December 7, 2010",2010,49,Tron Legacy,Daft Punk,71,84,27,151,Disney / Walt Disney,"['Electronic', 'House', 'Electronica', 'Pop/Rock', 'Club/Dance', 'Soundtracks', 'Stage & Screen', 'Left-Field House', 'Progressive House']"
+"February 23, 2010",2010,8,Constellations,Balmorhea,71,0,9,0,Western Vinyl,"['Indie', 'Rock']"
+"March 2, 2010",2010,9,The Open Road,John Hiatt,71,0,7,0,New West,"['Rock', 'Country']"
+"September 7, 2010",2010,36,Dark Is the Way Light Is a Place,Anberlin,71,76,8,10,Republic,"['Emo', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"June 1, 2010",2010,22,Fossils And Other Phantoms,Peggy Sue,71,0,10,0,Yep Roc,"['Rock', 'Alternative', 'Folk']"
+"November 30, 2010",2010,48,Terra,Julian Lynch,71,0,9,0,Underwater Peoples,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 7, 2010",2010,36,O,Oval,71,0,10,0,Thrill Jockey,"['Electronic', 'Techno', 'Avant-Garde', 'Indie Electronic', 'Experimental Techno', 'Experimental Electronic', 'Ambient Techno', 'IDM', 'Glitch']"
+"April 13, 2010",2010,15,Year Of The Black Rainbow,Coheed and Cambria,71,63,19,120,Sony,"['Rock', 'Alternative', 'Metal']"
+"February 23, 2010",2010,8,American Gong,Quasi,71,0,21,0,Kill Rock Stars,"['Indie', 'Rock']"
+"September 14, 2010",2010,37,Who We Touch,The Charlatans UK,71,86,12,5,The End,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'British Trad Rock']"
+"November 8, 2010",2010,45,Land and Fixed,Blank Dogs,71,0,8,0,Captured Tracks,"['Funk', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 9, 2010",2010,6,Causers of This,Toro y Moi,71,87,18,30,Carpark,"['Indie', 'Electronic', 'Alternative', 'Experimental']"
+"October 25, 2010",2010,43,Nocturne of Exploded Crystal Chandelier,Sun Airway,71,0,13,0,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Electronic']"
+"June 8, 2010",2010,23,Champ,Tokyo Police Club,71,82,20,38,Mom & Pop Music,['Indie/Alternative']
+"August 17, 2010",2010,33,The Final Frontier,Iron Maiden,71,81,15,101,EMI,"['Pop/Rock', 'Heavy Metal', 'Hair Metal']"
+"January 19, 2010",2010,3,End Times,Eels,71,77,25,25,Vagrant,"['Rock', 'Alternative']"
+"July 27, 2010",2010,30,Thats How We Burn,Jaill,71,0,8,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Pop']"
+"March 23, 2010",2010,12,Interpreting The Masters Volume 1 A Tribute to Daryl Hall And John Oates,The Bird And The Bee,71,0,13,0,Blue Note,"['Rock', 'Pop']"
+"June 29, 2010",2010,26,Acolyte,Delphic,71,75,17,19,Dangerbird,"['Rock', 'Dance']"
+"January 26, 2010",2010,4,Five American Portraits,The Red Krayola With Art Language,71,0,7,0,Drag City,"['Rock', 'Alternative']"
+"January 19, 2010",2010,3,Turn Ons,The Hot Rats,71,0,9,0,Fat Possum,"['Indie', 'Rock']"
+"May 4, 2010",2010,18,Together,The New Pornographers,71,87,36,52,Matador,"['Rock', 'Alternative']"
+"March 9, 2010",2010,10,jj no 3,jj,71,81,23,12,Secretly Canadian,"['Indie', 'Pop', 'Electronic']"
+"March 2, 2010",2010,9,Fight Softly,The Ruby Suns,71,72,19,10,Sup Pop,"['Indie', 'Rock', 'Pop']"
+"June 15, 2010",2010,24,Goodbye Killer,Pernice Brothers,71,75,14,0,Ashmont,"['Indie', 'Rock']"
+"December 14, 2010",2010,50,IIIIV,Ryan Adams the Cardinals,71,71,,0,,[]
+"May 11, 2010",2010,19,Warm Slime,Thee Oh Sees,70,87,9,6,In The Red,"['Rock', 'Alternative', 'Punk']"
+"June 22, 2010",2010,25,Further,The Chemical Brothers,70,81,25,29,Astralwerks,['Electronic']
+"November 16, 2010",2010,46,Not Music,Stereolab,70,78,25,6,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic', 'Indie Pop', 'Post-Rock', 'Experimental Rock']"
+"June 29, 2010",2010,26,Perch Patchwork,Maps Atlases,70,76,14,5,Barsuk,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"September 7, 2010",2010,36,Mean Old Man,Jerry Lee Lewis,70,0,11,0,Verve,"['Country', 'Pop/Rock', 'Rock & Roll', 'Progressive Country', 'Outlaw Country', 'Honky Tonk']"
+"August 31, 2010",2010,35,Asylum,Disturbed,70,81,7,79,Reprise,"['Pop/Rock', 'Heavy Metal']"
+"June 8, 2010",2010,23,Pigeons,Here We Go Magic,70,80,23,6,Secretly Canadian,"['Indie', 'Rock']"
+"June 22, 2010",2010,25,The Five Ghosts,Stars,70,79,21,22,Vagrant/Soft Revolution,"['Indie', 'Rock']"
+"September 21, 2010",2010,38,Buzzard,Margot the Nuclear So and Sos,70,0,7,0,Mariel,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"May 11, 2010",2010,19,Sea Of Cowards,The Dead Weather,70,80,32,49,Warner Bros.,"['Rock', 'Alternative']"
+"May 25, 2010",2010,21,Stone Temple Pilots,Stone Temple Pilots,70,79,15,53,Atlantic,"['Rock', 'Alternative']"
+"October 12, 2010",2010,41,Foreign Landscapes,Hauschka,70,0,10,0,FatCat Records,"['Electronic', 'Pop/Rock']"
+"May 25, 2010",2010,21,The Big Black And The Blue,First Aid Kit,70,83,10,11,Wichita,"['Pop', 'Folk']"
+"February 16, 2010",2010,7,Minor Love,Adam Green,70,83,16,7,Fat Possum,"['Indie', 'Pop', 'Alternative', 'Folk']"
+"September 21, 2010",2010,38,The Trip,Laetitia Sadier,70,0,13,0,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic', 'Indie Pop', 'Dream Pop', 'Post-Rock', 'Experimental Rock', 'Ambient Pop']"
+"June 22, 2010",2010,25,The Boxer,Kele Okereke,70,84,20,0,Glass Note,"['Rock', 'Indie/Alternative']"
+"March 1, 2010",2010,9,Fire Like This,Blood Red Shoes,70,76,11,18,V2/Co-operative,"['Rock', 'Alternative']"
+"April 20, 2010",2010,16,La La Land,Plants and Animals,70,83,12,8,Secret City,"['Indie', 'Rock']"
+"March 30, 2010",2010,13,Non Stop Erotik,Black Francis,70,84,15,9,Cooking Vinyl,['Rock']
+"October 12, 2010",2010,41,To Dreamers,Kelley Stoltz,70,0,10,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 14, 2010",2010,37,Phosphene Dream,The Black Angels,70,85,22,14,Blue Horizon,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 28, 2010",2010,39,Record Collection,Mark Ronson and the Business Intl,70,76,19,11,Columbia,"['Electronic', 'Rap', 'Pop/Rock', 'Club/Dance']"
+"July 20, 2010",2010,29,Archive 2003-2006,Department of Eagles,70,0,10,0,American Dust,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"October 12, 2010",2010,41,Zeroes QC,Suuns,70,0,15,0,Secretly Canadian,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"August 24, 2010",2010,34,The Orchard,Ra Ra Riot,70,83,23,13,Barsuk Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 22, 2010",2010,47,Danger Days The True Lives of the Fabulous Killjoys,My Chemical Romance,70,82,26,165,Reprise,"['Emo', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 23, 2010",2010,8,This Addiction,Alkaline Trio,70,81,14,17,Heart & Skull/Epitaph,"['Rock', 'Alternative', 'Punk']"
+"March 15, 2010",2010,11,Liquid Love,Shy Child,70,0,8,0,Wall of Sound,"['Indie', 'Electronic']"
+"April 6, 2010",2010,14,Hippies,Harlem,70,88,16,5,Matador,"['Indie', 'Rock']"
+"August 24, 2010",2010,34,Back to Me,Fantasia,70,85,7,17,J Records,['R&B']
+"August 24, 2010",2010,34,Tomorrow Morning,Koool G Murder,69,78,,0,,[]
+"May 25, 2010",2010,21,Maniac Meat,Tobacco,69,83,11,6,Anticon,['Electronic']
+"August 31, 2010",2010,35,Junky Star,Ryan Bingham the Dead Horses,69,0,11,0,Lost Highway,"['Country', 'Folk', 'Americana', 'Contemporary Singer/Songwriter', 'Contemporary Folk', 'Alternative Country-Rock', 'Country-Folk']"
+"February 23, 2010",2010,8,Invisible Violence,We Are Wolves,69,0,7,0,+1,"['Indie', 'Rock', 'Electronic']"
+"May 18, 2010",2010,20,Infinite Arms,Band of Horses,69,70,31,64,Columbia,"['Rock', 'Alternative']"
+"August 17, 2010",2010,33,Catching a Tiger,Lissie,69,84,18,14,Fat Possum,"['Country', 'Americana', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Country-Rock', 'Indie Folk']"
+"August 3, 2010",2010,31,Croweology,The Black Crowes,69,0,11,0,Silver Arrow Records,"['Pop/Rock', 'Blues-Rock', 'American Trad Rock', 'Hard Rock', 'Rock & Roll']"
+"February 2, 2010",2010,5,A Chorus of Storytellers,The Album Leaf,69,85,19,4,Sub Pop,"['Indie', 'Electronic', 'Alternative']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"July 27, 2010",2010,30,Fortress,Miniature Tigers,69,81,7,7,Modern Art,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"October 12, 2010",2010,41,O,Die Antwoord,69,69,11,44,Interscope,"['Electronic', 'Club/Dance', 'Alternative Rap', 'Underground Rap']"
+"April 13, 2010",2010,15,Animal Feelings,Rafter,69,0,10,0,Asthmatic Kitty,"['Indie', 'Rock', 'Pop']"
+"October 5, 2010",2010,40,Wild Go,Dark Dark Dark,69,0,9,0,Supply and Demand,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 14, 2010",2010,37,Sleep Forever,Crocodiles,69,66,17,5,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 14, 2010",2010,37,Tidelands,The Moondoggies,69,0,7,0,Hardly Art Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'American Trad Rock']"
+"March 2, 2010",2010,9,Be Brave,The Strange Boys,69,0,16,0,In The Red,"['Indie', 'Rock']"
+"August 10, 2010",2010,32,Kaleide,Sky Larkin,69,0,10,0,Wichita,"['Rock', 'Alternative Pop/Rock']"
+"March 16, 2010",2010,11,We Built A Fire,Seabear,69,0,9,0,Morr Music,"['Indie', 'Rock']"
+"November 9, 2010",2010,45,Man on the Moon Vol 2 The Legend of Mr Rager,Kid Cudi,69,83,20,244,Motown,"['Rap', 'Pop/Rock', 'Alternative Rap', 'Underground Rap', 'Left-Field Hip-Hop']"
+"September 28, 2010",2010,39,Pete Yorn,Pete Yorn,69,79,11,9,Vagrant,['Pop/Rock']
+"October 12, 2010",2010,41,Its What Im Thinking Pt 1 Photographing Snowflakes,Badly Drawn Boy,69,76,17,5,The End,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 13, 2010",2010,28,Disconnect from Desire,School of Seven Bells,69,74,24,7,Vagrant,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic', 'Dream Pop']"
+"April 20, 2010",2010,16,Love Desperation,Sweet Apple,69,0,13,0,Tee Pee,"['Indie', 'Rock']"
+"April 20, 2010",2010,16,Thistled Spring,Horse Feathers,69,82,10,5,Kill Rock Stars,"['Indie', 'Rock']"
+"April 20, 2010",2010,16,My Best Friend Is You,Kate Nash,69,68,19,29,Geffen,"['Rock', 'Pop']"
+"June 1, 2010",2010,22,To The Sea,Jack Johnson,69,73,12,33,Brushfire,"['Rock', 'Indie/Alternative']"
+"March 2, 2010",2010,9,Double Jointer,Golden Triangle,69,0,8,0,Hardly Art,"['Rock', 'Alternative', 'Psychedelic']"
+"June 22, 2010",2010,25,We Are Born,Sia,68,88,14,154,RCA,['Pop']
+"November 22, 2010",2010,47,Pink Friday,Nicki Minaj,68,71,26,539,Universal Motown,"['Pop', 'Rap', 'R&B', 'Pop/Rock', 'Contemporary R&B', 'Pop-Rap']"
+"May 11, 2010",2010,19,Life,Sage Francis,68,86,15,8,Anti,['Rap']
+"January 19, 2010",2010,3,Sweet Heart Rodeo,Dawn Landes,68,0,9,0,Cooking Vinyl,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"October 5, 2010",2010,40,The Game of Monogamy,Tim Kasher,68,0,15,0,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"September 14, 2010",2010,37,Business Casual,Chromeo,68,81,19,13,Atlantic,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance', 'Indie Electronic']"
+"March 23, 2010",2010,12,My World 20,Justin Bieber,68,33,8,568,Island,"['Rock', 'Pop', 'R&B']"
+"June 8, 2010",2010,23,LP4,Ratatat,68,80,21,21,XL,['Electronic']
+"March 30, 2010",2010,13,Freight Train,Alan Jackson,68,86,10,5,Arista,['Country']
+"February 16, 2010",2010,7,Sigh No More,Mumford Sons,68,79,18,215,Glass Note,"['Indie', 'Rock', 'Folk']"
+"June 8, 2010",2010,23,Future Breeds,Hot Hot Heat,68,83,15,0,Dangerbird,"['Rock', 'Alternative']"
+"June 8, 2010",2010,23,Lazarus,Travie McCoy,68,75,10,0,Fueled By Ramen,"['Indie', 'Rock']"
+"February 2, 2010",2010,5,Prior To The Fire,Priestess,68,74,12,8,Tee Pee,"['Rock', 'Metal']"
+"October 12, 2010",2010,41,Charleston SC 1966,Darius Rucker,68,80,10,4,EMI,"['Country', 'Contemporary Country']"
+"July 20, 2010",2010,29,Obadiah,Frazey Ford,68,0,7,0,Nettwerk Productions,"['Folk', 'Pop/Rock', 'Contemporary Folk', 'Neo-Traditional Folk']"
+"April 13, 2010",2010,15,Weathervanes,Freelance Whales,68,86,18,14,Frenchkiss,"['Indie', 'Rock', 'Pop']"
+"October 12, 2010",2010,41,Jojo Burger Tempest,Working for a Nuclear Free City,68,0,10,0,Melodic,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 13, 2010",2010,28,MAYA,MIA,68,86,41,116,XL,"['Electronic', 'Club/Dance', 'Alternative Dance']"
+"May 18, 2010",2010,20,Songs for the Ravens,Sea of Bees,68,0,12,0,Crossbill,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"May 11, 2010",2010,19,Where Did The Night Fall,UNKLE,68,83,15,10,Surrender All,['Electronic']
+"March 23, 2010",2010,12,Head First,Goldfrapp,68,84,22,42,Mute,"['Rock', 'Pop', 'Electronic']"
+"September 28, 2010",2010,39,Invented,Jimmy Eat World,68,71,16,21,Interscope,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Emo-Pop']"
+"September 14, 2010",2010,37,Ivory Tower,Chilly Gonzales,68,0,9,0,Arts & Crafts,"['Electronic', 'House', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Club/Dance', 'Soundtracks', 'Stage & Screen', 'Film Music', 'Left-Field House']"
+"October 25, 2010",2010,43,New Chain,Small Black,68,58,18,5,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic']"
+"February 16, 2010",2010,7,Return Of The Wu Friends,Wu-Tang Clan,68,77,8,6,Gold Dust,['Rap']
+"February 23, 2010",2010,8,Work,Shout Out Louds,68,76,15,5,Merge,"['Rock', 'Alternative']"
+"August 10, 2010",2010,32,Come And Get It!,Eli Paperboy Reed,68,0,12,0,Capitol,"['R&B', 'Soul', 'Pop/Rock', 'Neo-Soul', 'Blue-Eyed Soul']"
+"March 9, 2010",2010,10,Battle Of The Sexes,Ludacris,68,66,9,36,DTP,['Rap']
+"May 25, 2010",2010,21,The Ghost Who Walks,Karen Elson,68,85,11,8,XL Recordings,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Country-Rock', 'Indie Folk']"
+"August 23, 2010",2010,34,Surfing the Void,Klaxons,68,73,23,28,Polydor,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 9, 2010",2010,10,Valleys Of Neptune,Jimi Hendrix,68,84,15,17,Sony Legacy,"['Rock', 'Blues', 'Psychedelic']"
+"August 10, 2010",2010,32,Scott Pilgrim Vs The World,Original Soundtrack,68,78,9,24,Abkco,"['Rock', 'Soundtrack', 'Soundtracks', 'Stage & Screen']"
+"September 28, 2010",2010,39,The Place We Ran From,Tired Pony,68,0,9,0,Mom & Pop Music,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"March 2, 2010",2010,9,Hands,Little Boots,68,83,20,47,679/Atlantic/Elektra,"['Rock', 'Dance', 'Pop']"
+"September 14, 2010",2010,37,Hurley,Weezer,68,72,28,91,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"May 25, 2010",2010,21,The Family Jewels,Marina and the Diamonds,68,87,21,425,679/Atlantic,"['Indie', 'Rock', 'Pop']"
+"February 23, 2010",2010,8,The Magicians Private Library,Holly Miranda,68,0,16,0,XL,"['Indie', 'Rock']"
+"November 9, 2010",2010,45,Nothing Fits,Tyvek,68,0,11,0,In the Red Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Noise-Rock', 'Punk-Pop']"
+"September 7, 2010",2010,36,Kaleidoscope Heart,Sara Bareilles,68,83,8,31,Epic,"['Pop', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter']"
+"September 21, 2010",2010,38,Imperfect Harmonies,Serj Tankian,67,80,12,29,Reprise,"['Pop/Rock', 'Heavy Metal']"
+"January 12, 2010",2010,2,Of The Blue Colour Of The Sky,OK Go,67,84,22,30,Capitol,"['Indie', 'Rock', 'Alternative']"
+"March 30, 2010",2010,13,Man From Another Time,Seasick Steve,67,0,9,0,Ryko,"['Folk', 'Blues']"
+"November 9, 2010",2010,45,Free Time,Shonen Knife,67,0,8,0,Good Charamel Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 9, 2010",2010,10,Tomorrow In A Year,Planningtorock,67,78,,0,,[]
+"September 14, 2010",2010,37,Barking,Underworld,67,77,18,10,OM,"['Electronic', 'House', 'Techno', 'Trance', 'Club/Dance']"
+"March 9, 2010",2010,10,Land Of Make Believe,Kidz in the Hall,67,0,9,0,Duckdown,"['Alternative', 'Rap']"
+"November 16, 2010",2010,46,Loud,Rihanna,67,79,22,575,Def Jam,"['Pop', 'R&B', 'Dance-Pop', 'Contemporary R&B']"
+"September 14, 2010",2010,37,Shadow Temple,Prince Rama,67,0,10,0,Paw Tracks,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 27, 2010",2010,17,Tourist History,Two Door Cinema Club,67,84,12,107,Glass Note,"['Rock', 'Pop', 'Electronic']"
+"April 20, 2010",2010,16,Travelling Like The Light,VV Brown,67,85,16,16,Island,"['Rock', 'Pop']"
+"February 16, 2010",2010,7,Un,Dan Black,67,72,10,6,Hours/A&M,"['Indie', 'Electronic']"
+"January 18, 2010",2010,3,The Betrayed,Lostprophets,67,76,10,27,Sony,"['Rock', 'Metal']"
+"November 9, 2010",2010,45,Pyramid of the Sun,Maserati,67,0,12,0,Temporary Residence,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Post-Rock', 'Experimental Rock']"
+"November 9, 2010",2010,45,New Love,Former Ghosts,67,0,7,0,Upset the Rhythm,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 6, 2010",2010,27,Aphrodite,Kylie Minogue,67,89,21,147,Capitol,"['Electronic', 'Pop/Rock']"
+"August 24, 2010",2010,34,Memphis,Magic Kids,67,0,16,0,True Panther Sounds,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"August 24, 2010",2010,34,Strange Weather Isnt It,!!! Chik Chik Chik,67,75,26,10,Warp,"['Dance', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 2, 2010",2010,9,Scratch My Back,Peter Gabriel,67,63,21,38,EMI,"['Rock', 'Pop']"
+"April 27, 2010",2010,17,The Adventures Of Bobby Ray,BoB,67,73,18,93,Atlantic,['Rap']
+"October 12, 2010",2010,41,I Am Not a Human Being,Lil Wayne,67,51,17,107,Universal Motown,"['Rap', 'Pop/Rock', 'Southern Rap', 'Hardcore Rap', 'Dirty South']"
+"December 7, 2010",2010,49,4 x 4 12,Deadmau5,66,81,13,112,Ultra,"['Electronic', 'Club/Dance']"
+"September 14, 2010",2010,37,A Thousand Suns,Linkin Park,66,76,10,502,Warner Bros.,"['Pop/Rock', 'Heavy Metal', 'Pop-Metal']"
+"September 7, 2010",2010,36,Seeing Eye Dog,Helmet,66,0,8,0,Work Song Incorporated,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Metal', 'Heavy Metal']"
+"October 19, 2010",2010,42,Eskmo,Eskmo,66,0,10,0,Ninja Tune,"['Electronic', 'Techno', 'Garage', 'Experimental Techno', 'Dubstep', 'Glitch']"
+"September 21, 2010",2010,38,From the Cradle to the Rave,Shit Robot,66,0,12,0,DFA,"['Electronic', 'Pop/Rock', 'Club/Dance']"
+"July 20, 2010",2010,29,100 Miles from Memphis,Sheryl Crow,66,80,14,5,A&M,"['Singer/Songwriter', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Pop/Rock', 'American Trad Rock']"
+"June 1, 2010",2010,22,Say It,Born Ruffians,66,69,12,8,Warp,"['Indie', 'Rock']"
+"September 7, 2010",2010,36,Interpol,Interpol,66,75,33,115,Matador,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"August 17, 2010",2010,33,Alive As You Are,Darker My Love,66,0,19,0,Dangerbird,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"January 26, 2010",2010,4,Campfire Songs Reissue,Animal Collective,66,72,12,34,Paw Tracks,"['Indie', 'Rock']"
+"October 5, 2010",2010,40,Wreckorder,Fran Healy,66,74,13,5,Rykodisc,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"August 31, 2010",2010,35,Familial,Patrick Sansone,66,70,,0,,[]
+"March 30, 2010",2010,13,Outbursts,Turin Brakes,66,0,10,0,Cooking Vinyl,"['Rock', 'Folk']"
+"August 17, 2010",2010,33,Brian Wilson Reimagines Gershwin,Brian Wilson,66,80,20,6,Walt Disney,['Pop/Rock']
+"September 14, 2010",2010,37,Drawing Down the Moon,Azure Ray,66,68,14,4,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Pop', 'Dream Pop']"
+"June 8, 2010",2010,23,Apparitions,Light Pollution,65,0,10,0,Carpark,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic']"
+"November 2, 2010",2010,44,Dreams,Neil Diamond,65,0,13,0,Columbia,"['Vocal', 'Pop/Rock', 'Vocal Pop']"
+"November 30, 2010",2010,48,You I,The Pierces,65,70,,0,,[]
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"November 9, 2010",2010,45,Amoral,Violens,65,0,13,0,Friendly Fire,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 16, 2010",2010,7,The Constant,Story Of The Year,65,0,7,0,Epitaph,"['Rock', 'Alternative']"
+"March 23, 2010",2010,12,S-M 2 Abyss in B Minor,Serena-Maneesh,65,78,12,8,4AD,"['Indie', 'Rock']"
+"August 3, 2010",2010,31,The House,Katie Melua,65,84,11,5,Dramatico,['Adult Alternative Pop/Rock']
+"May 4, 2010",2010,18,Court Yard Hounds,Court Yard Hounds,65,75,11,6,Columbia,['Country']
+"September 14, 2010",2010,37,Sex with an X,The Vaselines,65,0,19,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop']"
+"May 4, 2010",2010,18,Omni,Minus the Bear,65,69,17,22,Dangerbird,"['Indie', 'Rock']"
+"January 19, 2010",2010,3,,Dinowalrus,65,0,,0,,[]
+"October 5, 2010",2010,40,Mixed Race,Tricky,64,66,19,8,Domino,"['Electronic', 'Trip-Hop', 'Club/Dance']"
+"January 26, 2010",2010,4,The Flexible Entertainer,Pit Er Pat,64,0,8,0,Thrill Jockey,"['Indie', 'Rock']"
+"April 6, 2010",2010,14,Here Lies Love,David Byrne Fatboy Slim,64,85,22,11,Nonesuch,"['Rock', 'Alternative']"
+"September 14, 2010",2010,37,Penny Sparkle,Blonde Redhead,64,72,25,15,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"June 15, 2010",2010,24,Something for Everybody,Devo,64,86,21,0,Warner Bros.,['Rock']
+"March 23, 2010",2010,12,The Illustrated Garden,Radar Bros,64,0,10,0,Merge,"['Indie', 'Rock']"
+"October 19, 2010",2010,42,Come Around Sundown,Kings of Leon,64,69,27,132,RCA,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 22, 2010",2010,47,HFM 2 The Hunger for More 2,Lloyd Banks,64,83,9,10,EMI Music Distribution / G-unit Records,"['Rap', 'Gangsta Rap', 'Hardcore Rap']"
+"May 11, 2010",2010,19,Hang Cool Teddy Bear,Meat Loaf,64,75,7,17,Roadrunner Records/Loud & Proud,['Rock']
+"June 15, 2010",2010,24,Barbara,We Are Scientists,64,75,15,15,Red,"['Indie', 'Rock']"
+"August 3, 2010",2010,31,All Night Long,Buckcherry,64,75,9,8,Eleven Seven Music,"['Pop/Rock', 'American Trad Rock', 'Alternative Metal', 'Heavy Metal', 'Hard Rock', 'Art Rock', 'Post-Grunge']"
+"September 28, 2010",2010,39,History of Modern,Orchestral Manoeuvres in the Dark,64,0,12,0,Blue Noise,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative Dance', 'Synth Pop']"
+"March 2, 2010",2010,9,Permalight,Rogue Wave,64,74,12,7,Brushfire,"['Indie', 'Rock']"
+"November 9, 2010",2010,45,WYWH,The Concretes,64,0,19,0,Friendly Fire,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Pop', 'Swedish Pop/Rock', 'Twee Pop']"
+"April 20, 2010",2010,16,Fire Away,Ozomatli,64,0,9,0,Downtown,"['Rock', 'Pop', 'Alternative', 'R&B']"
+"September 28, 2010",2010,39,The Appeal Georgias Most Wanted,Gucci Mane,64,73,7,10,Warner Bros.,"['Rap', 'Gangsta Rap', 'Dirty South']"
+"April 20, 2010",2010,16,No Guts No Glory,Airbourne,64,61,8,9,Roadrunner,['Rock']
+"August 3, 2010",2010,31,Where the Messengers Meet,Marshall Verdoes,64,0,,0,,[]
+"June 22, 2010",2010,25,Scream,Ozzy Osbourne,63,71,11,0,Epic,"['Rock', 'Metal']"
+"January 19, 2010",2010,3,The Colossus,RJD2,63,0,16,0,RJ's Electrical Connections,"['Pop', 'Rap']"
+"March 2, 2010",2010,9,Back To Light,Bomb The Bass,63,0,9,0,!K7,['Electronic']
+"September 28, 2010",2010,39,Lonely Avenue,Ben Folds,63,73,,0,,[]
+"June 8, 2010",2010,23,Grace Potter the Nocturnals,Grace Potter the Nocturnals,63,84,11,5,Hollywood,"['Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter', 'Alternative Pop/Rock', 'Alternative Country-Rock', 'Roots Rock']"
+"September 21, 2010",2010,38,Hands All Over,Maroon 5,63,69,10,89,A&M,"['Pop', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Pop/Rock']"
+"April 27, 2010",2010,17,The Age Of Miracles,Mary Chapin Carpenter,63,78,9,5,Zoe,"['Rock', 'Country', 'Folk', 'Singer-Songwriter']"
+"March 9, 2010",2010,10,Beat The Devils Tattoo,Black Rebel Motorcycle Club,63,86,18,40,Abstract Dragon/Vagrant,"['Rock', 'Alternative']"
+"October 25, 2010",2010,43,As U Were,Lyrics Born,63,0,8,0,Decon Records,"['Rap', 'Alternative Rap', 'Underground Rap']"
+"August 20, 2010",2010,33,All Delighted People EP,Sufjan Stevens,63,83,12,46,Asthmatic Kitty,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter', 'Chamber Pop']"
+"May 25, 2010",2010,21,Fly Yellow Moon,Fyfe Dangerfield,63,0,14,0,Geffen,"['Indie', 'Rock', 'Pop']"
+"June 22, 2010",2010,25,Recovery,Eminem,63,83,28,1282,Aftermath,['Rap']
+"June 15, 2010",2010,24,Laws of Illusion,Sarah McLachlan,63,0,11,0,Arista,"['Folk', 'Indie/Alternative']"
+"January 26, 2010",2010,4,Need You Now,Lady Antebellum,63,65,9,24,Capitol Nashville,['Country']
+"November 16, 2010",2010,46,Born Free,Kid Rock,63,52,10,19,Atlantic,"['Pop/Rock', 'Contemporary Singer/Songwriter', 'American Trad Rock']"
+"November 9, 2010",2010,45,The Constant,I Blame Coco,63,74,11,5,Universal Music,['Pop/Rock']
+"April 27, 2010",2010,17,Fever,Bullet For My Valentine,63,75,12,79,Jive,"['Rock', 'Metal']"
+"May 18, 2010",2010,20,Higher Than The Eiffel,Audio Bullys,63,64,8,5,Cooking Vinyl,"['Dance', 'Electronic', 'Alternative']"
+"June 15, 2010",2010,24,Laws Of Illusion,Sarah McLachlan,63,61,11,0,Arista,"['Folk', 'Indie/Alternative']"
+"July 13, 2010",2010,28,Flaws,Bombay Bicycle Club,63,67,12,16,Island,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"November 16, 2010",2010,46,The Weights on the Wheels,The Russian Futurists,63,0,10,0,Upper Class,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Electronic', 'Indie Pop']"
+"February 22, 2010",2010,8,Falcon,The Courteeners,63,68,9,6,Polydor,"['Indie', 'Rock']"
+"October 5, 2010",2010,40,As I Call You Down,Fistful of Mercy,63,0,7,0,Hot Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 2, 2010",2010,5,Hellbilly Deluxe II,Rob Zombie,63,73,10,25,Roadrunner Records,"['Rock', 'Metal']"
+"July 27, 2010",2010,30,Nightmare,Avenged Sevenfold,62,83,7,125,Warner Bros.,"['Emo', 'Pop/Rock', 'Alternative/Indie Rock', 'Post-Hardcore', 'Alternative Metal', 'Heavy Metal']"
+"November 2, 2010",2010,44,Nothing,NERD,62,68,19,20,Star Trak,"['Rap', 'Pop/Rock', 'Contemporary Pop/Rock', 'Contemporary R&B', 'Rap-Rock']"
+"November 2, 2010",2010,44,Sidewalks,Matt Kim,62,80,19,10,Fader,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"August 24, 2010",2010,34,Sugar,Dead Confederate,62,0,15,0,Razor & Tie,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"July 13, 2010",2010,28,Symphonicities,Sting,62,66,7,5,Deutsche Grammophon,"['Classical', 'Pop/Rock']"
+"May 4, 2010",2010,18,More!,Booka Shade,62,0,13,0,Get Physical,['Electronic']
+"August 17, 2010",2010,33,Foundling,David Gray,62,83,12,6,Downtown,['Pop/Rock']
+"March 16, 2010",2010,11,Jet Lag,Josiah Wolf,62,0,,0,,[]
+"September 28, 2010",2010,39,I Am the West,Ice Cube,62,85,8,19,Lench Mob,"['Rap', 'Gangsta Rap', 'Hardcore Rap', 'West Coast Rap']"
+"October 26, 2010",2010,43,The Other Side of Zero,Elizabeth the Catapult,62,0,,0,,[]
+"February 23, 2010",2010,8,Who Killed Sgt Pepper,The Brian Jonestown Massacre,61,82,13,9,A,"['Indie', 'Rock', 'Alternative', 'Psychedelic']"
+"May 4, 2010",2010,18,The Optimist,New Young Pony Club,61,82,14,6,Pias America,"['Indie', 'Rock', 'Pop']"
+"October 5, 2010",2010,40,Doo-Wops and Hooligans,Bruno Mars,61,68,13,207,Elektra,['Pop/Rock']
+"April 20, 2010",2010,16,Sleep Mountain,The Kissaway Trail,61,75,11,6,Bella Union,"['Indie', 'Rock']"
+"February 9, 2010",2010,6,Screamworks Love in Theory and Practice,HIM,61,88,7,143,Sire/Warner Bros.,"['Rock', 'Alternative']"
+"July 6, 2010",2010,27,How To Destroy Angels,How to Destroy Angels,61,83,8,13,The Null Corporation,['Pop/Rock']
+"November 23, 2010",2010,47,Senior,Ryksopp,61,79,,0,,[]
+"September 14, 2010",2010,37,Expektoration Live,Big Benn Klingon,61,70,,0,,[]
+"June 1, 2010",2010,22,Rokstarr,Taio Cruz,61,34,11,25,Mercury,"['Pop', 'R&B']"
+"October 19, 2010",2010,42,Shobaleader One dDemonstrator,Squarepusher,60,0,10,0,Warp,"['Electronic', 'Techno', 'Indie Electronic', 'Experimental Techno', 'Experimental Electro']"
+"May 4, 2010",2010,18,The Oracle,Godsmack,60,77,7,25,Republic,"['Rock', 'Metal']"
+"February 16, 2010",2010,7,Fixin The Charts Volume One,Everybody Was In The French ResistanceNow,60,75,13,4,Cooking Vinyl,"['Rock', 'Pop']"
+"January 25, 2010",2010,4,No Hope No Future,Good Shoes,60,78,11,4,Brille,"['Rock', 'Alternative']"
+"February 16, 2010",2010,7,Peace And Love,Juliana Hatfield,60,0,9,0,Ye Olde,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"January 12, 2010",2010,2,Y Not,Ringo Starr,60,78,11,27,Hip-O,"['Rock', 'Pop']"
+"November 2, 2010",2010,44,Merry Christmas II You,Mariah Carey,60,67,8,105,Island,"['R&B', 'Urban', 'Adult Contemporary', 'Holiday', 'Pop/Rock', 'Dance-Pop', 'Holidays', 'Christmas']"
+"February 9, 2010",2010,6,Talking To You Talking To Me,The Watson Twins,60,0,16,0,Vanguard,"['Rock', 'Folk', 'Alt-Country']"
+"November 30, 2010",2010,48,We Cant Fly,Aeroplane,60,0,12,0,Ultra Records,"['Electronic', 'Club/Dance']"
+"May 11, 2010",2010,19,Grey Oceans,CocoRosie,60,76,21,22,Sub Pop,"['Indie', 'Rock']"
+"November 9, 2010",2010,45,Darkly Darkly Venus Aversa,Cradle of Filth,60,78,7,18,Nuclear Blast,"['Pop/Rock', 'Heavy Metal', 'Black Metal']"
+"April 27, 2010",2010,17,Fearless Love,Melissa Etheridge,59,80,7,7,Island,"['Rock', 'Singer-Songwriter']"
+"August 31, 2010",2010,35,Something for the Rest of Us,Goo Goo Dolls,59,77,8,10,Warner Bros.,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Contemporary Pop/Rock']"
+"March 16, 2010",2010,11,In The Dark,The Whigs,59,0,17,0,ATO,"['Rock', 'Alternative']"
+"December 7, 2010",2010,49,No Mercy,TI,59,65,16,47,Atlantic,['Rap']
+"May 11, 2010",2010,19,Keep Calm And Carry On,Stereophonics,59,75,8,11,V2,"['Rock', 'Alternative']"
+"May 11, 2010",2010,19,Night Train EP,Keane,59,64,14,48,Interscope,"['Rock', 'Alternative']"
+"January 19, 2010",2010,3,In This Light On This Evening,Editors,59,69,25,56,Kitchenware,"['Indie', 'Rock']"
+"December 7, 2010",2010,49,Endlessly,Duffy,59,67,21,33,Island,"['R&B', 'Soul', 'Pop/Rock', 'Neo-Soul']"
+"September 14, 2010",2010,37,Flamingo,Brandon Flowers,59,81,25,40,Island,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'New Wave/Post-Punk Revival']"
+"March 1, 2010",2010,9,The Beat Is,Alphabeat,58,74,7,5,Polydor,"['Rock', 'Dance', 'Pop']"
+"October 4, 2010",2010,40,Carl Barat,Carl Barât,58,0,7,0,Arcady,"['Britpop', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"March 9, 2010",2010,10,The Bundles,The Bundles,58,0,8,0,K,"['Rock', 'Alternative']"
+"August 10, 2010",2010,32,31 Minutes To Takeoff,Mike Posner,58,61,8,29,J-Records,['Pop/Rock']
+"April 13, 2010",2010,15,Emotion Commotion,Jeff Beck,58,78,8,5,Rhino,['Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"December 21, 2010",2010,51,Best Night of My Life,Jamie Foxx,58,62,9,5,J Records,"['R&B', 'Urban', 'Contemporary R&B']"
+"June 22, 2010",2010,25,The Sellout,Macy Gray,58,47,17,16,Concord,"['R&B', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Neo-Soul', 'Adult Contemporary R&B']"
+"September 6, 2010",2010,36,Happiness,Hurts,58,86,9,57,RCA,"['Pop/Rock', 'Punk/New Wave', 'Swamp Pop', 'Synth Pop']"
+"July 6, 2010",2010,27,Again Again,Thieves Like Us,57,0,8,0,Shelflife,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 13, 2010",2010,28,Korn III Remember Who You Are,Korn,57,68,12,79,Roadrunner Records,['Pop/Rock']
+"March 30, 2010",2010,13,Raymond v Raymond,Usher,57,69,16,34,La Face,"['R&B', 'Soul']"
+"August 3, 2010",2010,31,Spot the Difference,Squeeze,57,0,10,0,Anchor & Hope,"['Pop/Rock', 'Contemporary Pop/Rock']"
+"April 27, 2010",2010,17,Nobodys Daughter,Hole,57,66,23,56,Mercury,['Rock']
+"November 2, 2010",2010,44,Soulsville,Huey Lewis the News,57,0,7,0,W.O.W. Records,"['Pop/Rock', 'Contemporary Pop/Rock', 'Bar Band']"
+"April 20, 2010",2010,16,Suite 420,Devin The Dude,57,0,7,0,Koch,['Rap']
+"March 16, 2010",2010,11,The Alphabet Of Hurricanes,Tom McRae,57,0,8,0,Cooking Vinyl,"['Rock', 'Alternative']"
+"August 3, 2010",2010,31,Trill OG,Bun B,57,83,11,9,Rap-A-Lot Records,"['Rap', 'Pop/Rock', 'Southern Rap']"
+"April 20, 2010",2010,16,Streetlights,Kurupt,57,0,7,0,Penagon,['Rap']
+"December 7, 2010",2010,49,Wonders of the Younger,Plain White Ts,57,54,8,5,Hollywood,['Pop/Rock']
+"August 17, 2010",2010,33,Modern Rituals,Chief,56,0,14,0,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"March 30, 2010",2010,13,Sweet Sister EP,Annuals,56,0,7,0,Banter,"['Indie', 'Rock']"
+"April 20, 2010",2010,16,Rise Up,Cypress Hill,56,71,15,9,Priority,['Rap']
+"April 6, 2010",2010,14,Slash,Slash,56,83,15,44,Dik Hayd,['Rock']
+"April 13, 2010",2010,15,The Dark Leaves,Matt Pond,56,80,10,10,Attitude,"['Rock', 'Alternative']"
+"June 8, 2010",2010,23,Bionic,Christina Aguilera,56,82,21,815,RCA,"['R&B', 'Soul', 'Urban', 'Adult Contemporary', 'Pop/Rock', 'Dance-Pop', 'Contemporary Pop/Rock', 'Euro-Pop', 'Neo-Soul']"
+"March 2, 2010",2010,9,Jason Derulo,Jason Derulo,56,41,7,53,Warner Bros.,"['R&B', 'Soul']"
+"September 21, 2010",2010,38,The Sound of Sunshine,Spearhead,56,0,,0,,[]
+"November 2, 2010",2010,44,Death to False Metal,Weezer,56,52,13,38,Geffen,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Contemporary Pop/Rock', 'Punk-Pop', 'Power Pop']"
+"March 2, 2010",2010,9,Hologram Jams,Jaguar Love,55,74,9,5,Fat Possum,"['Indie', 'Rock']"
+"July 27, 2010",2010,30,Terror of Cosmic Loneliness,Tony Da Gatorra,55,0,,0,,[]
+"July 3, 2010",2010,26,Funstyle,Liz Phair,54,75,10,16,Rocket Science,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Singer/Songwriter']"
+"February 2, 2010",2010,5,Who I Am,Nick Jonas And The Administration,54,52,10,35,Hollywood,"['Rock', 'Pop']"
+"December 21, 2010",2010,51,No Boys Allowed,Keri Hilson,54,67,13,38,Interscope,"['Pop', 'R&B', 'Pop/Rock', 'Dance-Pop', 'Contemporary R&B']"
+"January 5, 2010",2010,1,Animal,Keha,54,62,18,317,RCA,"['Dance', 'Pop', 'Electronic']"
+"December 14, 2010",2010,50,Michael,Michael Jackson,54,64,19,78,Epic,"['Pop', 'R&B', 'Pop/Rock', 'Dance-Pop', 'Adult Contemporary R&B', 'Contemporary R&B']"
+"November 16, 2010",2010,46,Earth vs the Pipettes,The Pipettes,54,0,12,0,Fortuna Pop,"['Pop', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Dance']"
+"September 28, 2010",2010,39,Going Back,Phil Collins,53,88,7,4,Atlantic,"['Adult Contemporary', 'Pop/Rock', 'Contemporary Pop/Rock']"
+"October 25, 2010",2010,43,Acoustic Sessions,Charlotte Kemp Muhl,53,0,,0,,[]
+"November 30, 2010",2010,48,The DeAndre Way,Soulja Boy Tell Em,53,28,7,44,Interscope,['Rap']
+"October 25, 2010",2010,43,Until One,Swedish House Mafia,53,63,7,9,Virgin,"['Electronic', 'House', 'Club/Dance', 'Alternative Dance', 'Progressive House']"
+"October 19, 2010",2010,42,The Incredible Machine,Sugarland,52,77,11,7,Mercury Nashville,"['Country', 'Pop/Rock']"
+"November 16, 2010",2010,46,50,Nelly,52,54,9,16,Motown,"['Rap', 'Pop-Rap']"
+"March 2, 2010",2010,9,Black Swan,Athlete,52,70,10,8,Original Signal,"['Indie', 'Rock']"
+"August 24, 2010",2010,34,Teenage Dream,Katy Perry,52,79,19,1675,Capitol,['Pop/Rock']
+"October 19, 2010",2010,42,Funstyle,Liz Phair,51,63,10,16,Rocket Science,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Singer/Songwriter']"
+"July 23, 2010",2010,29,The Runaway,The Magic Numbers,50,0,9,0,Cooperative Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 2, 2010",2010,44,Cardiology,Good Charlotte,50,60,16,24,Capitol,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Punk Revival', 'Punk-Pop']"
+"June 22, 2010",2010,25,Cant Be Tamed,Miley Cyrus,48,74,9,376,Hollywood,['Pop']
+"June 29, 2010",2010,26,Streets Of Gold,3OH!3,48,40,11,93,Atlantic,['Rock']
+"June 22, 2010",2010,25,Sex Dreams And Denim Jeans,Uffie,48,59,11,25,Elektra,['Pop']
+"November 30, 2010",2010,48,The Beginning,The Black Eyed Peas,47,48,19,108,Interscope,"['Pop', 'Rap', 'R&B', 'Pop/Rock', 'Dance-Pop', 'Contemporary R&B', 'Pop-Rap']"
+"April 12, 2010",2010,15,Everybody Wants To Be On TV,Scouting For Girls,47,29,9,22,Epic,"['Indie', 'Rock', 'Pop']"
+"June 8, 2010",2010,23,Eureka,Rooney,47,0,9,0,California Dreamin',"['Rock', 'Pop', 'Alternative']"
+"October 11, 2010",2010,41,Margins,Paul Smith,46,0,7,0,TOAST,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 21, 2010",2010,38,Guitar Heaven The Greatest Guitar Classics of All Time,Santana,45,40,7,10,Arista,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Pop/Rock', 'Blues-Rock', 'Album Rock', 'Hard Rock', 'Latin Rock']"
+"June 22, 2010",2010,25,Memphis Blues,Cyndi Lauper,45,49,8,0,Downtown,['Pop']
+"February 2, 2010",2010,5,Rebirth,Lil Wayne,37,33,21,208,Cash Money Records,['Rap']

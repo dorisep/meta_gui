@@ -1,0 +1,404 @@
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"April 3, 2007",2007,14,From Here We Go Sublime,The Field,90,67,14,396,Kompakt,['Electronic']
+"November 6, 2007",2007,45,Untrue,Burial,90,80,23,467,Hyperdub,"['Indie', 'Electronic', 'Alternative']"
+"October 10, 2007",2007,41,In Rainbows,Radiohead,88,90,42,2205,Radiohead (self-released),"['Rock', 'Alternative']"
+"March 20, 2007",2007,12,Person Pitch,Panda Bear,87,87,31,232,Paw Tracks,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,Raising Sand,Robert Plant And Alison Krauss,87,88,20,85,Rounder,['Folk']
+"April 7, 2007",2007,14,And Their Refinement Of The Decline,Stars Of The Lid,87,73,13,103,Kranky,"['Rock', 'Electronic']"
+"September 18, 2007",2007,38,Lets Stay Friends,Les Savy Fav,87,82,23,36,French Kiss,"['Indie', 'Rock']"
+"March 6, 2007",2007,10,Neon Bible,Arcade Fire,87,88,46,902,Merge,"['Indie', 'Rock']"
+"February 6, 2007",2007,6,Children Running Through,Patty Griffin,87,86,13,46,ATO,"['Rock', 'Adult Alternative', 'Folk', 'Singer-Songwriter']"
+"August 21, 2007",2007,34,Kala,MIA,87,86,37,319,Interscope,['Rap']
+"March 20, 2007",2007,12,Sound Of Silver,LCD Soundsystem,86,86,41,280,Capitol,"['Indie', 'Rock', 'Electronic']"
+"October 9, 2007",2007,41,Comicopera,Robert Wyatt,86,86,20,12,Domino,"['Rock', 'Experimental']"
+"May 22, 2007",2007,21,Mirrored,Battles,86,80,31,184,Warp,"['Indie', 'Rock']"
+"November 13, 2007",2007,46,4533,LCD Soundsystem,86,78,14,40,DFA,['Electronic']
+"May 22, 2007",2007,21,Boxer,The National,86,88,31,340,Beggars Banquet,"['Indie', 'Rock']"
+"May 8, 2007",2007,19,New Moon,Elliott Smith,85,87,30,63,Kill Rock Stars,"['Indie', 'Rock']"
+"May 1, 2007",2007,18,Crazy Ex-Girlfriend,Miranda Lambert,85,86,15,53,Sony,['Country']
+"September 25, 2007",2007,39,The World Has Made Me The Man Of My Dreams,MeShell Ndegéocello,84,88,8,0,Emarcy/Umgd,['R&B']
+"November 13, 2007",2007,46,Ire Works,The Dillinger Escape Plan,84,82,15,70,Relapse,['Rock']
+"July 10, 2007",2007,28,Ga Ga Ga Ga Ga,Spoon,84,88,33,179,Merge,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,Copia,Eluvium,84,80,11,38,Temporary Residence,['Electronic']
+"May 29, 2007",2007,22,Sweet Warrior,Richard Thompson,84,88,14,20,Shout! Factory,"['Rock', 'Singer-Songwriter']"
+"September 25, 2007",2007,39,The Shepherds Dog,Iron Wine,84,88,34,64,Sub Pop,"['Indie', 'Rock', 'Folk']"
+"July 17, 2007",2007,29,Beauty Crime,Suzanne Vega,84,87,12,20,Blue Note Records,['Folk']
+"February 13, 2007",2007,7,Vieux Farka Toure,Vieux Farka Touré,84,75,7,0,World Village,['World']
+"February 20, 2007",2007,8,The Besnard Lakes Are The Dark Horse,The Besnard Lakes,83,82,17,47,Jagjaguwar,"['Indie', 'Rock']"
+"April 10, 2007",2007,15,Grinderman,Grinderman,83,84,33,47,Anti-,"['Rock', 'Alternative']"
+"November 6, 2007",2007,45,American Gangster,Jay-Z,83,84,25,199,Roc-A-Fella,['Rap']
+"April 10, 2007",2007,15,23,Blonde Redhead,83,88,30,67,4AD,"['Indie', 'Rock']"
+"August 21, 2007",2007,34,Andorra,Caribou,83,86,26,40,Merge,"['Indie', 'Rock']"
+"October 15, 2007",2007,42,Overpowered,Róisín Murphy,82,88,12,0,EMI,"['Dance', 'Pop', 'Electronic']"
+"April 24, 2007",2007,17,Favourite Worst Nightmare,Arctic Monkeys,82,86,38,579,Domino,"['Indie', 'Rock']"
+"April 3, 2007",2007,14,Steingarten,Pole,82,85,10,4,~scape,['Electronic']
+"June 12, 2007",2007,24,Wild Mountain Nation,Blitzen Trapper,82,83,11,12,Lidkercow Ltd,"['Indie', 'Rock', 'Alternative']"
+"April 24, 2007",2007,17,Fear of a Blank Planet,Porcupine Tree,82,90,9,104,Atlantic/Wea,['Rock']
+"February 6, 2007",2007,6,Writers Block,Peter Bjorn and John,82,86,26,44,Almost Gold,"['Indie', 'Rock']"
+"August 7, 2007",2007,32,Sojourner,Magnolia Electric Co,82,78,9,5,Secretly Canadian,['Rock']
+"August 7, 2007",2007,32,The Stage Names,Okkervil River,82,88,28,63,Jagjaguwar,"['Indie', 'Rock']"
+"May 1, 2007",2007,18,The Magic Position,Patrick Wolf,82,87,27,59,Universal,"['Indie', 'Rock']"
+"June 26, 2007",2007,26,At My Age,Nick Lowe,82,87,11,15,Yep Roc,['Rock']
+"April 3, 2007",2007,14,Jarvis,Jarvis Cocker,82,84,30,32,Rough Trade,"['Rock', 'Alternative']"
+"May 1, 2007",2007,18,Tears Of The Valedictorian,Frog Eyes,81,81,12,27,Absolutely Kosher,"['Indie', 'Rock']"
+"July 10, 2007",2007,28,Cross,Justice,81,89,25,152,Vice,"['Dance', 'Electronic']"
+"July 31, 2007",2007,31,Fur Gold,Bat for Lashes,81,85,15,62,Caroline,"['Indie', 'Alternative']"
+"March 20, 2007",2007,12,Armchair Apocrypha,Andrew Bird,81,88,31,80,Fat Possum,"['Indie', 'Rock']"
+"June 5, 2007",2007,23,Someone To Drive You Home,The Long Blondes,81,84,19,33,Rough Trade,"['Indie', 'Rock']"
+"March 20, 2007",2007,12,Ruff Draft Reissue,J Dilla aka Jay Dee,81,85,16,8,Stones Throw,['Rap']
+"March 13, 2007",2007,11,Back To Black,Amy Winehouse,81,89,26,397,Republic,"['Pop', 'R&B', 'Soul']"
+"March 20, 2007",2007,12,Drums And Guns,Low,81,83,33,20,Sub Pop,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,Hissing Fauna Are You The Destroyer,Of Montreal,80,88,36,162,Polyvinyl,"['Indie', 'Rock']"
+"June 19, 2007",2007,25,Icky Thump,The White Stripes,80,87,39,246,Warner Bros,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,LP,Holy Fuck,80,69,,0,,[]
+"August 14, 2007",2007,33,Hey Hey My My Yo Yo,Junior Senior,80,84,14,14,Rykodisc,"['Indie', 'Rock', 'Dance', 'Pop']"
+"February 13, 2007",2007,7,Tones Of Town,Field Music,80,89,28,35,Memphis Industries,"['Indie', 'Rock']"
+"October 30, 2007",2007,44,Dirt Farmer,Levon Helm,80,86,19,12,Vanguard,"['Country', 'Folk']"
+"October 9, 2007",2007,41,Night Falls Over Kortedala,Jens Lekman,80,88,27,34,Secretly Canadian,"['Indie', 'Rock', 'Pop']"
+"October 9, 2007",2007,41,The Flying Club Cup,Beirut,80,88,31,53,Ba Da Bing!,"['Rock', 'Alternative', 'Folk']"
+"February 20, 2007",2007,8,The Return To Form Black Majick Party,Pop Levi,80,77,17,14,Counter,"['Indie', 'Rock']"
+"March 6, 2007",2007,10,Candylion,Gruff Rhys,80,83,18,12,Team Love,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,White Chalk,PJ Harvey,80,80,38,97,Island,"['Rock', 'Alternative']"
+"May 8, 2007",2007,19,Prog,The Bad Plus,80,83,8,7,Heads Up,['Jazz']
+"July 10, 2007",2007,28,Super Taranta!,Gogol Bordello,80,82,22,22,Side One Dummy,"['Indie', 'Rock', 'Alternative']"
+"July 24, 2007",2007,30,The Con,Tegan and Sara,80,87,25,95,Sire/London/Rhino,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,All Of A Sudden I Miss Everyone,Explosions in the Sky,80,85,39,81,Temporary Residence,"['Indie', 'Rock', 'Instrumental']"
+"August 7, 2007",2007,32,A Place To Bury Strangers,A Place to Bury Strangers,80,88,14,34,Killer Pimp,"['Indie', 'Rock']"
+"March 23, 2007",2007,12,Pale Young Gentlemen,Pale Young Gentlemen,80,85,10,17,Pale Young Gentlemen (self-release),"['Indie', 'Rock', 'Pop']"
+"August 14, 2007",2007,33,Unglamorous,Lori McKenna,80,79,11,8,Warner Bros/Wea,"['Country', 'Folk']"
+"March 20, 2007",2007,12,Ill Sleep When Youre Dead,El-P,80,87,32,58,Definitive Jux,"['Indie', 'Rap']"
+"September 18, 2007",2007,38,Death Is This Communion,High on Fire,80,83,11,29,Relapse,"['Rock', 'Metal']"
+"July 24, 2007",2007,30,Emerald City,John Vanderslice,80,77,14,22,Barsuk,"['Indie', 'Rock']"
+"December 4, 2007",2007,49,MADE,Scarface,80,84,7,11,Asylum,['Rap']
+"September 25, 2007",2007,39,The Scene Of The Crime,Bettye LaVette,79,80,18,6,Anti,"['R&B', 'Soul']"
+"June 5, 2007",2007,23,Tromatic Reflexxions,Von Sudenfed,79,86,23,11,Domino,['Electronic']
+"February 20, 2007",2007,8,In Advance Of The Broken Arm,Marnie Stern,79,74,11,14,Kill Rock Stars,"['Indie', 'Rock']"
+"May 1, 2007",2007,18,Beyond,Dinosaur Jr,79,88,31,44,Fat Possum,"['Rock', 'Alternative']"
+"August 28, 2007",2007,35,Liars,Liars,79,78,27,32,Mute,"['Rock', 'Alternative']"
+"June 26, 2007",2007,26,Desire,Pharoahe Monch,79,87,12,20,Umvd,['Rap']
+"May 15, 2007",2007,20,Tio Bitar,Dungen,79,83,23,11,Kemado,"['Indie', 'Rock']"
+"January 30, 2007",2007,5,Alright Still,Lily Allen,79,81,27,176,Capitol / Regal,"['Rock', 'Pop']"
+"September 25, 2007",2007,39,The Real Thing Words And Sounds Vol 3,Jill Scott,79,84,11,5,Hidden Beach,"['R&B', 'Soul']"
+"September 11, 2007",2007,37,Autumn of the Seraphs,Pinback,79,81,19,14,Touch & Go,"['Rock', 'Alternative']"
+"January 23, 2007",2007,4,Transparent Things,Fujiya Miyagi,79,83,16,11,Deaf Dumb & Blind,"['Indie', 'Rock', 'Electronic']"
+"May 1, 2007",2007,18,The Reminder,Feist,79,88,31,98,Interscope,"['Indie', 'Rock', 'Singer-Songwriter']"
+"October 9, 2007",2007,41,Heroes Thieves,Vanessa Carlton,79,88,8,62,The Inc.,"['Rock', 'Pop']"
+"October 2, 2007",2007,40,100 Days 100 Nights,Sharon Jones the Dap-Kings,79,87,23,6,Daptone,['R&B']
+"October 23, 2007",2007,43,In Defense Of The Genre,Say Anything,79,79,10,35,J-Records,"['Rock', 'Pop', 'Punk']"
+"August 21, 2007",2007,34,The Historical Conquests of Josh Ritter,Josh Ritter,79,88,20,39,Sony,"['Rock', 'Folk']"
+"January 23, 2007",2007,4,Wincing The Night Away,The Shins,79,82,37,186,Sub Pop,"['Indie', 'Rock']"
+"March 27, 2007",2007,13,Red Gone Wild Thee Album,Redman,79,84,8,15,Def Jam,['Rap']
+"August 28, 2007",2007,35,Level Live Wires,Odd Nosdam,79,70,12,4,Anticon,"['Indie', 'Electronic']"
+"September 11, 2007",2007,37,Graduation,Kanye West,79,82,32,1147,Roc-A-Fella,['Rap']
+"September 11, 2007",2007,37,Strawberry Jam,Animal Collective,79,88,34,200,Domino,"['Indie', 'Rock', 'Experimental']"
+"April 3, 2007",2007,14,Fourteen Autumns Fifteen Winters,The Twilight Sad,79,84,16,36,Fat Cat,"['Indie', 'Rock']"
+"April 3, 2007",2007,14,Because Of The Times,Kings of Leon,79,82,31,184,RCA,"['Indie', 'Rock']"
+"May 22, 2007",2007,21,Five Roses,Miracle Fortress,78,87,10,9,Secret City,"['Indie', 'Rock']"
+"October 9, 2007",2007,41,Cease To Begin,Band of Horses,78,83,27,48,Sub Pop,"['Indie', 'Rock']"
+"June 5, 2007",2007,23,Ma Fleur,The Cinematic Orchestra,78,81,16,17,Domino,['Electronic']
+"June 5, 2007",2007,23,Maths English,Dizzee Rascal,78,82,,0,,[]
+"October 2, 2007",2007,40,Revival,John Fogerty,78,84,13,14,Fantasy,['Rock']
+"July 10, 2007",2007,28,Marry Me,St Vincent,78,85,20,103,Beggars Banquet,"['Indie', 'Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"November 20, 2007",2007,47,Frank,Amy Winehouse,78,84,11,123,Universal,"['Rock', 'Pop']"
+"July 10, 2007",2007,28,Sirens of the Ditch,Jason Isbell,78,87,15,15,New West,"['Rock', 'Alternative']"
+"January 23, 2007",2007,4,Friend Opportunity,Deerhoof,78,82,29,32,Kill Rock Stars,"['Indie', 'Rock']"
+"February 6, 2007",2007,6,New Magnetic Wonder,The Apples In Stereo,78,81,23,24,Yep Roc / Simian,"['Indie', 'Rock']"
+"June 5, 2007",2007,23,Excellent Italian Greyhound,Shellac,78,80,10,8,Touch & Go,"['Indie', 'Rock']"
+"May 22, 2007",2007,21,Fort Nightly,White Rabbits,78,87,9,20,Say Hey,"['Indie', 'Rock']"
+"March 27, 2007",2007,13,Saltbreakers,Laura Veirs,78,84,15,15,Nonesuch,"['Indie', 'Rock', 'Singer-Songwriter']"
+"July 24, 2007",2007,30,The Broken String,Bishop Allen,78,87,15,9,Dead Oceans,"['Indie', 'Rock']"
+"June 19, 2007",2007,25,The Brag And Cuss,Rocky Votolato,78,0,7,0,Barsuk,"['Indie', 'Rock', 'Singer-Songwriter']"
+"September 18, 2007",2007,38,The Western Lands,Gravenhurst,78,85,12,8,Warp,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,Dressed Up For The Letdown,Richard Swift,78,66,16,8,Secretly Canadian,"['Indie', 'Rock', 'Singer-Songwriter']"
+"April 10, 2007",2007,15,Cassadaga,Bright Eyes,78,78,35,115,Saddle Creek,"['Indie', 'Rock']"
+"August 21, 2007",2007,34,30 Year Low,The Mendoza Line,78,0,9,0,Glurp,"['Indie', 'Rock']"
+"March 20, 2007",2007,12,We Were Dead Before The Ship Even Sank,Modest Mouse,78,86,38,255,Sony,"['Indie', 'Rock']"
+"December 4, 2007",2007,49,Alive 2007,Daft Punk,78,89,22,174,Virgin,"['Dance', 'Electronic']"
+"September 11, 2007",2007,37,Rise Above,Dirty Projectors,78,72,17,23,Dead Oceans,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,Friend And Foe,Menomena,78,87,20,52,Barsuk,"['Indie', 'Rock']"
+"July 10, 2007",2007,28,Time On Earth,Crowded House,78,87,20,42,ATO,['Rock']
+"July 24, 2007",2007,30,Is Is EP,Yeah Yeah Yeahs,78,79,13,34,Fontana Interscope,"['Indie', 'Rock']"
+"August 28, 2007",2007,35,We Are Him,Angels Of Light,77,88,13,5,Young God,"['Indie', 'Rock', 'Experimental']"
+"February 20, 2007",2007,8,Ash Wednesday,Elvis Perkins,77,86,16,16,XL,"['Rock', 'Adult Alternative', 'Singer-Songwriter']"
+"September 18, 2007",2007,38,Trees Outside The Academy,Thurston Moore,77,87,25,15,Ecstatic Peace,"['Indie', 'Rock', 'Alternative']"
+"July 10, 2007",2007,28,Three Easy Pieces,Buffalo Tom,77,80,11,24,New West,"['Rock', 'Alternative']"
+"March 6, 2007",2007,10,The Calling,Mary Chapin Carpenter,77,85,9,10,Zoe,"['Country', 'Folk']"
+"December 18, 2007",2007,51,The Cool,Lupe Fiasco,77,88,30,267,Atlantic/Wea,['Rap']
+"April 4, 2007",2007,14,Nux Vomica,The Veils,77,88,12,10,Rough Trade,"['Indie', 'Rock']"
+"May 8, 2007",2007,19,Volta,Bjrk,77,77,,0,,[]
+"June 19, 2007",2007,25,Idealism,Digitalism,77,85,9,26,Astralwerks,['Electronic']
+"January 29, 2007",2007,5,Cryptograms,Deerhunter,77,84,17,44,Kranky,"['Indie', 'Rock']"
+"November 13, 2007",2007,46,Parades,Efterklang,77,84,14,12,Leaf,"['Rock', 'Experimental']"
+"September 11, 2007",2007,37,Civilians,Joe Henry,77,87,14,10,Anti,['Rock']
+"September 25, 2007",2007,39,Shine,Joni Mitchell,77,86,19,24,Hear,"['Rock', 'Singer/Songwriter']"
+"September 11, 2007",2007,37,North Star Deserter,Vic Chesnutt,77,81,13,7,Constellation,"['Rock', 'Alternative']"
+"May 8, 2007",2007,19,God Save The Clientele,The Clientele,77,87,15,19,Merge,"['Indie', 'Rock']"
+"March 20, 2007",2007,12,Living With The Living,Ted Leo The Pharmacists,77,81,33,19,Touch & Go,"['Indie', 'Rock']"
+"February 27, 2007",2007,9,You Youre A History In Rust,Do Make Say Think,77,88,14,19,Constellation,"['Indie', 'Rock']"
+"February 6, 2007",2007,6,Like Love Lust The Open Halls Of The Soul,Jesse Sykes,77,77,,0,,[]
+"September 11, 2007",2007,37,Proof of Youth,The Go! Team,77,85,35,20,Sub Pop,"['Indie', 'Rock', 'Pop', 'Electronic']"
+"July 24, 2007",2007,30,Young Modern,Silverchair,77,80,7,47,Eleven Music,"['Rock', 'Alternative']"
+"August 21, 2007",2007,34,Natural,Mekons,77,0,18,0,Quarter Stick,"['Rock', 'Punk']"
+"December 18, 2007",2007,51,Growing Pains,Mary J Blige,77,87,17,32,Geffen,['R&B']
+"February 26, 2007",2007,9,A Brighter Beat,Malcolm Middleton,77,0,8,0,Full Time Hobby,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,Little Amber Bottles,Blanche,77,0,7,0,Original Signal,"['Country', 'Folk']"
+"December 4, 2007",2007,49,The Big Doe Rehab,Ghostface Killah,77,84,29,23,Def Jam,['Rap']
+"May 8, 2007",2007,19,Human The Death Dance,Sage Francis,77,78,16,12,Epitaph,"['Indie', 'Rap']"
+"September 11, 2007",2007,37,Ill Follow You,Oakley Hall,77,62,14,6,Merge,"['Indie', 'Rock', 'Alternative', 'Country']"
+"September 25, 2007",2007,39,Shocking Pinks,Shocking Pinks,76,83,11,9,Astralwerks,"['Indie', 'Rock', 'Pop', 'Electronic']"
+"February 27, 2007",2007,9,Abandoned Language,Dlek,76,77,,0,,[]
+"March 6, 2007",2007,10,Myth Takes,!!! Chik Chik Chik,76,82,33,33,Warp,"['Indie', 'Rock', 'Dance']"
+"June 19, 2007",2007,25,Its A Bit Complicated,Art Brut,76,78,21,26,Downtown,"['Indie', 'Rock']"
+"October 9, 2007",2007,41,Random Spirit Lover,Sunset Rubdown,76,88,19,58,Jagjaguwar,"['Indie', 'Rock']"
+"February 6, 2007",2007,6,Yes Im A Witch,Yoko Ono,76,64,20,25,Astralwerks,['Rock']
+"October 9, 2007",2007,41,Grass GeysersCarbon Clouds,Enon,76,87,14,6,Touch & Go,"['Indie', 'Rock']"
+"June 19, 2007",2007,25,In Camera,Arthur Yu,76,88,12,26,Hardly Art,"['Rock', 'Folk']"
+"March 6, 2007",2007,10,My Name Is Buddy,Ry Cooder,76,85,16,16,Nonesuch,"['Rock', 'Singer-Songwriter']"
+"September 4, 2007",2007,36,La Radiolina,Manu Chao,76,79,27,19,Nacional Records,['World']
+"April 17, 2007",2007,16,Year Zero,Nine Inch Nails,76,88,28,254,Nothing,"['Rock', 'Alternative']"
+"February 20, 2007",2007,8,This Too Will Pass,The One AM Radio,76,0,11,0,Dangerbird,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,Chrome Dreams II,Neil Young,76,79,27,13,Reprise/Wea,['Rock']
+"October 2, 2007",2007,40,New Seasons,The Sadies,76,0,13,0,Yep Roc,"['Indie', 'Rock', 'Alt-Country']"
+"January 23, 2007",2007,4,The Good The Bad The Queen,The Good the Bad the Queen,76,86,38,69,Virgin,"['Rock', 'Alternative']"
+"September 25, 2007",2007,39,Boss,Magik Markers,76,82,14,5,Ecstatic Peace,"['Indie', 'Rock']"
+"April 24, 2007",2007,17,Well Never Turn Back,Mavis Staples,76,87,14,15,Anti,"['R&B', 'Gospel']"
+"May 8, 2007",2007,19,No Shouts No Calls,Electrelane,76,83,21,15,Too Pure,"['Indie', 'Rock']"
+"February 27, 2007",2007,9,Back Numbers,Britta Phillips and Dean Wareham,76,76,12,10,Rounder,"['Indie', 'Rock']"
+"June 5, 2007",2007,23,Cant Wait Another Day,The Ladybug Transistor,76,0,,0,,[]
+"March 20, 2007",2007,12,Out Of The Woods,Tracey Thorn,76,84,20,16,Astralwerks,"['Indie', 'Rock', 'Electronic']"
+"June 26, 2007",2007,26,Easy Tiger,Ryan Adams,76,87,29,58,Lost Highway,"['Indie', 'Rock']"
+"March 27, 2007",2007,13,Strangelet,Grant-Lee Phillips,76,83,10,8,Zoe,"['Indie', 'Rock', 'Singer-Songwriter']"
+"November 13, 2007",2007,46,Intoxication,Shaggy,76,80,7,4,VP,['Reggae']
+"April 24, 2007",2007,17,Woke On A Whaleheart,Bill Callahan,76,75,18,6,Drag City,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,In Stormy Nights,Ghost,76,80,15,4,Drag City,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,Reunion Tour,The Weakerthans,76,84,24,12,Epitaph,"['Indie', 'Rock', 'Punk']"
+"January 23, 2007",2007,4,Woke Myself Up,Julie Doiron,75,0,11,0,Jagjaguwar,"['Indie', 'Rock', 'Singer-Songwriter']"
+"October 9, 2007",2007,41,Hera Ma Nono,Extra Golden,75,0,10,0,Thrill Jockey,['World']
+"March 27, 2007",2007,13,Return Of The Mac,Prodigy of Mobb Deep,75,52,11,12,Koch,['Rap']
+"June 26, 2007",2007,26,Translated From Love,Kelly Willis,75,0,10,0,Rykodisc,"['Alternative', 'Country']"
+"March 6, 2007",2007,10,Foley Room,Amon Tobin,75,89,13,23,Ninja Tune,['Electronic']
+"March 6, 2007",2007,10,Security,Antibalas,75,0,20,0,Anti,"['World', 'Afrobeat']"
+"October 23, 2007",2007,43,In The Vines,Castanets,75,0,20,0,Asthmatic Kitty,"['Indie', 'Rock']"
+"February 6, 2007",2007,6,The Sermon On Exposition Boulevard,Rickie Lee Jones,75,78,13,15,New West,"['Rock', 'Singer-Songwriter']"
+"February 6, 2007",2007,6,Infinity On High,Fall Out Boy,75,71,23,216,Island,"['Rock', 'Alternative']"
+"September 25, 2007",2007,39,Good Arrows,Tunng,75,78,20,6,Thrill Jockey,"['Indie', 'Rock', 'Electronic', 'Folk']"
+"January 9, 2007",2007,2,The Autumn Defense,The Autumn Defense,75,77,8,7,Broadmoor,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,Ce,Caetano Veloso,75,80,12,16,Nonesuch,['World']
+"June 19, 2007",2007,25,Kurr,Amiina,75,80,8,4,Ever,"['Indie', 'Rock', 'Experimental']"
+"March 13, 2007",2007,11,Hats Off To The Buskers,The View,75,67,17,38,Columbia / 1965 Records,"['Rock', 'Alternative', 'Britpop']"
+"February 6, 2007",2007,6,Phantom Punch,Sondre Lerche,75,79,23,13,Astralwerks,"['Indie', 'Rock']"
+"June 12, 2007",2007,24,Era Vulgaris,Queens of the Stone Age,75,84,33,222,Interscope,"['Rock', 'Alternative']"
+"July 17, 2007",2007,29,Mens Needs Womens Needs Whatever,The Cribs,75,85,14,36,Warner Bros / Wea,"['Indie', 'Rock']"
+"April 3, 2007",2007,14,Dont Mess With The Dragon,Ozomatli,74,77,8,6,Concord,"['Rock', 'Alternative', 'Latin']"
+"August 28, 2007",2007,35,Lifeline,Ben Harper,74,69,14,16,Virgin,"['Rock', 'Alternative', 'Folk']"
+"May 8, 2007",2007,19,Everybody,The Sea and Cake,74,76,24,7,Thrill Jockey,"['Indie', 'Rock']"
+"August 21, 2007",2007,34,Challengers,The New Pornographers,74,86,32,77,Matador,"['Indie', 'Rock']"
+"May 8, 2007",2007,19,Strength Loyalty,Bone Thugs-N-Harmony,74,80,11,13,Full Surface / Interscope,['Rap']
+"April 10, 2007",2007,15,The Undisputed Truth,Brother Ali,74,83,16,23,Rhymesayers,['Rap']
+"July 31, 2007",2007,31,Cookies,1990s,74,87,15,6,Rough Trade,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,Rites Of Uncovering,Arbouretum,74,0,12,0,Thrill Jockey,"['Indie', 'Rock']"
+"February 6, 2007",2007,6,Loney Noir,Loney Dear,74,85,18,11,Sub Pop,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,Learn To Sing Like A Star,Kristin Hersh,74,84,20,14,Yep Roc,"['Rock', 'Alternative', 'Singer-Songwriter']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"July 10, 2007",2007,28,New Wave,Against Me!,74,69,16,59,Sire/London/Rhino,"['Rock', 'Alternative']"
+"February 20, 2007",2007,8,Can Cladders,High Llamas,74,88,15,4,Drag City,"['Indie', 'Rock']"
+"August 21, 2007",2007,34,Planet of Ice,Minus the Bear,74,88,16,15,Suicide Squeeze,"['Indie', 'Rock']"
+"August 28, 2007",2007,35,None Shall Pass,Aesop Rock,74,86,32,50,Def Jux,['Rap']
+"November 6, 2007",2007,45,HvarfHeim,Sigur Rós,74,80,25,0,XL,['Rock']
+"January 23, 2007",2007,4,Living Well,Rob Crow,74,75,12,6,Temporary Residence,"['Indie', 'Rock']"
+"May 8, 2007",2007,19,The Beatific Visions,Brakes aka brakesbrakesbrakes,74,82,16,6,Rough Trade,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,The Bird And The Bee,The Bird And The Bee,74,78,21,11,Blue Note,"['Indie', 'Rock', 'Electronic']"
+"September 18, 2007",2007,38,Love Is Simple,AkronFamily,74,80,17,18,Young God,"['Indie', 'Rock', 'Experimental']"
+"May 1, 2007",2007,18,Because Of You,Ne-Yo,74,65,14,27,Def Jam,['R&B']
+"September 11, 2007",2007,37,Good Bad Not Evil,Black Lips,73,87,24,15,Vice,"['Rock', 'Punk']"
+"June 19, 2007",2007,25,Astronomy For Dogs,The Aliens,73,88,17,30,Astralwerks / EMI,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,Cosmos,Murcof,73,80,8,7,Leaf,['Electronic']
+"October 2, 2007",2007,40,Magic,Bruce Springsteen The E Street Band,73,86,37,115,Sony,['Rock']
+"March 27, 2007",2007,13,Let It Go,Tim McGraw,73,82,9,11,Curb,['Country']
+"September 11, 2007",2007,37,Attack Decay Sustain Release,Simian Mobile Disco,73,82,20,16,Interscope,['Electronic']
+"October 2, 2007",2007,40,We Are The Pipettes,The Pipettes,73,80,23,34,Memphis Industries,"['Rock', 'Pop']"
+"July 10, 2007",2007,28,The Else,They Might Be Giants,73,79,17,21,Idlewild/Zoe,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,La Cucaracha,Ween,73,82,15,37,Rounder,"['Indie', 'Rock']"
+"May 1, 2007",2007,18,Snakes Arrows,Rush,73,88,9,71,Atlantic,['Rock']
+"September 11, 2007",2007,37,Bluefinger,Black Francis,73,87,19,18,Cooking Vinyl,"['Rock', 'Alternative']"
+"April 10, 2007",2007,15,Night Of The Furies,Rosebuds,73,86,,0,,[]
+"August 21, 2007",2007,34,Ear Drum,Talib Kweli,73,86,22,37,Warner Bros/Wea,['Rap']
+"June 26, 2007",2007,26,Build A Nation,Bad Brains,73,82,12,13,Megaforce,"['Rock', 'Alternative']"
+"June 5, 2007",2007,23,Asa Breed,Matthew Dear,73,81,15,9,Ghostly,['Electronic']
+"May 15, 2007",2007,20,Sky Blue Sky,Wilco,73,81,38,213,Nonesuch,"['Indie', 'Rock', 'Alt-Country']"
+"December 11, 2007",2007,50,8 Diagrams,Wu-Tang Clan,73,84,33,42,Motown/Universal,['Rap']
+"July 31, 2007",2007,31,Finding Forever,Common,73,84,28,68,Universal Music Group,['Rap']
+"February 27, 2007",2007,9,We All Belong,Dr Dog,73,78,13,13,Park the Van,"['Indie', 'Rock']"
+"September 18, 2007",2007,38,The Last Sucker,Ministry,73,82,7,13,13th Planet/Megaforce,"['Rock', 'Metal']"
+"November 20, 2007",2007,47,Free At Last,Freeway,72,0,12,0,Roc-A-Fella,['Rap']
+"May 15, 2007",2007,20,Release The Stars,Rufus Wainwright,72,83,33,76,Geffen,"['Indie', 'Rock', 'Singer-Songwriter']"
+"October 2, 2007",2007,40,Mantaray,Siouxsie,72,86,24,19,Decca,"['Rock', 'Pop']"
+"October 23, 2007",2007,43,Carnival Ride,Carrie Underwood,72,56,10,135,Arista Nashville,['Country']
+"September 18, 2007",2007,38,Spirit If,Kevin Drew,72,81,21,37,Arts & Crafts,"['Indie', 'Rock']"
+"September 18, 2007",2007,38,The Meanest Of Times,Dropkick Murphys,72,83,8,23,Born & Bred,"['Rock', 'Punk']"
+"April 24, 2007",2007,17,555,Charlotte Gainsbourg,72,86,21,18,Vice / Atlantic,"['Rock', 'Pop', 'World']"
+"September 11, 2007",2007,37,Our Ill Wills,Shout Out Louds,72,84,20,12,Merge,"['Rock', 'Pop']"
+"September 25, 2007",2007,39,Just Like You,Keyshia Cole,72,53,11,66,Geffen,['R&B']
+"July 24, 2007",2007,30,Grand Animals,Robbers On High Street,72,76,9,10,New Line,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,Visitations,Clinic,72,0,23,0,Domino,"['Indie', 'Rock']"
+"December 11, 2007",2007,50,The Solution,Beanie Sigel,72,73,10,7,Def Jam,['Rap']
+"August 14, 2007",2007,33,Ditherer,Fog,72,0,13,0,Lex,"['Indie', 'Electronic']"
+"January 30, 2007",2007,5,We Know About The Need,Bracken,72,0,9,0,Anticon,"['Indie', 'Rock', 'Electronic']"
+"March 6, 2007",2007,10,Yours To Keep,Albert Hammond Jr,72,85,26,37,New Line / Rough Trade,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,In Our Nature,Jose Gonzalez,72,86,27,13,Mute,"['Indie', 'Rock']"
+"April 17, 2007",2007,16,Spells,The Comas,72,84,8,14,Vagrant,"['Indie', 'Rock']"
+"January 23, 2007",2007,4,I Cant Go On Ill Go On,The Broken West,72,83,13,4,Merge,"['Indie', 'Rock']"
+"June 5, 2007",2007,23,Good Girl Gone Bad,Rihanna,72,80,17,450,Def Jam,['R&B']
+"September 25, 2007",2007,39,Washington Square Serenade,Steve Earle,72,85,25,15,New West,"['Rock', 'Country']"
+"December 4, 2007",2007,49,Carnival II Memoirs Of An Immigrant,Wyclef Jean,72,83,14,10,Sony,"['Rap', 'R&B']"
+"November 13, 2007",2007,46,The Black And White Album,The Hives,72,75,27,34,Interscope,['Rock']
+"September 11, 2007",2007,37,Loves Miracle,Qui,72,0,8,0,Ipecac,"['Indie', 'Rock']"
+"August 14, 2007",2007,33,Combinations,Eisley,72,86,12,21,Reprise / Wea,"['Indie', 'Rock']"
+"May 22, 2007",2007,21,Plague Park,Handsome Furs,72,87,19,30,Sub Pop,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,Load Blown,Black Dice,72,0,19,0,Paw Tracks,"['Indie', 'Rock']"
+"October 16, 2007",2007,42,Make Sure They See My Face,Kenna,71,87,12,7,Interscope,"['Indie', 'Rock', 'Alternative']"
+"March 13, 2007",2007,11,Costello Music,The Fratellis,71,81,17,79,Cherry Tree / Island,"['Indie', 'Rock']"
+"August 28, 2007",2007,35,Panic Prevention,Jamie T,71,87,19,18,Caroline,['Rap']
+"August 21, 2007",2007,34,The Hair The TV The Baby The Band,Imperial Teen,71,0,16,0,Merge,"['Indie', 'Rock']"
+"May 15, 2007",2007,20,Strange House,The Horrors,71,79,22,30,Stolen Transmission / Loog,"['Indie', 'Rock']"
+"September 11, 2007",2007,37,Playtime Is Over,Wiley,71,0,12,0,Ninja Tune,"['Alternative', 'Rap']"
+"April 3, 2007",2007,14,Part Two - The Endless Not,Throbbing Gristle,71,86,9,10,Mute,"['Electronic', 'Industrial']"
+"September 11, 2007",2007,37,Watch The Fireworks,Emma Pollock,71,0,16,0,4AD,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,Or Give Me Death,Aqueduct,71,50,15,6,Barsuk,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,Echoes Silence Patience Grace,Foo Fighters,71,79,30,153,RCA,"['Rock', 'Pop']"
+"September 18, 2007",2007,38,Ultimate Victory,Chamillionaire,71,87,15,38,Motown,['Rap']
+"March 20, 2007",2007,12,Why Bother,Adult,71,0,16,0,Thrill Jockey,"['Indie', 'Rock', 'Electronic']"
+"March 27, 2007",2007,13,Myths Of The Near Future,Klaxons,71,73,28,72,Geffen,"['Indie', 'Rock', 'Dance']"
+"May 22, 2007",2007,21,Voxtrot,Voxtrot,71,81,14,25,Playlouder,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,Teenager,The Thrills,71,78,18,9,Virgin,"['Indie', 'Rock']"
+"August 7, 2007",2007,32,How You Sell Soul to a Soulless People Who Sold Their Soul,Public Enemy,71,80,13,13,Slam Jamz,['Rap']
+"August 21, 2007",2007,34,Under the Blacklight,Rilo Kiley,71,68,32,52,Warner Bros.,"['Indie', 'Rock']"
+"May 1, 2007",2007,18,Baby 81,Black Rebel Motorcycle Club,71,83,29,59,Red Ink,"['Indie', 'Rock']"
+"July 10, 2007",2007,28,Our Love To Admire,Interpol,70,82,37,333,Capitol,"['Indie', 'Rock']"
+"February 6, 2007",2007,6,My Heart Has A Wish That You Would Not Go,Aereogramme,70,83,14,10,Sonic Unyon,"['Indie', 'Rock']"
+"September 18, 2007",2007,38,Once Upon A Time In The West,Hard-Fi,70,73,16,36,Atlantic,"['Indie', 'Rock']"
+"March 13, 2007",2007,11,Memory Man,Aqualung,70,87,8,30,Sony,"['Rock', 'Adult Alternative', 'Singer/Songwriter']"
+"July 2, 2007",2007,27,Twilight Of The Innocents,Ash,70,86,9,14,WEA International,"['Rock', 'Alternative']"
+"September 25, 2007",2007,39,Invitation Songs,The Cave Singers,70,77,13,6,Matador,"['Indie', 'Rock', 'Folk']"
+"March 27, 2007",2007,13,Buck The World,Young Buck,70,84,14,23,G-Unit,['Rap']
+"April 24, 2007",2007,17,Sensuous,Cornelius,70,83,18,8,Everloving,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,In Our Bedroom After The War,Stars,70,74,28,28,Arts & Crafts,"['Indie', 'Rock']"
+"May 22, 2007",2007,21,Light At The End Of The World,Erasure,70,86,11,7,Mute,"['Rock', 'Alternative']"
+"April 24, 2007",2007,17,No Need To Be Downhearted,Electric Soft Parade,70,82,11,6,Better Looking,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,King For A Day,Bobby Conn,70,77,16,6,Thrill Jockey,"['Indie', 'Rock']"
+"October 9, 2007",2007,41,Widow City,The Fiery Furnaces,70,78,29,17,Thrill Jockey,"['Indie', 'Rock']"
+"October 9, 2007",2007,41,Family,LeAnn Rimes,70,82,12,12,Curb,['Country']
+"September 4, 2007",2007,36,Play It As It Lays,Patti Scialfa,70,65,11,15,Sony,['Rock']
+"March 26, 2007",2007,13,Octopus,The Bees Band of Bees,70,86,13,8,Virgin,"['Indie', 'Rock']"
+"August 6, 2007",2007,32,Roots Echoes,The Coral,70,88,16,19,Red Ink Import,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,Atlantis Hymns For Disco,k-os,70,86,17,17,Virgin,"['Indie', 'Rap']"
+"September 11, 2007",2007,37,Just Who I Am Poets Pirates,Kenny Chesney,70,66,11,12,RCA,['Country']
+"November 6, 2007",2007,45,Smoke,White Williams,70,68,19,4,Tigerbeat6,"['Indie', 'Rock']"
+"July 3, 2007",2007,27,Ms Kelly,Kelly Rowland,70,80,10,47,Sony,"['Pop', 'R&B']"
+"October 23, 2007",2007,43,Elegies to Lessons Learnt,I Like Trains,70,0,8,0,Beggars Banquet,"['Indie', 'Rock']"
+"November 6, 2007",2007,45,Exclusive,Chris Brown,69,66,11,79,Jive,['R&B']
+"September 4, 2007",2007,36,Going Way Out With Heavy Trash,Heavy Trash,69,0,16,0,Yep Roc,"['Indie', 'Rock']"
+"April 24, 2007",2007,17,VI,The Fucking Champs,69,80,10,8,Drag City,"['Indie', 'Rock']"
+"June 5, 2007",2007,23,Memory Almost Full,Paul McCartney,69,84,23,173,Hear Music,['Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"November 20, 2007",2007,47,Shelter From The Ash,Six Organs of Admittance,69,77,16,6,Drag City,"['Rock', 'Experimental']"
+"March 20, 2007",2007,12,Western Xterminator,RTX,69,80,9,5,Drag City,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,Smokey Rolls Down Thunder Canyon,Devendra Banhart,69,74,34,33,Beggars XL,"['Rock', 'Folk']"
+"May 7, 2007",2007,19,Send Away The Tigers,Manic Street Preachers,69,81,13,39,Columbia,"['Rock', 'Alternative']"
+"April 24, 2007",2007,17,Book Of Bad Breaks,Thee More Shallows,69,0,14,0,Anticon,"['Indie', 'Rock']"
+"July 9, 2007",2007,28,Fantastic Playroom,New Young Pony Club,69,65,12,42,Modular,"['Indie', 'Electronic']"
+"August 21, 2007",2007,34,From the Corner to the Block,Galactic,69,72,12,5,Anti,"['Alternative', 'Rap']"
+"July 24, 2007",2007,30,Absolute Garbage,Garbage,69,86,12,36,Almo Sounds,"['Rock', 'Alternative']"
+"May 8, 2007",2007,19,Everything Last Winter,Fields,69,70,17,6,Atlantic,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,Two Gallants,Two Gallants,69,84,12,8,Saddle Creek,"['Indie', 'Rock']"
+"February 13, 2007",2007,7,West,Lucinda Williams,69,77,28,44,Lost Highway,"['Rock', 'Country', 'Singer-Songwriter']"
+"May 8, 2007",2007,19,Mice Parade,Mice Parade,69,0,8,0,Fat Cat,"['Indie', 'Rock']"
+"November 20, 2007",2007,47,D-Sides,Gorillaz,69,80,15,60,Virgin,"['Rock', 'Alternative']"
+"October 23, 2007",2007,43,Good Apollo Im Burning Star IV Volume Two No World For Tomorrow,Coheed and Cambria,69,65,16,124,Sony,['Rock']
+"July 9, 2007",2007,28,New Maps of Hell,Bad Religion,69,78,11,28,Epitaph,"['Rock', 'Punk']"
+"December 4, 2007",2007,49,Rufus Does Judy At Carnegie Hall,Rufus Wainwright,69,78,10,16,Geffen,"['Rock', 'Singer/Songwriter']"
+"March 20, 2007",2007,12,Black Pompadour,The Zincs,69,0,11,0,Thrill Jockey,"['Indie', 'Rock']"
+"May 1, 2007",2007,18,American Doll Posse,Tori Amos,69,88,19,194,Sony,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"June 19, 2007",2007,25,Dylanesque,Bryan Ferry,69,77,19,13,Virgin,"['Rock', 'Alternative']"
+"July 3, 2007",2007,27,Libertad,Velvet Revolver,68,75,15,107,RCA,['Rock']
+"January 29, 2007",2007,5,Stand Your Ground,Little Barrie,68,0,7,0,Genuine,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,Elect The Dead,Serj Tankian,68,86,19,83,Warner Bros,"['Rock', 'Alternative']"
+"October 23, 2007",2007,43,Shotters Nation,Babyshambles,68,85,26,42,Astralwerks,['Rock']
+"October 2, 2007",2007,40,The Shade Of Poison Trees,Dashboard Confessional,68,74,18,9,Vagrant,"['Rock', 'Pop']"
+"October 30, 2007",2007,44,Situation,Buck 65,68,79,21,8,Strangefamousrecords,['Rap']
+"January 30, 2007",2007,5,Not Too Late,Norah Jones,68,75,23,50,Blue Note,"['Pop', 'Jazz']"
+"April 3, 2007",2007,14,Traffic And Weather,Fountains of Wayne,68,82,28,32,Virgin,"['Rock', 'Alternative']"
+"March 20, 2007",2007,12,Turn The Lights Out,The Ponys,68,88,23,4,Matador,"['Indie', 'Rock']"
+"April 24, 2007",2007,17,Lion The Girl,Midnight Movies,68,86,8,5,New Line,"['Indie', 'Rock']"
+"October 2, 2007",2007,40,Songs Of Mass Destruction,Annie Lennox,68,88,18,38,Arista,['Rock']
+"January 30, 2007",2007,5,Roadkill Overcoat,Busdriver,68,80,13,7,Epitaph,"['Indie', 'Rap']"
+"June 19, 2007",2007,25,The Fragile Army,The Polyphonic Spree,68,88,22,28,TVT,"['Indie', 'Rock']"
+"September 18, 2007",2007,38,Drastic Fantastic,KT Tunstall,68,78,22,46,Virgin,"['Rock', 'Pop']"
+"March 6, 2007",2007,10,National Anthem Of Nowhere,Apostle Of Hustle,68,81,14,8,Arts & Crafts,"['Indie', 'Rock']"
+"May 15, 2007",2007,20,One Of The Boys,Gretchen Wilson,68,74,13,7,Sony,['Country']
+"September 18, 2007",2007,38,Asleep At Heavens Gate,Rogue Wave,67,78,16,20,Brushfire,"['Indie', 'Rock']"
+"November 20, 2007",2007,47,Jordin Sparks,Jordin Sparks,67,67,8,40,Jive,"['Rock', 'Pop']"
+"July 17, 2007",2007,29,We Are The Night,The Chemical Brothers,67,65,23,90,Astralwerks,['Electronic']
+"January 23, 2007",2007,4,Enemy Chorus,The Earlies,67,84,23,9,Secretly Canadian,"['Indie', 'Rock']"
+"August 28, 2007",2007,35,Can I Keep This Pen,Northern State,67,60,13,6,Ipecac,"['Indie', 'Rap']"
+"March 27, 2007",2007,13,Reformation Post TLC,The Fall,67,70,16,6,Narnack,"['Indie', 'Rock']"
+"March 20, 2007",2007,12,Glitter In The Gutter,Jesse Malin,67,69,15,9,Adeline,"['Indie', 'Rock', 'Singer-Songwriter']"
+"March 20, 2007",2007,12,Tongues,Kieran Hebden and Steve Reid,67,0,13,0,Domino,"['Indie', 'Electronic', 'Experimental', 'Jazz']"
+"March 13, 2007",2007,11,These Friends Of Mine,Rosie Thomas,67,0,9,0,Nettwerk,"['Indie', 'Rock', 'Singer-Songwriter']"
+"September 18, 2007",2007,38,Into The Wild,Eddie Vedder,67,88,14,100,J-Records,['Soundtrack']
+"May 8, 2007",2007,19,Our Earthly Pleasures,Maxmo Park,67,79,,0,,[]
+"September 18, 2007",2007,38,Venus Doom,HIM,67,77,9,77,Sire,"['Rock', 'Alternative', 'Metal']"
+"April 3, 2007",2007,14,Little Pop Rock,Sister Vanilla,67,80,7,5,Chemikal Underground,"['Rock', 'Alternative']"
+"June 12, 2007",2007,24,Riot!,Paramore,67,82,8,257,Fueled By Ramen,"['Rock', 'Pop', 'Alternative']"
+"June 19, 2007",2007,25,Golden Pollen,Savath Savalas,67,0,11,0,Anti-,"['Indie', 'Rock']"
+"September 25, 2007",2007,39,Go Go Smear The Poison Ivy,Mum,66,84,20,10,Fat Cat,"['Indie', 'Electronic']"
+"August 21, 2007",2007,34,Mentor Tormentor,Earlimart,66,84,14,7,Shout Factory,"['Indie', 'Rock']"
+"March 20, 2007",2007,12,Let Me Introduce My Friends,Im from Barcelona,66,73,17,22,Mute,"['Indie', 'Rock']"
+"November 13, 2007",2007,46,As I Am,Alicia Keys,66,86,22,89,Sony,"['R&B', 'Soul']"
+"October 16, 2007",2007,42,Chase This Light,Jimmy Eat World,66,78,25,39,Interscope,"['Rock', 'Pop', 'Alternative']"
+"March 20, 2007",2007,12,If The Ocean Gets Rough,Willy Mason,66,88,20,11,Astralwerks,"['Indie', 'Rock', 'Singer-Songwriter']"
+"April 24, 2007",2007,17,One Man Revolution,The Nightwatchman,66,71,13,17,Sony,"['Rock', 'Alternative']"
+"August 21, 2007",2007,34,Places Like This,Architecture in Helsinki,66,62,29,23,Polyvinyl,"['Indie', 'Pop']"
+"May 22, 2007",2007,21,It Wont Be Soon Before Long,Maroon 5,66,72,14,133,A&M / Octone,"['Rock', 'Pop', 'Adult Alternative']"
+"April 17, 2007",2007,16,The Best Damn Thing,Avril Lavigne,66,73,19,406,RCA,['Pop']
+"December 18, 2007",2007,51,Alone The Home Recordings of Rivers Cuomo,Rivers Cuomo,66,80,13,24,Geffen,"['Indie', 'Rock']"
+"June 19, 2007",2007,25,The Sun,Fridge,66,74,18,5,Temporary Residence,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,The Cost,The Frames,66,84,29,15,Anti,"['Indie', 'Rock']"
+"April 24, 2007",2007,17,Ode To Ochrasy,Mando Diao,66,69,8,28,Mute,"['Indie', 'Rock']"
+"March 6, 2007",2007,10,The Search,Son Volt,65,87,16,23,Red Ink,"['Rock', 'Alt-Country']"
+"February 6, 2007",2007,6,A Weekend In The City,Bloc Party,65,66,30,316,Vice,"['Indie', 'Rock']"
+"April 24, 2007",2007,17,Twelve,Patti Smith,65,86,26,14,Sony,['Rock']
+"April 3, 2007",2007,14,Santi,The Academy Is,65,74,8,19,Atlantic / Fueled By Ramen,"['Rock', 'Alternative', 'Emo']"
+"November 13, 2007",2007,46,Sawdust,The Killers,65,79,17,87,Island,"['Rock', 'Pop']"
+"January 23, 2007",2007,4,Freedoms Road,John Mellencamp,65,71,14,17,Universal,['Rock']
+"July 17, 2007",2007,29,An End Has A Start,Editors,65,79,24,89,Fader,"['Indie', 'Rock']"
+"October 2, 2007",2007,40,Kevin Michael,Kevin Michael,65,85,8,4,Atlantic,['R&B']
+"July 17, 2007",2007,29,Those The Brokes,The Magic Numbers,65,67,22,13,Heavenly,"['Indie', 'Rock', 'Pop']"
+"March 6, 2007",2007,10,Lynn Teeter Flower,Maria Taylor,65,79,16,12,Saddle Creek,"['Indie', 'Rock']"
+"March 6, 2007",2007,10,Make Another World,Idlewild,65,82,14,11,Sequel,"['Rock', 'Alternative']"
+"March 6, 2007",2007,10,Vessels,Wolf Cub,65,88,13,12,4AD,"['Indie', 'Rock']"
+"February 20, 2007",2007,8,Sex Change,Trans Am,65,80,24,15,Thrill Jockey,"['Indie', 'Rock']"
+"July 17, 2007",2007,29,Rise To Your Knees,Meat Puppets,65,66,14,7,Anodyne,['Rock']
+"July 24, 2007",2007,30,Planet Earth,Prince,65,70,28,60,Sony,"['Rock', 'Pop']"
+"October 16, 2007",2007,42,REM Live,REM,65,72,13,20,Warner Bros.,"['Rock', 'Pop', 'Alternative']"
+"November 5, 2007",2007,45,A Guide to Love Loss Desperation,The Wombats,65,81,10,25,Phantom Sound & Vision,"['Indie', 'Rock']"
+"January 30, 2007",2007,5,Theres No 666 In Outer Space,Hella,65,75,13,6,Ipecac,"['Indie', 'Rock']"
+"October 16, 2007",2007,42,The Alchemy Index Vols I and II Fire and Water,Thrice,65,83,12,46,Vagrant,"['Rock', 'Punk']"
+"March 19, 2007",2007,12,Ten New Messages,The Rakes,64,75,12,16,V2,"['Indie', 'Rock']"
+"October 23, 2007",2007,43,Hourglass,Dave Gahan,64,85,18,25,Virgin,"['Rock', 'Alternative']"
+"February 27, 2007",2007,9,Brand New By Tomorrow,Money Mark,64,0,12,0,Brushfire,"['Indie', 'Rock']"
+"October 16, 2007",2007,42,Oblivion With Bells,Underworld,64,78,24,25,Ato Records/Red,"['Pop', 'Electronic']"
+"July 10, 2007",2007,28,Goodbye,Ulrich Schnauss,64,86,21,13,Domino,['Electronic']
+"November 13, 2007",2007,46,System,Seal,64,81,12,15,Warner Bros.,"['Rock', 'Pop']"
+"October 23, 2007",2007,43,Preparations,Prefuse 73,64,0,16,0,Warp,"['Indie', 'Electronic']"
+"June 19, 2007",2007,25,Lost Highway,Bon Jovi,64,73,12,62,Mercury Nashville,"['Rock', 'Country']"
+"March 27, 2007",2007,13,Music Is My Savior,Mims,64,26,8,18,Capitol,['Rap']
+"June 26, 2007",2007,26,My December,Kelly Clarkson,64,69,15,311,RCA,"['Rock', 'Pop']"
+"September 25, 2007",2007,39,Last Light,Matt Pond,64,83,12,6,Altitude,"['Indie', 'Rock']"
+"March 20, 2007",2007,12,Introducing Joss Stone,Joss Stone,64,84,22,39,Virgin,"['R&B', 'Soul']"
+"January 30, 2007",2007,5,Some Loud Thunder,Clap Your Hands Say Yeah,63,74,36,74,[self-released],"['Indie', 'Rock']"
+"June 12, 2007",2007,24,Version,Mark Ronson,63,76,15,21,RCA,['Electronic']
+"May 29, 2007",2007,22,Double Up,R Kelly,63,62,15,27,Jive,['R&B']
+"June 5, 2007",2007,23,Eat Me Drink Me,Marilyn Manson,63,71,23,141,Nothing,"['Rock', 'Alternative', 'Metal']"
+"February 6, 2007",2007,6,Dip,L Pierre,63,0,12,0,Melodic,"['Indie', 'Rock', 'Instrumental']"

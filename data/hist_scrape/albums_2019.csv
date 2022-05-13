@@ -1,0 +1,519 @@
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"October 4, 2019",2019,40,Ghosteen,Nick Cave the Bad Seeds,96,86,28,279,Ghosteen,['Pop/Rock']
+"April 5, 2019",2019,14,Titanic Rising,Weyes Blood,91,91,26,420,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 1, 2019",2019,9,Grey Area,Little Simz,91,84,15,190,Age 101,['Rap']
+"June 14, 2019",2019,24,Gold Grey,Baroness,91,74,14,124,Abraxan Hymns,"['Pop/Rock', 'Heavy Metal', 'Progressive Metal', 'Sludge Metal', 'Post-Metal']"
+"August 23, 2019",2019,34,Jimmy Lee,Raphael Saadiq,90,58,8,50,Columbia,['R&B']
+"August 23, 2019",2019,34,Eve,Rapsody,90,81,8,53,Jamla,['Rap']
+"March 8, 2019",2019,10,Psychodrama,Dave,90,80,10,197,N/A,['Rap']
+"November 1, 2019",2019,44,Kiwanuka,Michael Kiwanuka,89,84,21,89,Interscope,['Pop/Rock']
+"May 10, 2019",2019,19,LEGACY! LEGACY!,Jamila Woods,89,80,19,79,Jagjaguwar,['R&B']
+"October 4, 2019",2019,40,All Mirrors,Angel Olsen,89,78,28,268,Jagjaguwar,['Pop/Rock']
+"March 1, 2019",2019,9,When I Get Home,Solange,89,75,25,317,N/A,['R&B']
+"August 9, 2019",2019,32,We Are Not Your Kind,Slipknot,89,85,14,482,Roadrunner Records,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal', 'Nü Metal']"
+"October 18, 2019",2019,42,War Music,Refused,88,85,8,15,Spinefarm Records,"['Pop/Rock', 'Hardcore Punk']"
+"July 19, 2019",2019,29,Caligula,Lingua Ignota,88,81,8,55,Profound Lore,"['Experimental', 'Industrial', 'Pop/Rock', 'Alternative/Indie Rock', 'Heavy Metal']"
+"April 26, 2019",2019,17,Designer,Aldous Harding,88,83,18,46,4AD,[]
+"November 8, 2019",2019,45,Magdalene,FKA twigs,88,89,28,468,Young Turks,['Electronic']
+"September 20, 2019",2019,38,Jaime,Brittany Howard,88,79,19,54,ATO,['Pop/Rock']
+"June 28, 2019",2019,26,Bandana,Freddie Gibbs,88,86,23,188,RCA,['Rap']
+"June 14, 2019",2019,24,Shepherd in a Sheepskin Vest,Bill Callahan,88,74,22,37,Drag City,['Pop/Rock']
+"May 3, 2019",2019,18,UFOF,Big Thief,87,86,24,103,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 24, 2019",2019,21,Reward,Cate Le Bon,87,80,18,41,Mexican Summer,['Pop/Rock']
+"July 12, 2019",2019,28,Purple Mountains,Purple Mountains,87,79,20,55,Drag City,['Pop/Rock']
+"August 30, 2019",2019,35,Norman Fucking Rockwell!,Lana Del Rey,87,92,28,9264,Interscope,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock']"
+"January 18, 2019",2019,3,Remind Me Tomorrow,Sharon Van Etten,86,82,34,114,Jagjaguwar,['Pop/Rock']
+"February 8, 2019",2019,6,thank u next,Ariana Grande,86,75,24,3376,Republic,['Pop/Rock']
+"July 5, 2019",2019,27,Midsommar Original Motion Picture Soundtrack,Bobby Krlic,86,83,10,7,Milan,['Stage & Screen']
+"September 13, 2019",2019,37,House of Sugar,Sandy Alex G,86,87,16,48,Domino,['Pop/Rock']
+"April 12, 2019",2019,15,Dogrel,Fontaines DC,86,82,17,71,PTKF,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"March 15, 2019",2019,11,Punk,CHAI,86,72,10,40,Burger Records,['Pop/Rock']
+"May 3, 2019",2019,18,There is No Other,Rhiannon Giddens,86,78,8,10,Nonesuch,['Folk']
+"March 29, 2019",2019,13,Badbea,Edwyn Collins,85,0,9,0,AED Records,['Pop/Rock']
+"April 5, 2019",2019,14,Morbid Stuff,PUP,85,83,13,56,Rise Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Punk Revival', 'Punk-Pop']"
+"May 31, 2019",2019,22,ZUU,Denzel Curry,85,80,8,138,Loma Vista,['Rap']
+"September 13, 2019",2019,37,All My Heroes Are Cornballs,JPEGMAFIA,85,86,14,205,EQT Recordings,['Rap']
+"February 22, 2019",2019,8,Walk Through Fire,Yola,85,83,9,25,Easy Eye Sound,['Pop/Rock']
+"June 21, 2019",2019,25,Bird Songs of a Killjoy,Bedouine,85,69,11,16,Spacebomb,['Pop/Rock']
+"September 6, 2019",2019,36,Amadjar,Tinariwen,85,80,9,8,Epitaph,['International']
+"April 19, 2019",2019,16,Life Metal,Sunn O,85,74,,0,,[]
+"September 27, 2019",2019,39,In Cauda Venenum,Opeth,85,86,10,35,Nuclear Blast,"['Pop/Rock', 'Heavy Metal']"
+"June 21, 2019",2019,25,Patience,Mannequin Pussy,85,79,8,18,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Punk Revival']"
+"October 11, 2019",2019,41,Two Hands,Big Thief,85,84,22,59,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 22, 2019",2019,12,Miss Universe,Nilfer Yanya,85,83,,0,,[]
+"March 22, 2019",2019,12,On the Line,Jenny Lewis,85,84,24,45,Warner Bros.,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock']"
+"January 25, 2019",2019,4,Amo,Bring Me the Horizon,85,75,12,261,RCA,"['Pop/Rock', 'Alternative/Indie Rock', 'Post-Hardcore', 'Alternative Metal', 'Metalcore']"
+"February 22, 2019",2019,8,Crushing,Julia Jacklin,85,82,26,49,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 9, 2019",2019,32,Any Human Friend,Marika Hackman,84,75,16,18,Sub Pop,['Pop/Rock']
+"June 7, 2019",2019,23,The Age of Immunology,Vanishing Twin,84,0,8,0,Fire Records,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"January 18, 2019",2019,3,It Wont Be Like This All the Time,The Twilight Sad,84,81,15,38,Rock Action,['Pop/Rock']
+"October 25, 2019",2019,43,Anicca,Teebs,84,81,7,7,Brainfeeder,"['Electronic', 'Rap', 'IDM', 'Left-Field Rap', 'Instrumental Hip-Hop']"
+"February 22, 2019",2019,8,Eton Alive,Sleaford Mods,84,72,16,24,Extreme Eating,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 22, 2019",2019,8,Mazy Fly,Spellling,84,73,10,21,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 18, 2019",2019,42,No Holiday,The Muffs,84,0,7,0,Omnivore,['Pop/Rock']
+"October 11, 2019",2019,41,Giants of All Sizes,Elbow,84,77,13,29,Polydor,['Pop/Rock']
+"January 11, 2019",2019,2,The Imperial,The Delines,84,75,7,13,Decor,"['R&B', 'Soul', 'Country', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Country-Rock']"
+"September 13, 2019",2019,37,The Practice of Love,Jenny Hval,84,80,17,25,Sacred Bones,['Pop/Rock']
+"April 12, 2019",2019,15,Sulphur English,Inter Arma,84,0,8,0,Relapse Records,['Metal']
+"June 14, 2019",2019,24,The Book Of Traps and Lessons,Kate Tempest,84,82,17,17,American Recordings,"['Spoken Word', 'Pop/Rock', 'Poetry']"
+"June 28, 2019",2019,26,Dolphine,Mega Bog,84,86,12,5,Paradise of Bachelors,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi', 'Neo-Psychedelia']"
+"June 14, 2019",2019,24,Western Stars,Bruce Springsteen,84,71,31,103,Columbia,['Pop/Rock']
+"March 29, 2019",2019,13,Empath,Devin Townsend,84,85,7,38,Inside Out Music,['Pop/Rock']
+"March 29, 2019",2019,13,Henryk Górecki Symphony No 3 Symphony of Sorrowful Songs Live,Beth Gibbons,84,79,,0,,[]
+"February 8, 2019",2019,6,Quiet Signs,Jessica Pratt,84,77,23,50,Mexican Summer,['Pop/Rock']
+"June 27, 2019",2019,26,ANIMA,Thom Yorke,84,88,28,186,XL Recordings,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"November 22, 2019",2019,47,Thanks for the Dance,Leonard Cohen,84,76,25,25,Columbia,['Pop/Rock']
+"April 19, 2019",2019,16,Cuz I Love You,Lizzo,84,76,24,262,Atlantic,"['Rap', 'R&B', 'Pop/Rock']"
+"June 7, 2019",2019,23,Humanworld,Peter Perrett,84,0,7,0,Domino,['Pop/Rock']
+"November 1, 2019",2019,44,Athena,Sudan Archives,83,76,15,18,Stones Throw,['R&B']
+"October 4, 2019",2019,40,uknowhatimsayin,Danny Brown,83,83,21,76,Warp,['Rap']
+"March 15, 2019",2019,11,Trust in the Lifeforce of the Deep Mystery,The Comet Is Coming,83,81,10,25,Impulse!,['Jazz']
+"August 30, 2019",2019,35,Like the River Loves the Sea,Joan Shelley,83,71,12,10,No Quarter,['Pop/Rock']
+"October 18, 2019",2019,42,Heavy Lifter,Hovvdy,83,0,7,0,Double Double Whammy,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi']"
+"August 23, 2019",2019,34,While Im Livin,Tanya Tucker,83,88,7,12,Fantasy,['Country']
+"March 29, 2019",2019,13,Deserted,Mekons,83,0,8,0,Bloodshot,['Pop/Rock']
+"September 13, 2019",2019,37,The Return,Sampa the Great,83,78,9,12,Ninja Tune,['Rap']
+"August 30, 2019",2019,35,Devour,Pharmakon,83,75,10,4,Sacred Bones,"['Electronic', 'Industrial', 'Avant-Garde', 'Noise']"
+"March 1, 2019",2019,9,Placeholder,Hand Habits,83,75,13,13,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 22, 2019",2019,12,Significant Changes,Jayda G,83,75,12,4,Ninja Tune,"['Electronic', 'House', 'Club/Dance', 'Left-Field House']"
+"December 6, 2019",2019,49,The Afterlife,The Comet Is Coming,83,63,7,7,Decca,"['Experimental', 'Jazz', 'Modern Jazz', 'Experimental Electro', 'Experimental Dub', 'Electro-Acoustic', 'Spiritual Jazz', 'Electric Jazz']"
+"June 21, 2019",2019,25,A Bath Full of Ecstasy,Hot Chip,83,77,20,25,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative Dance']"
+"February 1, 2019",2019,5,Miri,Bassekou Kouyate Ngoni Ba,83,0,7,0,Out Here Records,['International']
+"August 16, 2019",2019,33,Forevher,Shura,83,85,15,36,Secretly Canadian,['Pop/Rock']
+"June 28, 2019",2019,26,Clarity,Kim Petras,83,87,7,138,BunHead,"['Electronic', 'Pop/Rock', 'Dance-Pop']"
+"August 30, 2019",2019,35,At the Party with My Brown Friends,Black Belt Eagle Scout,82,71,16,8,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 11, 2019",2019,41,When I Say to You Black Lightning,Common Holly,82,0,7,0,Barsuk,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"October 18, 2019",2019,42,Pang,Caroline Polachek,82,90,14,162,N/A,"['Electronic', 'Pop/Rock']"
+"January 25, 2019",2019,4,Everythings For Sale,Boogie,82,84,7,47,Shady Records / Interscope,['Rap']
+"March 29, 2019",2019,13,When We All Fall Asleep Where Do We Go,Billie Eilish,82,76,21,1126,Interscope,"['Pop', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative Singer/Songwriter', 'Left-Field Pop']"
+"September 6, 2019",2019,36,Saves the World,MUNA,82,86,8,27,RCA,['Pop/Rock']
+"February 14, 2019",2019,7,Texas Piano Man,Robert Ellis,82,0,8,0,New West,['Country']
+"September 6, 2019",2019,36,Resonant Body,Octo Octa,82,68,8,4,T4T LUV NRG,"['Electronic', 'House', 'Club/Dance', 'Left-Field House']"
+"July 5, 2019",2019,27,Stonechild,Jesca Hoop,82,78,12,11,Memphis Industries,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 15, 2019",2019,46,I Made a Place,Bonnie Prince Billy,82,77,17,7,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi', 'Alternative Singer/Songwriter']"
+"August 16, 2019",2019,33,When I Have Fears,The Murder Capital,82,83,12,16,Human Season Records,['Pop/Rock']
+"May 17, 2019",2019,20,Nothing Great About Britain,slowthai,82,82,15,53,N/A,"['Rap', 'Alternative Rap', 'British Rap', 'Grime']"
+"June 7, 2019",2019,23,Polymer,Plaid,82,64,10,7,Warp,['Electronic']
+"August 23, 2019",2019,34,Anak Ko,Jay Som,82,87,19,29,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 24, 2019",2019,21,We Get By,Mavis Staples,82,71,12,8,Anti-,"['R&B', 'Soul']"
+"May 17, 2019",2019,20,Rammstein,Rammstein,82,86,11,218,Caroline,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal', 'Industrial Metal']"
+"June 7, 2019",2019,23,Midnight,Stef Chura,82,0,10,0,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"June 7, 2019",2019,23,Sirens,Kevin Richard Martin,82,0,7,0,Room40,"['Pop/Rock', 'Club/Dance']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"March 1, 2019",2019,9,Good at Falling,The Japanese House,82,86,13,60,Dirty Hit,['Pop/Rock']
+"August 23, 2019",2019,34,How to Live,Modern Nature,82,0,9,0,Bella Union,['Pop/Rock']
+"June 28, 2019",2019,26,I Was Real,75 Dollar Bill,82,0,10,0,Thin Wrist,['Pop/Rock']
+"November 8, 2019",2019,45,Analog Fluids of Sonic Black Holes,Moor Mother,82,0,8,0,Don Giovanni,['Pop/Rock']
+"December 13, 2019",2019,50,Heavy is the Head,Stormzy,82,78,17,70,Atlantic,"['Electronic', 'Rap', 'Garage', 'British Rap', 'Grime']"
+"March 22, 2019",2019,12,Cows on Hourglass Pond,Avey Tare,82,81,10,31,Domino,"['Indie Electronic', 'Post-Rock', 'Experimental Rock']"
+"October 11, 2019",2019,41,2020,Richard Dawson,82,84,15,34,Weird World,['Pop/Rock']
+"October 18, 2019",2019,42,Vagabon,Vagabon,82,87,16,7,Nonesuch,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 22, 2019",2019,12,This Is What I Wanted to Tell You,Lambchop,82,74,13,16,Merge,['Pop/Rock']
+"November 1, 2019",2019,44,The Undivided Five,A Winged Victory for the Sullen,82,0,10,0,Ninja Tune,"['Electronic', 'Ambient', 'Pop/Rock', 'Experimental Ambient', 'Neo-Classical']"
+"October 11, 2019",2019,41,Odds Against Tomorrow,Bill Orcutt,82,0,8,0,Palilalia,['Pop/Rock']
+"December 6, 2019",2019,49,A Beautiful Thing Idles Live at Le Bataclan,Idles,82,79,7,7,PTKF,['Pop/Rock']
+"December 13, 2019",2019,50,Bubba,Kaytranada,82,85,7,38,RCA,"['Electronic', 'R&B', 'Club/Dance', 'Alternative Rap', 'Left-Field House', 'Alternative R&B']"
+"January 25, 2019",2019,4,Get Tragic,Blood Red Shoes,82,70,7,14,N/A,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 8, 2019",2019,6,True North,Michael Chapman,82,67,12,9,Paradise of Bachelors,[]
+"June 7, 2019",2019,23,Nighttime Stories,Pelican,82,75,8,4,Southern Lord,"['Post-Rock', 'Heavy Metal', 'Doom Metal', 'Stoner Metal', 'Instrumental Rock']"
+"May 3, 2019",2019,18,Father of the Bride,Vampire Weekend,82,76,33,242,Sony Music,"['Pop/Rock', 'Indie/Alternative']"
+"April 12, 2019",2019,15,Ventura,Anderson Paak,82,83,19,113,Aftermath,"['R&B', 'West Coast Rap', 'Alternative R&B']"
+"February 8, 2019",2019,6,Sunshine Rock,Bob Mould,82,74,17,26,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 7, 2019",2019,23,Final Transmission,Cave In,82,70,7,5,Hydra Head,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal']"
+"January 18, 2019",2019,3,Why Hasnt Everything Already Disappeared,Deerhunter,82,76,27,65,4AD,"['Alternative/Indie Rock', 'Art Rock']"
+"July 19, 2019",2019,29,What We Say in Private,Ada Lea,82,0,10,0,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 1, 2019",2019,9,Rap Or Go To The League,2 Chainz,82,73,8,44,Def Jam Recordings,['Rap']
+"March 22, 2019",2019,12,Panorama,La Dispute,82,81,9,21,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Post-Hardcore']"
+"March 1, 2019",2019,9,Inferno,Robert Forster,82,0,9,0,Tapete Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 23, 2019",2019,34,August,Shannon Lay,82,0,7,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 10, 2019",2019,19,PROTO,Holly Herndon,82,79,18,30,4AD,['Electronic']
+"June 21, 2019",2019,25,Schlagenheim,Black Midi,82,82,20,58,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 12, 2019",2019,15,Absolute Zero,Bruce Hornsby,82,0,7,0,Zappo Productions,"['Pop/Rock', 'Contemporary Singer/Songwriter', 'Contemporary Pop/Rock']"
+"March 1, 2019",2019,9,American Love Call,Durand Jones the Indications,82,86,10,21,Dead Oceans,"['R&B', 'Retro-Soul', 'Deep Funk Revival']"
+"September 13, 2019",2019,37,Birth of Violence,Chelsea Wolfe,82,76,16,25,Sargent House,['Pop/Rock']
+"November 1, 2019",2019,44,Wildcard,Miranda Lambert,82,84,12,32,Sony Music,"['Country', 'Americana', 'Contemporary Country', 'Country-Folk', 'Country-Pop']"
+"March 15, 2019",2019,11,ATAXIA,Rian Treanor,82,0,7,0,Planet Mu,"['Electronic', 'Techno', 'Experimental Techno', 'IDM', 'Experimental Club']"
+"June 21, 2019",2019,25,Help Us Stranger,The Raconteurs,81,79,24,58,Third Man Records,['Pop/Rock']
+"April 19, 2019",2019,16,Blood,Kelsey Lu,81,85,7,28,Columbia,"['R&B', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative R&B']"
+"May 24, 2019",2019,21,Apollo XXI,Steve Lacy,81,80,9,30,N/A,"['R&B', 'Contemporary R&B', 'Alternative R&B']"
+"March 8, 2019",2019,10,Beware of the Dogs,Stella Donnelly,81,80,17,36,Secretly Canadian,['Pop/Rock']
+"September 13, 2019",2019,37,Of the Sun,Trupa Trupa,81,0,7,0,Glitterbeat,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 22, 2019",2019,8,This Land,Gary Clark Jr,81,77,14,24,Warner Bros.,"['Blues', 'Pop/Rock']"
+"January 25, 2019",2019,4,New Breed,Dawn,81,86,7,9,Local Action,"['R&B', 'Alternative R&B', 'Left-Field Pop']"
+"October 25, 2019",2019,43,Cheap Queen,King Princess,81,86,13,62,Columbia,['Pop/Rock']
+"September 20, 2019",2019,38,Memory,Vivian Girls,81,78,12,4,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 10, 2019",2019,19,Young Enough,Charly Bliss,81,82,11,25,Barsuk,['Pop/Rock']
+"May 24, 2019",2019,21,Atlanta Millionaires Club,Faye Webster,81,76,15,14,Secretly Canadian,['Pop/Rock']
+"February 8, 2019",2019,6,AJ Tracey,AJ Tracey,81,60,9,18,AJ Tracey,['Rap']
+"February 22, 2019",2019,8,You Will Not Die,Nakhane,81,85,7,6,BMG / BMG Rights Management,"['Pop', 'Electronic', 'Pop/Rock', 'Dance-Pop']"
+"September 27, 2019",2019,39,The Talkies,Girl Band,81,78,15,10,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 24, 2019",2019,21,Diviner,Hayden Thorpe,81,75,11,13,Domino Recording Co. Ltd.,['Pop/Rock']
+"August 30, 2019",2019,35,Fear Inoculum,Tool,81,80,23,728,RCA,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Metal', 'Heavy Metal', 'Experimental Rock']"
+"February 1, 2019",2019,5,Careful,Boy Harsher,81,76,9,5,Nude Club,['Pop/Rock']
+"May 17, 2019",2019,20,IGOR,Tyler The Creator,81,89,18,949,Columbia,['Rap']
+"May 17, 2019",2019,20,Fever,Megan Thee Stallion,81,85,9,48,300 Entertainment,['Rap']
+"March 29, 2019",2019,13,Late Night Tales,Floating Points,81,0,7,0,LateNightTales,"['Electronic', 'House', 'Club/Dance', 'Left-Field House', 'Ambient Techno', 'Left-Field Hip-Hop', 'UK Garage']"
+"March 8, 2019",2019,10,On Time Out of Time,William Basinski,81,62,8,5,Temporary Residence,['Pop/Rock']
+"October 18, 2019",2019,42,Crush,Floating Points,81,80,16,10,Ninja Tune,['Pop/Rock']
+"October 4, 2019",2019,40,Deceiver,DIIV,81,83,15,28,Captured Tracks,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Shoegaze']"
+"August 2, 2019",2019,31,Blume,Nérija,81,0,7,0,Domino,['Jazz']
+"October 4, 2019",2019,40,Ode To Joy,Wilco,81,80,25,35,dBpm,['Pop/Rock']
+"August 23, 2019",2019,34,A Distant Call,Sheer Mag,81,72,13,6,Wilsuns Recording Co.,['Pop/Rock']
+"April 26, 2019",2019,17,Oh My God,Kevin Morby,81,75,20,31,Dead Oceans,[]
+"May 24, 2019",2019,21,Amyl and the Sniffers,Amyl and the Sniffers,81,71,14,9,ATO,['Pop/Rock']
+"April 12, 2019",2019,15,Ribbons,Bibio,81,81,10,12,Warp,"['Electronic', 'Pop/Rock']"
+"April 19, 2019",2019,16,Raw Honey,Drugdealer,81,76,13,7,Mexican Summer,['Indie/Alternative']
+"January 18, 2019",2019,3,About the Light,Steve Mason,81,64,10,8,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 29, 2019",2019,13,Agora,Fennesz,81,75,10,15,Touch,"['Electronic', 'Avant-Garde', 'Pop/Rock', 'Experimental Ambient']"
+"March 8, 2019",2019,10,This Is How You Smile,Helado Negro,81,78,9,23,RVNG Intl.,['Pop/Rock']
+"September 13, 2019",2019,37,Hypersonic Missiles,Sam Fender,81,80,11,42,Interscope,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock']"
+"February 15, 2019",2019,7,Brickbat,Piroshka,81,0,8,0,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 8, 2019",2019,45,Giant Swan,Giant Swan,81,0,8,0,Keck,"['Electronic', 'Pop/Rock']"
+"May 17, 2019",2019,20,I Am Easy to Find,The National,81,84,34,128,4AD,['Pop/Rock']
+"August 30, 2019",2019,35,Twelve Nudes,Ezra Furman,80,81,21,14,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 29, 2019",2019,13,Guy,Steve Earle the Dukes,80,0,9,0,New West,"['Country', 'Pop/Rock']"
+"October 25, 2019",2019,43,Three Chords and the Truth,Van Morrison,80,50,8,4,Caroline,['Pop/Rock']
+"January 25, 2019",2019,4,Goes West,William Tyler,80,66,12,7,Merge,['Pop/Rock']
+"February 22, 2019",2019,8,Wraith,Teeth of the Sea,80,60,10,8,Rocket Recordings,['Pop/Rock']
+"March 22, 2019",2019,12,American Football LP3,American Football,80,80,14,39,Polyvinyl,['Pop/Rock']
+"July 12, 2019",2019,28,Admission,Torche,80,58,9,9,Relapse Records,"['Heavy Metal', 'Stoner Metal', 'Sludge Metal']"
+"March 29, 2019",2019,13,Dog Whistle,Show Me the Body,80,75,9,6,Loma Vista,"['Punk', 'Pop/Rock']"
+"January 25, 2019",2019,4,Future Ruins,Swervedriver,80,80,14,17,Dangerbird Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Shoegaze']"
+"May 24, 2019",2019,21,Flamagra,Flying Lotus,80,78,27,61,Warp,"['Electronic', 'Experimental Electronic', 'Left-Field Rap']"
+"March 22, 2019",2019,12,My Finest Work Yet,Andrew Bird,80,81,14,30,Virgin EMI,['Pop/Rock']
+"May 31, 2019",2019,22,Rainford,Lee Scratch Perry,80,0,10,0,On U Sounds,"['Electronic', 'Reggae', 'Dub', 'Roots Reggae']"
+"June 14, 2019",2019,24,Jinx,Crumb,80,83,9,11,Crumb,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 31, 2019",2019,22,Further,Richard Hawley,80,0,10,0,BMG Rights Management,['Pop/Rock']
+"October 11, 2019",2019,41,No Home Record,Kim Gordon,80,78,26,28,Matador,['Pop/Rock']
+"March 1, 2019",2019,9,Compliments Please,Self Esteem,80,88,9,11,Fiction,['Pop/Rock']
+"January 18, 2019",2019,3,Assume Form,James Blake,80,82,31,226,!K7,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"March 29, 2019",2019,13,Side Effects,White Denim,80,60,12,5,City Slang,['Pop/Rock']
+"August 30, 2019",2019,35,I I,Bon Iver,80,79,33,168,Jagjaguwar,['Pop/Rock']
+"August 16, 2019",2019,33,Animated Violence Mild,Blanck Mass,80,76,20,10,Sacred Bones,['Pop/Rock']
+"August 30, 2019",2019,35,Powers,The Futureheads,80,80,9,5,Nul,['Pop/Rock']
+"July 5, 2019",2019,27,Horizon,Trash Kit,80,54,9,5,Upset the Rhythm,['Pop/Rock']
+"June 7, 2019",2019,23,Black Friday,Palehound,80,73,7,4,Polyvinyl,['Pop/Rock']
+"June 21, 2019",2019,25,Keepsake,Hatchie,80,88,15,30,Double Double Whammy,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 13, 2019",2019,37,Charli,Charli XCX,80,87,22,683,Atlantic,['Pop/Rock']
+"September 13, 2019",2019,37,Pang!,Gruff Rhys,80,0,12,0,Rough Trade,['Pop/Rock']
+"August 16, 2019",2019,33,The Center Wont Hold,Sleater-Kinney,80,73,30,42,Mom + Pop Music,['Pop/Rock']
+"September 6, 2019",2019,36,The Highwomen,The Highwomen,80,78,13,17,Low Country Sound,['Country']
+"April 19, 2019",2019,16,Serfs Up!,Fat White Family,80,81,12,0,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 5, 2019",2019,14,Love Keeps Kicking,Martha,80,0,9,0,Big Scary Monsters,['Pop/Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"June 7, 2019",2019,23,ONDA,Jambinai,80,78,8,4,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 5, 2019",2019,27,The Flower and the Vessel,Félicia Atkinson,80,0,7,0,Shelter Press,['Pop/Rock']
+"August 16, 2019",2019,33,Face Stabber,Oh Sees,80,82,12,26,Castle Face,['Pop/Rock']
+"April 12, 2019",2019,15,No Geography,The Chemical Brothers,79,81,20,52,Astralwerks / Virgin EMI,"['Electronic', 'House', 'Electronica', 'Club/Dance', 'Progressive House']"
+"May 24, 2019",2019,21,Full Upon Her Burning Lips,Earth,79,82,12,10,Sargent House,['Pop/Rock']
+"September 27, 2019",2019,39,Sound Fury,Sturgill Simpson,79,88,16,47,Elektra,"['Country', 'Folk', 'Americana', 'Pop/Rock', 'Contemporary Country', 'Neo-Traditionalist Country', 'Outlaw Country']"
+"November 22, 2019",2019,47,Shlon,Omar Souleyman,79,0,9,0,Mad Decent,"['International', 'Middle Eastern Traditions', 'Syrian', 'Folk Dance']"
+"March 15, 2019",2019,11,Lux Prima,Karen O,79,80,21,42,BMG,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 18, 2019",2019,3,The Unseen In Between,Steve Gunn,79,72,20,13,Matador,['Pop/Rock']
+"August 30, 2019",2019,35,Hoodies All Summer,Kano,79,81,13,11,Parlophone,['Rap']
+"January 25, 2019",2019,4,No More Normal,Swindle,79,0,7,0,Brownswood,"['Electronic', 'Blues', 'Garage', 'Grime']"
+"November 22, 2019",2019,47,Reflections,Hannah Diamond,79,65,8,111,N/A,"['Pop', 'Pop/Rock', 'Left-Field Pop']"
+"January 25, 2019",2019,4,Feral Roots,Rival Sons,79,83,7,23,Atlantic,['Pop/Rock']
+"July 12, 2019",2019,28,Tiny Changes A Celebration of Frightened Rabbits The Midnight Organ Fight,Various Artists,79,88,9,6,Atlantic,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 15, 2019",2019,7,Psychedelic Country Soul,The Long Ryders,79,0,9,0,Omnivore,"['Alt-Country', 'Pop/Rock', 'Country-Rock', 'Paisley Underground']"
+"August 16, 2019",2019,33,So Much Fun,Young Thug,79,79,10,78,300 Entertainment,['Rap']
+"November 8, 2019",2019,45,Lost Wisdom pt 2,Mount Eerie,79,67,12,6,P.W. Elverum & Sun Ltd.,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"May 10, 2019",2019,19,Anoyo,Tim Hecker,79,76,13,11,Kranky,"['Electronic', 'Experimental Ambient']"
+"April 26, 2019",2019,17,Grim Town,SOAK,79,70,12,12,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 2, 2019",2019,31,First Taste,Ty Segall,79,80,19,14,Drag City,['Pop/Rock']
+"October 25, 2019",2019,43,Colorado,Neil Young Crazy Horse,79,68,19,13,Reprise,['Pop/Rock']
+"June 14, 2019",2019,24,Satis Factory,Mattiel,79,66,7,5,ATO,['Pop/Rock']
+"April 26, 2019",2019,17,I Need a New War,Craig Finn,79,82,17,6,PTKF,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 15, 2019",2019,7,What It Is,Hayes Carll,79,75,9,4,Dualtone Music,"['Folk', 'Alt-Country', 'Americana', 'Pop/Rock']"
+"February 8, 2019",2019,6,Live in London,Mavis Staples,79,0,8,0,Epitaph,"['R&B', 'Soul']"
+"January 11, 2019",2019,2,You Tell Me,You Tell Me,79,67,11,15,Memphis Industries,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 8, 2019",2019,6,Tip Of The Sphere,Cass McCombs,79,76,20,17,Anti / Epitaph,['Pop/Rock']
+"October 2, 2019",2019,40,Closer to Grey,Chromatics,79,82,15,17,Italians Do It Better,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Alternative Dance']"
+"June 21, 2019",2019,25,Pale Bloom,Sarah Davachi,79,0,8,0,W. 25th,['Avant-Garde']
+"February 1, 2019",2019,5,Drift Code,Rustin Man,79,70,13,7,Domino,['Pop/Rock']
+"May 17, 2019",2019,20,Dedicated,Carly Rae Jepsen,79,89,22,1001,Interscope,['Pop/Rock']
+"December 6, 2019",2019,49,WHO,The Who,79,75,15,30,Interscope,['Pop/Rock']
+"May 10, 2019",2019,19,Wheeltappers and Shunters,Clinic,79,0,9,0,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 15, 2019",2019,46,No Treasure But Hope,Tindersticks,79,63,9,4,City Slang,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 13, 2019",2019,37,Ma,Devendra Banhart,79,80,12,4,Nonesuch,['Pop/Rock']
+"January 18, 2019",2019,3,Phoenix,Pedro the Lion,79,70,16,14,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"August 23, 2019",2019,34,Lover,Taylor Swift,79,85,26,9120,Republic,['Pop/Rock']
+"May 31, 2019",2019,22,Ignorance Is Bliss,Skepta,79,82,14,33,Boy Better Know,"['Rap', 'Grime']"
+"September 6, 2019",2019,36,Hollywoods Bleeding,Post Malone,79,77,10,310,Republic,"['Pop', 'Rap', 'Pop/Rock']"
+"September 27, 2019",2019,39,In the Morse Code of Brake Lights,The New Pornographers,78,85,12,23,Concord,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"January 25, 2019",2019,4,Nighttime Birds and Morning Stars,Sarah Louise,78,0,8,0,Thrill Jockey,['Folk']
+"February 1, 2019",2019,5,Isa,Croatian Amor,78,0,7,0,Posh Isolation,"['Electronic', 'Club/Dance']"
+"April 5, 2019",2019,14,What a Boost,Rozi Plain,78,77,8,6,Memphis Industries,['Pop/Rock']
+"August 16, 2019",2019,33,Cala,Fionn Regan,78,0,9,0,Abbey Records,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock']"
+"May 24, 2019",2019,21,Where the Action Is,The Waterboys,78,0,9,0,Cooking Vinyl,['Pop/Rock']
+"May 31, 2019",2019,22,Boat,Pip Blom,78,83,8,10,Pias America,['Pop/Rock']
+"February 15, 2019",2019,7,Ladytron,Ladytron,78,78,13,30,Ladytron Recordings,"['Electronic', 'Pop/Rock']"
+"March 15, 2019",2019,11,To Believe,The Cinematic Orchestra,78,78,16,21,Ninja Tune,['Electronic']
+"January 24, 2019",2019,4,Better Oblivion Community Center,Better Oblivion Community Center,78,78,24,41,Dead Oceans,['Singer-Songwriter']
+"October 18, 2019",2019,42,Somebodys Knocking,Mark Lanegan Band,78,81,14,12,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 31, 2019",2019,22,Run Around the Sun,Sacred Paws,78,0,10,0,Merge,['Pop/Rock']
+"September 13, 2019",2019,37,Metronomy Forever,Metronomy,78,86,15,47,Because Music,['Pop/Rock']
+"March 8, 2019",2019,10,The Devil You Know,The Coathangers,78,0,8,0,Suicide Squeeze,['Pop/Rock']
+"May 3, 2019",2019,18,Useless Coordinates,Drahla,78,0,10,0,Captured Tracks,['Pop/Rock']
+"August 30, 2019",2019,35,The SLP,The SLP,78,81,7,10,Columbia,['Pop/Rock']
+"August 16, 2019",2019,33,Equivalents,Loscil,78,0,7,0,Kranky,"['Electronic', 'Ambient', 'Post-Rock', 'Experimental Electronic']"
+"April 19, 2019",2019,16,Big Wows,Stealing Sheep,78,85,8,4,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 22, 2019",2019,8,Post Earth,Feels,78,0,7,0,Wichita,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 22, 2019",2019,8,South of Reality,The Claypool Lennon Delirium,78,80,7,19,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Neo-Psychedelia', 'Neo-Prog']"
+"October 18, 2019",2019,42,Surviving,Jimmy Eat World,78,77,10,25,RCA,['Pop/Rock']
+"June 21, 2019",2019,25,Gold Past Life,Fruit Bats,78,80,9,5,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop']"
+"March 8, 2019",2019,10,Everything Not Saved Will Be Lost Pt 1,Foals,78,80,20,104,Warner Bros.,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 30, 2019",2019,35,Venus in Leo,HTRK,78,0,7,0,Ghostly International,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"January 11, 2019",2019,2,Tomb,Angelo De Augustine,78,65,10,10,Asthmatic Kitty,['Pop/Rock']
+"March 8, 2019",2019,10,Sucker Punch,Sigrid,78,86,16,144,Island,['Pop/Rock']
+"April 5, 2019",2019,14,The Seduction of Kansas,Priests,78,71,18,11,Sister Polygon Records,['Pop/Rock']
+"March 8, 2019",2019,10,There Will Be No Intermission,Amanda Palmer,78,81,11,12,Cooking Vinyl,['Pop/Rock']
+"January 25, 2019",2019,4,Happy in the Hollow,TOY,78,68,12,9,Tough Love,['Pop/Rock']
+"September 20, 2019",2019,38,Terms of Surrender,Hiss Golden Messenger,78,0,13,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 12, 2019",2019,28,A Peoples History of Gauche,Gauche,77,0,8,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"June 21, 2019",2019,25,Black Pumas,Black Pumas,77,82,7,23,ATO,"['R&B', 'Pop/Rock', 'Alternative/Indie Rock', 'Neo-Psychedelia', 'Retro-Soul']"
+"April 26, 2019",2019,17,In League with Dragons,The Mountain Goats,77,80,14,10,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 12, 2019",2019,15,In the Shape of a Storm,Damien Jurado,77,70,11,10,Mama Bird Recording Co.,"['Alternative/Indie Rock', 'Indie Folk']"
+"February 22, 2019",2019,8,All My Relations,Cochemea,77,0,7,0,Daptone,['Pop/Rock']
+"September 27, 2019",2019,39,Stars Are the Light,Moon Duo,77,71,11,7,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Dance', 'Neo-Psychedelia', 'Ambient Pop', 'Neo-Disco']"
+"June 7, 2019",2019,23,Office Politics,The Divine Comedy,77,83,8,22,Divine Comedy Records,['Pop/Rock']
+"April 19, 2019",2019,16,Laughing Matter,Wand,77,74,9,8,Drag City,['Indie/Alternative']
+"January 18, 2019",2019,3,Love Hates What You Become,Lost Under Heaven,77,63,10,8,Mute,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 23, 2019",2019,34,Braindrops,Tropical Fuck Storm,77,78,10,25,Joyful Noise,['Pop/Rock']
+"March 1, 2019",2019,9,Tasmania,Pond,77,78,14,37,Interscope,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 22, 2019",2019,12,Its Real,Ex Hex,77,72,22,19,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 16, 2019",2019,33,Infest the Rats Nest,King Gizzard the Lizard Wizard,77,87,14,66,ATO,['Pop/Rock']
+"June 21, 2019",2019,25,Ride Me Back Home,Willie Nelson,77,68,12,4,Legacy,['Country']
+"October 4, 2019",2019,40,Look Up Sharp,Carla dal Forno,77,0,10,0,Forced Exposure,['Pop/Rock']
+"February 22, 2019",2019,8,In Search of the Miraculous,Desperate Journalist,77,73,7,13,Fierce Panda Records,['Pop/Rock']
+"October 25, 2019",2019,43,Desert Sessions Vols 11 12,Various Artists,77,82,12,18,Matador,['Pop/Rock']
+"June 7, 2019",2019,23,Step 2 A Different Kind of Human,Aurora,77,91,7,138,Glassnote Entertainment Group,['Pop/Rock']
+"October 11, 2019",2019,41,Sonic Citadel,Lightning Bolt,77,87,11,15,Thrill Jockey,['Pop/Rock']
+"October 18, 2019",2019,42,You Deserve Love,White Reaper,77,80,7,4,Elektra,"['Pop/Rock', 'Alternative/Indie Rock', 'American Trad Rock']"
+"March 1, 2019",2019,9,White Stuff,Royal Trux,77,61,16,9,Fat Possum Records,['Pop/Rock']
+"March 22, 2019",2019,12,Pony,Orville Peck,77,81,8,29,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 20, 2019",2019,38,Chastity Belt,Chastity Belt,77,0,10,0,Hardly Art,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 14, 2019",2019,24,Years to Burn,Calexico,77,56,14,9,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 1, 2019",2019,44,Networker,Omni,77,65,10,4,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"September 6, 2019",2019,36,Mirrorland,EarthGang,77,80,8,20,Interscope,['Rap']
+"June 28, 2019",2019,26,Can You Really Find Me,Night Moves,77,85,7,6,Domino,['Pop/Rock']
+"October 25, 2019",2019,43,Fibs,Anna Meredith,77,81,18,8,Moshi Moshi Records,['Pop/Rock']
+"July 19, 2019",2019,29,The Lion King The Gift,Beyoncé,77,88,13,0,Parkwood,['R&B']
+"March 8, 2019",2019,10,Gathered,Howe Gelb,77,0,7,0,Fire America,"['Jazz', 'Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter', 'Indie Rock', 'Indie Folk', 'Vocal Jazz']"
+"October 25, 2019",2019,43,Bigger Than Life,Black Marble,77,0,8,0,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"April 26, 2019",2019,17,In the End,The Cranberries,77,83,12,30,BMG,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 1, 2019",2019,5,Olympic Girls,Tiny Ruins,77,64,14,7,Ba Da Bing Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"February 22, 2019",2019,8,The Route To The Harmonium,James Yorkston,77,0,10,0,Domino,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk', 'British Folk']"
+"November 22, 2019",2019,47,Hyperspace,Beck,77,67,22,51,Capitol,['Pop/Rock']
+"October 18, 2019",2019,42,Everything Not Saved Will Be Lost Pt 2,Foals,77,88,16,64,Warner Bros.,['Pop/Rock']
+"August 9, 2019",2019,32,How Do You Love,The Regrettes,77,75,10,15,Warner Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 25, 2019",2019,4,Highway Hypnosis,Sneaks,77,66,13,8,Merge,['Pop/Rock']
+"March 15, 2019",2019,11,Plastic Anniversary,Matmos,76,67,16,14,Thrill Jockey,['Electronic']
+"October 11, 2019",2019,41,Shiny New Model,Bodega,76,0,7,0,What's Yr Rupture?,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"June 14, 2019",2019,24,Turn Off the News Build a Garden,Lukas Nelson Promise of the Real,76,0,10,0,Fantasy,"['Americana', 'Pop/Rock', 'Contemporary Pop/Rock', 'Roots Rock']"
+"March 22, 2019",2019,12,No Words Left,Lucy Rose,76,74,9,9,Arts & Crafts,['Pop/Rock']
+"September 6, 2019",2019,36,Valve Bone Woe,Chrissie Hynde the Valve Bone Woe Ensemble,76,0,12,0,BMG,['Jazz']
+"January 18, 2019",2019,3,Scholars,Buke and Gase,76,62,12,6,Brassland,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 6, 2019",2019,36,Lost Girls,Bat for Lashes,76,80,22,43,AWAL,['Pop/Rock']
+"February 1, 2019",2019,5,Scenery,Emily King,76,87,8,6,ATO,['Pop/Rock']
+"May 3, 2019",2019,18,This Mess Is a Place,Tacocat,76,0,8,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 12, 2019",2019,15,This Wild Willing,Glen Hansard,76,74,8,7,Anti-,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 12, 2019",2019,28,III,Banks,76,84,11,132,Virgin EMI,['Pop/Rock']
+"June 21, 2019",2019,25,False Alarm,Two Door Cinema Club,76,76,8,26,Glassnote Entertainment Group,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'New Wave/Post-Punk Revival']"
+"May 10, 2019",2019,19,Enderness,AA Bondy,76,84,10,8,Fat Possum Records,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"January 18, 2019",2019,3,Fool,Joe Jackson,76,73,8,9,Ear Music,['Pop/Rock']
+"April 19, 2019",2019,16,Invitation,Heather Woods Broderick,76,0,7,0,Western Vinyl Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"March 29, 2019",2019,13,Health,C Duncan,76,0,7,0,FatCat Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop']"
+"October 25, 2019",2019,43,Pyroclasts,Sunn O,76,73,,0,,[]
+"November 1, 2019",2019,44,Up on High,Vetiver,76,0,11,0,Mama Bird Recording Co.,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Folk']"
+"October 25, 2019",2019,43,PONY,Rex Orange County,76,80,11,61,RCA,['Pop/Rock']
+"April 26, 2019",2019,17,Violet Street,Local Natives,76,87,7,63,Loma Vista,['Pop/Rock']
+"January 18, 2019",2019,3,Malibu Ken,Malibu Ken,76,81,7,29,Rhymesayers Entertainment,"['Rap', 'Alternative Rap', 'Left-Field Hip-Hop']"
+"August 2, 2019",2019,31,Immunity,Clairo,76,87,20,115,Fader,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop']"
+"March 15, 2019",2019,11,Groove Denied,Stephen Malkmus,76,81,16,11,Matador,"['Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"May 3, 2019",2019,18,End of Suffering,Frank Carter the Rattlesnakes,76,72,10,10,International Death Cult,['Pop/Rock']
+"May 24, 2019",2019,21,Act Surprised,Sebadoh,76,0,8,0,Dangerbird Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 18, 2019",2019,42,Juice B Crypts,Battles,76,65,17,11,Warp,['Pop/Rock']
+"June 7, 2019",2019,23,Small Mercies,Pixx,76,72,10,6,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 17, 2019",2019,20,The Best of Luck Club,Alex Lahey,76,67,12,10,Dead Oceans,['Pop/Rock']
+"February 22, 2019",2019,8,Lung Bread for Daddy,Du Blonde,76,64,10,8,Moshi Moshi Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 15, 2019",2019,7,ALL,Yann Tiersen,76,73,9,8,Mute,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 6, 2019",2019,36,Close It Quietly,Frankie Cosmos,76,76,12,7,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"December 13, 2019",2019,50,Fine Line,Harry Styles,76,87,20,2926,Sony Music,"['Pop', 'Pop/Rock', 'Teen Pop', 'Social Media Pop']"
+"March 22, 2019",2019,12,Doko Mien,Ibibio Sound Machine,76,0,12,0,Merge,['R&B']
+"October 25, 2019",2019,43,Leaving Meaning,Swans,75,83,16,32,Young God,['Pop/Rock']
+"July 12, 2019",2019,28,Egoli,Africa Express,75,0,9,0,Africa Express Records,['International']
+"February 8, 2019",2019,6,Girl with Basket of Fruit,Xiu Xiu,75,79,11,32,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 19, 2019",2019,16,I Love You Its a Fever Dream,The Tallest Man on Earth,75,79,9,10,Birds,['Pop/Rock']
+"April 26, 2019",2019,17,Blue With Lou,Nils Lofgren,75,0,7,0,Cattle Track Road Records,['Pop/Rock']
+"July 26, 2019",2019,30,Guesswork,Lloyd Cole,75,0,9,0,Ear,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 30, 2019",2019,35,Forever Turned Around,Whitney,75,81,16,18,Secretly Canadian,['Pop/Rock']
+"May 17, 2019",2019,20,Injury Reserve,Injury Reserve,75,80,7,39,Senaca Village,"['Rap', 'Alternative Rap', 'Underground Rap']"
+"February 1, 2019",2019,5,This Is Not the End,Spielbergs,75,73,11,6,By the Time It Gets Dark,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Noise-Rock']"
+"September 27, 2019",2019,39,Hey Im Just Like You,Tegan and Sara,75,80,14,8,Warner Bros.,"['Pop/Rock', 'Indie Rock']"
+"June 21, 2019",2019,25,An Obelisk,Titus Andronicus,75,76,15,8,Merge,['Pop/Rock']
+"October 4, 2019",2019,40,Hello Exile,The Menzingers,75,0,10,0,Epitaph,['Pop/Rock']
+"August 23, 2019",2019,34,Ginger,BROCKHAMPTON,75,80,12,153,"QUESTION EVERYTHING, INC.",['Rap']
+"January 25, 2019",2019,4,I Have to Feed Larrys Hawk,White Fence,75,53,12,6,Drag City,['Pop/Rock']
+"June 21, 2019",2019,25,Late Night Feelings,Mark Ronson,75,79,17,50,RCA,"['Pop', 'Pop/Rock', 'Club/Dance', 'Pop-Rap']"
+"August 16, 2019",2019,33,Thrashing thru the Passion,The Hold Steady,75,68,24,5,Frenchkiss Records,['Pop/Rock']
+"April 26, 2019",2019,17,Fever Breaks,Josh Ritter,75,65,7,8,Pytheas Recordings,"['Folk', 'Americana', 'Alternative Country-Rock', 'Roots Rock']"
+"February 1, 2019",2019,5,Gallipoli,Beirut,75,75,17,22,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 19, 2019",2019,16,Social Cues,Cage the Elephant,75,84,21,69,Columbia,['Alternative/Indie Rock']
+"February 15, 2019",2019,7,Unfurl,Ry X,75,78,7,5,Infectious,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 8, 2019",2019,10,Sasami,SASAMI,75,75,13,17,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 22, 2019",2019,12,Eraserland,Strand of Oaks,75,75,12,13,Dead Oceans,['Pop/Rock']
+"April 19, 2019",2019,16,Jade Bird,Jade Bird,75,85,14,17,Glassnote Entertainment Group,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 25, 2019",2019,43,Seeker,Mikal Cronin,75,76,13,5,Merge,['Alternative/Indie Rock']
+"July 12, 2019",2019,28,Weather,Tycho,75,46,10,17,Mom + Pop Music,"['Electronic', 'Downtempo', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'IDM']"
+"May 24, 2019",2019,21,Destroyer,Black Mountain,75,79,11,8,Jagjaguwar,['Pop/Rock']
+"January 25, 2019",2019,4,Mystery Hour,Pavo Pavo,75,54,8,5,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 1, 2019",2019,5,Stuffed Ready,Cherry Glazerr,75,79,17,18,Secretly Canadian,['Pop/Rock']
+"July 5, 2019",2019,27,The Soft Cavalry,The Soft Cavalry,75,81,16,8,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Indie Folk']"
+"December 6, 2019",2019,49,After You,Jack Peate,75,82,,0,,[]
+"June 14, 2019",2019,24,Origin,Jordan Rakei,75,77,7,7,Ninja Tune,"['R&B', 'Alternative R&B']"
+"July 19, 2019",2019,29,Kings Mouth Music and Songs,The Flaming Lips,74,78,25,21,Warner Bros.,"['Pop/Rock', 'Indie/Alternative']"
+"September 27, 2019",2019,39,Abundance Welcoming Ghosts,Red River Dialect,74,0,7,0,Paradise of Bachelors,['Folk']
+"February 8, 2019",2019,6,Pursuit of Momentary Happiness,Yak,74,75,11,11,Universal,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"January 18, 2019",2019,3,Weird,Juliana Hatfield,74,0,7,0,American Laundromat Records,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"March 22, 2019",2019,12,Inside the Rose,These New Puritans,74,80,18,21,Infectious,['Pop/Rock']
+"December 13, 2019",2019,50,Free Nationals,Free Nationals,74,69,7,14,OBE,['R&B']
+"July 12, 2019",2019,28,Hasta el Cielo,Khruangbin,74,0,8,0,Dead Oceans,"['R&B', 'Reggae', 'Dub', 'Pop/Rock', 'Alternative/Indie Rock', 'Neo-Psychedelia', 'Instrumental Rock', 'R&B Instrumental', 'Deep Funk Revival']"
+"March 8, 2019",2019,10,Dusty Notes,Meat Puppets,74,50,11,4,Megaforce,['Pop/Rock']
+"September 20, 2019",2019,38,Why Me Why Not,Liam Gallagher,74,86,20,60,Warner Bros.,['Pop/Rock']
+"April 12, 2019",2019,15,Map of the Soul Persona,BTS,74,85,11,800,Bighit,"['Pop/Rock', 'Korean Pop', 'Asian Pop']"
+"September 13, 2019",2019,37,Miami Memory,Alex Cameron,74,82,12,21,Secretly Canadian,['Pop/Rock']
+"August 23, 2019",2019,34,Guild of the Asbestos Weaver,Alexander Tucker,74,0,7,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'Alternative Folk']"
+"September 27, 2019",2019,39,KIRK,DaBaby,74,65,7,41,"Interscope / South Coast Music Group, Inc.",['Rap']
+"January 25, 2019",2019,4,Almost Free,FIDLAR,74,72,15,13,Mom + Pop Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Lo-Fi', 'Garage Rock Revival']"
+"February 1, 2019",2019,5,Encore,The Specials,74,73,13,11,Island,['Pop/Rock']
+"February 1, 2019",2019,5,What Chaos Is Imaginary,Girlpool,74,69,19,16,Anti-,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"June 28, 2019",2019,26,Lets Rock,The Black Keys,73,80,23,87,Nonesuch,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Garage Punk', 'Indie Rock', 'Punk Blues']"
+"May 10, 2019",2019,19,Yu,Rosie Lowe,73,80,8,5,Caroline,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"April 26, 2019",2019,17,Fishing for Fishies,King Gizzard the Lizard Wizard,73,75,12,41,ATO,['Pop/Rock']
+"October 18, 2019",2019,42,There Existed an Addiction to Blood,clipping,73,81,11,32,Sub Pop,"['Rap', 'Avant-Garde', 'Underground Rap', 'Noise', 'Left-Field Rap', 'Horror Rap']"
+"March 22, 2019",2019,12,LP5,Apparat,73,75,10,11,Mute,"['Electronic', 'Techno', 'Pop/Rock', 'Indie Electronic', 'Experimental Techno', 'IDM']"
+"July 12, 2019",2019,28,Angels Pulse Mixtape,Blood Orange,73,81,7,21,Domino Recording Co. Ltd.,"['Alternative/Indie Rock', 'Indie/Alternative', 'Indie Electronic', 'Indie Pop', 'Alternative Dance']"
+"February 8, 2019",2019,6,Bobbie Gentrys the Delta Sweete Revisited,Mercury Rev,73,68,14,9,PTKF,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"August 16, 2019",2019,33,- Ugh those feels again,Snoh Aalegra,73,85,7,17,ARTium,"['R&B', 'Alternative R&B']"
+"October 18, 2019",2019,42,Wave,Patrick Watson,73,0,7,0,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter']"
+"September 6, 2019",2019,36,The Competition,Lower Dens,73,73,14,4,Ribbon Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Rock', 'Indie Folk']"
+"February 15, 2019",2019,7,Ephyra,Womans Hour,73,0,7,0,N/A,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Indie Pop']"
+"March 15, 2019",2019,11,The Brian Jonestown Massacre,The Brian Jonestown Massacre,73,78,7,6,A Recordings,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 29, 2019",2019,13,The State Between Us,Matthew Herbert Big Band,73,0,8,0,Accidental,['Pop/Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"October 11, 2019",2019,41,Devour You,Starcrawler,73,83,8,6,Rough Trade,['Pop/Rock']
+"November 22, 2019",2019,47,Everyday Life,Coldplay,73,83,26,251,Atlantic,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"January 25, 2019",2019,4,Power Chords,Mike Krol,73,58,10,6,Merge,['Pop/Rock']
+"January 18, 2019",2019,3,Outer Peace,Toro y Moi,72,76,16,34,Carpark Records,['Pop/Rock']
+"November 1, 2019",2019,44,Spring,Itasca,72,0,8,0,Paradise of Bachelors,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"April 5, 2019",2019,14,Brutalism,The Drums,72,64,11,19,Anti-,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 22, 2019",2019,8,Father Of 4,Offset,72,69,8,58,Quality Control,['Rap']
+"June 14, 2019",2019,24,Doom Days,Bastille,72,84,9,84,Capitol / Virgin EMI,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'New Wave/Post-Punk Revival']"
+"September 6, 2019",2019,36,Free,Iggy Pop,72,75,21,13,Loma Vista,['Pop/Rock']
+"July 12, 2019",2019,28,Until the Tide Creeps In,Penelope Isles,72,0,9,0,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 25, 2019",2019,43,Sweating the Plague,Guided by Voices,72,68,7,4,"Guided by Voices, Inc.","['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi']"
+"March 1, 2019",2019,9,Stunning Luxury,Snapped Ankles,72,73,8,7,The Leaf Label,['Pop/Rock']
+"August 30, 2019",2019,35,Threads,Sheryl Crow,72,58,12,18,Valory,['Pop/Rock']
+"February 15, 2019",2019,7,Czarface Meets Ghostface,Czarface,72,80,7,7,Silver Age,"['Rap', 'Underground Rap', 'East Coast Rap', 'Hardcore Rap']"
+"March 1, 2019",2019,9,Good Fruit,TEEN,71,0,8,0,Carpark Records,['Pop/Rock']
+"November 15, 2019",2019,46,One of the Best Yet,Gang Starr,71,69,12,16,Universal,['Rap']
+"January 18, 2019",2019,3,Heard It in a Past Life,Maggie Rogers,71,82,23,119,Capitol,['Pop/Rock']
+"August 23, 2019",2019,34,In the Spirit World Now,Ceremony,71,0,7,0,Relapse Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Hardcore Punk', 'Punk Revival', 'Post-Punk']"
+"March 1, 2019",2019,9,Death Becomes Her,Angel-Ho,71,0,9,0,Hyperdub,['Electronic']
+"December 6, 2019",2019,49,Romance,Camila Cabello,71,87,12,2345,Epic,"['Pop', 'Vocal', 'Pop/Rock']"
+"April 26, 2019",2019,17,Hurts 2B Human,P!nk,71,76,9,141,RCA,"['R&B', 'Pop/Rock']"
+"November 22, 2019",2019,47,Girl,Girl Ray,71,0,14,0,Moshi Moshi Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 20, 2019",2019,38,Spirit Counsel,Thurston Moore,71,43,7,4,Daydream Library,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 7, 2019",2019,23,Lust for Youth,Lust for Youth,71,0,11,0,Sacred Bones,['Electronic']
+"August 2, 2019",2019,31,I,Follakzoid,71,0,7,0,Sacred Bones,"['Electronic', 'Techno', 'Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'Neo-Psychedelia', 'Minimal Techno']"
+"July 26, 2019",2019,30,The Big Day,Chance the Rapper,71,38,21,315,N/A,"['Rap', 'Alternative Rap', 'Midwest Rap', 'Contemporary Rap']"
+"November 1, 2019",2019,44,From Out of Nowhere,Jeff Lynnes ELO,70,83,9,14,Columbia,['Pop/Rock']
+"February 8, 2019",2019,6,Vol 4 Slaves of Fear,HEALTH,70,72,12,22,Loma Vista,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 13, 2019",2019,37,Lookout Low,Twin Peaks,70,65,11,4,Grand Jury Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock', 'American Trad Rock']"
+"April 19, 2019",2019,16,Not Waving But Drowning,Loyle Carner,70,85,12,22,AMF,['Rap']
+"November 15, 2019",2019,46,Everybodys Everything,Lil Peep,70,74,9,37,Columbia,"['Rap', 'Alternative Rap', 'Contemporary Rap', 'Cloud Rap']"
+"February 8, 2019",2019,6,Buoys,Panda Bear,70,61,19,39,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 8, 2019",2019,10,Still on My Mind,Dido,70,83,11,51,BMG,['Pop/Rock']
+"July 26, 2019",2019,30,Fever Dream,Of Monsters and Men,70,69,12,69,Island,['Pop/Rock']
+"August 16, 2019",2019,33,Inflorescent,Friendly Fires,70,76,10,9,Polydor,['Pop/Rock']
+"August 2, 2019",2019,31,Dream Is U,Francis Lung,70,0,7,0,Memphis Industries,['Pop/Rock']
+"June 7, 2019",2019,23,Kind Heaven,Perry Farrell,70,54,10,5,BMG / BMG Rights Management,['Pop/Rock']
+"May 24, 2019",2019,21,4REAL 4REAL,YG,70,72,8,13,Def Jam Recordings,['Rap']
+"June 14, 2019",2019,24,Madame X,Madonna,70,87,21,1793,Interscope,['Pop/Rock']
+"June 14, 2019",2019,24,Snaxx,Mndsgn,70,0,7,0,Stones Throw,"['Rap', 'Instrumental Hip-Hop']"
+"August 16, 2019",2019,33,This Is Not a Safe Place,Ride,70,81,17,18,Wichita,"['Pop/Rock', 'Alternative/Indie Rock', 'Dream Pop', 'Shoegaze']"
+"September 6, 2019",2019,36,Something Like a War,Kindness,70,74,8,5,Female Energy,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 18, 2019",2019,3,Future Hndrxx Presents The WIZRD,Future,70,62,12,50,RCA,"['Rap', 'Southern Rap', 'Contemporary Rap', 'Trap (Rap)']"
+"September 13, 2019",2019,37,Beneath the Eyrie,Pixies,70,75,24,28,Infectious,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 30, 2019",2019,35,Let Love,Common,70,71,8,7,Loma Vista,['Rap']
+"October 11, 2019",2019,41,Lahs,Allah-Las,70,78,8,5,Mexican Summer,['Pop/Rock']
+"February 8, 2019",2019,6,Tutti,Cosey Fanni Tutti,69,0,8,0,Conspiracy International,"['Electronic', 'Club/Dance']"
+"April 26, 2019",2019,17,CrasH Talk,ScHoolboy Q,69,69,7,84,Interscope,['Rap']
+"October 4, 2019",2019,40,Easter is Cancelled,The Darkness,69,78,9,16,Cooking Vinyl,"['Pop/Rock', 'Heavy Metal', 'Hard Rock', 'Hair Metal']"
+"November 15, 2019",2019,46,Our Pathetic Age,DJ Shadow,69,83,13,11,Mass Appeal,['Rap']
+"July 12, 2019",2019,28,Dont You Think Youve Had Enough,Bleached,69,78,11,4,Dead Oceans,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 20, 2019",2019,38,Altid Sammen,Efterklang,69,72,8,6,4AD,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock']"
+"May 10, 2019",2019,19,Here Comes the Cowboy,Mac DeMarco,69,63,24,69,N/A,['Pop/Rock']
+"January 11, 2019",2019,2,Tallies,Tallies,69,65,8,8,Kanine Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 29, 2019",2019,48,Labyrinth,Doon Kanda,69,0,8,0,Hyperdub,['Electronic']
+"October 11, 2019",2019,41,Metal Galaxy,Babymetal,69,77,10,28,Cooking Vinyl,"['Pop/Rock', 'Heavy Metal', 'Pop-Metal', 'Asian Pop', 'J-Pop']"
+"October 25, 2019",2019,43,Cry,Cigarettes After Sex,69,80,14,25,Partisan,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 25, 2019",2019,4,Internationally Unknown,Rat Boy,69,36,10,5,Parlophone,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Punk-Pop']"
+"April 5, 2019",2019,14,Interview Music,Idlewild,69,56,8,5,Idlewild Recordings,"['Alternative/Indie Rock', 'Indie Rock']"
+"August 30, 2019",2019,35,Wallop,!!! Chik Chik Chik,69,43,10,8,Warp,['Pop/Rock']
+"September 20, 2019",2019,38,Cause and Effect,Keane,68,86,7,51,Island,"['Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter', 'Alternative Pop/Rock', 'Contemporary Pop/Rock']"
+"February 22, 2019",2019,8,Strange Creatures,Drenge,68,60,8,7,Infectious,['Pop/Rock']
+"November 15, 2019",2019,46,Courage,Céline Dion,68,82,9,0,Sony Music,['Pop/Rock']
+"September 13, 2019",2019,37,Days of the Bagnold Summer OST,Belle and Sebastian,68,85,9,4,Matador,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 20, 2019",2019,38,DSVII,M83,68,68,9,27,Mute,['Electronic']
+"April 26, 2019",2019,17,Seeing Other People,Foxygen,68,77,10,14,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 26, 2019",2019,30,Hotel Last Resort,Violent Femmes,68,60,12,4,PIAS,['Pop/Rock']
+"July 26, 2019",2019,30,Para Mi,Cuco,68,79,10,9,Interscope,['Pop/Rock']
+"May 3, 2019",2019,18,Emerald Valley,Filthy Friends,68,0,13,0,Kill Rock Stars,['Pop/Rock']
+"February 8, 2019",2019,6,Varshons 2,The Lemonheads,68,55,7,6,Fire Records,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 22, 2019",2019,47,Cotillions,William Patrick Corgan,68,67,8,6,Martha's Music,['Pop/Rock']
+"February 15, 2019",2019,7,Hello Happiness,Chaka Khan,68,62,11,15,Island,"['R&B', 'Funk', 'Club/Dance', 'Contemporary R&B']"
+"April 19, 2019",2019,16,Happy Now,Gang of Four,67,0,7,0,N/A,['Pop/Rock']
+"August 9, 2019",2019,32,Aokohio,Why,67,53,7,8,Joyful Noise,['Pop/Rock']
+"August 9, 2019",2019,32,Port of Miami 2,Rick Ross,67,68,7,9,Epic,"['Rap', 'Pop/Rock', 'Southern Rap', 'Contemporary Rap']"
+"September 27, 2019",2019,39,Hot Motion,Temples,67,73,11,14,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia']"
+"February 15, 2019",2019,7,Triage,Methyl Ethel,67,71,13,12,4AD,['Pop/Rock']
+"September 20, 2019",2019,38,Nine,Blink-182,67,65,10,102,Columbia,['Pop/Rock']
+"November 8, 2019",2019,45,Get the Money,Taylor Hawkins the Coattail Riders,66,85,7,4,RCA,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 4, 2019",2019,40,Love Evol,Boris,66,0,7,0,Third Man Records,"['Pop/Rock', 'Heavy Metal']"
+"March 8, 2019",2019,10,Girl,Maren Morris,66,75,8,45,SME,['Country']
+"November 22, 2019",2019,47,Losst and Founnd,Harry Nilsson,65,0,7,0,Omnivore Recordings,"['Singer/Songwriter', 'Pop/Rock', 'Contemporary Singer/Songwriter', 'Contemporary Pop/Rock', 'Album Rock']"
+"August 16, 2019",2019,33,No Mans Land,Frank Turner,65,0,8,0,Universal,['Pop/Rock']
+"April 26, 2019",2019,17,Peter Doherty the Puta Madres,Peter Doherty the Puta Madres,65,0,8,0,Redeye Music Distribution,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 22, 2019",2019,12,The Modern Age,Sleeper,64,65,10,8,Gorsky Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 29, 2019",2019,13,The Road Pt 2 Lost Highway,UNKLE,64,69,9,15,Songs for the Def,"['Electronic', 'Electronica', 'Downtempo', 'Alternative/Indie Rock', 'Alternative Dance']"
+"September 20, 2019",2019,38,Sinematic,Robbie Robertson,64,82,7,6,Universal,['Pop/Rock']
+"May 3, 2019",2019,18,Scatter the Rats,L7,63,55,7,4,Blackheart,['Pop/Rock']
+"June 7, 2019",2019,23,Erotic Reruns,Yeasayer,63,67,9,9,N/A,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"June 7, 2019",2019,23,Widows Weeds,Silversun Pickups,63,78,8,12,New Machine Recordings,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Grunge']"
+"March 1, 2019",2019,9,Wasteland Baby!,Hozier,63,82,10,96,Sony Music,['Pop/Rock']
+"February 1, 2019",2019,5,Ripples,Ian Brown,62,59,10,10,Universal,['Pop/Rock']
+"April 26, 2019",2019,17,Love Fear,MARINA,62,81,,0,,[]
+"August 2, 2019",2019,31,High Expectations,Mabel,61,78,10,36,Capitol,['Pop/Rock']
+"July 26, 2019",2019,30,Duck,Kaiser Chiefs,61,64,11,9,Polydor,['Pop/Rock']
+"March 8, 2019",2019,10,Death Race for Love,Juice WRLD,61,68,11,85,Interscope,['Rap']
+"April 12, 2019",2019,15,Labrinth Sia Diplo Present LSD,LSD,60,79,7,111,Columbia,['Pop/Rock']
+"May 17, 2019",2019,20,Father Of Asahd,DJ Khaled,59,28,7,59,Epic,['Rap']
+"May 24, 2019",2019,21,In Plain Sight,Honeyblood,59,0,9,0,Marathon Artists,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 19, 2019",2019,29,The Lost Tapes II,Nas,58,84,7,66,Def Jam,['Rap']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"April 5, 2019",2019,14,Free Spirit,Khalid,58,65,15,81,RCA,['R&B']
+"January 24, 2019",2019,4,Weezer Teal Album,Weezer,58,53,10,74,Crush Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 15, 2019",2019,7,Helium,Homeshake,57,64,7,7,Universal,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative R&B']"
+"June 21, 2019",2019,25,Rise,Hollywood Vampires,57,45,7,4,Ear Music,"['Pop/Rock', 'Album Rock', 'Hard Rock']"
+"July 12, 2019",2019,28,No 6 Collaborations Project,Ed Sheeran,57,46,14,239,Atlantic,['Pop/Rock']
+"May 24, 2019",2019,21,California Son,Morrissey,57,64,15,20,BMG,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 25, 2019",2019,4,Why You So Crazy,The Dandy Warhols,56,63,11,9,Dine Alone,['Pop/Rock']
+"October 4, 2019",2019,40,Closer Than Together,The Avett Brothers,56,0,7,0,Universal,"['Folk', 'Alt-Country', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Folk']"
+"February 15, 2019",2019,7,Head Above Water,Avril Lavigne,55,83,12,458,BMG,['Pop/Rock']
+"October 25, 2019",2019,43,Jesus Is King,Kanye West,53,52,25,1384,Def Jam / GOOD,['Rap']
+"March 1, 2019",2019,9,Weezer Black Album,Weezer,53,54,20,84,Atlantic,['Pop/Rock']
+"February 22, 2019",2019,8,Harverd Dropout,Lil Pump,46,25,8,90,Warner Bros.,['Rap']
+"December 6, 2019",2019,49,LP1,Liam Payne,44,74,7,1581,Capitol,"['Pop', 'Vocal', 'Pop/Rock', 'Dance-Pop']"

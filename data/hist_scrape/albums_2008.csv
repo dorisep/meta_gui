@@ -1,0 +1,667 @@
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"August 12, 2008",2008,33,London Zoo,The Bug,90,65,10,83,Ninja Tune,['Electronic']
+"August 25, 2008",2008,35,Fed,Plush,89,75,9,13,Broken Horse,['Rock']
+"September 23, 2008",2008,39,Dear Science,TV on the Radio,88,89,40,280,DGC/Interscope,['Rock']
+"September 2, 2008",2008,36,Exit,Shugo Tokumaru,88,87,7,57,Almost Gold,"['Indie', 'Rock', 'Pop']"
+"February 19, 2008",2008,8,For Emma Forever Ago,Bon Iver,88,89,27,428,Jagjaguwar,"['Indie', 'Rock']"
+"June 17, 2008",2008,25,Pacific Ocean Blue Reissue,Dennis Wilson,87,88,16,34,Sony Legacy,"['Rock', 'Pop']"
+"June 3, 2008",2008,23,Fleet Foxes,Fleet Foxes,87,88,31,295,Sub Pop,"['Indie', 'Rock', 'Pop']"
+"April 8, 2008",2008,15,Dig!!! Lazarus Dig!!!,Nick Cave the Bad Seeds,87,87,32,83,Mute,"['Rock', 'Alternative']"
+"June 24, 2008",2008,26,Hercules And Love Affair,Hercules Love Affair,86,71,31,106,Mute,"['Dance', 'Electronic']"
+"April 29, 2008",2008,18,Robyn,Robyn,86,88,17,102,Cherrytree,"['Rock', 'Dance', 'Pop']"
+"May 27, 2008",2008,22,What Does It All Mean 1983-2006 Retrospective,Steinski,86,81,18,16,Illegal Art,"['Alternative', 'Rap']"
+"August 5, 2008",2008,32,Harps And Angels,Randy Newman,86,85,25,15,Nonesuch,['Rock']
+"January 29, 2008",2008,5,Fortress,Protest the Hero,86,77,7,141,Vagrant,"['Rock', 'Metal', 'Punk']"
+"October 7, 2008",2008,41,Tell Tale Signs The Bootleg Series Vol 8,Bob Dylan,86,88,17,64,Sony BMG,['Rock']
+"June 3, 2008",2008,23,Rook,Shearwater,85,87,20,49,Matador,"['Indie', 'Rock']"
+"June 3, 2008",2008,23,LifeThe Best Game In Town,Harvey Milk,85,74,10,14,Hydra Head,"['Rock', 'Experimental']"
+"April 29, 2008",2008,18,Third,Portishead,85,84,38,194,Mercury,"['Rock', 'Electronic']"
+"July 15, 2008",2008,29,Stay Positive,The Hold Steady,85,78,34,95,Vagrant,"['Indie', 'Rock']"
+"July 22, 2008",2008,30,Laulu Laakson Kukista,Paavoharju,85,88,7,25,Fonal,"['Rock', 'Experimental']"
+"October 7, 2008",2008,41,Chemistry Of Common Life,Fucked Up,85,84,26,22,Matador,['Rock']
+"May 13, 2008",2008,20,The Airing Of Grievances,Titus Andronicus,85,81,18,21,Troubleman Unlimited,"['Indie', 'Rock', 'Punk']"
+"December 2, 2008",2008,49,Emeritus,Scarface,85,85,7,13,Asylum,['Rap']
+"November 20, 2008",2008,47,Sugar Mountain Live At Canterbury House 1968,Neil Young,84,74,17,7,Reprise,"['Rock', 'Pop', 'Country']"
+"October 28, 2008",2008,44,Tronic,Black Milk,84,85,9,14,Fatbeats,['Rap']
+"June 10, 2008",2008,24,Tha Carter III,Lil Wayne,84,73,26,368,Cash Money,['Rap']
+"June 17, 2008",2008,25,A Piece Of What You Need,Teddy Thompson,84,84,8,11,Verve Forecast,"['Rock', 'Alternative']"
+"June 3, 2008",2008,23,Dont Do Anything,Sam Phillips,84,85,7,8,Nonesuch,"['Rock', 'Singer-Songwriter']"
+"August 26, 2008",2008,35,One Kind Favor,BB King,83,81,8,10,Geffen,['Blues']
+"July 15, 2008",2008,29,In The 7th Moon The Chief Turned Into A Swimming Fish And Ate The Head Of His Enemy By Magic,Kasai Allstars,83,0,16,0,Crammed Disc,['World']
+"June 24, 2008",2008,26,Real Animal,Alejandro Escovedo,83,82,16,6,Back Porch,"['Rock', 'Pop', 'Alternative']"
+"July 8, 2008",2008,28,Skeleton,Abe Vigoda,83,78,12,5,PPM,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,Uproot,DJrupture,83,74,9,5,Agriculture,"['Electronic', 'Experimental']"
+"February 26, 2008",2008,9,New Amerykah Part One 4th World War,Erykah Badu,83,86,27,51,Motown,"['R&B', 'Soul']"
+"January 22, 2008",2008,4,Brighter Than Creations Dark,Drive-By Truckers,83,87,31,46,New West,"['Indie', 'Rock']"
+"March 18, 2008",2008,12,The Visiter,The Dodos,83,87,24,36,Frenchkiss,"['Indie', 'Rock', 'Folk']"
+"July 22, 2008",2008,30,Love On The Inside,Sugarland,83,81,9,18,Mercury Nashville,['Country']
+"January 15, 2008",2008,3,Love Behind The Melody,Raheem DeVaughn,83,83,9,7,Jive,"['R&B', 'Soul']"
+"August 19, 2008",2008,34,Music Tapes for Clouds Tornadoes,The Music Tapes,83,65,9,19,Merge,"['Indie', 'Rock']"
+"June 17, 2008",2008,25,Ice Cream Spiritual,Ponytail,82,69,15,13,We Are Free,"['Indie', 'Rock', 'Pop']"
+"June 3, 2008",2008,23,Watershed,Opeth,82,88,10,88,Roadrunner,"['Rock', 'Metal']"
+"August 26, 2008",2008,35,The Week That Was,The Week That Was,82,87,14,15,Memphis Industries,"['Indie', 'Rock']"
+"November 25, 2008",2008,48,We are Beautiful We Are Doomed,Los Campesinos!,82,83,22,29,Arts & Crafts,"['Indie', 'Rock']"
+"November 4, 2008",2008,45,The Renaissance,Q-Tip,82,87,24,63,Universal Motown,['Rap']
+"February 12, 2008",2008,7,Do You Like Rock Music,British Sea Power,82,85,32,69,Rough Trade,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,This Is It I Am It You Are It So Is That He Is It She Is It It Is It That Is That,Marnie Stern,82,82,16,10,Kill Rock Stars,"['Indie', 'Rock', 'Pop']"
+"April 15, 2008",2008,16,Just Us Kids,James McMurtry,82,86,11,10,Lightning Rod,"['Alternative', 'Country']"
+"October 7, 2008",2008,41,Lost Wisdom,Mount Eerie,82,81,8,13,Southern,"['Indie', 'Rock']"
+"January 29, 2008",2008,5,Vampire Weekend,Vampire Weekend,82,86,38,319,XL,"['Indie', 'Rock']"
+"May 27, 2008",2008,22,HealthDisco,HEALTH,82,62,8,12,Lovepump United,"['Rock', 'Electronic', 'Experimental']"
+"April 22, 2008",2008,17,The Seldom Seen Kid,Elbow,82,89,22,87,Fiction/Geffen,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,Doomsdayers Holiday,Grails,82,74,7,5,Temporary Residence,"['Rock', 'Experimental']"
+"August 19, 2008",2008,34,Where You Go I Go Too,Lindstrm,82,81,,0,,[]
+"May 20, 2008",2008,21,II Trill,Bun B,82,82,17,30,Rap-a-Lot,['Rap']
+"October 28, 2008",2008,44,Love Is Overtaking Me,Arthur Russell,82,0,15,0,Audika,"['Rock', 'Folk']"
+"May 27, 2008",2008,22,Lay It Down,Al Green,81,85,22,16,Blue Note,"['R&B', 'Soul']"
+"April 28, 2008",2008,18,Imperial Wax Solvent,The Fall,81,80,9,9,Castle,['Rock']
+"November 11, 2008",2008,46,Sycamore Meadows,Butch Walker,81,87,12,15,R.E.D. Distribution,"['Rock', 'Pop', 'Alternative']"
+"November 18, 2008",2008,47,The BBC Sessions,Belle and Sebastian,81,86,21,8,Matador,"['Rock', 'Alternative']"
+"July 22, 2008",2008,30,0307-0907,High Places,81,77,7,6,Thrill Jockey,['Electronic']
+"May 20, 2008",2008,21,Lie Down In The Light,Bonnie Prince Billy,81,86,19,19,Drag City,"['Rock', 'Alternative']"
+"June 10, 2008",2008,24,Los Angeles,Flying Lotus,81,87,13,51,Warp,"['Electronic', 'Experimental']"
+"June 24, 2008",2008,26,Med Sud I Eyrum Vid Spilum Endalaust,Sigur Rós,81,87,27,0,Beggars XL,['Rock']
+"October 7, 2008",2008,41,Black Forest,Pale Young Gentlemen,81,84,9,14,Science of Sound,"['Indie', 'Rock']"
+"September 9, 2008",2008,37,The Family Afloat,Bound Stems,81,86,7,9,Flameshovel,"['Indie', 'Rock']"
+"April 1, 2008",2008,14,Hold On Now Youngster,Los Campesinos!,81,87,29,37,Arts & Crafts,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,Live At Shea Stadium Live,The Clash,81,80,13,9,Sony Legacy,"['Rock', 'Punk']"
+"February 19, 2008",2008,8,Let The Blind Lead Those Who Can See But Cannot Feel,Atlas Sound,81,78,23,34,Kranky,"['Indie', 'Rock', 'Alternative']"
+"October 28, 2008",2008,44,Microcastle,Deerhunter,81,89,35,99,Kranky,"['Rock', 'Experimental']"
+"April 29, 2008",2008,18,The Evangelist,Robert Forster,81,84,11,9,Yep Roc,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,Offend Maggie,Deerhoof,80,86,27,18,Kill Rock Stars,"['Indie', 'Rock']"
+"April 1, 2008",2008,14,April,Sun Kil Moon,80,88,25,35,Caldo Verde,"['Indie', 'Rock']"
+"September 30, 2008",2008,40,The Power Of Negative Thinking B-Sides Rarities,The Jesus and Mary Chain,80,87,14,9,Rhino,"['Rock', 'Alternative']"
+"April 8, 2008",2008,15,Jim Noir,Jim Noir,80,86,15,7,Barsuk,"['Indie', 'Rock']"
+"March 18, 2008",2008,12,Street Horrrsing,Fuck Buttons,80,66,19,68,ATP,"['Rock', 'Experimental']"
+"July 22, 2008",2008,30,One Day As A Lion EP,One Day As A Lion,80,81,8,21,Anti,"['Rock', 'Alternative', 'Metal']"
+"June 10, 2008",2008,24,Dragging A Dead Deer Up A Hill,Grouper,80,88,7,23,Type,['Rock']
+"February 19, 2008",2008,8,The Golden Age,American Music Club,80,81,20,17,Merge,"['Indie', 'Rock']"
+"July 8, 2008",2008,28,Two Men With The Blues,Willie Nelson Wynton Marsalis,80,78,19,4,Blue Note,"['Jazz', 'Country', 'Blues']"
+"March 4, 2008",2008,10,Saturnalia,The Gutter Twins,80,88,28,15,Sub Pop,"['Rock', 'Alternative']"
+"April 29, 2008",2008,18,The Midnight Organ Fight,Frightened Rabbit,80,87,16,59,Fat Cat,"['Indie', 'Rock']"
+"September 30, 2008",2008,40,Vivian Girls,Vivian Girls,80,73,15,24,In The Red,"['Indie', 'Rock']"
+"January 22, 2008",2008,4,Ill Be Lightning,Liam Finn,80,0,13,0,Yep Roc,"['Indie', 'Rock']"
+"June 24, 2008",2008,26,Party Intellectuals,Marc Ribots Ceramic Dog,80,0,10,0,Pi,"['Rock', 'Experimental']"
+"July 8, 2008",2008,28,The Coral Sea,Patti Smith and Kevin Shields,80,0,16,0,Pask,['Rock']
+"April 29, 2008",2008,18,Rising Down,The Roots,80,87,27,34,Def Jam,['Rap']
+"September 23, 2008",2008,39,Furr,Blitzen Trapper,80,85,21,18,Sub Pop,"['Indie', 'Rock', 'Alternative', 'Country']"
+"November 24, 2008",2008,48,Black Sea,Fennesz,80,88,12,8,Touch,['Electronic']
+"April 22, 2008",2008,17,Flight Of The Conchords,Flight of the Conchords,79,83,25,31,Sub Pop,['Rock']
+"October 7, 2008",2008,41,In A Town Called Addis,Dub Colossus,79,0,7,0,Real World,['World']
+"October 7, 2008",2008,41,Alegranza,El Guincho,79,88,19,6,Young Turks/XL,"['Rock', 'Experimental']"
+"November 24, 2008",2008,48,Ouliposaliva,Angil The Hidden Tracks,79,87,7,6,Chemikal Underground,"['Rock', 'Experimental']"
+"March 11, 2008",2008,11,The Unfairground,Kevin Ayers,79,79,12,7,Gigantic,['Rock']
+"September 30, 2008",2008,40,4,Dungen,79,82,19,6,Kemado,"['Indie', 'Rock']"
+"September 16, 2008",2008,38,Year Of The Gentleman,Ne-Yo,79,87,12,30,Def Jam,"['R&B', 'Soul']"
+"April 8, 2008",2008,15,In Ghost Colours,Cut Copy,79,88,17,79,Modular Interscope,"['Dance', 'Electronic', 'Alternative']"
+"January 15, 2008",2008,3,Distortion,Magnetic Fields,79,73,33,16,Nonesuch,"['Indie', 'Rock']"
+"September 16, 2008",2008,38,The Way I See It,Raphael Saadiq,79,89,20,14,Sony,"['R&B', 'Soul']"
+"March 18, 2008",2008,12,Stainless Style,Neon Neon,79,87,17,20,Lex,['Electronic']
+"September 8, 2008",2008,37,The Holy Pictures,David Holmes,79,85,7,4,Universal,"['Rock', 'Pop']"
+"November 4, 2008",2008,45,Limbo Panto,Wild Beasts,79,82,17,21,Domino,"['Indie', 'Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"October 21, 2008",2008,43,Hush Arbors,Hush Arbors,79,0,8,0,Ecstatic Peace,"['Rock', 'Experimental']"
+"June 10, 2008",2008,24,Loverly,Cassandra Wilson,79,0,12,0,Blue Note,"['Jazz', 'Vocal']"
+"September 16, 2008",2008,38,The Hungry Saw,Tindersticks,79,82,20,6,Constellation,"['Indie', 'Rock']"
+"June 3, 2008",2008,23,! Smilers,Aimee Mann,79,75,16,24,Superego,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"January 22, 2008",2008,4,In The Future,Black Mountain,79,88,35,25,Jagjaguwar,"['Indie', 'Rock']"
+"August 19, 2008",2008,34,Spirit,Apse,79,0,8,0,ATP,"['Indie', 'Rock', 'Experimental']"
+"September 30, 2008",2008,40,Red Letter Year,Ani DiFranco,79,78,8,12,Righteous Babe,"['Rock', 'Alternative', 'Folk']"
+"April 29, 2008",2008,18,Mudcrutch,Mudcrutch,79,79,10,19,Warner Bros.,['Rock']
+"December 21, 2008",2008,51,OST,Slumdog Millionaire,79,70,8,24,Interscope,"['Dance', 'Soundtrack']"
+"April 1, 2008",2008,14,Accelerate,REM,79,84,33,139,Warner Bros.,"['Rock', 'Alternative']"
+"May 6, 2008",2008,19,Nouns,No Age,79,85,32,27,Sub Pop,"['Indie', 'Rock']"
+"September 9, 2008",2008,37,House With No Home,Horse Feathers,79,79,12,7,Kill Rock Stars,['Folk']
+"June 10, 2008",2008,24,All I Intended To Be,Emmylou Harris,78,87,16,9,Nonesuch,['Country']
+"November 11, 2008",2008,46,Convivial,Luomo,78,0,13,0,Huume,"['Dance', 'Electronic']"
+"May 13, 2008",2008,20,All We Could Do Was Sing,Port OBrien,78,0,11,0,Port O'Brien,"['Rock', 'Alternative', 'Folk']"
+"June 17, 2008",2008,25,At Mount Zoomer,Wolf Parade,78,88,28,67,Sub Pop,"['Indie', 'Rock']"
+"September 30, 2008",2008,40,Double Night Time,Morgan Geist,78,0,9,0,Environ,['Electronic']
+"May 6, 2008",2008,19,Home Before Dark,Neil Diamond,78,83,13,10,Sony,"['Rock', 'Singer-Songwriter']"
+"October 7, 2008",2008,41,In Ear Park,Department of Eagles,78,88,16,17,4AD,"['Indie', 'Rock', 'Electronic']"
+"February 26, 2008",2008,9,Seventh Tree,Goldfrapp,78,85,32,70,Mute,['Electronic']
+"September 9, 2008",2008,37,Carried To Dust,Calexico,78,85,29,17,Quarterstick,"['Rock', 'Alternative']"
+"October 21, 2008",2008,43,Saint Dymphna,Gang Gang Dance,78,87,28,56,The Social Registry,"['Rock', 'Experimental']"
+"September 16, 2008",2008,38,Paperwork,Volcano!,78,0,11,0,Sony Music Entertainment,"['Rap', 'Gangsta Rap', 'Southern Rap']"
+"November 4, 2008",2008,45,Silence Is Wild,Frida Hyvonen,78,87,11,7,Secretly Canadian,['Rock']
+"May 6, 2008",2008,19,Supreme Balloon,Matmos,78,0,20,0,Matador,"['Electronic', 'Experimental']"
+"November 4, 2008",2008,45,Fordlandia,Jóhann Jóhannsson,78,87,10,0,4AD,"['Electronic', 'Experimental']"
+"June 3, 2008",2008,23,The Bake Sale EP,The Cool Kids,78,87,19,18,Chocolate Industries,['Rap']
+"May 6, 2008",2008,19,Water Curses EP,Animal Collective,78,84,14,33,Paradise,"['Rock', 'Experimental']"
+"September 2, 2008",2008,36,Sex And Gasoline,Rodney Crowell,78,0,11,0,Yep Roc,"['Alternative', 'Country']"
+"March 18, 2008",2008,12,A Mad Faithful Telling,Devotchka,78,81,22,15,Anti,"['Indie', 'Rock']"
+"February 5, 2008",2008,6,Made In The Dark,Hot Chip,78,76,40,41,Astralwerks,"['Indie', 'Rock', 'Electronic']"
+"November 11, 2008",2008,46,A Hundred Things Keep Me Up At Night,Love Is All,78,80,18,7,What's Your Rupture?,"['Indie', 'Rock']"
+"February 5, 2008",2008,6,Heres To Being Here,Jason Collett,78,72,13,5,Arts & Crafts,"['Indie', 'Rock']"
+"September 9, 2008",2008,37,The Stand Ins,Okkervil River,78,85,29,22,Jagjaguwar,"['Indie', 'Rock']"
+"October 21, 2008",2008,43,Receivers,Parts Labor,78,81,18,7,Jagjaguwar,"['Indie', 'Rock']"
+"September 16, 2008",2008,38,Who Killed Amanda Palmer,Amanda Palmer,78,88,13,31,Roadrunner,"['Rock', 'Alternative']"
+"September 9, 2008",2008,37,Sleepless Nights,Patty Loveless,78,82,7,6,Saguaro Road,['Country']
+"June 17, 2008",2008,25,Lookout Mountain Lookout Sea,Silver Jews,78,81,26,8,Drag City,"['Indie', 'Rock']"
+"March 25, 2008",2008,13,Parc Avenue,Plants and Animals,78,86,8,18,Secret City,"['Indie', 'Rock']"
+"March 4, 2008",2008,10,Transnormal Skiperoo,Jim White,78,86,14,5,Luaka Bop,"['Alternative', 'Country']"
+"September 12, 2008",2008,37,Death Magnetic,Metallica,78,79,27,709,Warner Bros.,"['Rock', 'Metal']"
+"March 18, 2008",2008,12,Trouble In Dreams,Destroyer,78,84,31,25,Merge,"['Indie', 'Rock']"
+"July 22, 2008",2008,30,The Slip,Nine Inch Nails,78,82,11,108,The Null Corporation,"['Rock', 'Alternative']"
+"July 22, 2008",2008,30,Mothertongue,Nico Muhly,78,65,10,4,Brassland,['Classical']
+"February 5, 2008",2008,6,Promises Promises,Die! Die! Die!,78,86,10,5,S.A.F.,"['Rock', 'Punk']"
+"October 7, 2008",2008,41,Life Like,Rosebuds,78,0,,0,,[]
+"May 6, 2008",2008,19,Momofuku,Elvis Costello the Imposters,78,72,15,16,Lost Highway,['Rock']
+"August 19, 2008",2008,34,You Me,The Walkmen,78,89,26,65,Gigantic,"['Indie', 'Rock']"
+"July 8, 2008",2008,28,Modern Guilt,Beck,77,82,32,98,Interscope,['Rock']
+"June 10, 2008",2008,24,I Know Youre Married But Ive Got Feelings Too,Martha Wainwright,77,81,20,9,Zoe,['Rock']
+"February 5, 2008",2008,6,Lucky,Nada Surf,77,84,21,29,Barsuk,"['Indie', 'Rock']"
+"January 22, 2008",2008,4,Hey Venus!,Super Furry Animals,77,87,25,39,Rough Trade,"['Indie', 'Rock']"
+"June 10, 2008",2008,24,The Hard Way,James Hunter,77,0,8,0,Hear Music,"['Rock', 'Soul']"
+"September 16, 2008",2008,38,Gift Of Screws,Lindsey Buckingham,77,85,15,21,Warner Bros.,"['Rock', 'Pop']"
+"May 6, 2008",2008,19,The Age Of The Understatement,The Last Shadow Puppets,77,86,25,66,Domino,"['Indie', 'Rock']"
+"November 11, 2008",2008,46,Trying Hartz,Danielson,77,0,9,0,Secretly Canadian,['Rock']
+"July 1, 2008",2008,27,Hymn and Her,Earlimart,77,0,11,0,Shout Factory,"['Indie', 'Rock', 'Pop']"
+"May 20, 2008",2008,21,The Lucky Ones,Mudhoney,77,0,19,0,Sub Pop,"['Rock', 'Alternative', 'Punk']"
+"September 23, 2008",2008,39,Tennessee Pusher,Old Crow Medicine Show,77,68,8,6,Nettwerk,"['Rock', 'Folk']"
+"March 11, 2008",2008,11,Staying In,diskJokke,77,0,7,0,Smalltown Supersound,"['Indie', 'Electronic']"
+"May 27, 2008",2008,22,Same Old Man,John Hiatt,77,73,9,4,New West,"['Rock', 'Singer-Songwriter']"
+"September 9, 2008",2008,37,The New Year,The New Year,77,77,17,6,Touch & Go,"['Indie', 'Rock']"
+"August 26, 2008",2008,35,Ode To Sunshine,Delta Spirit,77,82,12,14,Rounder,"['Indie', 'Rock', 'Country']"
+"October 7, 2008",2008,41,Un Dia,Juana Molina,77,84,19,7,Domino,"['Indie', 'Rock', 'Pop', 'Electronic']"
+"April 29, 2008",2008,18,Santogold,Santogold,77,80,27,69,Downtown,"['Rock', 'Dance']"
+"August 26, 2008",2008,35,Ultra Beatdown,DragonForce,77,76,8,58,Roadrunner,"['Rock', 'Metal']"
+"October 21, 2008",2008,43,Rio,Aterciopelados,77,88,8,5,Nacional,"['Pop', 'Latin']"
+"December 1, 2008",2008,49,A Snowflake Fell And It Felt Like A Kiss,Glasvegas,77,77,8,6,Columbia,"['Rock', 'Alternative']"
+"August 12, 2008",2008,33,Simply Grand,Irma Thomas,77,0,12,0,Rounder,"['R&B', 'Soul']"
+"May 6, 2008",2008,19,Fair Aint Fair,Tim Fite,77,86,8,7,Anti,"['Indie', 'Rock']"
+"February 19, 2008",2008,8,Some Racing Some Stopping,Headlights,77,0,11,0,Polyvinyl,"['Indie', 'Rock']"
+"February 26, 2008",2008,9,We Have You Surrounded,The Dirtbombs,77,0,9,0,In The Red,"['Indie', 'Rock']"
+"July 22, 2008",2008,30,22 Dreams,Paul Weller,77,84,18,16,Yep Roc,['Rock']
+"July 15, 2008",2008,29,Object 47,Wire,77,77,20,6,Pink Flag,"['Rock', 'Experimental', 'Punk']"
+"January 29, 2008",2008,5,Women As Lovers,Xiu Xiu,77,79,18,14,Kill Rock Stars,"['Indie', 'Rock', 'Experimental']"
+"July 28, 2008",2008,31,Pleasure Pressure Point,Black Affair,77,0,7,0,V2,"['Rock', 'Alternative']"
+"August 19, 2008",2008,34,The 59 Sound,The Gaslight Anthem,77,88,9,44,Side One Dummy,"['Rock', 'Punk']"
+"January 8, 2008",2008,2,Angels Of Destruction,Marah,76,0,15,0,Yep Roc,['Rock']
+"March 4, 2008",2008,10,The Felice Brothers,The Felice Brothers,76,88,10,10,Team Love,"['Rock', 'Country']"
+"November 18, 2008",2008,47,Parallax Error Beheads You,Max Tundra,76,83,18,9,Domino,['Electronic']
+"August 5, 2008",2008,32,Conor Oberst,Conor Oberst,76,87,34,24,Merge,['Rock']
+"May 27, 2008",2008,22,Songs in AE,Spiritualized,76,88,30,30,Fontana Universal,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,Ferndorf,Hauschka,76,0,11,0,Fat Cat,"['Electronic', 'Experimental']"
+"February 5, 2008",2008,6,Watershed,kd lang,76,85,15,11,Nonesuch,"['Rock', 'Singer-Songwriter']"
+"September 2, 2008",2008,36,Shall Noise Upon,Apollo Sunshine,76,88,14,4,Headless Heroes,"['Rock', 'Alternative']"
+"April 29, 2008",2008,18,Kensington Heights,The Constantines,76,84,17,14,Arts & Crafts,"['Indie', 'Rock']"
+"March 4, 2008",2008,10,Real Emotional Trash,Stephen Malkmus,76,87,36,33,Matador,"['Rock', 'Alternative']"
+"March 10, 2008",2008,11,Superabundance,Young Knives,76,85,12,4,Transgressive,"['Indie', 'Rock']"
+"September 23, 2008",2008,39,Feed The Animals,Girl Talk,76,80,20,20,Illegal Art,"['Rock', 'Electronic']"
+"June 23, 2008",2008,26,Workout Holiday,White Denim,76,79,8,7,Full Time Hobby,"['Indie', 'Rock']"
+"February 5, 2008",2008,6,District Line,Bob Mould,76,75,22,10,Anti,['Rock']
+"August 19, 2008",2008,34,Pro Tools,GZA,76,86,13,11,Babygrande,['Rap']
+"September 23, 2008",2008,39,The Hawk Is Howling,Mogwai,76,83,27,25,Matador,"['Rock', 'Experimental']"
+"October 14, 2008",2008,42,Dark Developments,Vic Chesnutt Elf Power And The Amorphous Strums,76,0,10,0,Orange Twin,"['Indie', 'Rock']"
+"April 1, 2008",2008,14,Attack Release,The Black Keys,76,82,32,97,Nonesuch,['Rock']
+"October 14, 2008",2008,42,The Door,Religious Knives,76,0,7,0,Ecstatic Peace,"['Indie', 'Rock']"
+"December 9, 2008",2008,50,A Cross The Universe,Justice,76,85,13,20,Atlantic,['Electronic']
+"October 28, 2008",2008,44,Alight Of Night,Crystal Stilts,76,78,20,8,Slumberland,"['Indie', 'Rock']"
+"March 18, 2008",2008,12,Beat Pyramid,These New Puritans,76,80,19,20,Domino,"['Rock', 'Alternative']"
+"March 11, 2008",2008,11,Alopecia,Why,76,86,21,43,Anticon,"['Indie', 'Rap']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"June 10, 2008",2008,24,To Survive,Joan as Police Woman,76,82,19,10,Reveal,"['Indie', 'Rock', 'Alternative']"
+"July 8, 2008",2008,28,Volume 1 Frozen Ropes and Dying Quails,The Baseball Project,76,68,11,5,Yep Roc,"['Rock', 'Pop']"
+"March 18, 2008",2008,12,Lay Down The Law,Switches,76,0,7,0,Interscope,"['Indie', 'Rock', 'Pop']"
+"March 18, 2008",2008,12,The Odd Couple,Gnarls Barkley,76,82,35,36,Atlantic,['Rap']
+"May 22, 2008",2008,21,No Way Down EP,Air France,76,88,10,8,Sincerely Yours,"['Indie', 'Rock', 'Pop']"
+"November 4, 2008",2008,45,Yesterday Today Tomorrow,K-The-I,76,0,8,0,Mush,['Rap']
+"October 7, 2008",2008,41,OH Ohio,Lambchop,76,86,24,7,Merge,"['Rock', 'Alternative', 'Country']"
+"March 18, 2008",2008,12,Volume One,She Him,76,82,27,51,Merge,"['Rock', 'Singer-Songwriter']"
+"January 22, 2008",2008,4,Oracular Spectacular,MGMT,76,86,22,259,Sony,"['Indie', 'Electronic']"
+"September 1, 2008",2008,36,Slime Reason,Roots Manuva,76,0,16,0,Big Dada,['Rap']
+"April 22, 2008",2008,17,HNIC Pt 2,Prodigy of Mobb Deep,75,45,8,10,AAO,['Rap']
+"April 8, 2008",2008,15,Boo!,Was Not Was,75,0,7,0,Rykodisc,"['Rock', 'Dance']"
+"September 2, 2008",2008,36,Hummingbird Go!,Theresa Andersson,75,0,7,0,Basin Street,"['Rock', 'Alternative']"
+"October 7, 2008",2008,41,Another World EP,Antony and the Johnsons,75,81,14,11,Secretly Canadian,"['Indie', 'Rock', 'Pop']"
+"April 29, 2008",2008,18,Smile,Boris,75,85,14,6,Southern Lord,"['Rock', 'Experimental', 'Metal']"
+"August 19, 2008",2008,34,The Rhumb Line,Ra Ra Riot,75,88,21,19,Barsuk,"['Indie', 'Rock']"
+"January 29, 2008",2008,5,Just A Little Lovin,Shelby Lynne,75,77,17,6,Lost Highway,['Country']
+"March 18, 2008",2008,12,Midnight Boom,The Kills,75,86,31,42,Domino,"['Indie', 'Rock', 'Alternative']"
+"August 5, 2008",2008,32,Preteen Weaponry,Oneida,75,0,19,0,Jagjaguwar,"['Rock', 'Experimental']"
+"June 3, 2008",2008,23,Exiting Arm,Subtle,75,84,14,5,Lex,['Rap']
+"August 19, 2008",2008,34,Youth Novels,Lykke Li,75,82,27,59,LL Recordings,"['Rock', 'Pop']"
+"March 25, 2008",2008,13,Consolers Of The Lonely,The Raconteurs,75,87,26,117,Warner Bros.,['Rock']
+"February 19, 2008",2008,8,Working Mans Cafe,Ray Davies,75,89,20,20,New West,['Rock']
+"March 4, 2008",2008,10,Magnificent Fiend,Howlin Rain,75,75,17,6,American/Birdman,"['Indie', 'Rock']"
+"September 23, 2008",2008,39,Acid Tongue,Jenny Lewis,75,80,26,28,WEA/Reprise,"['Indie', 'Rock']"
+"November 4, 2008",2008,45,Knowhere,Wilderness,75,0,,0,,[]
+"March 4, 2008",2008,10,Sea Lion,The Ruby Suns,75,74,16,9,Sub Pop,"['Indie', 'Rock']"
+"November 25, 2008",2008,48,Everything That Happens Will Happen Today,Brian Eno David Byrne,75,75,,0,,[]
+"June 10, 2008",2008,24,Parallel Play,Sloan,75,82,14,5,Yep Roc,"['Rock', 'Pop', 'Alternative']"
+"May 6, 2008",2008,19,Ringer,Four Tet,75,85,18,4,Domino,['Electronic']
+"January 22, 2008",2008,4,Venus On Earth,Dengue Fever,75,67,15,12,M80,"['Rock', 'Alternative']"
+"October 14, 2008",2008,42,Temper,Benoît Pioulard,75,0,10,0,Kranky,"['Indie', 'Rock', 'Experimental']"
+"August 19, 2008",2008,34,Nothing Is Precious Enough For Us,Death Vessel,75,0,17,0,Sub Pop,"['Indie', 'Rock', 'Pop', 'Folk']"
+"July 15, 2008",2008,29,Life Death Love and Freedom,John Mellencamp,75,81,18,8,Hear Music,['Rock']
+"November 25, 2008",2008,48,808s Heartbreak,Kanye West,75,78,36,1081,Roc-A-Fella,['Rap']
+"July 22, 2008",2008,30,Partie Traumatic,Black Kids,75,64,32,40,Red Int/Red Ink,"['Rock', 'Pop']"
+"September 30, 2008",2008,40,Out My Window,Koushik,75,0,14,0,Stones Throw,"['Indie', 'Electronic']"
+"September 23, 2008",2008,39,Friendly Fires,Friendly Fires,75,81,12,32,Beggars XL,"['Indie', 'Rock']"
+"June 10, 2008",2008,24,Seeing Things,Jakob Dylan,75,84,16,29,Sony,"['Rock', 'Pop', 'Alternative']"
+"September 16, 2008",2008,38,Brown Submarine,Boston Spaceships,75,0,7,0,Guided by Voices,"['Indie', 'Rock']"
+"February 5, 2008",2008,6,Detours,Sheryl Crow,75,78,19,38,A&M,"['Rock', 'Pop']"
+"September 9, 2008",2008,37,Me And Armini,Emilíana Torrini,75,82,15,0,Rough Trade,"['Rock', 'Pop', 'Alternative']"
+"September 9, 2008",2008,37,Day After Tomorrow,Joan Baez,75,88,9,24,Razor & Tie,['Folk']
+"September 23, 2008",2008,39,High Places,High Places,75,73,11,9,Thrill Jockey,"['Indie', 'Rock', 'Electronic']"
+"September 9, 2008",2008,37,Caught In The Trees,Damien Jurado,75,85,17,12,Secretly Canadian,"['Indie', 'Rock']"
+"March 24, 2008",2008,13,Twenty One,Mystery Jets,75,85,9,15,679,"['Indie', 'Rock']"
+"April 8, 2008",2008,15,Mountain Battles,The Breeders,75,82,36,13,4AD,['Rock']
+"October 14, 2008",2008,42,Droppin Science Fiction,The Mighty Underdogs,75,0,12,0,Definitive Jux,['Rap']
+"August 5, 2008",2008,32,Bits,Oxford Collapse,75,0,11,0,Sub Pop,"['Indie', 'Rock']"
+"November 18, 2008",2008,47,Safe Trip Home,Dido,74,86,14,48,Arista,"['Rock', 'Pop']"
+"April 22, 2008",2008,17,See You In Magic,The Night Marchers,74,79,12,7,Vagrant,"['Indie', 'Rock', 'Punk']"
+"September 9, 2008",2008,37,Lunglight,The Shaky Hands,74,0,11,0,Kill Rock Stars,"['Indie', 'Rock']"
+"June 10, 2008",2008,24,Exotic Creatures Of The Deep,Sparks,74,87,10,9,Lil Beethoven,"['Indie', 'Rock', 'Pop']"
+"February 19, 2008",2008,8,Heretic Pride,The Mountain Goats,74,88,29,18,4AD,['Rock']
+"June 17, 2008",2008,25,The Devil You Me,The Notwist,74,88,,0,,[]
+"May 13, 2008",2008,20,Thing Of The Past,Vetiver,74,75,16,8,Fatcat,"['Rock', 'Alternative']"
+"September 30, 2008",2008,40,Murs For President,Murs,74,81,15,15,Warner Bros.,"['Alternative', 'Rap']"
+"June 3, 2008",2008,23,Real Close Ones,The Ms,74,0,10,0,Polyvinyl,"['Indie', 'Rock']"
+"April 8, 2008",2008,15,Rabbit Habits,Man Man,74,88,21,13,Anti,"['Rock', 'Experimental']"
+"September 30, 2008",2008,40,Paper Trail,TI,74,87,19,81,Grand Hustle/Atlantic,['Rap']
+"October 28, 2008",2008,44,Heart On,Eagles of Death Metal,74,88,19,26,Downtown,"['Rock', 'Alternative']"
+"October 21, 2008",2008,43,Missiles,The Dears,74,82,16,6,Dangerbird,"['Indie', 'Rock', 'Experimental']"
+"September 9, 2008",2008,37,Soft Airplane,Chad VanGaalen,74,83,14,7,Sub Pop,"['Indie', 'Rock']"
+"November 25, 2008",2008,48,Electric Arguments,The Fireman,74,88,23,34,Ato Records/Red,"['Rock', 'Electronic']"
+"September 23, 2008",2008,39,Home,Peter Broderick,74,0,7,0,Hush,"['Rock', 'Folk', 'Singer-Songwriter']"
+"February 18, 2008",2008,8,Little Death,Pete the Pirates,74,78,10,11,Stolen,"['Indie', 'Rock']"
+"July 22, 2008",2008,30,A Certain Feeling,Bodies of Water,74,0,8,0,Secretly Canadian,"['Indie', 'Rock', 'Pop']"
+"April 8, 2008",2008,15,Antidotes,Foals,74,79,27,81,Sub Pop,"['Indie', 'Rock']"
+"March 4, 2008",2008,10,Asking For Flowers,Kathleen Edwards,74,87,18,13,Zoe,"['Rock', 'Alternative', 'Country']"
+"October 7, 2008",2008,41,Break Up The Concrete,The Pretenders,74,81,18,8,Shangri-La Music,['Rock']
+"March 4, 2008",2008,10,Warpaint,The Black Crowes,74,83,10,35,Silver Arrow,['Rock']
+"October 7, 2008",2008,41,Some Are Lakes,Land of Talk,74,80,14,9,Saddle Creek,"['Indie', 'Rock']"
+"September 2, 2008",2008,36,Brotherhood,The Chemical Brothers,73,84,12,13,Astralwerks,"['Dance', 'Electronic']"
+"September 2, 2008",2008,36,proVISIONS,Giant Sand,73,86,17,9,Yep Roc,"['Rock', 'Alternative', 'Country']"
+"May 13, 2008",2008,20,The In Crowd,Kidz in the Hall,73,81,8,7,Duck Down,['Rap']
+"August 19, 2008",2008,34,Alas I Cannot Swim,Laura Marling,73,84,7,32,Astralwerks,"['Rock', 'Alternative']"
+"May 13, 2008",2008,20,Blame It On Gravity,Old 97s,73,81,17,9,New West,"['Rock', 'Alternative', 'Country']"
+"June 3, 2008",2008,23,This Is Not The World,The Futureheads,73,80,21,6,Nul,"['Indie', 'Rock']"
+"July 29, 2008",2008,31,Scars On Broadway,Scars on Broadway,73,77,8,44,Interscope,"['Rock', 'Alternative', 'Metal']"
+"October 21, 2008",2008,43,EverythingEverything,Simon Bookish,73,0,10,0,Tomlab,"['Indie', 'Rock', 'Pop']"
+"August 19, 2008",2008,34,Repentance,Lee Scratch Perry,73,0,7,0,Narnack,"['Rock', 'Reggae']"
+"December 16, 2008",2008,51,Folie A Deux,Fall Out Boy,73,82,21,134,Island,"['Rock', 'Pop', 'Alternative']"
+"October 21, 2008",2008,43,Car Alarm,The Sea and Cake,73,0,25,0,Thrill Jockey,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,White Van Music,Jake One,73,0,8,0,Rhymesayers,['Rap']
+"July 8, 2008",2008,28,Blood Looms And Blooms,Leila,73,85,14,6,Warp,['Electronic']
+"October 14, 2008",2008,42,Fucked Up Friends,Tobacco,73,80,14,7,Anticon,['Electronic']
+"June 24, 2008",2008,26,Holy,Love As Laughter,73,0,12,0,Red Int/Red Ink,"['Indie', 'Rock']"
+"November 18, 2008",2008,47,Day By Day,Femi Kuti,73,0,10,0,Downtown,['World']
+"September 9, 2008",2008,37,All Or Nothing,The Subways,73,77,10,10,Sire,"['Rock', 'Pop']"
+"January 29, 2008",2008,5,This Gift,Sons and Daughters,73,84,22,9,Domino,['Rock']
+"November 25, 2008",2008,48,Tapes,The Rapture,73,0,14,0,K7,"['Indie', 'Rock']"
+"November 11, 2008",2008,46,Fearless,Taylor Swift,73,85,14,1406,Big Machine Records,['Country']
+"March 4, 2008",2008,10,Afterparty Babies,Cadence Weapon,73,87,20,7,Anti,"['Indie', 'Rap']"
+"May 6, 2008",2008,19,Couples,The Long Blondes,73,61,20,72,Rough Trade,"['Rock', 'Pop']"
+"May 6, 2008",2008,19,Station,Russian Circles,73,82,9,11,Suicide Squeeze,"['Rock', 'Experimental']"
+"April 29, 2008",2008,18,Shine,Estelle,73,88,18,18,Atlantic,"['Rap', 'R&B']"
+"February 26, 2008",2008,9,Devotion,Beach House,73,85,29,88,Carpark,"['Indie', 'Rock']"
+"June 10, 2008",2008,24,Robert Pollard Is Off To Business,Robert Pollard,73,83,11,8,Guided by Voices,"['Indie', 'Rock']"
+"October 14, 2008",2008,42,Changing Of The Seasons,Ane Brun,73,80,11,6,Heaven Hotel,"['Rock', 'Pop']"
+"May 20, 2008",2008,21,No Virginia,Dresden Dolls,73,75,14,11,Roadrunner,"['Rock', 'Alternative']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"August 12, 2008",2008,33,An Invitation,Inara George With Van Dyke Parks,73,85,12,4,Everloving,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"October 19, 2008",2008,42,Exposion,White Denim,73,82,9,6,Transmission Entertainment,"['Indie', 'Rock']"
+"March 18, 2008",2008,12,Crystal Castles,Crystal Castles,73,85,22,120,Last Gang,"['Indie', 'Electronic']"
+"January 29, 2008",2008,5,Keep Your Eyes Ahead,The Helio Sequence,73,77,19,18,Sub Pop,"['Indie', 'Rock']"
+"October 14, 2008",2008,42,Gossip In The Grain,Ray LaMontagne,73,84,15,17,RCA Victor,"['Rock', 'Pop', 'Alternative']"
+"May 13, 2008",2008,20,Narrow Stairs,Death Cab for Cutie,73,80,31,95,Atlantic,"['Indie', 'Rock', 'Pop']"
+"June 3, 2008",2008,23,Velocifero,Ladytron,73,88,26,28,Nettwerk,"['Pop', 'Electronic']"
+"June 3, 2008",2008,23,There Were Wolves,The Accidental,73,0,8,0,Thrill Jockey,"['Rock', 'Folk']"
+"October 21, 2008",2008,43,Call Me Crazy,Lee Ann Womack,73,81,9,7,MCA Nashville,['Country']
+"September 16, 2008",2008,38,Hey Ma,James,73,79,10,13,Decca,"['Rock', 'Pop']"
+"December 16, 2008",2008,51,The Point Of It All,Anthony Hamilton,72,88,9,16,LaFace,['R&B']
+"July 15, 2008",2008,29,Around The Bend,Randy Travis,72,0,8,0,Warner Bros.,['Country']
+"March 11, 2008",2008,11,Dreaming Of Revenge,Kaki King,72,85,13,12,Velour,"['Indie', 'Rock']"
+"October 28, 2008",2008,44,Cardinology,Ryan Adams,72,79,24,28,Lost Highway,"['Rock', 'Alternative', 'Country', 'Singer-Songwriter']"
+"September 2, 2008",2008,36,The Recession,Young Jeezy,72,87,20,34,Def Jam,['Rap']
+"August 19, 2008",2008,34,Chemical Chords,Stereolab,72,84,21,9,4AD,"['Indie', 'Rock', 'Experimental']"
+"June 17, 2008",2008,25,Viva La Vida,Coldplay,72,84,32,599,Capitol,"['Rock', 'Alternative']"
+"May 20, 2008",2008,21,Freedom Wind,The Explorers Club,72,86,7,8,Dead Oceans,"['Indie', 'Rock']"
+"August 26, 2008",2008,35,Cream Cuts,Tussle,72,78,8,5,Smalltown Supersound,"['Indie', 'Rock']"
+"June 2, 2008",2008,23,This Is Alphabeat,Alphabeat,72,76,7,9,EMD,"['Dance', 'Electronic']"
+"July 22, 2008",2008,30,Fate,Dr Dog,72,85,23,28,Park the Van,"['Indie', 'Rock']"
+"August 19, 2008",2008,34,How To Walk Away,Juliana Hatfield,72,83,11,9,Ye Olde,"['Indie', 'Rock']"
+"August 5, 2008",2008,32,Girls And Weather,The Rumble Strips,72,0,11,0,Gigantic,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,ElephantsTeeth Sinking Into Heart,Rachael Yamagata,72,85,8,10,Warner Bros.,"['Rock', 'Pop', 'Alternative']"
+"July 8, 2008",2008,28,The Stoop,Little Jackie,72,85,15,11,S-Curve,['R&B']
+"March 25, 2008",2008,13,Great Vengeance And Furious Fire,The Heavy,72,80,12,10,Counter,"['Indie', 'Rock']"
+"September 30, 2008",2008,40,WLIB AM King Of The Wigflip,Madlib,72,77,13,6,Rapster,['Rap']
+"April 29, 2008",2008,18,Jim,Jamie Lidell,72,79,26,11,Warp,"['Soul', 'Electronica']"
+"May 20, 2008",2008,21,Swimming,French Kicks,72,68,12,5,Vagrant,"['Indie', 'Rock']"
+"January 22, 2008",2008,4,Jukebox,Cat Power,72,80,38,22,Matador,['Rock']
+"April 1, 2008",2008,14,Shine A Light,The Rolling Stones,72,69,8,8,Interscope,"['Rock', 'Soundtrack']"
+"February 19, 2008",2008,8,Lust Lust Lust,The Raveonettes,72,73,29,23,Vice,"['Rock', 'Pop']"
+"August 26, 2008",2008,35,Sol-Angel And The Hadley St Dreams,Solange,72,88,14,36,Geffen,"['R&B', 'Soul']"
+"June 17, 2008",2008,25,A Thousand Sharks Teeth,My Brightest Diamond,72,76,18,8,Asthmatic Kitty,"['Indie', 'Rock']"
+"October 7, 2008",2008,41,Women,Women,72,83,15,6,Jagjaguwar,"['Indie', 'Rock']"
+"October 6, 2008",2008,41,London Undersound,Nitin Sawhney,72,0,7,0,Cooking Vinyl,"['Dance', 'Electronic']"
+"September 30, 2008",2008,40,Something Else,Robin Thicke,72,59,10,10,Interscope,['R&B']
+"February 19, 2008",2008,8,Flock,Bell X1,72,87,16,14,Yep Roc,"['Indie', 'Rock']"
+"October 14, 2008",2008,42,Little Honey,Lucinda Williams,72,75,23,11,Lost Highway,"['Alternative', 'Folk']"
+"October 7, 2008",2008,41,The Living And The Dead,Jolie Holland,71,0,19,0,Anti,"['Alternative', 'Folk']"
+"July 15, 2008",2008,29,Untitled,Nas,71,84,25,148,Def Jam,['Rap']
+"October 21, 2008",2008,43,Skeletal Lamping,Of Montreal,71,88,33,59,Polyvinyl,"['Indie', 'Rock']"
+"July 8, 2008",2008,28,Nude With Boots,The Melvins,71,80,18,6,Ipecac,"['Rock', 'Alternative', 'Metal']"
+"October 28, 2008",2008,44,Remind Me In 3 Days,The Knux,71,0,10,0,Interscope,['Rap']
+"August 5, 2008",2008,32,New York City,Brazilian Girls,71,83,13,4,Verve,"['Rock', 'Electronic']"
+"March 18, 2008",2008,12,Here Is What Is,Daniel Lanois,71,83,9,6,Red Floor,"['Rock', 'Pop', 'Alternative']"
+"April 29, 2008",2008,18,VYP Voice of the Young People,Lil Mama,71,60,10,10,Jive,['Rap']
+"May 20, 2008",2008,21,Boo! Human,Joan of Arc,71,0,9,0,Polyvinyl,"['Indie', 'Rock', 'Experimental']"
+"November 4, 2008",2008,45,Little Joy,Little Joy,71,87,19,44,Rough Trade,"['Indie', 'Rock']"
+"September 16, 2008",2008,38,Chunk Of Change EP,Passion Pit,71,83,9,24,Frenchkiss,"['Indie', 'Rock']"
+"December 9, 2008",2008,50,The Finally LP,Mark Kozelek,71,0,7,0,Caldo Verde,"['Indie', 'Rock']"
+"March 4, 2008",2008,10,Quaristice,Autechre,71,79,22,25,Warp,['Electronic']
+"March 11, 2008",2008,11,Hello Voyager,Evangelista,71,0,11,0,Constellation,"['Rock', 'Experimental']"
+"August 26, 2008",2008,35,Sunshine Lies,Matthew Sweet,71,83,13,4,Shout Factory,"['Rock', 'Alternative']"
+"April 22, 2008",2008,17,Worldwide,The Death Set,71,0,7,0,Counter,"['Indie', 'Rock']"
+"July 8, 2008",2008,28,LP3,Ratatat,71,78,22,21,Beggars XL,"['Indie', 'Rock', 'Electronic']"
+"October 28, 2008",2008,44,The Fame,Lady Gaga,71,84,13,1626,Streamline/KonLive,"['Rock', 'Dance', 'Pop']"
+"April 22, 2008",2008,17,Mr Love Justice,Billy Bragg,71,75,22,4,Anti,"['Rock', 'Alternative', 'Folk']"
+"May 13, 2008",2008,20,Rockferry,Duffy,71,85,24,58,Mercury,['Rock']
+"April 1, 2008",2008,14,Gods Of The Earth,The Sword,71,82,16,12,Kemado,"['Rock', 'Metal']"
+"August 26, 2008",2008,35,Forth,The Verve,71,84,28,51,MRI Associated,"['Rock', 'Pop', 'Alternative']"
+"November 25, 2008",2008,48,Alone II The Home Recordings,Rivers Cuomo,71,88,9,16,Geffen,"['Indie', 'Rock', 'Alternative']"
+"August 19, 2008",2008,34,Moody Motorcycle,Human Highway,71,80,9,4,Suicide Squeeze,"['Indie', 'Rock', 'Pop']"
+"April 15, 2008",2008,16,Raise The Dead,Phantom Planet,71,87,7,18,Atlantic,"['Indie', 'Rock']"
+"May 20, 2008",2008,21,Re-Arrange Us,Mates of State,71,84,15,7,Barsuk,"['Indie', 'Rock', 'Pop']"
+"January 8, 2008",2008,2,Made of Bricks,Kate Nash,71,71,23,61,Fiction,"['Rock', 'Pop']"
+"September 23, 2008",2008,39,S-M Backwards,Serena-Maneesh,71,0,7,0,Smalltown Supersound,"['Indie', 'Rock', 'Pop']"
+"February 26, 2008",2008,9,Another Country,Tift Merritt,71,87,15,6,Fantasy,"['Alternative', 'Country']"
+"January 22, 2008",2008,4,Mission Control,The Whigs,71,83,19,10,ATO,"['Indie', 'Rock']"
+"November 11, 2008",2008,46,Thr33 Ringz,T-Pain,71,63,17,19,Jive,"['Rap', 'R&B', 'Soul']"
+"February 5, 2008",2008,6,Circular Sounds,Kelley Stoltz,71,0,15,0,Sub Pop,"['Indie', 'Rock']"
+"March 11, 2008",2008,11,Ego Trippin,Snoop Dogg,71,74,17,29,Geffen,['Rap']
+"May 27, 2008",2008,22,Dystopia,Midnight Juggernauts,71,84,12,9,Astralwerks,['Electronic']
+"October 21, 2008",2008,43,Damn Right Rebel Proud,Hank Williams III,71,83,9,6,Curb,"['Rock', 'Alternative', 'Country']"
+"January 29, 2008",2008,5,Rain,Joe Jackson,71,81,13,11,Rykodisc,['Rock']
+"May 20, 2008",2008,21,Arms Way,Islands,71,88,25,21,Anti,"['Indie', 'Rock']"
+"September 9, 2008",2008,37,Lightbulbs,Fujiya Miyagi,71,81,17,7,Deaf Dumb & Blind,"['Rock', 'Electronic']"
+"November 4, 2008",2008,45,Ropechain,Jookabox,70,0,10,0,Asthmatic Kitty,"['Indie', 'Rock', 'Experimental']"
+"March 4, 2008",2008,10,Red Of Tooth And Claw,Murder by Death,70,85,8,16,Vagrant,"['Indie', 'Rock']"
+"April 29, 2008",2008,18,Langhorne Slim,Langhorne Slim,70,0,7,0,Kemado,"['Alternative', 'Folk']"
+"March 4, 2008",2008,10,Red Yellow Blue,Born Ruffians,70,85,17,11,Warp,"['Indie', 'Rock']"
+"August 19, 2008",2008,34,Meet Glen Campbell,Glen Campbell,70,87,10,12,Capitol,['Country']
+"July 1, 2008",2008,27,Agony Irony,Alkaline Trio,70,77,10,19,Sony,"['Rock', 'Punk']"
+"September 22, 2008",2008,39,Ladyhawke,Ladyhawke,70,85,17,30,Modular,"['Indie', 'Rock']"
+"November 18, 2008",2008,47,Canopy Glow,Anathallo,70,80,11,13,Anticon,"['Indie', 'Rock', 'Pop']"
+"September 8, 2008",2008,37,Nights Out,Metronomy,70,87,10,62,Because,['Electronic']
+"July 22, 2008",2008,30,Something For All Of Us,Brendan Canning,70,79,17,8,Arts & Crafts,"['Indie', 'Rock', 'Experimental']"
+"February 26, 2008",2008,9,Backwoods Barbie,Dolly Parton,70,79,11,14,Dolly,['Country']
+"June 3, 2008",2008,23,Takes,Adem,70,0,16,0,Domino,"['Indie', 'Rock']"
+"September 16, 2008",2008,38,O Soundtrack My Heart,Pivot,70,71,11,9,Warp,"['Rock', 'Alternative']"
+"April 8, 2008",2008,15,Colin Meloy Sings Live!,Colin Meloy,70,70,15,13,Kill Rock Stars,"['Indie', 'Rock']"
+"June 17, 2008",2008,25,O,Tilly and the Wall,70,83,18,10,Team Love,"['Indie', 'Rock']"
+"October 28, 2008",2008,44,Alpinisms,School of Seven Bells,70,86,23,10,Ghostly International,"['Rock', 'Pop']"
+"May 27, 2008",2008,22,Fire On Corridor X,All The Saints,70,0,11,0,Killer Pimp,"['Rock', 'Pop']"
+"November 4, 2008",2008,45,Berlin Live At St Anns Warehouse Live,Lou Reed,70,75,15,10,Matador,"['Rock', 'Live']"
+"April 15, 2008",2008,16,SaturdaysYouth,M83,70,85,29,67,Mute,"['Indie', 'Rock', 'Electronic']"
+"October 28, 2008",2008,44,Off With Their Heads,Kaiser Chiefs,70,45,20,179,Motown,['Rock']
+"September 9, 2008",2008,37,Knowle West Boy,Tricky,70,80,21,7,Domino,['Electronic']
+"January 22, 2008",2008,4,The Evening Descends,Evangelicals,70,87,14,12,Dead Oceans,"['Indie', 'Rock']"
+"November 4, 2008",2008,45,Play,Brad Paisley,70,84,9,14,RCA,['Country']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"February 5, 2008",2008,6,Falling Off The Lavender Bridge,Lightspeed Champion,70,81,19,8,Domino,"['Rock', 'Alternative']"
+"September 2, 2008",2008,36,That Lucky Old Sun,Brian Wilson,70,86,26,39,Capitol,"['Rock', 'Pop']"
+"March 25, 2008",2008,13,PrettyOdd,Panic! At the Disco,70,72,22,249,Fueled By Ramen,"['Rock', 'Pop', 'Alternative']"
+"July 8, 2008",2008,28,Exit Strategy Of The Soul,Ron Sexsmith,70,81,12,7,Yep Roc,"['Rock', 'Alternative']"
+"February 19, 2008",2008,8,Grand Archives,Grand Archives,70,88,13,6,Sub Pop,"['Indie', 'Rock']"
+"March 18, 2008",2008,12,Get Awkward,Be Your Own Pet,70,75,27,15,Ecstatic Peace,['Rock']
+"August 19, 2008",2008,34,Fast Times At Barrington High,The Academy Is,70,80,7,10,Fueled By Ramen,"['Rock', 'Pop', 'Alternative']"
+"April 1, 2008",2008,14,Keep It Simple,Van Morrison,69,85,12,12,Lost Highway,['Rock']
+"November 24, 2008",2008,48,Day Age,The Killers,69,81,31,211,Island,"['Rock', 'Pop']"
+"June 10, 2008",2008,24,You Cross My Path,The Charlatans UK,69,87,14,9,Cooking Vinyl,"['Indie', 'Rock']"
+"October 28, 2008",2008,44,Intimacy,Bloc Party,69,82,27,74,Atlantic,"['Indie', 'Rock']"
+"September 23, 2008",2008,39,Motion To Rejoin,Brightblack Morning Light,69,87,20,7,Matador,"['Indie', 'Rock']"
+"April 22, 2008",2008,17,Pyramids,Pyramids,69,88,8,4,Hydra Head,"['Rock', 'Metal']"
+"March 11, 2008",2008,11,Eleventh Hour,Del the Funky Homosapien,69,74,18,5,Definitive Jux,['Rap']
+"May 27, 2008",2008,22,Bring Ya To The Brink,Cyndi Lauper,69,88,11,70,Epic,"['Rock', 'Dance', 'Pop']"
+"August 19, 2008",2008,34,Take Me To The Sea,Jaguar Love,69,59,21,11,Matador,"['Indie', 'Rock']"
+"September 29, 2008",2008,40,I Started Out With Nothin And I Still Got Most Of It Left,Seasick Steve,69,68,8,6,Warner Brothers,['Blues']
+"June 3, 2008",2008,23,Perfectly Clear,Jewel,69,74,8,8,Valory Music,"['Rock', 'Country']"
+"October 28, 2008",2008,44,413 Dream,The Cure,69,87,31,55,Geffen,"['Rock', 'Alternative']"
+"November 18, 2008",2008,47,Sunday At Devil Dirt,Isobel Campbell Mark Lanegan,69,85,21,4,Vagrant,"['Indie', 'Rock']"
+"August 19, 2008",2008,34,The Uglysuit,The Uglysuit,69,84,8,5,Quarter Stick,"['Indie', 'Rock']"
+"March 25, 2008",2008,13,13 Blues for Thirteen Moons,Thee Silver Mt Zion Memorial Orchestra Tra-La-La Band,69,79,15,7,Constellation,"['Rock', 'Experimental']"
+"April 8, 2008",2008,15,Neptune,The Duke Spirit,69,87,13,10,Artist First,"['Indie', 'Rock']"
+"September 9, 2008",2008,37,Mighty Ship,Angela Desveaux,69,0,9,0,Thrill Jockey,"['Alternative', 'Country']"
+"February 5, 2008",2008,6,Old Growth,Dead Meadow,69,85,17,4,Matador,"['Indie', 'Rock']"
+"October 20, 2008",2008,43,Black Ice,ACDC,69,78,24,100,Columbia,['Rock']
+"April 8, 2008",2008,15,Do It!,Clinic,69,85,23,8,Domino,"['Indie', 'Rock']"
+"October 28, 2008",2008,44,Funhouse,P!nk,69,86,20,166,LaFace,"['Rock', 'Dance', 'Pop']"
+"April 8, 2008",2008,15,Ghosts I-IV,Nine Inch Nails,69,82,12,87,The Null Corporation,"['Rock', 'Alternative']"
+"September 23, 2008",2008,39,Journey To The West,Monkey,69,0,13,0,XL,"['Rock', 'Experimental', 'Classical', 'Opera']"
+"February 26, 2008",2008,9,NYs Finest,Pete Rock,69,0,14,0,Caroline,['Rap']
+"July 29, 2008",2008,31,Oh! Mighty Engine,Neil Halstead,69,82,9,5,Brushfire,"['Rock', 'Alternative']"
+"September 9, 2008",2008,37,The Quilt,Gym Class Heroes,69,74,11,11,Atlantic,"['Rock', 'Alternative', 'Rap']"
+"October 14, 2008",2008,42,Peace Queer,Todd Snider,68,0,8,0,MRI Associated,"['Rock', 'Alternative', 'Country']"
+"October 7, 2008",2008,41,ForfeitFortune,Crooked Fingers,68,78,9,5,"Constant Artists, Inc./Red Pig","['Indie', 'Rock']"
+"September 30, 2008",2008,40,Does You Inspire You,Chairlift,68,85,16,26,Kanine,"['Rock', 'Pop']"
+"May 27, 2008",2008,22,The Sun The Neon Light,Booka Shade,68,78,14,5,Get Physical,['Electronic']
+"April 1, 2008",2008,14,Electronic Projects for Musicians,The Apples In Stereo,68,0,12,0,Yep Roc,"['Indie', 'Rock']"
+"August 26, 2008",2008,35,All Hope Is Gone,Slipknot,68,78,14,244,Roadrunner,"['Rock', 'Alternative', 'Metal']"
+"September 16, 2008",2008,38,Wrecking Ball,Dead Confederate,68,86,11,15,Razor & Tie,"['Indie', 'Rock']"
+"February 19, 2008",2008,8,Come Into My House,No Kids,68,0,10,0,Tomlab,"['Indie', 'Rock']"
+"April 29, 2008",2008,18,The Formula,9th Wonder Buckshot,68,0,10,0,Duck Down,['Rap']
+"September 9, 2008",2008,37,Entanglements,Parenthetical Girls,68,0,12,0,Tomlab,"['Indie', 'Rock']"
+"October 28, 2008",2008,44,Broken Hymns Limbs And Skin,ODeath,68,83,10,6,Kemado,"['Indie', 'Rock']"
+"March 18, 2008",2008,12,Too Old To Die Young,Tall Firs,68,0,9,0,Ecstatic Peace,"['Indie', 'Rock']"
+"May 13, 2008",2008,20,Directions To See A Ghost,The Black Angels,68,81,17,14,Light In The Attic,"['Rock', 'Alternative']"
+"July 22, 2008",2008,30,A Love Extreme,Benji Hughes,68,0,8,0,New West,"['Indie', 'Rock', 'Singer-Songwriter']"
+"June 10, 2008",2008,24,19,Adele,68,78,19,377,XL,"['Rock', 'Pop']"
+"October 14, 2008",2008,42,Who Killed Harry Houdini,Im from Barcelona,68,0,12,0,Mute,"['Rock', 'Pop']"
+"November 25, 2008",2008,48,Theater Of The Mind,Ludacris,68,83,17,23,Def Jam,['Rap']
+"April 22, 2008",2008,17,Elephant Shell,Tokyo Police Club,68,86,24,33,Saddle Creek,"['Indie', 'Rock']"
+"March 4, 2008",2008,10,Go Away White,Bauhaus,68,80,20,16,Bauhaus Music,"['Rock', 'Alternative', 'Punk']"
+"April 22, 2008",2008,17,When Life Gives You Lemons You Paint That Shit Gold,Atmosphere,68,87,15,52,Rhymesayers,['Rap']
+"March 4, 2008",2008,10,Good Time,Alan Jackson,68,67,12,10,Arista,['Country']
+"August 5, 2008",2008,32,2,Darker My Love,68,0,,0,,[]
+"March 25, 2008",2008,13,The Good Life,Justin Townes Earle,67,0,9,0,Bloodshot,"['Alternative', 'Country']"
+"March 4, 2008",2008,10,Shots,Ladyhawk,67,75,13,4,Jagjaguwar,"['Indie', 'Rock']"
+"July 29, 2008",2008,31,Waiting In Vain,James Jackson Toth,67,0,11,0,Rykodisc,"['Rock', 'Alternative', 'Folk']"
+"October 14, 2008",2008,42,Pebble To A Pearl,Nikka Costa,67,88,11,6,Stax,['R&B']
+"June 10, 2008",2008,24,Evil Urges,My Morning Jacket,67,75,31,73,Ato Records/Red,"['Rock', 'Alternative']"
+"July 8, 2008",2008,28,Someone Elses Deja Vu,Son Ambulance,67,0,9,0,Saddle Creek,"['Indie', 'Rock']"
+"August 19, 2008",2008,34,Remember Live,The Fiery Furnaces,67,0,12,0,Thrill Jockey,"['Indie', 'Rock']"
+"November 11, 2008",2008,46,The Singles,Free Blood,67,0,9,0,DFA,"['Dance', 'Electronic']"
+"October 14, 2008",2008,42,The Way Of All Flesh,Gojira,67,89,7,54,Prosthetic,"['Rock', 'Metal']"
+"November 25, 2008",2008,48,Prospekts March EP,Coldplay,67,84,7,122,Capitol,"['Rock', 'Alternative']"
+"June 24, 2008",2008,26,Fire Songs,The Watson Twins,67,0,18,0,Vanguard,"['Alternative', 'Country']"
+"October 28, 2008",2008,44,Evolver,John Legend,67,72,22,15,Sony,"['R&B', 'Soul']"
+"August 19, 2008",2008,34,Recovery,Loudon Wainwright III,67,54,9,9,Yep Roc,"['Folk', 'Singer-Songwriter']"
+"August 5, 2008",2008,32,Clipse Presents Re-Up Gang,Re-Up Gang,67,0,10,0,Koch,['Rap']
+"October 28, 2008",2008,44,A Hundred Million Suns,Snow Patrol,67,79,22,34,Geffen,"['Rock', 'Pop']"
+"August 19, 2008",2008,34,Raw Footage,Ice Cube,67,86,11,21,Lench Mob,['Rap']
+"June 3, 2008",2008,23,The Beautiful Lie,Ed Harcourt,67,78,15,12,Dovecote,"['Indie', 'Rock', 'Singer-Songwriter']"
+"May 13, 2008",2008,20,Time Traveller,Plantlife,67,0,7,0,DECON,"['R&B', 'Soul']"
+"June 3, 2008",2008,23,The Virgins,The Virgins,67,86,14,12,Atlantic,['Rock']
+"February 19, 2008",2008,8,Mockingbird,Allison Moorer,67,0,12,0,New Line,"['Country', 'Singer-Songwriter']"
+"April 22, 2008",2008,17,From The Valley To The Stars,El Perro del Mar,67,63,18,9,Control Group,"['Indie', 'Rock', 'Pop']"
+"December 9, 2008",2008,50,Human,Brandy,67,85,10,40,Epic,['R&B']
+"September 23, 2008",2008,39,Seaside Rock,Peter Bjorn and John,67,71,7,7,Almost Gold,"['Indie', 'Rock', 'Pop']"
+"September 30, 2008",2008,40,Snowflake Midnight,Mercury Rev,67,83,23,15,Yep Roc,"['Indie', 'Rock']"
+"September 9, 2008",2008,37,Living On The Other Side,The Donkeys,67,0,11,0,Dead Oceans,"['Indie', 'Rock']"
+"June 10, 2008",2008,24,Diamond Hoo Ha,Supergrass,67,85,22,18,Astralwerks,['Rock']
+"August 19, 2008",2008,34,Mugiboogie,Mugison,66,0,7,0,Ipecac,"['Indie', 'Electronic']"
+"November 4, 2008",2008,45,Surfing,Megapuss,66,0,10,0,Vapor,"['Indie', 'Rock']"
+"September 16, 2008",2008,38,Learn To Live,Darius Rucker,66,85,7,12,Capitol-Nashville,"['Rock', 'Alternative', 'Country']"
+"July 22, 2008",2008,30,Breakout,Miley Cyrus,66,78,14,261,Hollywood,"['Rock', 'Pop']"
+"November 4, 2008",2008,45,Ode To J Smith,Travis,66,88,17,21,Red Telephone Box,"['Rock', 'Alternative']"
+"March 4, 2008",2008,10,A Picture Of The Three Of Us At The Gate To The Garden Of Eden,These United States,66,80,8,6,United Interests,"['Indie', 'Rock']"
+"August 5, 2008",2008,32,The Airborne Toxic Event,The Airborne Toxic Event,66,76,11,48,Majordomo,"['Indie', 'Rock']"
+"April 22, 2008",2008,17,Everywhere At Once,Lyrics Born,66,0,17,0,Epitaph,['Rap']
+"October 7, 2008",2008,41,Dig Out Your Soul,Oasis,66,82,27,251,Warner Bros/Elektra/Atlantic,"['Rock', 'Alternative']"
+"September 23, 2008",2008,39,Earth Junk,Howling Hex,66,0,11,0,Drag City,"['Indie', 'Rock']"
+"May 20, 2008",2008,21,Crayons,Donna Summer,66,88,12,40,Burgundy S,"['Pop', 'R&B']"
+"February 18, 2008",2008,8,Join With Us,The Feeling,66,0,8,0,Island,"['Rock', 'Pop']"
+"October 7, 2008",2008,41,Not Animal,Margot the Nuclear So and Sos,66,79,9,8,Epic,"['Indie', 'Rock', 'Pop']"
+"January 29, 2008",2008,5,The Bedlam In Goliath,The Mars Volta,66,84,31,151,Universal,['Rock']
+"August 12, 2008",2008,33,A Little Bit Longer,Jonas Brothers,66,61,12,111,Hollywood,"['Rock', 'Pop']"
+"October 28, 2008",2008,44,Just A Souvenir,Squarepusher,66,84,18,5,Warp,"['Indie', 'Electronic']"
+"October 7, 2008",2008,41,Such Fun,Annuals,66,79,12,7,Canvasback,"['Indie', 'Rock']"
+"June 2, 2008",2008,23,You Can Do Anything,The Zutons,66,68,9,5,Deltasonic,"['Indie', 'Rock']"
+"September 23, 2008",2008,39,Loyalty To Loyalty,Cold War Kids,66,83,20,27,Downtown,"['Indie', 'Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"September 1, 2008",2008,36,The Golden Mile,The Peth,66,0,7,0,Strangetown,"['Rock', 'Folk']"
+"October 7, 2008",2008,41,Xoxo Panda The New Kid Revival,Her Space Holiday,65,0,10,0,Mush,"['Indie', 'Rock', 'Pop']"
+"October 7, 2008",2008,41,Devastator,Catfish Haven,65,0,7,0,Secretly Canadian,"['Indie', 'Rock']"
+"October 14, 2008",2008,42,Secret Machines,Secret Machines,65,80,21,6,TSM,"['Rock', 'Alternative']"
+"September 9, 2008",2008,37,Little Wild One,Joan Osborne,65,0,10,0,Saguaro Road,"['Rock', 'Pop', 'Alternative']"
+"February 19, 2008",2008,8,Sleep Forever,The Big Sleep,65,0,9,0,Frenchkiss,"['Indie', 'Rock']"
+"April 8, 2008",2008,15,Spirit,Leona Lewis,65,83,13,61,Sony,"['Rock', 'Pop', 'R&B']"
+"June 24, 2008",2008,26,Digi Snacks,The RZA,65,86,19,17,Koch,['Rap']
+"October 7, 2008",2008,41,Appeal To Reason,Rise Against,65,87,10,94,DGC/Interscope,"['Rock', 'Punk']"
+"June 24, 2008",2008,26,Superhero Brother,G Love Special Sauce,65,0,8,0,Brushfire,"['Rock', 'Rap']"
+"April 1, 2008",2008,14,Life With You,The Proclaimers,65,0,7,0,W14,"['Rock', 'Pop']"
+"March 25, 2008",2008,13,In A Cave,Elf Power,65,0,9,0,Rykodisc,"['Indie', 'Rock', 'Pop']"
+"September 29, 2008",2008,40,Luna,The Aliens,65,80,8,5,Pet Rock,"['Rock', 'Experimental']"
+"November 11, 2008",2008,46,Our Bright Future,Tracy Chapman,65,83,10,11,Atlantic,['Rock']
+"November 10, 2008",2008,46,Made In Sheffield,Tony Christie,65,0,9,0,Decca/Autonomy,['Rock']
+"May 20, 2008",2008,21,El Rey,The Wedding Present,65,0,15,0,Manifesto,"['Indie', 'Rock']"
+"April 1, 2008",2008,14,X,Kylie Minogue,65,86,24,149,Capitol/Astralwerks,"['Dance', 'Pop']"
+"April 29, 2008",2008,18,Hard Candy,Madonna,65,73,24,555,Warner Bros.,"['Rock', 'Dance', 'Pop']"
+"January 22, 2008",2008,4,Pocketful of Sunshine,Natasha Bedingfield,65,84,14,20,Epic,"['Rock', 'Pop']"
+"April 15, 2008",2008,16,Konk,The Kooks,65,78,22,50,Astralwerks,"['Indie', 'Rock']"
+"August 26, 2008",2008,35,LAX,The Game,65,78,20,66,Geffen,['Rap']
+"May 27, 2008",2008,22,Here I Stand,Usher,65,72,15,33,Jive,['R&B']
+"May 13, 2008",2008,20,Tooth Of Crime,T-Bone Burnett,64,0,11,0,Nonesuch,"['Rock', 'Singer-Songwriter']"
+"December 16, 2008",2008,51,When The World Comes Down,The All-American Rejects,64,86,12,33,Geffen,"['Rock', 'Pop', 'Alternative']"
+"November 23, 2008",2008,47,Chinese Democracy,Guns N Roses,64,81,28,408,Interscope,['Rock']
+"January 29, 2008",2008,5,Field Manual,Chris Walla,64,68,17,9,Barsuk,"['Indie', 'Rock']"
+"April 15, 2008",2008,16,EMC2,Mariah Carey,64,76,19,244,Island,"['Pop', 'R&B']"
+"December 2, 2008",2008,49,Circus,Britney Spears,64,81,22,620,Jive,"['Rock', 'Dance', 'Pop']"
+"August 19, 2008",2008,34,Oceans Will Rise,The Stills,64,88,14,25,Arts & Crafts,"['Rock', 'Experimental']"
+"March 25, 2008",2008,13,Funplex,B-52s,64,86,26,34,Astralwerks,"['Rock', 'Pop']"
+"September 9, 2008",2008,37,Now Or Heaven,The Broken West,64,0,9,0,Merge,"['Indie', 'Rock']"
+"July 8, 2008",2008,28,Como te Llama,Albert Hammond Jr,64,84,24,12,Red Int / Red Ink,"['Indie', 'Rock']"
+"November 11, 2008",2008,46,The Bronx III,The Bronx,64,83,16,11,R.E.D. Distribution,"['Rock', 'Punk']"
+"October 7, 2008",2008,41,City Of Refuge,Castanets,64,0,13,0,Asthmatic Kitty,"['Indie', 'Rock']"
+"May 13, 2008",2008,20,Brain Thrust Mastery,We Are Scientists,64,88,19,76,EMI,"['Indie', 'Rock']"
+"July 21, 2008",2008,30,Beautiful Future,Primal Scream,64,71,13,11,Warner Bros/Wea,"['Rock', 'Alternative']"
+"June 10, 2008",2008,24,Seeing Sounds,NERD,64,84,19,34,Interscope,"['Rock', 'Alternative', 'Rap']"
+"October 14, 2008",2008,42,Perfect Symmetry,Keane,64,85,16,86,Interscope,"['Rock', 'Pop', 'Alternative']"
+"June 3, 2008",2008,23,Weezer Red Album,Weezer,64,69,32,188,Geffen,"['Rock', 'Alternative']"
+"January 8, 2008",2008,2,Some People Have Real Problems,Sia,64,88,20,170,Hear,"['Rock', 'Pop']"
+"July 22, 2008",2008,30,Life Processes,iForward Russia!,64,0,10,0,Mute,"['Indie', 'Rock']"
+"June 3, 2008",2008,23,We Started Nothing,The Ting Tings,64,75,19,79,Columbia/Red Ink,"['Rock', 'Pop']"
+"March 18, 2008",2008,12,Reality Check,The Teenagers,64,84,20,8,Beggars XL,"['Indie', 'Rock', 'Pop']"
+"May 5, 2008",2008,19,Everythings The Rush,Delays,64,0,7,0,Polydor,"['Indie', 'Rock', 'Pop']"
+"August 26, 2008",2008,35,Motorizer,Motrhead,63,86,,0,,[]
+"September 9, 2008",2008,37,All The Way,Growing,63,0,7,0,Social Registry,"['Rock', 'Experimental']"
+"June 24, 2008",2008,26,Sam Sparro,Sam Sparro,63,84,12,13,Universal,['R&B']
+"July 1, 2008",2008,27,Identified,Vanessa Hudgens,63,83,7,48,Hollywood,"['Rock', 'Pop']"
+"April 1, 2008",2008,14,The Bright Lights Of America,Anti-Flag,63,63,10,12,RCA,"['Rock', 'Punk']"
+"September 23, 2008",2008,39,Only By The Night,Kings of Leon,63,70,30,222,RCA,"['Rock', 'Alternative']"
+"September 30, 2008",2008,40,The Glass Passenger,Jacks Mannequin,63,86,7,30,Sire,"['Rock', 'Alternative']"
+"March 25, 2008",2008,13,Saturday Nights Sunday Mornings,Counting Crows,63,77,12,34,Geffen,"['Rock', 'Alternative']"
+"July 22, 2008",2008,30,Donkey,CSS,63,87,33,84,Sub Pop,"['Indie', 'Rock']"
+"November 3, 2008",2008,45,Out Of Control,Girls Aloud,63,85,9,25,Polydor,"['Rock', 'Pop']"
+"October 7, 2008",2008,41,Everything Is Borrowed,The Streets,63,68,28,18,Vice,['Rap']
+"February 19, 2008",2008,8,Dive Deep,Morcheeba,63,81,10,7,Ultra,['Electronic']
+"November 24, 2008",2008,48,The Cross Of My Calling,The International Noise Conspiracy,63,65,11,4,Vagrant,"['Indie', 'Rock']"
+"April 1, 2008",2008,14,Last Night,Moby,63,79,21,24,Mute,['Electronic']
+"June 10, 2008",2008,24,Flavors Of Entanglement,Alanis Morissette,63,87,18,81,Warner Brothers,"['Rock', 'Singer-Songwriter']"
+"October 21, 2008",2008,43,Sebastien Grainger The Mountains,Sebastien Grainger The Mountains,62,0,11,0,Saddle Creek,"['Indie', 'Rock']"
+"November 25, 2008",2008,48,24 Hours,Tom Jones,62,71,10,7,S-Curve,"['Rock', 'Pop']"
+"September 30, 2008",2008,40,Way To Normal,Ben Folds,62,78,21,21,Sony,"['Rock', 'Singer-Songwriter']"
+"September 23, 2008",2008,39,Radio Retaliation,Thievery Corporation,62,84,9,10,Eighteenth Street,['Electronic']
+"December 9, 2008",2008,50,Dark End Of The Street EP,Cat Power,62,63,12,4,Matador,"['Indie', 'Rock']"
+"April 22, 2008",2008,17,Bittersweet World,Ashlee Simpson,62,62,15,63,Geffen,"['Rock', 'Pop']"
+"January 22, 2008",2008,4,The Portrait Is Finished I Have Failed To Capture Your Beauty,Hello Blue Roses,62,0,15,0,Locust,"['Indie', 'Rock']"
+"May 27, 2008",2008,22,Welcome,James Pants,62,0,12,0,Stones Throw,"['Rock', 'Dance', 'Electronic']"
+"November 18, 2008",2008,47,I AmSasha Fierce,Beyoncé,62,76,24,0,Sony,"['Pop', 'R&B', 'Soul']"
+"October 7, 2008",2008,41,Moonwink,Spinto Band,62,0,14,0,Park the Van,"['Indie', 'Rock']"
+"June 10, 2008",2008,24,The Dream,The Orb,62,78,13,5,Six Degrees,['Electronic']
+"February 12, 2008",2008,7,Free Somehow,Widespread Panic,62,81,9,8,Widespread,['Rock']
+"August 26, 2008",2008,35,Free Your Mind And Win A Pony,Golden Animals,62,0,8,0,Happy Parts,"['Indie', 'Rock']"
+"September 9, 2008",2008,37,Alphabutt,Kimya Dawson,62,86,13,7,K,"['Indie', 'Rock', 'Folk']"
+"March 4, 2008",2008,10,Robotique Majestique,Ghostland Observatory,61,85,14,8,Trashy Moped,"['Indie', 'Rock', 'Electronic']"
+"October 28, 2008",2008,44,On Your Sleeve,Jesse Malin,61,0,8,0,One Little Indian,"['Rock', 'Pop', 'Alternative']"
+"April 29, 2008",2008,18,Nine Lives,Steve Winwood,61,0,7,0,Sony,"['Rock', 'Singer-Songwriter']"
+"April 8, 2008",2008,15,Walk It Off,Tapes n Tapes,61,70,24,14,Beggars XL,"['Indie', 'Rock']"
+"February 5, 2008",2008,6,Sleep Through The Static,Jack Johnson,61,74,17,51,Brushfire,['Rock']
+"June 10, 2008",2008,24,Here We Stand,The Fratellis,61,66,20,35,Interscope,"['Indie', 'Rock']"
+"February 26, 2008",2008,9,Discipline,Janet Jackson,61,77,14,99,Island,"['Pop', 'R&B']"
+"November 18, 2008",2008,47,NYC,Kieran Hebden and Steve Reid,61,0,11,0,Domino,"['Indie', 'Electronic']"
+"November 11, 2008",2008,46,Secrets Are Sinister,Longwave,61,84,7,5,Original Signal,"['Indie', 'Rock', 'Pop']"
+"October 7, 2008",2008,41,Futuristically SpeakingNever Be Afraid,Yo Majesty,61,0,17,0,Domino,['Rap']
+"September 16, 2008",2008,38,Brass Knuckles,Nelly,61,68,12,5,Universal,['Rap']
+"August 5, 2008",2008,32,Waiting For The Sunrise,David Vandervelde,61,0,13,0,Secretly Canadian,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"January 29, 2008",2008,5,Human Bell,Human Bell,61,0,9,0,Thrill Jockey,"['Indie', 'Rock']"
+"November 4, 2008",2008,45,Galore,Dragonette,61,85,7,11,I Surrender,"['Rock', 'Dance', 'Pop']"
+"August 5, 2008",2008,32,Fasciinatiion,The Faint,61,88,20,13,Blank.Wav,"['Indie', 'Rock']"
+"September 30, 2008",2008,40,The Fabled City,The Nightwatchman,61,80,11,5,Epic/Red,"['Rock', 'Alternative']"
+"October 21, 2008",2008,43,Flashy,Electric Six,60,82,7,9,Metropolis,"['Indie', 'Rock', 'Dance']"
+"September 16, 2008",2008,38,Peaceful The World Lays Me Down,Noah and the Whale,60,82,14,19,Interscope,"['Indie', 'Rock']"
+"March 18, 2008",2008,12,Sixes Sevens,Adam Green,60,84,17,7,Rough Trade,"['Rock', 'Alternative']"
+"September 30, 2008",2008,40,Welcome To Goon Island,XX Teens,60,0,12,0,Mute,['Rock']
+"May 6, 2008",2008,19,Gavin DeGraw,Gavin DeGraw,60,87,7,19,J,"['Rock', 'Pop', 'Singer-Songwriter']"
+"July 8, 2008",2008,28,Black Ghosts,Black Ghosts,60,84,12,5,Iamsound,['Electronic']
+"October 7, 2008",2008,41,Morning Tide,The Little Ones,60,0,12,0,Chop Shop,"['Indie', 'Rock', 'Pop']"
+"October 14, 2008",2008,42,Lucky Old Sun,Kenny Chesney,60,82,9,15,BNA,['Country']
+"April 7, 2008",2008,15,St Jude,The Courteeners,60,73,7,6,Polydor UK,"['Indie', 'Rock']"
+"May 20, 2008",2008,21,Inherit,Free Kitten,60,0,12,0,Ecstatic Peace,"['Indie', 'Rock']"
+"May 13, 2008",2008,20,We Sing We Dance We Steal Things,Jason Mraz,60,75,12,57,Atlantic,"['Rock', 'Pop', 'Alternative']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"March 24, 2008",2008,13,Red,Guillemots,60,69,12,22,Polydor UK,"['Indie', 'Rock', 'Pop']"
+"October 28, 2008",2008,44,Theres Me And Theres You,The Matthew Herbert Big Band,60,0,11,0,CFP Domestic,['Electronic']
+"March 11, 2008",2008,11,Trilla,Rick Ross,60,66,12,27,Def Jam,['Rap']
+"April 29, 2008",2008,18,This Kind Of Love,Carly Simon,60,0,7,0,Hear Music,"['Rock', 'Pop']"
+"August 5, 2008",2008,32,Lessons In Love,Lloyd,60,82,10,11,Universal,"['R&B', 'Soul']"
+"June 17, 2008",2008,25,Nostradamus,Judas Priest,59,85,7,84,Sony,"['Rock', 'Metal']"
+"March 18, 2008",2008,12,Welcome To The Dollhouse,Danity Kane,59,82,8,14,Bad Boy,['R&B']
+"January 15, 2008",2008,3,Liverpool 8,Ringo Starr,59,82,12,18,Capitol,"['Rock', 'Pop']"
+"November 25, 2008",2008,48,Happy In Galoshes,Scott Weiland,59,84,14,14,New West,"['Rock', 'Alternative']"
+"January 22, 2008",2008,4,Unfamiliar Faces,Matt Costa,59,60,13,8,Brushfire,"['Indie', 'Rock', 'Singer-Songwriter']"
+"October 6, 2008",2008,41,In Our Space Hero Suits,Those Dancing Days,59,0,8,0,Wichita,"['Indie', 'Rock', 'Pop']"
+"November 11, 2008",2008,46,Soul,Seal,59,83,8,7,Warner Bros.,"['R&B', 'Soul']"
+"April 15, 2008",2008,16,You Have No Idea What Youre Getting Yourself Into,Does It Offend You Yeah,59,78,18,19,Almost Gold,"['Indie', 'Electronic']"
+"September 30, 2008",2008,40,Jennifer Hudson,Jennifer Hudson,58,65,7,19,Arista,"['R&B', 'Soul']"
+"May 20, 2008",2008,21,Anywhere I Lay My Head,Scarlett Johansson,58,66,35,57,Atco,['Rock']
+"September 9, 2008",2008,37,Do You Know,Jessica Simpson,58,60,8,29,Sony,"['Pop', 'Country']"
+"January 29, 2008",2008,5,Charmed Strange,Yoav,58,84,13,8,Verve Forecast,"['Rock', 'Alternative', 'Singer-Songwriter']"
+"November 11, 2008",2008,46,David Archuleta,David Archuleta,58,84,7,318,Jive,"['Rock', 'Pop']"
+"June 30, 2008",2008,27,Romance At Short Notice,Dirty Pretty Things,58,80,12,13,Vertigo,"['Indie', 'Rock']"
+"December 2, 2008",2008,49,Freedom,Akon,58,75,17,44,Universal,['R&B']
+"February 5, 2008",2008,6,It Is Time For A Love Revolution,Lenny Kravitz,57,71,17,12,Virgin,"['Rock', 'Pop']"
+"March 11, 2008",2008,11,Booming Back At You,Junkie XL,57,58,8,4,Nettwerk,['Electronic']
+"February 19, 2008",2008,8,Golden Delicious,Mike Doughty,57,69,11,18,ATO,"['Rock', 'Alternative']"
+"July 15, 2008",2008,29,Greatest Story Ever Told,David Banner,57,78,11,4,Motown,['Rap']
+"April 29, 2008",2008,18,Trash Rats Microphones,Heloise And The Savoir Faire,57,0,8,0,Simian,"['Indie', 'Rock', 'Electronic']"
+"June 24, 2008",2008,26,Last 2 Walk,Three 6 Mafia,56,78,13,8,Sony,['Rap']
+"April 28, 2008",2008,18,The Colourful Life,Cajun Dance Party,56,67,8,6,XL,"['Indie', 'Rock']"
+"September 23, 2008",2008,39,Dr Dooom 2,Dr Dooom,56,0,7,0,Threshold/Traffic,['Rap']
+"March 11, 2008",2008,11,These Are The Good Times People,The Presidents Of The United States Of America,56,81,8,8,Fugitive,"['Rock', 'Alternative']"
+"September 2, 2008",2008,36,End Titles Stories For Film,UNKLE,56,84,13,7,Surrender All,"['Rock', 'Electronic']"
+"February 19, 2008",2008,8,Strange Folk,Kula Shaker,54,82,8,10,Cooking Vinyl,"['Rock', 'Alternative']"
+"March 18, 2008",2008,12,Mail On Sunday,Flo Rida,54,39,12,38,Atlantic/Wea,['Rap']
+"June 16, 2008",2008,25,Strength In Numbers,The Music,54,85,10,14,Polydor,"['Indie', 'Rock']"
+"September 16, 2008",2008,38,Down To Earth,Jem,54,75,7,4,Ato Records/Red,"['Rock', 'Pop', 'Electronic']"
+"June 24, 2008",2008,26,Saints Of Los Angeles,Motley Crue,54,81,11,44,Eleven Seven,"['Rock', 'Metal']"
+"November 24, 2008",2008,48,In The City,Kevin Rudolf,53,73,9,7,Cash Money,"['Pop', 'Rap']"
+"August 19, 2008",2008,34,The Illusion Of Progress,Staind,53,77,8,25,Atlantic,"['Rock', 'Alternative']"
+"January 22, 2008",2008,4,Matinee,Jack Peate,53,70,,0,,[]
+"May 6, 2008",2008,19,Trust Me,Craig David,53,0,9,0,Warner Brothers,['R&B']
+"December 9, 2008",2008,50,Universal Mind Control,Common,53,57,26,31,Geffen,['Rap']
+"June 3, 2008",2008,23,The Declaration,Ashanti,52,81,11,27,Universal Motown,['R&B']
+"June 17, 2008",2008,25,Rise And Fall Rage And Grace,The Offspring,52,76,8,87,Sony,"['Rock', 'Alternative', 'Punk']"
+"September 2, 2008",2008,36,The Block,New Kids on the Block,51,88,12,44,Interscope,"['Rock', 'Pop']"
+"February 12, 2008",2008,7,Simple Plan,Simple Plan,51,68,12,60,Atlantic,"['Rock', 'Pop', 'Punk']"
+"April 15, 2008",2008,16,My Bloody Underground,The Brian Jonestown Massacre,51,72,15,15,A,['Rock']
+"September 23, 2008",2008,39,Doll Domination,Pussycat Dolls,51,67,12,68,Interscope,"['Dance', 'Pop', 'R&B']"
+"November 18, 2008",2008,47,The New Game,Mudvayne,50,71,7,20,Epic,"['Rock', 'Metal']"
+"November 18, 2008",2008,47,Dark Horse,Nickelback,49,44,15,186,Roadrunner,"['Rock', 'Alternative', 'Metal']"
+"January 22, 2008",2008,4,PDA,Hey Willpower,48,80,8,6,Tomlab,"['Indie', 'Rock', 'Electronic']"
+"June 3, 2008",2008,23,Wanderlust,Gavin Rossdale,48,54,7,11,Interscope,['Rock']
+"April 29, 2008",2008,18,Songs from the Sparkle Lounge,Def Leppard,47,81,8,24,Mercury,['Rock']
+"May 13, 2008",2008,20,Brooklyns Don Diva,Foxy Brown,47,63,8,13,Black Rose/Koch,['Rap']
+"June 17, 2008",2008,25,One Of The Boys,Katy Perry,47,75,18,1071,Capitol,"['Rock', 'Pop']"
+"September 23, 2008",2008,39,Big Bad World,Plain White Ts,47,57,7,14,Hollywood,"['Rock', 'Pop', 'Alternative', 'Punk']"
+"August 19, 2008",2008,34,Earth To The Dandy Warhols,The Dandy Warhols,46,62,20,36,World's Fair,"['Rock', 'Pop', 'Alternative']"
+"July 1, 2008",2008,27,TOS Terminate On Sight,G-Unit,45,69,10,36,G-Unit,['Rap']
+"July 12, 2008",2008,28,Melodia,The Vines,44,57,10,13,Cooking Vinyl,['Rock']
+"December 16, 2008",2008,51,iSouljaBoyTellem,Soulja Boy Tell Em,42,14,7,69,Universal,['Rap']
+"October 28, 2008",2008,44,Cosmos Rocks,Queen Paul Rodgers,42,70,,0,,[]
+"January 29, 2008",2008,5,Slick Dogs And Ponies,Louis XIV,37,58,10,34,Atlantic,"['Rock', 'Punk']"

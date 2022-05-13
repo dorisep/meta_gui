@@ -1,0 +1,746 @@
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"September 9, 2016",2016,36,Skeleton Tree,Nick Cave the Bad Seeds,95,83,36,385,Bad Seeds Ltd.,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Post-Punk']"
+"April 23, 2016",2016,16,Lemonade,Beyoncé,92,80,33,0,Parkwood,"['Pop', 'R&B']"
+"October 21, 2016",2016,42,You Want It Darker,Leonard Cohen,92,84,28,182,Columbia,['Pop/Rock']
+"November 11, 2016",2016,45,We Got It From HereThank You 4 Your Service,A Tribe Called Quest,91,88,26,331,Epic,"['Rap', 'East Coast Rap', 'Jazz-Rap']"
+"May 13, 2016",2016,19,Coloring Book Mixtape,Chance the Rapper,89,83,21,601,N/A,['Rap']
+"September 30, 2016",2016,39,A Seat at the Table,Solange,89,84,26,387,Columbia,"['R&B', 'Contemporary R&B', 'Alternative R&B']"
+"September 30, 2016",2016,39,American Band,Drive-By Truckers,88,80,18,38,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Hard Rock', 'Alternative Country-Rock', 'Southern Rock']"
+"May 8, 2016",2016,18,A Moon Shaped Pool,Radiohead,88,89,43,1492,XL,"['Alternative', 'Pop/Rock', 'Alternative Pop/Rock']"
+"December 25, 2016",2016,51,Run the Jewels 3,Run the Jewels,88,88,34,417,Mass Appeal / RED Music Solutions,['Rap']
+"November 4, 2016",2016,44,Black America Again,Common,88,73,14,73,Def Jam,"['Rap', 'Alternative Rap', 'Hardcore Rap', 'Midwest Rap']"
+"April 1, 2016",2016,13,Upland Stories,Robbie Fulks,87,42,12,65,Bloodshot,"['Country', 'Folk', 'Pop/Rock']"
+"January 8, 2016",2016,1,Blackstar,David Bowie,87,89,43,728,Columbia,"['Pop/Rock', 'Contemporary Pop/Rock', 'Experimental Rock', 'Art Rock']"
+"September 2, 2016",2016,35,My Woman,Angel Olsen,87,85,30,186,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 20, 2016",2016,33,Blonde,Frank Ocean,87,89,38,1244,Self-released,[]
+"June 17, 2016",2016,24,Puberty 2,Mitski,87,88,22,152,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 17, 2016",2016,24,You Will Never Be One of Us,NAILS,87,67,9,82,Nuclear Blast,"['Pop/Rock', 'Heavy Metal']"
+"September 30, 2016",2016,39,22 A Million,Bon Iver,87,84,41,381,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"March 18, 2016",2016,11,Hollowed,Ital Tek,86,80,7,22,Planet Mu,"['Electronic', 'Techno', 'Pop/Rock', 'Experimental Techno', 'IDM']"
+"April 15, 2016",2016,15,A Sailors Guide to Earth,Sturgill Simpson,86,82,19,81,Atlantic,['Country']
+"July 15, 2016",2016,28,Love Hate,Michael Kiwanuka,86,85,23,61,Interscope,"['R&B', 'Pop/Rock']"
+"July 1, 2016",2016,26,blackSUMMERSnight 2016,Maxwell,86,84,,0,,[]
+"July 8, 2016",2016,27,Centres,Ian William Craig,86,75,12,25,Fat Cat,"['Electronic', 'Avant-Garde', 'Pop/Rock', 'Experimental Ambient', 'Experimental Electronic', 'Neo-Classical', 'Tape Music']"
+"May 20, 2016",2016,20,Teens of Denial,Car Seat Headrest,86,84,24,178,Matador,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 14, 2016",2016,41,Dissociation,The Dillinger Escape Plan,86,80,15,36,Cooking Vinyl,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal', 'Math Rock']"
+"March 25, 2016",2016,12,Midwest Farmers Daughter,Margo Price,86,79,13,45,Third Man Records,['Country']
+"June 3, 2016",2016,22,This Is Where I Live,William Bell,86,82,7,6,Stax,"['R&B', 'Soul', 'Pop/Rock']"
+"April 22, 2016",2016,16,Nerissimo,Teho Teardo,86,72,7,11,Spècula,['Pop/Rock']
+"March 4, 2016",2016,9,untitled unmastered,Kendrick Lamar,86,83,31,842,Top Dawg,['Rap']
+"June 3, 2016",2016,22,Stranger to Stranger,Paul Simon,85,80,26,45,Concord,['Pop/Rock']
+"September 23, 2016",2016,38,Fires Within Fires,Neurosis,85,73,10,12,Neurot,"['Metal', 'Pop/Rock', 'Post-Metal']"
+"January 15, 2016",2016,2,Malibu,Anderson Paak,85,86,18,326,Steel Wool Entertainment,"['Rap', 'R&B']"
+"September 27, 2016",2016,39,Atrocity Exhibition,Danny Brown,85,88,31,413,Warp,"['Rap', 'Alternative Rap', 'Underground Rap', 'Midwest Rap']"
+"May 27, 2016",2016,21,Goodness,The Hotelier,85,78,10,33,Revolver Music / Tiny Engines,['Pop/Rock']
+"April 29, 2016",2016,17,The Impossible Kid,Aesop Rock,85,86,11,72,Rhymesayers,['Rap']
+"October 21, 2016",2016,42,Winter Wheat,John K Samson,85,83,8,4,Anti/Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"April 15, 2016",2016,15,Singing Saw,Kevin Morby,84,80,20,36,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"December 2, 2016",2016,48,Before the Dawn Live,Kate Bush,84,85,15,28,Concord,"['Pop/Rock', 'Alternative/Indie Rock', 'Art Rock']"
+"March 4, 2016",2016,9,Emilys DEvolution,Esperanza Spalding,84,78,,0,,[]
+"August 5, 2016",2016,31,Lovers,Nels Cline,84,72,12,6,Blue Note,"['Jazz', 'Jazz Instrument', 'Guitar Jazz']"
+"March 4, 2016",2016,9,Full Circle,Loretta Lynn,84,76,17,20,Sony Music,"['Country', 'Alt-Country', 'Americana', 'Pop/Rock', 'Alternative/Indie Rock', 'Progressive Country', 'Traditional Country']"
+"October 7, 2016",2016,40,Let Them Eat Chaos,Kate Tempest,84,78,16,24,Lex,['Pop']
+"September 16, 2016",2016,37,Stage Four,Touché Amoré,84,82,13,0,Epitaph,['Pop/Rock']
+"November 11, 2016",2016,45,Forward Constant Motion,Virginia Wing,84,0,7,0,Fire Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Indie Pop', 'Experimental Rock']"
+"February 12, 2016",2016,6,Cardinal,Pinegrove,84,82,12,49,Run for Cover Records,['Pop/Rock']
+"September 30, 2016",2016,39,Blood Bitch,Jenny Hval,84,80,23,35,Sacred Bones,['Alternative/Indie Rock']
+"February 19, 2016",2016,7,In My Mind,BJ the Chicago Kid,84,73,7,23,Motown,"['R&B', 'Contemporary R&B']"
+"May 13, 2016",2016,19,Introducing Karl Blau,Karl Blau,84,66,7,9,Raven Marching Band Records,"['Country', 'Pop/Rock', 'Alternative/Indie Rock']"
+"March 4, 2016",2016,9,Varmints,Anna Meredith,84,77,9,27,Moshi Moshi Records,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"December 16, 2016",2016,50,Stillness In Wonderland,Little Simz,84,84,7,14,Age 101,['Rap']
+"September 16, 2016",2016,37,Become Zero,Helen Money,84,0,7,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Post-Rock', 'Heavy Metal', 'Experimental Rock', 'Neo-Classical Metal', 'Neo-Classical']"
+"February 19, 2016",2016,7,DJ-Kicks,Moodymann,83,78,9,9,!K7,"['Electronic', 'House', 'Downtempo', 'Pop/Rock', 'Club/Dance', 'Neo-Disco']"
+"November 4, 2016",2016,44,FLOTUS,Lambchop,83,81,26,18,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter', 'Alternative Country-Rock', 'Chamber Pop']"
+"March 25, 2016",2016,12,Patch the Sky,Bob Mould,83,74,25,27,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 6, 2016",2016,18,Konnichiwa,Skepta,83,78,18,97,Boy Better Know,['Rap']
+"April 8, 2016",2016,14,Sorrow Reimagining of Goreckis 3rd Symphony,Colin Stetson,83,78,9,12,52hz,"['Classical', 'Classical Crossover', 'Miscellaneous (Classical)']"
+"May 20, 2016",2016,20,The Party,Andy Shauf,83,86,9,22,Anti-,"['Pop/Rock', 'Alternative Pop/Rock']"
+"June 3, 2016",2016,22,Light Upon the Lake,Whitney,83,86,,0,,[]
+"August 12, 2016",2016,32,Stranger Things Vol 1 Original Television Series Soundtrack,Kyle Dixon,83,84,9,37,Lakeshore Records,"['Electronic', 'Ambient', 'Stage & Screen']"
+"April 29, 2016",2016,17,Nonagon Infinity,King Gizzard the Lizard Wizard,83,87,14,93,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 17, 2016",2016,24,caselangveirs,Neko Case,83,79,26,28,Anti-,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"June 17, 2016",2016,24,Still Brazy,YG,83,85,14,134,Def Jam,['Rap']
+"July 8, 2016",2016,27,Wildflower,The Avalanches,83,83,33,135,Astralwerks,"['Electronic', 'Rap', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Club/Dance', 'Alternative Dance', 'Funky Breaks']"
+"March 18, 2016",2016,11,Visions of Us on the Land,Damien Jurado,83,82,13,14,Secretly Canadian,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 5, 2016",2016,5,The Ghosts of Highway 20,Lucinda Williams,83,75,19,20,Highway 20 Records,"['Country', 'Pop/Rock']"
+"February 5, 2016",2016,5,Scheherazade,Freakwater,83,0,9,0,Bloodshot,"['Country', 'Folk', 'Pop/Rock']"
+"February 26, 2016",2016,8,In Search of Harperfield,Emma Pollock,83,70,11,10,Chemikal Underground,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 3, 2016",2016,22,Eyes on the Lines,Steve Gunn,83,69,21,10,Matador,"['Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter', 'Alternative Pop/Rock', 'Guitar Virtuoso']"
+"January 22, 2016",2016,3,Something About April II,Adrian Younge,83,77,7,7,Linear Labs,"['R&B', 'Retro-Soul', 'Alternative R&B']"
+"March 18, 2016",2016,11,The Narrows,Grant-Lee Philips,83,52,,0,,[]
+"May 6, 2016",2016,18,Hopelessness,Anohni,83,82,30,139,Secretly Canadian,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,SVIIB,School of Seven Bells,83,77,22,35,Vagrant,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic', 'Dream Pop']"
+"April 22, 2016",2016,16,Outer Heaven,Greys,83,64,9,9,Carpark Records,['Pop/Rock']
+"February 5, 2016",2016,5,We Are King,King,83,80,11,15,King Creative,"['R&B', 'Alternative R&B']"
+"October 28, 2016",2016,43,Hubris,Oren Ambarchi,83,0,7,0,Editions Mego,"['Electronic', 'Experimental', 'Avant-Garde', 'Pop/Rock', 'Club/Dance']"
+"October 14, 2016",2016,41,Americas National Parks,Wadada Leo Smith,83,0,7,0,Cuneiform Records,"['Jazz', 'Avant-Garde', 'Modern Creative', 'Modern Composition', 'Avant-Garde Jazz', 'Modern Free']"
+"September 23, 2016",2016,38,If You See Me Say Yes,Flock of Dimes,83,78,9,12,Partisan,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 2, 2016",2016,35,Whole Cloven,Nathan Bowles,83,0,7,0,Paradise of Bachelors,"['Folk', 'Alternative/Indie Rock']"
+"December 2, 2016",2016,48,Blue and Lonesome,The Rolling Stones,82,74,21,65,Interscope,"['Pop/Rock', 'Contemporary Pop/Rock', 'Blues-Rock', 'Rock & Roll', 'Regional Blues', 'British Blues']"
+"November 11, 2016",2016,45,Daniel Bachman,Daniel Bachman,82,0,7,0,Three Lobed Recordings,"['Experimental', 'Folk', 'Pop/Rock', 'Indie Folk', 'Modern Acoustic Blues', 'Guitar Virtuoso', 'Acoustic Blues']"
+"April 8, 2016",2016,14,The Peace Truce of Future of the Left,Future of the Left,82,77,10,12,Prescriptions,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 18, 2016",2016,11,No One Deserves Happiness,The Body,82,83,12,9,Thrill Jockey,"['Pop/Rock', 'Heavy Metal', 'Experimental Rock', 'Doom Metal', 'Noise-Rock', 'Sludge Metal']"
+"June 28, 2016",2016,26,Freetown Sound,Blood Orange,82,86,30,98,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 2, 2016",2016,35,Nothing More to Say,The Frightnrs,82,0,8,0,Daptone,['Reggae']
+"April 8, 2016",2016,14,Love Streams,Tim Hecker,82,81,26,35,4AD,['Electronic']
+"January 22, 2016",2016,3,The Waiting Room,Tindersticks,82,75,20,23,City Slang,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 13, 2016",2016,19,Oh No,Jessy Lanza,82,81,21,34,Hyperdub,"['Electronic', 'Pop/Rock']"
+"September 23, 2016",2016,38,I Had a Dream That You Were Mine,Hamilton Leithauser,82,83,23,39,Glassnote Entertainment Group,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 29, 2016",2016,30,For All We Know,nao,82,84,16,62,RCA,['R&B']
+"May 27, 2016",2016,21,All Our Gods Have Abandoned Us,Architects,82,89,7,81,Epitaph,"['Metal', 'Metalcore']"
+"October 21, 2016",2016,42,Citizen of Glass,Agnes Obel,82,84,11,31,PIAS,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"April 22, 2016",2016,16,Too Many Voices,Andy Stott,82,76,11,25,Modern Love,"['Electronic', 'Pop/Rock']"
+"October 28, 2016",2016,43,Burn Something Beautiful,Alejandro Escovedo,82,0,11,0,Fantasy,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter']"
+"October 14, 2016",2016,41,NOTUURONLINEU,HiEmotions,82,0,,0,,[]
+"April 1, 2016",2016,13,Ears,Kaitlyn Aurelia Smith,82,74,9,10,Western Vinyl Records,"['Electronic', 'Ambient', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"November 11, 2016",2016,45,Love Songs Pt 2,Romare,82,56,9,9,Ninja Tune,"['Electronic', 'House', 'Downtempo', 'Club/Dance', 'Left-Field House']"
+"October 7, 2016",2016,40,Black Peak,Xylouris White,82,0,7,0,Bella Union,"['Experimental', 'Pop/Rock', 'International', 'International Fusion', 'Cretan', 'International Folk', 'Mediterranean Traditions']"
+"January 22, 2016",2016,3,Jet Plane And Oxbow,Shearwater,82,75,21,33,Sup Pop,"['Pop/Rock', 'Indie/Alternative']"
+"November 4, 2016",2016,44,Lodestar,Shirley Collins,82,58,15,5,Domino,['Folk']
+"October 21, 2016",2016,42,Running out of Love,The Radio Dept,82,76,17,30,Labrador,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"April 8, 2016",2016,14,Human Performance,Parquet Courts,82,81,29,43,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Noise Pop']"
+"June 3, 2016",2016,22,Treasure House,Cats Eyes,82,66,14,7,Raf,['Pop/Rock']
+"August 19, 2016",2016,33,Honest Life,Courtney Marie Andrews,82,0,8,0,Mama Bird Recording Co.,"['Country', 'Folk']"
+"January 22, 2016",2016,3,Third Law,Roly Porter,82,73,12,8,Tri Angle,"['Electronic', 'Avant-Garde', 'Experimental Electronic', 'Modern Composition']"
+"June 17, 2016",2016,24,The Dreaming Room,Laura Mvula,82,85,12,27,RCA,['Pop/Rock']
+"March 18, 2016",2016,11,Epic Jammers and Fortunate Little Ditties,Bonnie Prince Billy,82,0,9,0,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia', 'Space Rock']"
+"January 22, 2016",2016,3,Adore Life,Savages,82,77,33,66,Matador,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"October 7, 2016",2016,40,Little Seeds,Shovels Rope,82,63,10,4,New West Records,['Pop/Rock']
+"August 19, 2016",2016,33,Furnaces,Ed Harcourt,82,74,11,5,Polydor,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 25, 2016",2016,12,A Cosmic Rhythm with Each Stroke,Vijay Iyer,82,75,7,4,ECM,['Jazz']
+"August 19, 2016",2016,33,Real,Lydia Loveless,82,68,16,14,Bloodshot,['Pop/Rock']
+"February 26, 2016",2016,8,Dig in Deep,Bonnie Raitt,82,65,17,13,Redwing Music,['Pop/Rock']
+"October 21, 2016",2016,42,Front Row Seat to Earth,Weyes Blood,82,83,12,51,Mexican Summer,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 18, 2016",2016,11,Up to Anything,The Goon Sax,82,85,8,4,Chapter Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop']"
+"February 5, 2016",2016,5,Hold On!,The James Hunter Six,82,64,9,8,Daptone,"['R&B', 'Blues', 'Pop/Rock', 'Retro-Soul', 'Soul-Blues']"
+"May 27, 2016",2016,21,The Dream Is Over,PUP,82,84,14,29,Side One Dummy,['Pop/Rock']
+"September 2, 2016",2016,35,False Readings On,Eluvium,81,75,8,12,Temporary Residence,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Electronic', 'Post-Rock', 'Experimental Ambient']"
+"October 14, 2016",2016,41,The Midnight Sun,C Duncan,81,76,12,14,FatCat Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 13, 2016",2016,19,Holy Ghost,Modern Baseball,81,77,17,23,Run for Cover Records,['Pop/Rock']
+"July 8, 2016",2016,27,Blank Face LP,ScHoolboy Q,81,84,18,243,Interscope,['Rap']
+"November 18, 2016",2016,46,The Weight of These Wings,Miranda Lambert,81,76,11,67,RCA Nashville,"['Country', 'Americana', 'Pop/Rock', 'Contemporary Country', 'Country-Folk', 'Country-Pop']"
+"October 21, 2016",2016,42,Bonito Generation,Kero Kero Bonito,81,83,7,66,Double Denim Records,['Pop/Rock']
+"March 25, 2016",2016,12,Eric Bachmann,Eric Bachmann,81,49,10,12,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"September 30, 2016",2016,39,RR7349,S U R V I V E,81,78,12,17,Relapse Records,"['Electronic', 'Ambient', 'Experimental Electro', 'Neo-Electro', 'Darkwave']"
+"May 6, 2016",2016,18,Take Me to the Alley,Gregory Porter,81,59,8,13,Blue Note,['Jazz']
+"October 28, 2016",2016,43,Strands,Steve Hauschildt,81,0,7,0,Kranky,"['Electronic', 'Pop/Rock']"
+"August 26, 2016",2016,34,Motion Graphics,Motion Graphics,81,0,7,0,Domino,"['Electronic', 'Downtempo', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Electronic']"
+"May 6, 2016",2016,18,999,Kaytranada,81,85,21,117,XL,"['Electronic', 'Pop/Rock']"
+"March 25, 2016",2016,12,Potential,The Range,81,77,15,13,Domino,"['Electronic', 'Downtempo', 'Pop/Rock', 'Indie Electronic', 'Experimental Techno', 'IDM', ""Jungle/Drum'n'Bass""]"
+"February 26, 2016",2016,8,Meet the Humans,Steve Mason,81,75,9,11,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 5, 2016",2016,31,Guidance,Russian Circles,81,82,15,16,Sargent House,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Rock', 'Heavy Metal', 'Post-Metal']"
+"April 1, 2016",2016,13,Azel,Bombino,81,76,12,8,PTKF,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 29, 2016",2016,4,Islah,Kevin Gates,81,82,10,58,Atlantic,"['Rap', 'Pop/Rock', 'Gangsta Rap', 'Southern Rap', 'Hardcore Rap']"
+"October 7, 2016",2016,40,Heart like a Levee,Hiss Golden Messenger,81,78,12,10,Merge,"['Pop/Rock', 'Alternative Pop/Rock']"
+"August 26, 2016",2016,34,Mangy Love,Cass McCombs,81,76,22,22,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 3, 2016",2016,22,Modern Country,William Tyler,81,0,16,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Folk']"
+"March 18, 2016",2016,11,Barbara Barbara We Face a Shining Future,Underworld,81,75,26,28,Astralwerks,"['Electronic', 'House', 'Trip-Hop', 'Techno', 'Trance', 'Pop/Rock', 'Club/Dance']"
+"September 30, 2016",2016,39,Sorceress,Opeth,81,77,10,37,Nuclear Blast,['Heavy Metal']
+"November 11, 2016",2016,45,The Unborn Capitalist From Limbo,Cory Hanson,81,0,7,0,Drag City,"['Folk', 'Neo-Psychedelia', 'Indie Folk']"
+"October 7, 2016",2016,40,Dont Let the Kids Win,Julia Jacklin,81,79,12,12,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter', 'Alternative Country-Rock', 'Indie Folk']"
+"September 16, 2016",2016,37,Unseen,The Handsome Family,81,71,9,7,Loose Music,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 9, 2016",2016,36,GLA,Twin Atlantic,81,70,7,7,Red Bull Records,['Pop/Rock']
+"August 19, 2016",2016,33,Eve,Thalia Zedek,81,0,10,0,Thrill Jockey,['Pop/Rock']
+"August 5, 2016",2016,31,No Mans Sky Music for an Infinite Universe Original Video Game Soundtrack,65daysofstatic,81,85,7,58,Concord,"['Soundtracks', 'Stage & Screen', 'Video Game Music']"
+"April 8, 2016",2016,14,Gore,Deftones,81,80,26,126,Reprise,"['Pop/Rock', 'Alternative Metal']"
+"March 4, 2016",2016,9,Distance Inbetween,The Coral,81,75,18,15,Ignition Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 17, 2016",2016,24,The Glowing Man,Swans,81,86,22,69,Young God,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 18, 2016",2016,11,You Cant Go Back if Theres Nothing To Go Back To,Richmond Fontaine,81,75,9,8,Fluff & Gravy Records,"['Country', 'Pop/Rock']"
+"August 12, 2016",2016,32,A Weird Exits,Thee Oh Sees,81,79,20,19,Castle Face,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock', 'Neo-Psychedelia']"
+"January 22, 2016",2016,3,New View,Eleanor Friedberger,81,77,27,20,Frenchkiss Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"April 1, 2016",2016,13,The Wilderness,Explosions in the Sky,80,81,26,41,Temporary Residence,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Rock', 'Soundtracks', 'Stage & Screen', 'Instrumental Rock']"
+"April 8, 2016",2016,14,Brilliant Sanity,Teleman,80,82,11,10,Moshi Moshi Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 22, 2016",2016,16,Everybodys Heart Is Broken Now,Niki and the Dove,80,80,7,6,Universal,['Pop']
+"October 21, 2016",2016,42,Retribution,Tanya Tagaq,80,74,9,7,Six Shooter Records,['International']
+"September 16, 2016",2016,37,KoKoro,El Perro del Mar,80,68,10,4,ADA / The Control Group,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Indie Pop']"
+"May 13, 2016",2016,19,Fool,Jameszoo,80,76,8,7,Brainfeeder,"['Electronic', 'Rap', 'Jazz', 'Experimental Electronic', 'Left-Field Hip-Hop', 'Jazz-Rap']"
+"November 11, 2016",2016,45,Wyatt at the Coyote Palace,Kristin Hersh,80,0,10,0,Overlook Omnibus,['Pop/Rock']
+"March 4, 2016",2016,9,Heron Oblivion,Heron Oblivion,80,70,14,9,Sub Pop,"['Pop/Rock', 'Psychedelic']"
+"May 6, 2016",2016,18,Bottomless Pit,Death Grips,80,86,11,194,Third Worlds,['Rap']
+"February 5, 2016",2016,5,Big Black Coat,Junior Boys,80,78,16,22,City Slang,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance', 'Indie Electronic']"
+"April 1, 2016",2016,13,Changes,Charles Bradley,80,81,18,12,Daptone,['R&B']
+"October 14, 2016",2016,41,Utopia Defeated,DD Dumbo,80,79,8,14,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"October 14, 2016",2016,41,Cashmere,Swet Shop Boys,80,82,8,24,Customs,['Rap']
+"March 4, 2016",2016,9,Ouroboros,Ray LaMontagne,80,78,10,24,RCA,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter']"
+"September 23, 2016",2016,38,A Loud Bash of Teenage Feelings,Beach Slang,80,71,19,14,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 19, 2016",2016,33,The Childhood of a Leader OST,Scott Walker,80,0,12,0,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Soundtracks', 'Stage & Screen']"
+"August 26, 2016",2016,34,Stay Gold,Butch Walker,80,0,7,0,Dangerbird Records,['Pop/Rock']
+"August 5, 2016",2016,31,The Discos of Imhotep,Hieroglyphic Being,80,0,14,0,Technicolour,"['Electronic', 'House', 'Techno', 'Club/Dance', 'Experimental Techno', 'Experimental Electronic', 'Acid House', 'Chicago House']"
+"September 2, 2016",2016,35,The Suns Tirade,Isaiah Rashad,80,83,11,128,Top Dawg,['Rap']
+"March 11, 2016",2016,10,3001 A Laced Odyssey,Flatbush Zombies,80,78,7,59,Glorious Dead Recordings,"['Rap', 'Pop/Rock']"
+"March 11, 2016",2016,10,All My Demons Greeting Me as a Friend,Aurora,80,90,10,296,Glassnote Entertainment Group,"['Pop', 'Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Alternative Dance']"
+"November 18, 2016",2016,46,Snake Pit,Harvey Mandel,80,0,7,0,Tompkins Square,"['Jazz', 'Blues', 'Pop/Rock', 'Blues-Rock', 'Modern Electric Blues', 'Roots Rock', 'Guitar Virtuoso', 'Electric Jazz']"
+"September 16, 2016",2016,37,Fingers Crossed,Ian Hunter,80,70,7,4,Proper Records,['Pop/Rock']
+"September 16, 2016",2016,37,Pretty Years,Cymbals Eat Guitars,80,76,14,14,Sinderlyn,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 26, 2016",2016,8,Going Down in History,Waco Brothers,80,0,12,0,Bloodshot,"['Alt-Country', 'Pop/Rock', 'Alternative Country-Rock']"
+"January 22, 2016",2016,3,Night Thoughts,Suede,80,81,29,69,Rhino,['Pop/Rock']
+"August 5, 2016",2016,31,Give a Glimpse of What Yer Not,Dinosaur Jr,80,81,32,22,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 3, 2016",2016,22,Fading Lines,Amber Arcades,80,83,13,13,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 21, 2016",2016,42,Yes Lawd!,NxWorries,80,83,22,66,Stones Throw,"['R&B', 'Alternative Rap', 'Alternative R&B']"
+"October 21, 2016",2016,42,Apricity,Syd Arthur,80,68,7,4,Harvest,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"August 19, 2016",2016,33,At Swim,Lisa Hannigan,80,86,12,8,ATO,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 4, 2016",2016,9,A Man Alive,Thao the Get Down Stay Down,80,79,13,16,Ribbon Music,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 29, 2016",2016,4,Pillars of Ash,Black Tusk,80,73,7,6,Relapse Records,"['Pop/Rock', 'Heavy Metal']"
+"August 19, 2016",2016,33,Golden Sings That Have Been Sung,Ryley Walker,80,70,16,5,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 21, 2016",2016,42,Big Baby DRAM,DRAM,80,78,13,35,Atlantic,['Rap']
+"April 8, 2016",2016,14,Fever Dream,Ben Watt,80,85,9,4,Universal Music,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Contemporary Singer/Songwriter']"
+"November 25, 2016",2016,47,Broken Knowz,Jay Daniel,80,0,7,0,Technicolour,"['Electronic', 'House', 'Techno', 'Club/Dance', 'Left-Field House', 'Jazz-House', 'Detroit Techno']"
+"March 18, 2016",2016,11,Fleeting,Glenn Jones,79,0,10,0,Thrill Jockey,['Folk']
+"September 23, 2016",2016,38,Physicalist,Forma,79,0,8,0,Kranky,"['Electronic', 'Techno', 'Experimental Ambient', 'Ambient Techno', 'Experimental Electro']"
+"September 16, 2016",2016,37,Psi,patten,79,0,8,0,Warp,"['Electronic', 'Techno', 'Pop/Rock', 'Indie Electronic', 'Experimental Techno', 'Experimental Electronic', 'IDM']"
+"April 29, 2016",2016,17,The Ship,Brian Eno,79,77,26,20,Warp,"['Electronic', 'Pop/Rock']"
+"June 24, 2016",2016,25,The Magic,Deerhoof,79,78,20,17,Polyvinyl,['Pop/Rock']
+"July 8, 2016",2016,27,Nothings Real,Shura,79,86,18,83,Interscope,['Pop/Rock']
+"February 19, 2016",2016,7,Daze,Brood Ma,79,0,10,0,Tri Angle,"['Electronic', 'Techno', 'Pop/Rock', 'Experimental Techno', 'IDM']"
+"July 1, 2016",2016,26,Blisters in the Pit of My Heart,Martha,79,0,11,0,Dirtnap Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 15, 2016",2016,15,The Hope Six Demolition Project,PJ Harvey,79,66,34,80,Vagrant,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Singer/Songwriter']"
+"April 1, 2016",2016,13,Empire Builder,Laura Gibson,79,87,9,6,Barsuk,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock']"
+"October 7, 2016",2016,40,Cody,Joyce Manor,79,73,16,18,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Emo-Pop', 'Punk Revival']"
+"March 11, 2016",2016,10,Standards,Into It Over It,79,73,12,13,Triple Crown Records,['Pop/Rock']
+"September 2, 2016",2016,35,Astronaut Meets Appleman,King Creosote,79,0,14,0,Domino,['Pop/Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"March 18, 2016",2016,11,Post Pop Depression,Iggy Pop,79,79,33,84,Loma Vista Recordings,"['Punk', 'Pop/Rock', 'Contemporary Pop/Rock', 'Album Rock', 'Hard Rock', 'Detroit Rock', 'Proto-Punk']"
+"September 9, 2016",2016,36,Schmilco,Wilco,79,79,26,41,Anti-,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Experimental Rock']"
+"April 15, 2016",2016,15,I AKA I,Ash Koosha,79,71,12,7,Ninja Tune,['Electronic']
+"April 15, 2016",2016,15,Love Letter for Fire,Sam Beam,79,80,17,5,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 18, 2016",2016,11,2013,Meilyr Jones,79,62,10,14,PIAS,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter', 'Chamber Pop']"
+"May 27, 2016",2016,21,Good Luck and Do Your Best,Gold Panda,79,80,17,14,City Slang,"['Electronic', 'Rap', 'Electronica', 'Techno', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Experimental Techno']"
+"April 1, 2016",2016,13,No Burden,Lucy Dacus,79,80,11,11,Ehse,['Pop/Rock']
+"September 9, 2016",2016,36,Here,Teenage Fanclub,79,78,21,6,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 18, 2016",2016,11,The Last Panthers,Clark,79,0,11,0,Warp,"['Electronic', 'Pop/Rock']"
+"September 16, 2016",2016,37,Shape Shift with Me,Against Me!,79,74,21,19,Total Treble,['Pop/Rock']
+"July 29, 2016",2016,30,The King of Whys,Owen,79,0,13,0,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 8, 2016",2016,14,City Sun Eater in the River of Light,Woods,79,85,14,19,Woodsist,['Pop/Rock']
+"March 4, 2016",2016,9,Arcology,Thug Entrancer,79,0,7,0,Caroline,"['Electronic', 'Pop/Rock']"
+"May 27, 2016",2016,21,Masterpiece,Big Thief,79,86,14,37,Saddle Creek Records,['Pop/Rock']
+"May 27, 2016",2016,21,Good Times!,The Monkees,79,85,12,35,Rhino,"['Pop/Rock', 'Contemporary Pop/Rock', 'Psychedelic/Garage', 'AM Pop', 'Psychedelic Pop', 'Sunshine Pop', 'Bubblegum']"
+"September 23, 2016",2016,38,The Healing Component,Mick Jenkins,79,75,7,41,Cinematic,['Rap']
+"February 26, 2016",2016,8,When You Walk a Long Distance You Are Tired,Mothers,79,80,11,14,Grand Jury,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 13, 2016",2016,19,Alas Salvation,Yak,79,70,11,5,Kobalt,['Pop/Rock']
+"May 6, 2016",2016,18,Paradise,White Lung,79,78,25,28,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 16, 2016",2016,37,Frkwys Vol 13 Sunergy,Kaitlyn Aurelia Smith,79,0,7,0,RVNG Intl.,"['Electronic', 'Club/Dance']"
+"March 4, 2016",2016,9,Forever Sounds,Wussy,79,63,9,9,N/A,['Pop/Rock']
+"March 25, 2016",2016,12,Hella Personal Film Festival,Open Mike Eagle,79,77,9,16,Mello Music Group,['Rap']
+"November 4, 2016",2016,44,Until the Hunter,Hope Sandoval the Warm Inventions,79,81,10,13,Tendril Tales,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 30, 2016",2016,39,Sirens,Nicolas Jaar,79,80,15,32,Other People,"['Electronic', 'Pop/Rock']"
+"September 16, 2016",2016,37,Preoccupations,Preoccupations,79,83,21,36,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 5, 2016",2016,5,Commontime,Field Music,79,85,21,12,Memphis Industries,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 2, 2016",2016,35,Mystre,La Femme,79,81,,0,,[]
+"May 27, 2016",2016,21,The Yard Work Simulator,Max Graef,79,0,8,0,Ninja Tune,"['Electronic', 'House', 'Pop/Rock', 'Club/Dance', 'Left-Field House']"
+"October 28, 2016",2016,43,You Know What Its Like,Carla dal Forno,79,0,8,0,Blackest Ever Black,['Electronic']
+"May 13, 2016",2016,19,Under the Sun,Mark Pritchard,79,74,11,17,Warp,"['Electronic', 'Pop/Rock']"
+"November 11, 2016",2016,45,Slugger,Sad13,79,68,15,5,Carpark Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 6, 2016",2016,18,Spiritual Songs For Lovers To Sing,LUH,79,80,13,12,Mute,['Pop/Rock']
+"June 17, 2016",2016,24,Magma,Gojira,79,86,12,75,Roadrunner,"['Pop/Rock', 'Heavy Metal']"
+"April 29, 2016",2016,17,Dolls Of Highland,Kyle Craft,79,76,7,8,Sub Pop,['Pop/Rock']
+"September 16, 2016",2016,37,Orphée,Jóhann Jóhannsson,79,83,,0,,[]
+"February 5, 2016",2016,5,Heaven Adores You Original Motion Picture Soundtrack,Elliott Smith,79,0,7,0,Universal,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Lo-Fi', 'Indie Pop', 'Alternative Singer/Songwriter', 'Soundtracks', 'Stage & Screen', 'Sadcore']"
+"October 14, 2016",2016,41,COW Chill Out World!,The Orb,78,0,9,0,Kompakt,"['Electronic', 'Ambient', 'Pop/Rock', 'Ambient Dub']"
+"June 17, 2016",2016,24,I Gemini,Lets Eat Grandma,78,83,17,15,PIAS,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 3, 2016",2016,22,Love You To Death,Tegan and Sara,78,83,24,60,Warner Bros.,['Pop/Rock']
+"February 12, 2016",2016,6,Né So,Rokia Traoré,78,0,,0,,[]
+"January 29, 2016",2016,4,MartyrLoserKing,Saul Williams,78,76,17,9,Fader,['Rap']
+"May 27, 2016",2016,21,Congrats,Holy Fuck,78,85,17,10,Innovative Leisure,"['Electronic', 'Pop/Rock']"
+"September 9, 2016",2016,36,Transcendence,Devin Townsend Project,78,81,7,9,Inside Out Music,"['Pop/Rock', 'Heavy Metal', 'Arena Rock', 'Pop-Metal', 'Progressive Metal', 'Power Metal', 'Guitar Virtuoso', 'Symphonic Metal']"
+"September 9, 2016",2016,36,Away,Okkervil River,78,83,19,16,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"January 22, 2016",2016,3,In the Magic Hour,Aoife ODonovan,78,85,8,4,Yep Roc,"['Folk', 'Americana', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Folk']"
+"November 4, 2016",2016,44,Eternally Even,Jim James,78,80,15,14,Capitol,['Pop/Rock']
+"April 1, 2016",2016,13,The Follower,The Field,78,82,15,6,Kompakt,"['Electronic', 'Pop/Rock']"
+"January 29, 2016",2016,4,Wabi Sabi,Cross Record,78,0,10,0,Ba Da Bing Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'Alternative Singer/Songwriter']"
+"August 5, 2016",2016,31,Boy King,Wild Beasts,78,80,27,36,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 29, 2016",2016,4,Suicide Songs,MONEY,78,71,17,18,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 14, 2016",2016,41,Color,Katie Gately,78,86,12,11,Tri Angle,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"October 28, 2016",2016,43,Telling It Like It Is,Marching Church,78,0,8,0,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Experimental Rock']"
+"September 30, 2016",2016,39,Blue Mountain,Bob Weir,78,0,8,0,Columbia,['Pop/Rock']
+"September 23, 2016",2016,38,Return to Love,LVL UP,78,75,11,8,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"April 22, 2016",2016,16,Nocturnal Koreans,Wire,78,66,19,8,Pink Flag,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 20, 2016",2016,20,2,Mudcrutch,78,63,12,4,Reprise,['Pop/Rock']
+"July 8, 2016",2016,27,Hit Reset,The Julie Ruin,78,83,20,7,Hardly Art,['Pop/Rock']
+"November 11, 2016",2016,45,Ruins,Wolf People,78,0,8,0,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Heavy Metal', 'Neo-Psychedelia', 'Stoner Metal']"
+"September 30, 2016",2016,39,Do Not Disturb,Van der Graaf Generator,78,0,7,0,Esoteric Antenna,['Pop/Rock']
+"September 2, 2016",2016,35,Trick,Jamie T,78,79,13,16,Virgin EMI,['Pop/Rock']
+"August 5, 2016",2016,31,Oddments of the Gamble,Nonkeen,78,0,9,0,R&S,['Electronic']
+"April 22, 2016",2016,16,Contrepoint,Nicolas Godin,78,0,11,0,Because,"['Electronic', 'Pop/Rock']"
+"March 4, 2016",2016,9,Of Course You Are,Robert Pollard,78,68,7,4,Fire Records,['Pop/Rock']
+"January 29, 2016",2016,4,Lost Property,Turin Brakes,78,0,7,0,Cooking Vinyl,['Pop/Rock']
+"January 15, 2016",2016,2,Everything Sacred,Yorkston,78,0,8,0,Domino,['Folk']
+"March 11, 2016",2016,10,Painkillers,Brian Fallon,78,80,18,20,Island,[]
+"August 5, 2016",2016,31,Tween,Wye Oak,78,78,8,5,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"May 5, 2016",2016,18,The Colour In Anything,James Blake,78,85,28,249,Polydor,['Electronic']
+"July 8, 2016",2016,27,DJ-Kicks,Jackmaster,78,0,7,0,!K7,"['Electronic', 'House', 'Techno', 'Garage', 'Club/Dance']"
+"May 27, 2016",2016,21,To Be Everywhere Is to Be Nowhere,Thrice,78,83,8,25,Vagrant,['Pop/Rock']
+"October 21, 2016",2016,42,American Football LP2,American Football,78,77,19,32,Polyvinyl,['Post-Rock']
+"July 1, 2016",2016,26,The Bride,Bat for Lashes,78,76,31,50,Warner Bros.,['Pop/Rock']
+"June 24, 2016",2016,25,Tooth,Raime,78,0,11,0,Blackest Ever Black,"['Electronic', 'Club/Dance']"
+"September 23, 2016",2016,38,Ape In Pink Marble,Devendra Banhart,78,69,14,17,Nonesuch Records,['Pop/Rock']
+"June 10, 2016",2016,23,My Way Home,Eli Paperboy Reed,78,0,7,0,Yep Roc,"['R&B', 'Soul', 'Pop/Rock', 'Neo-Soul', 'Blue-Eyed Soul']"
+"November 4, 2016",2016,44,Goodbye Terrible Youth,American Wrestlers,78,0,14,0,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,How to Dance,Mount Moriah,78,0,8,0,Merge,['Pop/Rock']
+"October 7, 2016",2016,40,First Ditch Effort,NOFX,78,73,10,16,Fat Wreck Chords,"['Punk', 'Pop/Rock']"
+"September 16, 2016",2016,37,ArtScience,Robert Glasper Experiment,78,0,8,0,Blue Note,"['Jazz', 'R&B', 'Contemporary Jazz', 'Jazz-Funk', 'Electric Jazz']"
+"April 1, 2016",2016,13,Next Thing,Frankie Cosmos,78,86,19,30,Bayonet Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Lo-Fi', 'Indie Pop', 'Twee Pop']"
+"January 29, 2016",2016,4,Cayamo Sessions at Sea,Buddy Miller Friends,78,0,8,0,New West,"['Country', 'Singer/Songwriter', 'Americana', 'Pop/Rock', 'Country-Folk', 'Country-Rock', 'Neo-Traditionalist Country', 'Country Gospel', 'Blues Gospel']"
+"July 8, 2016",2016,27,Take Her Up to Monto,Róisín Murphy,77,82,21,0,Play It Again Sam,"['Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 29, 2016",2016,17,Paging Mr Proust,The Jayhawks,77,81,14,10,Sham,"['Country', 'Americana', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Country-Rock']"
+"May 6, 2016",2016,18,Will,Julianna Barwick,77,76,22,19,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 20, 2016",2016,20,Fallen Angels,Bob Dylan,77,73,21,23,Columbia,['Pop/Rock']
+"December 2, 2016",2016,48,Awaken My Love!,Childish Gambino,77,85,25,428,Glassnote Entertainment Group,"['Rap', 'R&B', 'Alternative R&B']"
+"January 22, 2016",2016,3,Emotional Mugger,Ty Segall,77,80,29,47,Drag City,['Pop/Rock']
+"November 11, 2016",2016,45,E,E,77,0,9,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Experimental Rock']"
+"October 21, 2016",2016,42,Alone,Pretenders,77,77,17,6,BMG Rights Management,['Pop/Rock']
+"February 26, 2016",2016,8,Grandfeathered,Pinkshinyultrablast,77,76,9,9,Shellshock,"['Pop/Rock', 'Alternative/Indie Rock', 'Shoegaze']"
+"September 2, 2016",2016,35,We Move,James Vincent McMorrow,77,76,8,9,"James Mahogany Books, Ltd.","['Folk', 'Pop/Rock', 'Alternative/Indie Rock']"
+"June 17, 2016",2016,24,Emotions and Math,Margaret Glaspy,77,0,7,0,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"August 5, 2016",2016,31,Impossible Dream,Haley Bonar,77,70,10,4,Gndwire Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop']"
+"January 15, 2016",2016,2,The Revenant Original Motion Picture Soundtrack,Ryuichi Sakamoto,77,79,7,7,Milan,"['Classical', 'Soundtracks', 'Stage & Screen', 'Film Score']"
+"February 19, 2016",2016,7,Neo,So Pitted,77,0,12,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 11, 2016",2016,10,Second Love,Emmy the Great,77,87,15,6,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 11, 2016",2016,45,Monument Builders,Loscil,77,0,11,0,Kranky,"['Electronic', 'Avant-Garde', 'Pop/Rock', 'Post-Rock', 'Experimental Techno', 'Experimental Electronic', 'Ambient Techno']"
+"October 21, 2016",2016,42,Lighthouse,David Crosby,77,0,8,0,Groundup Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"October 7, 2016",2016,40,Smash the System,Luke Haines,77,0,9,0,Cherry Red,['Pop/Rock']
+"May 6, 2016",2016,18,Cult Following,Little Scream,77,0,7,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"February 5, 2016",2016,5,No More Lamps in the Morning,Josephine Foster,77,0,9,0,Fire Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Neo-Psychedelia', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"February 19, 2016",2016,7,Basar,Africaine 808,77,0,7,0,Golf Channel,"['Electronic', 'Pop/Rock']"
+"April 1, 2016",2016,13,A Mineral Love,Bibio,77,74,11,5,Warp,"['Electronic', 'Alternative/Indie Rock', 'Indie Electronic', 'Post-Rock']"
+"August 12, 2016",2016,32,Flood Network,Katie Dey,77,75,7,6,Joy Void,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Experimental Rock']"
+"April 1, 2016",2016,13,Are You Serious,Andrew Bird,77,76,22,16,Universal Music,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock']"
+"September 9, 2016",2016,36,The End of Comedy,Drugdealer,77,0,9,0,Weird World,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Neo-Psychedelia', 'Alternative Singer/Songwriter']"
+"April 29, 2016",2016,17,Konono No1 Meets Batida,Konono No 1,77,0,11,0,Crammed Discs,['International']
+"June 10, 2016",2016,23,American Tunes,Allen Toussaint,77,0,13,0,Nonesuch,['Jazz']
+"August 26, 2016",2016,34,And the Anonymous Nobody,De La Soul,77,76,28,35,A.O.I. Records,"['Rap', 'Alternative Rap']"
+"February 19, 2016",2016,7,Void BeatsInvocation Trex,Cavern of Anti-Matter,77,80,14,6,Duophonic,['Pop/Rock']
+"October 7, 2016",2016,40,Day Breaks,Norah Jones,77,84,10,40,Blue Note,"['Jazz', 'Pop/Rock']"
+"September 16, 2016",2016,37,FurFour,Grumbling Fur,77,0,13,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Rock', 'Experimental Rock', 'Experimental Electronic']"
+"April 1, 2016",2016,13,III,Moderat,77,75,13,32,Mute,['Electronic']
+"September 16, 2016",2016,37,Mykki,Mykki Blanco,77,69,14,10,!K7,"['Rap', 'Pop/Rock']"
+"June 17, 2016",2016,24,Atomic,Mogwai,77,77,23,19,Temporary Residence,['Alternative Pop/Rock']
+"June 24, 2016",2016,25,Delirium Tremens,Mick Harvey,77,0,10,0,Mute,"['Alternative/Indie Rock', 'Indie Rock', 'Experimental Rock', 'Neo-Psychedelia', 'Tribute Albums']"
+"July 1, 2016",2016,26,The Soft Bounce,Beyond the Wizards Sleeve,77,83,10,4,Phantasy Sound,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 8, 2016",2016,27,IV,BadBadNotGood,77,84,17,35,Innovative Leisure,['Jazz']
+"April 1, 2016",2016,13,Felder,Jan St Werner,77,0,7,0,Thrill Jockey,"['Electronic', 'Avant-Garde', 'Pop/Rock', 'Experimental Ambient', 'Experimental Electronic']"
+"July 22, 2016",2016,29,Ambulance,The Amazing,77,0,9,0,Partisan,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Dream Pop', 'Neo-Psychedelia', 'Indie Folk']"
+"November 18, 2016",2016,46,Redemption,Dawn Richard,77,83,12,12,Local Action,"['R&B', 'Alternative R&B', 'Left-Field Pop']"
+"July 15, 2016",2016,28,Apache,Aaron Neville,77,0,7,0,Tell It,"['R&B', 'Adult Contemporary R&B', 'New Orleans R&B', 'Retro-Soul']"
+"February 19, 2016",2016,7,Marlon Williams,Marlon Williams,77,0,13,0,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 12, 2016",2016,6,Spilt Milk,Peter Astor,76,0,10,0,Slumberland,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop']"
+"July 15, 2016",2016,28,32 Levels,Clams Casino,76,72,19,21,Columbia,"['Rap', 'Pop/Rock']"
+"February 19, 2016",2016,7,Traditional Synthesizer Music,Venetian Snares,76,77,11,6,Planet Mu,"['Electronic', 'Techno', 'Pop/Rock', 'Experimental Techno', 'IDM', 'Breakcore']"
+"April 1, 2016",2016,13,NA,Nisennenmondai,76,0,10,0,On-U Sound,"['Pop/Rock', 'Alternative/Indie Rock', 'Post-Rock', 'Instrumental Rock']"
+"May 20, 2016",2016,20,Skip a Sinking Stone,Mutual Benefit,76,0,13,0,Mom + Pop Music,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 3, 2016",2016,22,Let The Record Show Dexys Do Irish And Country Soul,Dexys,76,0,8,0,Rhino,['Pop/Rock']
+"May 27, 2016",2016,21,British Road Movies,Kate Jackson,76,0,9,0,Hoo Ha Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,Plaza,Quilt,76,0,14,0,Mexican Summer,['Pop/Rock']
+"August 26, 2016",2016,34,Phase Zero,Morgan Delt,76,0,10,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 22, 2016",2016,3,MFANS,John Cale,76,76,13,7,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 16, 2016",2016,37,Light Falls,Wrekmeister Harmonies,76,0,8,0,Thrill Jockey,"['Experimental', 'Avant-Garde', 'Pop/Rock', 'Alternative/Indie Rock', 'Heavy Metal', 'Experimental Rock', 'Doom Metal', 'Black Metal']"
+"May 13, 2016",2016,19,Should I Remain Here at Sea,Islands,76,84,9,7,Manqué Music,['Pop/Rock']
+"March 4, 2016",2016,9,The Rarity of Experience,Chris Forsyth the Solar Motel Band,76,0,8,0,No Quarter,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 19, 2016",2016,7,Side Pony,Lake Street Dive,76,80,11,7,Nonesuch,['Pop/Rock']
+"November 11, 2016",2016,45,Goodnight City,Martha Wainwright,76,0,12,0,PIAS,['Pop/Rock']
+"May 20, 2016",2016,20,Strangers,Marissa Nadler,76,82,22,32,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 3, 2016",2016,22,Ha Ha He,Mourn,76,83,11,6,Captured Tracks,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 21, 2016",2016,42,Lazarus Original Cast Recording,Various Artists,76,0,8,0,Columbia,"['Pop/Rock', 'Stage & Screen', 'Cast Recordings']"
+"November 25, 2016",2016,47,Remain Calm,Mica Levi,76,0,9,0,Slip,"['Electronic', 'Experimental', 'Avant-Garde', 'Pop/Rock', 'Neo-Classical']"
+"September 30, 2016",2016,39,All Your Happy Life,The Wytches,76,66,7,8,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 17, 2016",2016,24,No Grace,PAWS,76,0,9,0,FatCat Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock']"
+"November 4, 2016",2016,44,Here,Alicia Keys,76,86,14,115,RCA,"['R&B', 'Adult Contemporary R&B', 'Contemporary R&B']"
+"August 19, 2016",2016,33,Exploded View,Exploded View,76,80,10,5,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 19, 2016",2016,7,Ultimate Care II,Matmos,76,76,17,17,Thrill Jockey,['Electronic']
+"February 19, 2016",2016,7,Livin on a High Note,Mavis Staples,76,67,14,10,Epitaph,"['R&B', 'Pop/Rock']"
+"March 18, 2016",2016,11,Gensho,Boris,76,0,10,0,Relapse Records,"['Avant-Garde', 'Pop/Rock']"
+"October 21, 2016",2016,42,Integrity Blues,Jimmy Eat World,76,77,12,28,RCA,"['Pop/Rock', 'Alternative/Indie Rock', 'Emo-Pop']"
+"May 20, 2016",2016,20,Dangerous Woman,Ariana Grande,76,84,14,2083,Republic,"['Vocal', 'Dance-Pop']"
+"September 9, 2016",2016,36,Splendor Misery,clipping,76,82,11,45,Sub Pop Records,['Rap']
+"October 14, 2016",2016,41,Do Hollywood,Lemon Twigs,76,81,14,17,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 14, 2016",2016,41,Ruminations,Conor Oberst,76,84,26,14,Nonesuch,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 1, 2016",2016,13,Lost Time,Tacocat,76,0,13,0,Hardly Art,['Pop/Rock']
+"December 2, 2016",2016,48,Darkness and Light,John Legend,76,67,10,42,Columbia,"['R&B', 'Contemporary Singer/Songwriter', 'Adult Contemporary R&B', 'Contemporary R&B']"
+"April 8, 2016",2016,14,A Cure for Loneliness,Peter Wolf,76,0,7,0,Concord,"['R&B', 'Soul', 'Country', 'Americana', 'Pop/Rock', 'Contemporary Singer/Songwriter', 'Contemporary Pop/Rock', 'American Trad Rock', 'Rock & Roll', 'Roots Rock', 'Retro-Soul']"
+"March 18, 2016",2016,11,Aa,Baauer,76,75,11,20,LuckyMe,"['Electronic', 'Pop/Rock', 'Club/Dance', 'Bass Music', 'EDM']"
+"March 4, 2016",2016,9,Before A Million Universes,Big Ups,76,76,12,5,Exploding in Sound,['Pop/Rock']
+"October 28, 2016",2016,43,Babes Never Die,Honeyblood,76,0,19,0,Fat Cat,"['Pop/Rock', 'Alternative/Indie Rock', 'Noise Pop']"
+"August 19, 2016",2016,33,Jumping the Shark,Alex Cameron,76,85,9,6,Secretly Canadian,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 19, 2016",2016,7,Principe del Norte,Prins Thomas,76,0,12,0,Smalltown Supersound,"['Electronic', 'Ambient', 'House', 'Downtempo', 'Pop/Rock', 'Club/Dance', 'Alternative Dance', 'Neo-Disco', 'Ambient House']"
+"April 1, 2016",2016,13,Super,Pet Shop Boys,75,76,22,51,X2,"['Electronic', 'Pop/Rock', 'Dance-Pop', 'Alternative Dance']"
+"May 27, 2016",2016,21,Skin,Flume,75,84,11,209,Mom + Pop Music,"['Pop', 'Electronic', 'Garage', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance', 'Indie Electronic', 'Dubstep', 'EDM', 'Left-Field Pop']"
+"April 1, 2016",2016,13,IV,Black Mountain,75,81,21,16,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia', 'Space Rock']"
+"January 29, 2016",2016,4,Promise Everything,Basement,75,70,10,8,Run for Cover Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 17, 2016",2016,24,Blood Moon,M Craft,75,0,8,0,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Chamber Pop']"
+"February 19, 2016",2016,7,The Heretics Bargain,Rangda,75,0,11,0,Drag City,['Pop/Rock']
+"February 19, 2016",2016,7,Love Yes,TEEN,75,75,16,4,Carpark Records,['Pop/Rock']
+"February 13, 2016",2016,6,The Life Of Pablo,Kanye West,75,78,35,2144,Def Jam / GOOD,['Rap']
+"May 6, 2016",2016,18,Bloom Forever,Thomas Cohen,75,0,11,0,PIAS,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 22, 2016",2016,16,Triangle,Susanna,75,0,11,0,Susannasonata,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 15, 2016",2016,28,Cistern,Jherek Bischoff,75,0,10,0,The Leaf Label,['Pop/Rock']
+"February 19, 2016",2016,7,Lola,Carrie Rodriguez,75,0,7,0,Luz,"['Country', 'Folk', 'Latin', 'Americana', 'Mexican Traditions', 'Norteno', 'Tejano', 'Ranchera']"
+"October 14, 2016",2016,41,Overnight,Josienne Clarke Ben Walker,75,0,7,0,Rough Trade,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Folk', 'British Folk']"
+"June 3, 2016",2016,22,Minor Victories,Minor Victories,75,73,17,17,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 29, 2016",2016,30,Hypercaffium Spazzinate,Descendents,75,79,22,13,Epitaph,['Pop/Rock']
+"June 24, 2016",2016,25,Its Hard for Me to Say Im Sorry,Christian Fennesz,75,80,12,5,Editions Mego,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'Experimental Ambient']"
+"August 12, 2016",2016,32,SremmLife 2,Rae Sremmurd,75,69,13,54,Interscope,['Rap']
+"September 23, 2016",2016,38,Writing of Blues Yellows,Billie Marten,75,81,8,11,RCA Victor,['Pop/Rock']
+"April 1, 2016",2016,13,Adventure,Shonen Knife,75,0,7,0,Good Charamel Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 22, 2016",2016,3,Each Other,Aidan Knight,75,0,7,0,Outside Music,['Pop/Rock']
+"December 9, 2016",2016,49,4 Your Eyez Only,J Cole,75,76,14,312,Dreamville,"['Rap', 'R&B']"
+"June 10, 2016",2016,23,Strange Little Birds,Garbage,75,81,26,49,Vagrant,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,I Like It When You Sleep For You Are So Beautiful Yet So Unaware of It,The 1975,75,82,24,216,Interscope,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"November 11, 2016",2016,45,Glass,Illum Sphere,75,0,8,0,Ninja Tune,['Electronic']
+"May 20, 2016",2016,20,Kamikaze,The So So Glos,75,0,11,0,Votiv,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 9, 2016",2016,36,Sunlit Youth,Local Natives,75,83,12,26,Loma Vista Recordings,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop']"
+"April 15, 2016",2016,15,Crab Day,Cate Le Bon,75,80,21,7,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 5, 2016",2016,5,Pool,Porches,75,78,16,34,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 23, 2016",2016,38,Care,How to Dress Well,75,78,16,18,Weird World,['Electronic']
+"August 12, 2016",2016,32,Animal Races,Cool Ghouls,75,0,9,0,Empty Cellar,"['Pop/Rock', 'Alternative/Indie Rock', 'Neo-Psychedelia', 'Garage Rock Revival']"
+"September 23, 2016",2016,38,Shine a Light Field Recordings from the Great American Railroad,Billy Bragg,75,0,11,0,Cooking Vinyl,['Pop/Rock']
+"August 26, 2016",2016,34,Between Waves,The Album Leaf,75,0,8,0,Relapse Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Dream Pop', 'Post-Rock', 'Experimental Rock']"
+"April 15, 2016",2016,15,Utility,Kowton,75,0,8,0,Livity Sound Recordings,['Electronic']
+"February 5, 2016",2016,5,The Gamble,Nonkeen,75,85,13,6,R&S Records,['Electronic']
+"March 4, 2016",2016,9,More Rain,M Ward,75,67,16,11,Merge,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"January 22, 2016",2016,3,JesuSun Kil Moon,Jesu,75,77,8,10,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"October 7, 2016",2016,40,Requiem,Goat,75,66,20,8,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 30, 2016",2016,39,Eusa,Yann Tiersen,75,83,11,4,Mute,"['Classical', 'Pop/Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"September 16, 2016",2016,37,Femejism,Deap Vally,74,0,13,0,Cooking Vinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 23, 2016",2016,38,Heads Up,Warpaint,74,75,24,35,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 18, 2016",2016,46,Familiar Touch,DIANA,74,0,8,0,Universal,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"May 13, 2016",2016,19,House in the Tall Grass,Kikagaku Moyo,74,83,8,4,Guruguru Brain,"['Folk-Rock', 'Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'Neo-Psychedelia', 'Space Rock', 'Acid Folk']"
+"February 19, 2016",2016,7,Yes Im a Witch Too,Yoko Ono,74,66,14,5,Manimal Vinyl,['Pop/Rock']
+"June 10, 2016",2016,23,Patience,The Invisible,74,0,19,0,Ninja Tune,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 10, 2016",2016,23,What One Becomes,Sumac,74,0,10,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Metal', 'Heavy Metal', 'Noise-Rock', 'Sludge Metal', 'Post-Metal']"
+"September 2, 2016",2016,35,Foreverland,The Divine Comedy,74,76,12,14,Divine Comedy Records,['Pop/Rock']
+"June 17, 2016",2016,24,Post Plague,Odonis Odonis,74,0,8,0,Felte,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Noise-Rock']"
+"July 29, 2016",2016,30,Viola Beach,Viola Beach,74,77,8,9,Fuller Beans Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"August 19, 2016",2016,33,Beulah,John Paul White,74,88,7,4,Single Lock Records,['Pop/Rock']
+"September 30, 2016",2016,39,Toy,Yello,74,73,10,6,Polydor,['Electronic']
+"June 17, 2016",2016,24,Undercurrent,Sarah Jarosz,74,83,7,4,Sugar Hill,"['Folk', 'Americana', 'Pop/Rock', 'Contemporary Singer/Songwriter', 'Contemporary Folk']"
+"March 4, 2016",2016,9,Echtzeit,Qluster,74,0,9,0,Bureau B,"['Electronic', 'Experimental', 'Avant-Garde', 'Pop/Rock', 'Experimental Ambient', 'Experimental Electronic', 'Kraut Rock']"
+"February 19, 2016",2016,7,Life of Pause,Wild Nothing,74,78,25,31,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 8, 2016",2016,27,Command Your Weather,Big Business,74,0,9,0,Joyful Noise,"['Pop/Rock', 'Heavy Metal']"
+"April 22, 2016",2016,16,Always Strive and Prosper,AAP Ferg,74,73,15,85,Polo Grounds Music,['Rap']
+"March 25, 2016",2016,12,Stiff,White Denim,74,80,17,7,Downtown,['Pop/Rock']
+"April 8, 2016",2016,14,Man About Town,Mayer Hawthorne,74,77,8,6,Vagrant,"['R&B', 'Pop/Rock', 'Retro-Soul', 'Alternative R&B']"
+"March 25, 2016",2016,12,Primitives,Bayonne,74,0,9,0,Mom + Pop Music,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Experimental Rock', 'Experimental Ambient']"
+"January 22, 2016",2016,3,Infinite Summer,NzcaLines,74,0,10,0,Memphis Industries,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 15, 2016",2016,2,Cautionary Tale,Dylan LeBlanc,74,0,9,0,Single Lock Records,"['Country', 'Pop/Rock']"
+"September 16, 2016",2016,37,The Small Hours,Matt Berry,74,0,7,0,PIAS,[]
+"October 7, 2016",2016,40,The Last Hero,Alter Bridge,74,80,8,31,Alter Bridge Recordings,"['Pop/Rock', 'Heavy Metal', 'Hard Rock', 'Post-Grunge']"
+"September 9, 2016",2016,36,Lady Parts,Fudge,74,0,7,0,Lex,"['Electronic', 'Rap', 'Underground Rap', 'Left-Field Hip-Hop']"
+"August 26, 2016",2016,34,Los Nios Sin Miedo,The Parrots,74,0,,0,,[]
+"May 13, 2016",2016,19,The Heart Speaks in Whispers,Corinne Bailey Rae,74,78,17,19,Virgin,"['R&B', 'Adult Alternative Pop/Rock', 'Adult Contemporary R&B']"
+"January 15, 2016",2016,2,Not to Disappear,Daughter,74,79,26,61,Glassnote Entertainment Group,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 1, 2016",2016,13,Metal Resistance,Babymetal,74,84,8,68,Ear Music,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal']"
+"October 28, 2016",2016,43,The Stage,Avenged Sevenfold,74,86,9,70,Capitol,"['Emo', 'Pop/Rock', 'Alternative/Indie Rock', 'Post-Hardcore']"
+"September 9, 2016",2016,36,Same Language Different Worlds,Tim Burgess,74,0,8,0,O Genesis,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 1, 2016",2016,13,Bang Zoom Crazy Hello,Cheap Trick,74,73,12,13,Big Machine Records,"['Pop/Rock', 'Contemporary Pop/Rock', 'Album Rock', 'Hard Rock', 'Arena Rock']"
+"August 19, 2016",2016,33,25 25,Factory Floor,74,0,23,0,DFA,"['Electronic', 'Pop/Rock', 'Club/Dance']"
+"August 19, 2016",2016,33,Endless,Frank Ocean,74,85,13,253,Def Jam,[]
+"June 10, 2016",2016,23,BloodSugarSecsTraffic,The Gotobeds,74,0,8,0,Sub Pop Records,['Pop/Rock']
+"February 5, 2016",2016,5,Thought Rock Fish Scale,Nap Eyes,74,68,12,4,Paradise of Bachelors,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 28, 2016",2016,43,Lady Wood,Tove Lo,74,87,16,366,Island,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Dance-Pop', 'Alternative Pop/Rock']"
+"March 11, 2016",2016,10,Luneworks,Mmoths,74,77,9,6,Because Music,"['Electronic', 'Club/Dance']"
+"October 21, 2016",2016,42,Big Box of Chocolates,Hooton Tennis Club,74,76,8,5,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 22, 2016",2016,29,Afro-Haitian Experimental Orchestra,Afro-Haitian Experimental Orchestra,74,0,7,0,Glitterbeat,['International']
+"September 30, 2016",2016,39,Keep Me Singing,Van Morrison,74,85,10,6,Caroline,[]
+"February 12, 2016",2016,6,Fever Daydream,The Black Queen,74,81,7,11,The Black Queen,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Dance']"
+"March 25, 2016",2016,12,We Disappear,The Thermals,74,73,16,7,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 16, 2016",2016,37,Hard II Love,Usher,74,74,8,25,RCA,"['R&B', 'Contemporary R&B']"
+"January 8, 2016",2016,1,Leave Me Alone,Hinds,74,76,25,45,Mom & Pop Music,['Pop/Rock']
+"September 30, 2016",2016,39,Dusk,Ultimate Painting,74,0,14,0,Trouble in Mind,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 1, 2016",2016,26,Summer 08,Metronomy,74,75,23,28,Because Music,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance']"
+"July 1, 2016",2016,26,GGGS,GGGS,74,0,9,0,In the Red Records,['Pop/Rock']
+"May 13, 2016",2016,19,Down in Heaven,Twin Peaks,74,69,24,9,Grand Jury,['Pop/Rock']
+"October 21, 2016",2016,42,The Deaner Album,The Dean Ween Group,74,0,7,0,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Lo-Fi', 'Comedy Rock']"
+"August 26, 2016",2016,34,How to Be a Human Being,Glass Animals,74,87,16,122,Harvest,['Pop/Rock']
+"June 17, 2016",2016,24,Weaves,Weaves,74,0,11,0,Kanine Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 18, 2016",2016,46,HardwiredTo Self-Destruct,Metallica,73,79,29,392,Rhino,"['Heavy Metal', 'Hard Rock']"
+"September 9, 2016",2016,36,Wild World,Bastille,73,84,10,114,Capitol,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'New Wave/Post-Punk Revival']"
+"March 4, 2016",2016,9,Long Way Home,Lpsley,73,83,,0,,[]
+"August 19, 2016",2016,33,Roosevelt,Roosevelt,73,88,9,18,City Slang,"['Electronic', 'Pop/Rock', 'Club/Dance', 'Indie Electronic', 'Synth Pop', 'Tech-House']"
+"January 28, 2016",2016,4,Anti,Rihanna,73,79,31,2119,Roc Nation,['Pop/Rock']
+"February 5, 2016",2016,5,Funs Cool,The Prettiots,73,0,10,0,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop']"
+"April 15, 2016",2016,15,The Diary,J Dilla,73,80,18,18,Mass Appeal,"['Rap', 'Pop/Rock', 'Underground Rap', 'Midwest Rap', 'Left-Field Hip-Hop']"
+"July 8, 2016",2016,27,Ellipsis,Biffy Clyro,73,68,19,29,Warner Bros.,['Pop/Rock']
+"May 27, 2016",2016,21,Everythings Beautiful,Robert Glasper,73,73,11,4,Sony Legacy,"['Jazz', 'R&B', 'Pop/Rock', 'Adult Contemporary R&B', 'Alternative Rap', 'Contemporary Jazz', 'Alternative R&B']"
+"June 3, 2016",2016,22,Means,Fews,73,0,8,0,PIAS,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 16, 2016",2016,37,The Wink,Tim Presley,73,0,8,0,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Neo-Psychedelia']"
+"September 16, 2016",2016,37,Tidal Wave,Taking Back Sunday,73,78,7,9,Hopeless Records,"['Emo', 'Pop/Rock', 'Alternative/Indie Rock', 'Emo-Pop', 'Punk-Pop', 'Screamo']"
+"July 29, 2016",2016,30,Till the Tomb,Beaty Heart,73,0,7,0,N/A,['Pop/Rock']
+"February 5, 2016",2016,5,Human Ceremony,Sunflower Bean,73,74,18,14,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 30, 2016",2016,39,13,Supersilent,73,0,7,0,Smalltown Supersound,"['Jazz', 'Avant-Garde', 'Pop/Rock', 'Experimental Rock', 'Free Improvisation']"
+"August 19, 2016",2016,33,One Day All of This Wont Matter Any More,Slow Club,73,78,16,4,Moshi Moshi Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 29, 2016",2016,17,Last Evenings on Earth,Melt Yourself Down,73,0,8,0,The Leaf Label,['Pop/Rock']
+"February 12, 2016",2016,6,My Wild West,Lissie,73,82,13,12,Thirty Tigers,['Pop/Rock']
+"January 22, 2016",2016,3,Love Over Will,Alex Smoke,73,0,7,0,R&S,"['Electronic', 'Techno', 'Experimental Techno']"
+"March 18, 2016",2016,11,Brute,Fatima Al Qadiri,73,78,15,10,Hyperdub,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 1, 2016",2016,13,Little Windows,Teddy ThompsonKelly Jones,73,0,7,0,Cooking Vinyl,"['Country', 'Folk', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative Singer/Songwriter', 'Country-Pop']"
+"February 12, 2016",2016,6,Good Advice,Basia Bulat,73,0,15,0,Secret City Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 19, 2016",2016,7,Century Plaza,Dan Sartain,73,0,8,0,One Little Indian,['Pop/Rock']
+"May 6, 2016",2016,18,As If Apart,Chris Cohen,73,0,8,0,Captured Tracks,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Neo-Psychedelia']"
+"November 11, 2016",2016,45,Welcome To Sideways,Simian Mobile Disco,73,75,8,6,Delicacies,"['Electronic', 'House']"
+"January 22, 2016",2016,3,The Catastrophist,Tortoise,73,69,29,9,Thrill Jockey,['Pop/Rock']
+"May 20, 2016",2016,20,The Triad,Pantha du Prince,73,0,19,0,Rough Trade,"['Electronic', 'Pop/Rock']"
+"October 28, 2016",2016,43,Third World Pyramid,The Brian Jonestown Massacre,73,80,11,4,A Recordings,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia']"
+"January 22, 2016",2016,3,Moth,Chairlift,73,77,21,43,Columbia,['Pop/Rock']
+"May 13, 2016",2016,19,Tired of Tomorrow,Nothing,73,87,18,19,Relapse Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Noise-Rock', 'Shoegaze']"
+"January 15, 2016",2016,2,Curve of the Earth,Mystery Jets,73,74,16,14,Caroline,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 2, 2016",2016,35,Clinging to a Dream,Silver Apples,73,0,7,0,Chicken Coop,['Electronic']
+"April 1, 2016",2016,13,Pussys Dead,Autolux,73,76,13,7,Columbia,['Pop/Rock']
+"January 29, 2016",2016,4,Night Fiction,Cian Nugent,73,0,9,0,Woodsist,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia', 'Guitar Virtuoso']"
+"July 8, 2016",2016,27,Black Bubblegum,Eric Copeland,73,0,11,0,DFA,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 22, 2016",2016,29,Everybody Looking,Gucci Mane,72,78,13,44,Atlantic,['Rap']
+"May 13, 2016",2016,19,Ullages,Eagulls,72,0,21,0,PTKF,['Pop/Rock']
+"November 11, 2016",2016,45,Highway Songs,Papa M,72,0,13,0,Drag City,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi', 'Indie Electronic', 'Post-Rock', 'Experimental Rock', 'Indie Folk', 'Slowcore']"
+"March 25, 2016",2016,12,Hitch,The Joy Formidable,72,68,14,10,The Joy Formidable,"['Alternative/Indie Rock', 'Indie Rock']"
+"May 6, 2016",2016,18,Get Gone,Seratones,72,0,10,0,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 10, 2016",2016,23,Colvin Earle,Colvin Earle,72,0,9,0,Fantasy,['Pop/Rock']
+"May 27, 2016",2016,21,Kidsticks,Beth Orton,72,83,23,7,Anti,"['Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter']"
+"November 25, 2016",2016,47,Future Standards,Howe Gelb,72,0,7,0,Fire America,"['Jazz', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Religious', 'Piano Jazz']"
+"October 14, 2016",2016,41,Building a Beginning,Jamie Lidell,72,0,11,0,Jajulin,"['R&B', 'Alternative R&B']"
+"September 16, 2016",2016,37,Were All Gonna Die,Dawes,72,50,7,6,Hub Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 29, 2016",2016,17,Luck or Magic,Britta Phillips,72,0,8,0,Double Feature,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Dream Pop']"
+"April 22, 2016",2016,16,Take All My Loves Nine Shakespeare Sonnets,Rufus Wainwright,72,64,13,5,DG Deutsche Grammophon,"['Classical', 'Vocal', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Chamber Pop', 'Classical Crossover', 'Vocal Music']"
+"May 27, 2016",2016,21,X-Communicate,Kristin Kontrol,72,77,10,7,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"March 18, 2016",2016,11,New Misery,Cullen Omori,72,0,8,0,Sub Pop Records,['Pop/Rock']
+"April 29, 2016",2016,17,White Hot Moon,Pity Sex,72,0,14,0,Run for Cover Records,['Pop/Rock']
+"June 24, 2016",2016,25,Autodrama,Puro Instinct,72,0,9,0,Manifesto Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Indie Pop', 'Dream Pop', 'Chillwave']"
+"November 11, 2016",2016,45,Jessica Rabbit,Sleigh Bells,72,85,25,20,Omnian,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Indie Electronic', 'Noise Pop']"
+"October 28, 2016",2016,43,Clear Shot,TOY,72,86,17,7,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 4, 2016",2016,9,United Crushers,Poliça,72,74,19,0,Mom + Pop Music,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 5, 2016",2016,5,The Psychedelic Swamp,Dr Dog,72,68,9,9,Anti/Epitaph,"['Pop/Rock', 'Alternative Pop/Rock']"
+"February 12, 2016",2016,6,Hiperasia,El Guincho,72,0,9,0,Everlasting,"['R&B', 'Latin', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Indie Pop', 'Alternative R&B', 'Alternative Latin']"
+"May 13, 2016",2016,19,Taste,Islands,72,85,9,4,Manqué Music,['Pop/Rock']
+"February 26, 2016",2016,8,God Dont Never Change The Songs of Blind Willie Johnson,Various Artists,72,0,9,0,Alligator Records,"['Blues', 'Pop/Rock']"
+"September 23, 2016",2016,38,Departed Glories,Biosphere,72,0,8,0,Smalltown Supersound,"['Electronic', 'Ambient', 'Pop/Rock']"
+"July 15, 2016",2016,28,You Got Me Singing,Amanda Palmer,72,0,7,0,Cooking Vinyl,"['Folk', 'Pop/Rock']"
+"September 9, 2016",2016,36,Goodbye to Language,Daniel Lanois,72,0,7,0,Anti-,"['Electronic', 'Ambient', 'Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock']"
+"August 26, 2016",2016,34,Anything but Words,Banks Steelz,72,75,13,18,Warner Bros.,"['Rap', 'Alternative/Indie Rock']"
+"May 20, 2016",2016,20,I Still Do,Eric Clapton,72,70,12,6,ADA,"['Pop/Rock', 'Contemporary Pop/Rock', 'Album Rock']"
+"September 30, 2016",2016,39,Take Control,Slaves,72,75,12,13,Virgin EMI,"['Punk', 'Pop/Rock', 'Punk/New Wave']"
+"October 14, 2016",2016,41,Sport,Powell,72,75,13,4,XL,"['Electronic', 'Pop/Rock']"
+"November 18, 2016",2016,46,Do Easy,Tasseomancy,72,0,11,0,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Dream Pop', 'Neo-Psychedelia']"
+"July 22, 2016",2016,29,Look Park,Look Park,72,0,,0,,[]
+"December 9, 2016",2016,49,The Rest Is Scenery,Richard Youngs,72,0,7,0,Glass Records Redux,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Experimental Rock']"
+"October 14, 2016",2016,41,Every Now Then,Jagwar Ma,72,74,13,9,Mom + Pop Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 15, 2016",2016,15,BBF Hosted By DJ Escrow,Babyfather,72,0,11,0,Hyperdub,"['Electronic', 'Pop/Rock']"
+"June 10, 2016",2016,23,Piano,Alexis Taylor,72,0,12,0,Moshi Moshi Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative Singer/Songwriter']"
+"May 13, 2016",2016,19,Cut and Paste,Oscar,72,84,8,5,Wichita,"['Indie Electronic', 'Indie Pop', 'Left-Field Pop']"
+"February 5, 2016",2016,5,Is the Is Are,DIIV,72,76,25,52,Captured Tracks,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 10, 2016",2016,23,Jackie Lynn,Jackie Lynn,72,0,8,0,Thrill Jockey,"['Jazz', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"November 11, 2016",2016,45,Long Live the Angels,Emeli Sandé,72,79,11,0,Capitol,['Pop/Rock']
+"October 7, 2016",2016,40,Revolution Radio,Green Day,72,79,29,234,Reprise,"['Pop/Rock', 'Alternative/Indie Rock', 'Punk Revival', 'Punk-Pop']"
+"June 3, 2016",2016,22,I Wanna Go Back to Detroit City,Andre Williams,72,0,7,0,Bloodshot,['R&B']
+"March 18, 2016",2016,11,Compassion,Lust for Youth,72,0,15,0,Sacred Bones,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'New Wave/Post-Punk Revival']"
+"January 22, 2016",2016,3,Here Come the Rattling Trees,The High Llamas,72,0,10,0,Drag City,['Pop/Rock']
+"February 26, 2016",2016,8,Hills End,DMAs,71,75,9,11,Infectious,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"August 12, 2016",2016,32,Fishing Blues,Atmosphere,71,77,7,20,Rhymesayers Entertainment,"['Rap', 'Alternative Rap', 'Underground Rap']"
+"June 3, 2016",2016,22,Fall Forever,Fear of Men,71,0,9,0,Kanine Records,['Pop/Rock']
+"April 1, 2016",2016,13,Weezer White Album,Weezer,71,85,29,210,Atlantic,"['Alternative/Indie Rock', 'Contemporary Pop/Rock', 'Punk-Pop', 'Power Pop']"
+"August 5, 2016",2016,31,Blossoms,Blossoms,71,78,11,22,Virgin EMI,['Pop/Rock']
+"February 26, 2016",2016,8,Convenanza,Andrew Weatherall,71,0,12,0,Rotters Golf Club,"['Dance', 'Electronic']"
+"January 22, 2016",2016,3,A Coliseum Complex Museum,The Besnard Lakes,71,64,17,8,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 25, 2016",2016,47,This Girls in Love A Bacharach David Songbook,Rumer,71,0,8,0,Rhino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 25, 2016",2016,12,Grapefruit,Kiran Leonard,71,0,15,0,PIAS,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"January 22, 2016",2016,3,ATGCLVLSSCAP,Ulver,71,77,10,7,House of Mythology,"['Metal', 'Pop/Rock', 'Black Metal']"
+"January 15, 2016",2016,2,Guadalupe Plata 2015,Guadalupe Plata,71,0,7,0,Everlasting,"['Blues', 'Blues-Rock']"
+"June 10, 2016",2016,23,Turn to Gold,Diarrhea Planet,71,0,13,0,Infinity Cat Recordings,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 4, 2016",2016,9,Eraser Stargazer,Guerilla Toss,71,0,10,0,DFA,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Post-Rock', 'Experimental Rock', 'Noise-Rock']"
+"November 11, 2016",2016,45,Devil Music,The Men,71,0,8,0,The Men,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Noise-Rock']"
+"January 29, 2016",2016,4,Gumption,Your Friend,71,0,11,0,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"May 13, 2016",2016,19,T R O U B L E,Woodpigeon,71,0,8,0,Where It's At Is Where You Are,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"March 18, 2016",2016,11,Feelin Kinda Free,The Drones,71,83,7,12,MGM,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock', 'Punk Blues']"
+"June 10, 2016",2016,23,The Digging Remedy,Plaid,71,0,13,0,Warp,"['Electronic', 'Techno', 'Pop/Rock', 'Ambient Techno', 'IDM']"
+"June 24, 2016",2016,25,Life in the Dark,The Felice Brothers,71,0,10,0,Yep Roc,['Pop/Rock']
+"September 2, 2016",2016,35,Going Going,The Wedding Present,71,0,15,0,Scopitones,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 21, 2016",2016,42,Savoy Motel,Savoy Motel,71,0,7,0,What's Yr Rupture?,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Retro-Rock']"
+"March 25, 2016",2016,12,Dame Fortune,RJD2,71,0,10,0,RJ's Electrical Connections,"['Rap', 'Left-Field Hip-Hop']"
+"February 26, 2016",2016,8,99 Cents,Santigold,71,74,26,30,Atlantic,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance', 'Indie Electronic', 'Alternative Dance']"
+"June 10, 2016",2016,23,Tell Me if You Like To,Spring King,71,0,11,0,Island,['Pop/Rock']
+"February 26, 2016",2016,8,Summertime Willie Nelson Sings Gershwin,Willie Nelson,71,0,9,0,Sony Music,"['Jazz', 'Country', 'Vocal', 'Pop/Rock', 'Progressive Country', 'Jazz Instrument', 'Guitar Jazz', 'American Popular Song', 'Traditional Country']"
+"March 4, 2016",2016,9,You Know Who You Are,Nada Surf,71,77,16,6,Barsuk,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"November 11, 2016",2016,45,Young Narrator in the Breakers,Pavo Pavo,71,0,7,0,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 15, 2016",2016,15,This Path Tonight,Graham Nash,71,0,9,0,Blue Castle Records,[]
+"February 26, 2016",2016,8,At Hopes Ravine,Holy Esque,71,0,7,0,Beyond The Frequency,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 28, 2016",2016,43,Cant Touch Us Now,Madness,71,74,7,9,Universal,['Pop/Rock']
+"April 29, 2016",2016,17,Sept 5th,dvsn,71,81,7,55,Elektra,"['R&B', 'Contemporary R&B', 'Alternative R&B']"
+"August 26, 2016",2016,34,Glory,Britney Spears,71,84,14,1637,RCA,['Pop/Rock']
+"September 2, 2016",2016,35,Ultra,Zomby,71,60,18,8,Hyperdub,"['Electronic', 'Pop/Rock']"
+"November 11, 2016",2016,45,No Waves,BodyHead,70,0,14,0,Matador,"['Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'Noise-Rock']"
+"July 29, 2016",2016,30,Pigeonheart,DM Stith,70,0,,0,,[]
+"September 23, 2016",2016,38,A Corpse Wired for Sound,Merchandise,70,0,15,0,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 3, 2016",2016,22,Inner Journey Out,Psychic Ills,70,0,8,0,Sacred Bones,['Alternative Pop/Rock']
+"May 27, 2016",2016,21,The Lexicon of Love II,ABC,70,73,8,4,Virgin EMI,"['Pop/Rock', 'Contemporary Pop/Rock', 'Dance-Rock']"
+"November 18, 2016",2016,46,An Odd Entrances,Thee Oh Sees,70,76,10,8,Castle Face,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock', 'Neo-Psychedelia']"
+"March 18, 2016",2016,11,ii,Liima,70,0,8,0,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 30, 2016",2016,39,Human Energy,Machinedrum,70,0,12,0,Ninja Tune,"['Electronic', 'R&B', 'Club/Dance', 'IDM', 'Left-Field Hip-Hop', ""Jungle/Drum'n'Bass"", 'Alternative R&B']"
+"September 16, 2016",2016,37,The Divine Feminine,Mac Miller,70,82,9,124,Warner Bros.,"['Rap', 'Contemporary R&B', 'Alternative Rap', 'Midwest Rap']"
+"June 3, 2016",2016,22,Monolith of Phobos,The Claypool Lennon Delirium,70,86,9,18,ATO,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,Keep It Together,Lily Madeleine,70,80,9,4,New West Records,['Pop/Rock']
+"April 8, 2016",2016,14,Painting of a Panic Attack,Frightened Rabbit,70,77,20,25,Atlantic,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,George Fest A Night to Celebrate the Music of George Harrison Live,Various Artists,70,0,8,0,BMG Rights Management,['Pop/Rock']
+"February 5, 2016",2016,5,Wonderful Crazy Night,Elton John,70,69,17,29,Island,['Pop/Rock']
+"May 27, 2016",2016,21,727,Fifth Harmony,70,78,7,463,Epic,"['Pop', 'Vocal', 'Pop/Rock', 'Dance-Pop', 'Pop Idol', 'Teen Pop']"
+"December 28, 2016",2016,52,Passion Pain Demon Slayin,Kid Cudi,70,83,11,150,Republic,"['Rap', 'Alternative Rap', 'Underground Rap', 'Left-Field Hip-Hop']"
+"September 16, 2016",2016,37,Braver Than We Are,Meat Loaf,70,55,9,12,429 Records,"['Pop/Rock', 'Album Rock', 'Arena Rock']"
+"November 18, 2016",2016,46,24K Magic,Bruno Mars,70,66,14,420,Atlantic,"['Pop', 'R&B', 'Pop/Rock', 'Contemporary R&B', 'Retro-Soul']"
+"September 16, 2016",2016,37,I Remember,AlunaGeorge,70,81,17,38,Island,"['Pop/Rock', 'Dance-Pop', 'Club/Dance', 'Left-Field Pop']"
+"March 11, 2016",2016,10,Good Grief,Lucius,70,70,16,9,Mom + Pop Music,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 1, 2016",2016,13,Three Men and a Baby,Mike the Melvins,70,84,7,5,Sub Pop,['Pop/Rock']
+"April 1, 2016",2016,13,Everything Youve Come to Expect,The Last Shadow Puppets,70,81,28,98,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,LNZNDRF,LNZNDRF,70,0,7,0,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival', 'Experimental Rock']"
+"September 30, 2016",2016,39,Remember Us to Life,Regina Spektor,70,85,16,45,Sire,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 26, 2016",2016,8,For All Kings,Anthrax,70,76,11,26,Megaforce,"['Pop/Rock', 'Heavy Metal']"
+"July 15, 2016",2016,28,Loud Hailer,Jeff Beck,70,75,12,10,Rhino,['Pop/Rock']
+"February 26, 2016",2016,8,The Ridge,Sarah Neufeld,70,0,15,0,Paper Bag Inc,['Pop/Rock']
+"April 1, 2016",2016,13,Amen Goodbye,Yeasayer,70,78,19,19,Mute US,[]
+"April 1, 2016",2016,13,Welcome the Worms,Bleached,70,0,17,0,Dead Oceans Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Punk-Pop']"
+"September 30, 2016",2016,39,The Altar,Banks,70,87,17,195,Harvest,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 15, 2016",2016,2,Death of a Bachelor,Panic! At the Disco,69,80,19,283,Fueled by Ramen Records,['Pop/Rock']
+"June 24, 2016",2016,25,The Mystery Lights,The Mystery Lights,69,0,8,0,Wick Records,['Pop/Rock']
+"October 28, 2016",2016,43,New Skin,CRX,69,83,9,8,Columbia,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"October 28, 2016",2016,43,The Olympians,The Olympians,69,0,8,0,Daptone,"['R&B', 'Retro-Soul', 'R&B Instrumental', 'Deep Funk Revival']"
+"June 10, 2016",2016,23,Throws,Throws,69,0,10,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Rock', 'Synth Pop']"
+"February 19, 2016",2016,7,Need Your Light,Ra Ra Riot,69,74,12,16,Barsuk,"['Pop/Rock', 'Alternative/Indie Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"March 18, 2016",2016,11,Full Circle,Hlos,69,81,,0,,[]
+"March 18, 2016",2016,11,Girl at the End of the World,James,69,74,10,8,Universal Music,['Pop/Rock']
+"April 29, 2016",2016,17,VIEWS,Drake,69,57,31,961,Young Money,"['Rap', 'R&B', 'Contemporary R&B', 'Pop-Rap']"
+"September 9, 2016",2016,36,Calico Review,Allah-Las,69,80,11,5,Mexican Summer,"['Pop/Rock', 'Alternative/Indie Rock', 'Neo-Psychedelia', 'Garage Rock Revival']"
+"March 11, 2016",2016,10,ArrangingTime,Pete Yorn,69,0,11,0,Capitol,['Pop/Rock']
+"September 16, 2016",2016,37,Kindly Now,Keaton Henson,69,81,10,7,PIAS,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Chamber Pop']"
+"April 22, 2016",2016,16,Asphalt for Eden,Dlek,69,0,,0,,[]
+"February 5, 2016",2016,5,Majid Jordan,Majid Jordan,69,73,7,27,Atlantic / Elektra / Warner Music,"['Rap', 'R&B', 'Pop/Rock']"
+"August 12, 2016",2016,32,PartyNextDoor 3,PartyNextDoor,69,67,8,42,OVO Sound,['R&B']
+"February 19, 2016",2016,7,Painting With,Animal Collective,69,76,36,102,Domino,[]
+"January 22, 2016",2016,3,Dystopia,Megadeth,69,81,12,142,Universal,"['Pop/Rock', 'Heavy Metal']"
+"March 25, 2016",2016,12,Mind of Mine,ZAYN,69,79,21,997,RCA,"['Pop', 'R&B', 'Pop/Rock', 'Contemporary R&B', 'Alternative R&B']"
+"January 29, 2016",2016,4,Nevermen,Nevermen,69,71,19,8,Ipecac Recordings,['Pop/Rock']
+"April 29, 2016",2016,17,Waltzed in from the Rumbling,Plants and Animals,69,76,10,5,Secret City Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 18, 2016",2016,46,Woman,Justice,69,75,22,55,Because Music,"['Electronic', 'House', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance', 'Indie Electronic']"
+"July 22, 2016",2016,29,Warm on a Cold Night,HONNE,69,83,8,12,Atlantic,"['Electronic', 'R&B', 'Soul', 'Pop/Rock']"
+"August 26, 2016",2016,34,Total Depravity,The Veils,69,77,13,13,Nettwerk,['Pop/Rock']
+"March 4, 2016",2016,9,Xtreme Now,Prince Rama,69,0,8,0,Carpark Records,"['Electronic', 'Pop/Rock', 'Club/Dance']"
+"May 13, 2016",2016,19,Anian,9Bach,68,0,7,0,Real World,"['Pop/Rock', 'International']"
+"June 10, 2016",2016,23,Why Are You OK,Band of Horses,68,76,16,14,Interscope,['Pop/Rock']
+"April 15, 2016",2016,15,Nosebleed Weekend,The Coathangers,68,0,12,0,Suicide Squeeze,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 26, 2016",2016,34,Skiptracing,Mild High Club,68,86,7,17,Stones Throw,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Neo-Psychedelia']"
+"October 28, 2016",2016,43,Soft Hair,Soft Hair,68,70,14,6,Weird World,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 15, 2016",2016,2,The Traveller,Baaba Maal,68,0,7,0,Kobalt,"['Electronic', 'Club/Dance', 'International', 'West African', 'African Traditions', 'Afro-Pop', 'Desert Blues', 'Senegalese Music']"
+"June 3, 2016",2016,22,Ash Ice,The Kills,68,84,21,30,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 5, 2016",2016,31,Spend the Night With,Cheena,68,0,8,0,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 3, 2016",2016,22,My Best Human Face,Moonface,68,0,11,0,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 12, 2016",2016,6,Hidden City,The Cult,68,72,10,6,Cooking Vinyl,['Pop/Rock']
+"January 15, 2016",2016,2,Confessions of a Romance Novelist,The Anchoress,68,0,9,0,Kscope,['Pop/Rock']
+"July 22, 2016",2016,29,Theyesandeye,Lou Rhodes,68,0,10,0,Nude Records,['Pop/Rock']
+"June 10, 2016",2016,23,Liquid Cool,Nite Jewel,68,68,12,4,Gloriette,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Indie Pop']"
+"April 8, 2016",2016,14,Red Flag,All Saints,68,81,9,13,Universal Music TV,['Pop/Rock']
+"May 20, 2016",2016,20,Earrings Off!,Adult Jazz,68,0,8,0,Tri Angle,"['Electronic', 'Pop/Rock']"
+"June 10, 2016",2016,23,Last Year Was Complicated,Nick Jonas,68,74,8,77,Island,['Pop/Rock']
+"February 6, 2016",2016,5,EVOL,Future,68,61,17,111,Epic,['Rap']
+"June 3, 2016",2016,22,Basses Loaded,Melvins,68,0,18,0,Ipecac,['Pop/Rock']
+"January 22, 2016",2016,3,Skilled Mechanics,Tricky,68,65,9,6,False Idols,"['Electronic', 'Rap', 'Trip-Hop', 'Electronica', 'Pop/Rock', 'Indie Electronic', 'Post-Rock']"
+"June 24, 2016",2016,25,True Sadness,The Avett Brothers,68,55,17,15,Island,['Pop/Rock']
+"March 4, 2016",2016,9,iii,Miike Snow,68,71,18,21,Atlantic,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 15, 2016",2016,28,Coolaid,Snoop Dogg,68,68,8,22,One Music,"['Rap', 'Pop/Rock']"
+"August 12, 2016",2016,32,Innocence Reaches,Of Montreal,68,71,21,15,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'New Wave/Post-Punk Revival', 'Dance-Rock']"
+"November 25, 2016",2016,47,Starboy,The Weeknd,67,81,25,710,Republic,"['R&B', 'Dance-Pop', 'Alternative R&B', 'Left-Field Pop']"
+"April 15, 2016",2016,15,Lost Themes II,John Carpenter,67,69,17,10,Sacred Bones,['Electronic']
+"April 15, 2016",2016,15,HoldStill,Suuns,67,77,15,10,Secretly Canadian,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"March 4, 2016",2016,9,Abbar El Hamada,Aziza Brahim,67,0,8,0,Glitterbeat,['International']
+"October 21, 2016",2016,42,The Serenity of Suffering,Korn,67,82,,0,,[]
+"October 21, 2016",2016,42,Joanne,Lady Gaga,67,81,27,3616,Interscope,['Pop/Rock']
+"March 4, 2016",2016,9,Made in the Manor,Kano,67,86,10,11,Parlophone,"['Rap', 'Club/Dance', 'Garage Rap/Grime', 'British Rap']"
+"June 17, 2016",2016,24,Eyeland,The Low Anthem,67,0,11,0,Razor & Tie,['Pop/Rock']
+"April 8, 2016",2016,14,Cleopatra,The Lumineers,67,71,11,65,Dualtone Music,"['Country', 'Pop/Rock']"
+"February 5, 2016",2016,5,All I Need,Foxes,67,84,9,138,Sign of the Times,['Pop/Rock']
+"August 19, 2016",2016,33,Pure Simple,Dolly Parton,67,69,11,10,Sony Music,"['Country', 'Pop/Rock', 'Contemporary Country', 'Country-Folk', 'Progressive Country', 'Honky Tonk', 'Traditional Country']"
+"October 7, 2016",2016,40,Friends,White Lies,67,79,7,38,BMG Rights Management,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 10, 2016",2016,23,A Youthful Dream,Yung,67,0,8,0,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 29, 2016",2016,4,This Is Acting,Sia,67,78,30,514,RCA,"['Pop', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Left-Field Pop']"
+"December 2, 2016",2016,48,Hamburg Demonstrations,Peter Doherty,67,83,20,7,BMG,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 19, 2016",2016,33,Sweatbox Dynasty,Tobacco,67,70,11,5,Ghostly International,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 11, 2016",2016,45,57th 9th,Sting,67,64,8,14,Interscope,"['Adult Contemporary', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Pop/Rock', 'Album Rock']"
+"July 29, 2016",2016,30,Major Key,DJ Khaled,67,71,11,52,Epic,"['Rap', 'Hardcore Rap', 'Pop-Rap']"
+"February 5, 2016",2016,5,Mass Gothic,Mass Gothic,67,0,8,0,Sub Pop Records,"['Pop/Rock', 'Indie Rock']"
+"August 19, 2016",2016,33,Amnesty I,Crystal Castles,67,72,19,85,Casablanca,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"October 14, 2016",2016,41,Gameshow,Two Door Cinema Club,67,70,8,51,Parlophone,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"June 24, 2016",2016,25,The Mountain Will Fall,DJ Shadow,66,71,26,14,Mass Appeal,"['Electronic', 'Rap', 'Turntablism', 'Left-Field Hip-Hop']"
+"October 28, 2016",2016,43,Two Vines,Empire of the Sun,66,79,15,27,Astralwerks,"['Pop', 'Pop/Rock', 'Alternative/Indie Rock', 'New Wave/Post-Punk Revival', 'Left-Field Pop']"
+"March 4, 2016",2016,9,Music For Listening To Music To,La Sera,66,0,16,0,Polyvinyl,['Pop/Rock']
+"August 19, 2016",2016,33,Callus,Gonjasufi,66,0,12,0,Warp,"['Electronic', 'Rap', 'Electronica', 'Pop/Rock', 'Left-Field Hip-Hop']"
+"July 15, 2016",2016,28,Youth Authority,Good Charlotte,66,64,9,20,MDDN,['Pop/Rock']
+"March 4, 2016",2016,9,Collegrove,2 Chainz,66,74,9,35,Def Jam,['Rap']
+"April 8, 2016",2016,14,Junk,M83,66,79,29,161,Mute,['Electronic']
+"April 22, 2016",2016,16,Please Be Honest,Guided by Voices,66,45,11,6,Guided by Voices,['Pop/Rock']
+"April 15, 2016",2016,15,PersonA,Edward Sharpe the Magnetic Zeros,66,76,15,12,Community Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Neo-Psychedelia']"
+"June 10, 2016",2016,23,Breakin Point,Peter Bjorn and John,66,71,15,9,Kobalt,['Pop/Rock']
+"September 16, 2016",2016,37,Fixion,Trentemller,66,0,,0,,[]
+"June 17, 2016",2016,24,The Getaway,Red Hot Chili Peppers,66,79,25,284,Atlantic,['Pop/Rock']
+"June 24, 2016",2016,25,Earth,Neil Young,65,82,17,5,Reprise,['Pop/Rock']
+"April 15, 2016",2016,15,Santana IV,Santana,65,74,11,11,Santana IV Records,"['Pop/Rock', 'Latin Rock', 'Guitar Virtuoso', 'Retro-Rock']"
+"March 18, 2016",2016,11,Chaosmosis,Primal Scream,65,73,25,15,Ignition Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 8, 2016",2016,1,Where Have You Been All My Life,Villagers,65,69,12,7,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 21, 2016",2016,42,Let It Be You,Joan as Police Woman,65,0,12,0,Relativity Entertainment,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 22, 2016",2016,29,This Is Gap Dream,Gap Dream,65,0,7,0,Burger Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"May 20, 2016",2016,20,Oh Inhuman Spectacle,Methyl Ethel,65,0,10,0,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 22, 2016",2016,16,Hope,The Strumbellas,65,56,7,5,Glassnote Entertainment Group,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 29, 2016",2016,30,Anyway You Love We Know How You Feel,The Chris Robinson Brotherhood,65,0,8,0,Megaforce,['Pop/Rock']
+"May 27, 2016",2016,21,Summer of 13,Malcolm Middleton,65,0,10,0,Nude Records,['Pop/Rock']
+"September 9, 2016",2016,36,AIM,MIA,65,81,29,161,Interscope,"['Electronic', 'Club/Dance']"
+"February 19, 2016",2016,7,Phase,Jack Garratt,64,75,15,27,Interscope,['Pop/Rock']
+"October 28, 2016",2016,43,Honeymoon on Mars,The Pop Group,64,56,12,5,Freaks R Us,"['Experimental', 'Pop/Rock', 'Alternative/Indie Rock', 'Post-Punk']"
+"September 2, 2016",2016,35,Birds In The Trap Sing McKnight,Travis Scott,64,77,8,250,Epic,['Rap']
+"January 22, 2016",2016,3,Original Machines,Conrad Keely,64,0,10,0,Superball Music,['Pop/Rock']
+"October 7, 2016",2016,40,Light We Made,Balance Composure,64,82,8,6,Vagrant,['Pop/Rock']
+"September 16, 2016",2016,37,Dead Blue,Still Corners,64,0,7,0,Wrecking Light,['Pop']
+"April 8, 2016",2016,14,English Heart,Ronnie Spector,64,0,7,0,429 Records,"['Pop/Rock', 'Contemporary Pop/Rock', 'Rock & Roll', 'British Invasion']"
+"October 7, 2016",2016,40,Three,Phantogram,64,77,13,31,Republic,"['Pop', 'Pop/Rock', 'Left-Field Pop']"
+"June 24, 2016",2016,25,Hot Hot Heat,Hot Hot Heat,64,78,9,6,Kaw-Liga Records / Universal Music,['Pop/Rock']
+"September 30, 2016",2016,39,Head Carrier,Pixies,64,72,29,46,PIAS,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"April 8, 2016",2016,14,Distortland,The Dandy Warhols,64,74,14,5,Dine Alone,['Pop/Rock']
+"April 22, 2016",2016,16,Honey,Katy B,63,75,19,17,Virgin EMI,"['Pop', 'Electronic', 'Pop/Rock', 'Dance-Pop', 'Club/Dance', 'Left-Field Pop']"
+"July 1, 2016",2016,26,California,Blink-182,63,75,17,139,BMG,['Pop/Rock']
+"May 6, 2016",2016,18,Detour,Cyndi Lauper,63,66,11,18,Rhino,"['Pop', 'Country', 'Country-Pop']"
+"February 12, 2016",2016,6,Everybodys Dying To Meet You,Flowers,63,0,8,0,Kanine Records,['Pop/Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"January 22, 2016",2016,3,Songs for Our Mothers,Fat White Family,63,0,17,0,Fat Possum,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 14, 2016",2016,41,Say Yes! A Tribute to Elliott Smith,Various Artists,63,0,7,0,American Laundromat Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter', 'Indie Rock', 'Lo-Fi', 'Indie Pop', 'Alternative Singer/Songwriter']"
+"July 22, 2016",2016,29,Born of the Sun,Faun Fables,63,0,7,0,Drag City,"['Folk', 'Pop/Rock']"
+"December 2, 2016",2016,48,W2016ALBUM,Deadmau5,63,67,8,37,Kobalt,"['Electronic', 'House', 'Techno', 'Club/Dance', 'EDM']"
+"October 14, 2016",2016,41,Walls,Kings of Leon,62,67,23,94,RCA,['Pop/Rock']
+"April 15, 2016",2016,15,Dead,Spectres,62,0,7,0,Sonic Cathedral,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 29, 2016",2016,30,Quiero Creedence,Various Artists,62,0,7,0,Concord,"['Latin', 'Pop/Rock', 'Latin Rock', 'Mexican Traditions', 'Modern Son']"
+"February 26, 2016",2016,8,Stranger Things,Yuck,62,65,21,10,N/A,"['Pop/Rock', 'Alternative/Indie Rock', 'Noise Pop']"
+"March 18, 2016",2016,11,This Is What the Truth Feels Like,Gwen Stefani,62,79,16,185,Interscope,"['Pop', 'Pop/Rock', 'Adult Alternative Pop/Rock', 'Contemporary Pop/Rock', 'Alternative Dance', 'Dance-Rock']"
+"July 15, 2016",2016,28,Were All Somebody from Somewhere,Steven Tyler,62,73,12,9,DOT Records,['Country']
+"October 14, 2016",2016,41,Requiem for Hell,Mono,62,88,7,4,Temporary Residence,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Post-Rock', 'Japanese Rock']"
+"August 26, 2016",2016,34,Ibifornia,Cassius,62,0,10,0,Because Music / Warner Music,"['Electronic', 'House', 'Electronica', 'Club/Dance', 'Progressive House']"
+"June 3, 2016",2016,22,Wild Things,Ladyhawke,62,74,11,9,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"March 4, 2016",2016,9,We Can Do Anything,Violent Femmes,61,65,13,4,PIAS,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 29, 2016",2016,4,Dont You,Wet,61,78,14,25,Columbia,['Pop/Rock']
+"February 19, 2016",2016,7,Victorious,Wolfmother,61,64,11,19,Universal,['Pop/Rock']
+"October 14, 2016",2016,41,These Systems Are Failing,Moby the Void Pacific Choir,61,76,14,7,Mute,"['Electronic', 'Pop/Rock', 'Club/Dance', 'Alternative Dance', 'Dance-Rock']"
+"May 13, 2016",2016,19,Thank You,Meghan Trainor,60,57,10,352,Epic,"['Pop', 'Pop/Rock', 'Dance-Pop', 'Teen Pop', 'Contemporary Pop/Rock']"
+"May 27, 2016",2016,21,The Ride,Catfish and the Bottlemen,60,71,10,38,Capitol,['Pop/Rock']
+"April 29, 2016",2016,17,Everything at Once,Travis,60,73,7,20,Caroline,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 30, 2016",2016,39,All Wet,Mr Oizo,59,75,7,13,Ed Banger Records,['Electronic']
+"November 11, 2016",2016,45,Simple Minds Acoustic,Simple Minds,59,0,7,0,Caroline,['Pop/Rock']
+"November 4, 2016",2016,44,Heavy Entertainment Show,Robbie Williams,59,82,9,67,Columbia,['Pop/Rock']
+"October 7, 2016",2016,40,Stay Together,Kaiser Chiefs,59,64,10,23,Caroline,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 26, 2016",2016,8,This Unruly Mess Ive Made,Macklemore Ryan Lewis,59,62,17,153,Macklemore,"['Rap', 'Alternative Rap', 'Pop-Rap']"
+"June 17, 2016",2016,24,On My One,Jake Bugg,59,71,14,38,Island,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 19, 2016",2016,7,Grasque,Choir of Young Believers,59,0,12,0,Ghostly International,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Indie Folk']"
+"February 12, 2016",2016,6,K 20,Kula Shaker,58,0,9,0,Strangefolk,['Pop/Rock']
+"August 19, 2016",2016,33,High Anxiety,Thom Sonny Green,57,0,7,0,Infectious,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 29, 2016",2016,4,Songs in the Key of Animals,Benji Hughes,57,0,7,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"December 9, 2016",2016,49,Peace Trail,Neil Young,57,46,19,19,Reprise,['Pop/Rock']
+"February 5, 2016",2016,5,Khalifa,Wiz Khalifa,56,51,7,37,Atlantic,"['Rap', 'East Coast Rap', 'Hardcore Rap']"
+"June 10, 2016",2016,23,Fitz and the Tantrums,Fitz the Tantrums,56,44,7,24,Atlantic,"['Pop/Rock', 'Alternative/Indie Rock', 'Neo-Soul']"
+"July 22, 2016",2016,29,Operator,MSTRKRFT,55,0,18,0,Last Gang Records,"['Electronic', 'Pop/Rock']"
+"September 16, 2016",2016,37,Mount Ninji and Da Nice Time Kid,Die Antwoord,55,62,8,31,Zef Recordz,"['Electronic', 'Pop/Rock']"
+"January 29, 2016",2016,4,Hymns,Bloc Party,55,55,29,66,BMG Rights Management,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 20, 2016",2016,20,These People,Richard Ashcroft,51,75,15,25,Harvest,[]
+"March 18, 2016",2016,11,Star Wars Headspace,Various Artists,48,50,7,6,Hollywood,"['Electronic', 'House', 'Pop/Rock', 'Club/Dance', 'Left-Field Hip-Hop']"
+"January 29, 2016",2016,4,Nine Track Mind,Charlie Puth,37,47,7,477,Atlantic,['Pop/Rock']

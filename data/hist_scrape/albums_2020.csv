@@ -1,0 +1,470 @@
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"April 17, 2020",2020,16,Fetch the Bolt Cutters,Fiona Apple,98,81,28,1325,Epic,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"June 19, 2020",2020,25,Rough and Rowdy Ways,Bob Dylan,95,76,25,189,Columbia,['Pop/Rock']
+"May 15, 2020",2020,20,Set My Heart on Fire Immediately,Perfume Genius,91,85,25,181,Matador,['Pop/Rock']
+"July 31, 2020",2020,31,Sex Death The Infinite Void,Creeper,91,80,8,39,Roadrunner Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Punk Revival']"
+"June 18, 2020",2020,25,Punisher,Phoebe Bridgers,90,89,31,372,Dead Oceans,['Pop/Rock']
+"November 13, 2020",2020,46,Send Them To Coventry Mixtape,Pa Salieu,90,0,8,0,Warner Records,['Rap']
+"May 15, 2020",2020,20,gr,Moses Sumney,90,85,,0,,[]
+"June 3, 2020",2020,23,RTJ4,Run the Jewels,89,89,26,311,BMG,['Rap']
+"April 17, 2020",2020,16,Sawayama,Rina Sawayama,89,91,14,1057,Dirty Hit,['Pop/Rock']
+"April 24, 2020",2020,17,Shortly After Takeoff,BC Camplight,89,81,10,43,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 26, 2020",2020,26,Women in Music Pt III,HAIM,89,87,23,274,Columbia,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 7, 2020",2020,6,Were New Again A Reimagining by Makaya McCraven,Gil Scott-Heron,89,80,10,28,XL,['Jazz']
+"July 24, 2020",2020,30,folklore,Taylor Swift,88,91,27,16938,Republic,['Pop/Rock']
+"April 10, 2020",2020,15,Song for Our Daughter,Laura Marling,88,87,20,96,Chrysalis Records,['Pop/Rock']
+"March 27, 2020",2020,13,Future Nostalgia,Dua Lipa,88,88,19,4289,Atlantic,"['Pop', 'Pop/Rock']"
+"March 27, 2020",2020,13,Saint Cloud,Waxahatchee,88,78,24,122,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 3, 2020",2020,14,Heaven to a Tortured Mind,Yves Tumor,88,82,18,120,Warp,['Pop/Rock']
+"May 29, 2020",2020,22,Alfredo,Freddie Gibbs,88,87,9,107,Empire,"['Rap', 'Pop/Rock']"
+"October 23, 2020",2020,43,Letter to You,Bruce Springsteen,88,84,25,62,Columbia,['Pop/Rock']
+"June 19, 2020",2020,25,Homegrown,Neil Young,88,78,21,28,Reprise,['Pop/Rock']
+"April 3, 2020",2020,14,A Billion Heartbeats,Mystery Jets,87,84,7,21,Mystery Jets Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 7, 2020",2020,32,Microphones in 2020,The Microphones,87,83,7,36,P.W. Elverum & Sun,"['Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Lo-Fi', 'Indie Pop', 'Experimental Rock']"
+"July 17, 2020",2020,29,Pain Olympics,Crack Cloud,87,82,8,6,Tin Angel,['Pop/Rock']
+"February 7, 2020",2020,6,Workaround,Beatrice Dillon,87,69,8,16,Pan,['Pop/Rock']
+"October 9, 2020",2020,41,Edna,Headie One,87,82,7,11,Relentless,['Rap']
+"September 25, 2020",2020,39,Ohms,Deftones,87,89,21,187,Warner Bros.,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Metal']"
+"May 1, 2020",2020,18,Shall We Go on Sinning So That Grace May Increase,The Soft Pink Truth,87,77,8,7,Thrill Jockey,"['Electronic', 'Pop/Rock']"
+"September 22, 2020",2020,39,Shore,Fleet Foxes,87,88,19,105,Anti/Epitaph,['Pop/Rock']
+"August 28, 2020",2020,35,Use Me,PVRIS,87,83,8,59,Warner Bros.,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"October 2, 2020",2020,40,Róisín Machine,Róisín Murphy,86,91,,0,,[]
+"March 20, 2020",2020,12,The Night Chancers,Baxter Dury,86,85,13,28,Heavenly,['Pop/Rock']
+"January 24, 2020",2020,4,Big Conspiracy,J Hus,86,78,10,36,Black Butter,['Rap']
+"July 24, 2020",2020,30,Hearts Ease,Shirley Collins,86,0,14,0,Domino,['Folk']
+"March 13, 2020",2020,11,Every Bad,Porridge Radio,86,81,15,30,Secretly Canadian,['Pop/Rock']
+"July 17, 2020",2020,29,Beyond the Pale,Jarv Is,86,79,15,21,Rough Trade,['Pop/Rock']
+"October 23, 2020",2020,43,Off Off On,This Is the Kit,86,0,7,0,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Indie Folk']"
+"February 7, 2020",2020,6,U Kin B The Sun,Frazey Ford,86,80,7,6,Arts & Crafts,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"September 18, 2020",2020,38,Throes of Joy in the Jaws of Defeatism,Napalm Death,86,0,8,0,Century Media,"['Pop/Rock', 'Heavy Metal', 'Grindcore']"
+"June 26, 2020",2020,26,Kitchen Sink,Nadine Shah,86,71,15,10,Infectious,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"December 11, 2020",2020,50,We Will Always Love You,The Avalanches,86,90,23,81,Astralwerks,"['Electronic', 'Alternative/Indie Rock', 'Club/Dance', 'Alternative Dance']"
+"September 4, 2020",2020,36,Gold Record,Bill Callahan,86,81,18,10,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Singer/Songwriter']"
+"March 6, 2020",2020,10,Nick of Time,The James Hunter Six,85,86,7,5,Daptone,['R&B']
+"October 9, 2020",2020,41,Silver Ladders,Mary Lattimore,85,84,10,12,Ghostly International,"['Electronic', 'Avant-Garde', 'Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'Experimental Ambient', 'Improvisation']"
+"September 4, 2020",2020,36,Hannah,Lomelda,85,83,8,9,Double Double Whammy,['Pop/Rock']
+"November 20, 2020",2020,47,Good News,Megan Thee Stallion,85,66,14,462,300 Entertainment,['Rap']
+"June 19, 2020",2020,25,Acoustic,Oumou Sangare,85,0,7,0,No Format,['International']
+"March 27, 2020",2020,13,Walking Proof,Lilly Hiatt,85,82,7,6,New West,['Pop/Rock']
+"May 20, 2020",2020,21,No Dream,Jeff Rosenstock,85,79,7,15,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Punk Revival']"
+"February 14, 2020",2020,7,Loom,Katie Gately,85,87,10,10,Houndstooth,['Electronic']
+"December 11, 2020",2020,50,evermore,Taylor Swift,85,90,29,5304,Republic,['Pop/Rock']
+"July 31, 2020",2020,31,A Heros Death,Fontaines DC,84,82,23,50,Partisan,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 31, 2020",2020,31,Voices,Max Richter,84,80,7,4,Decca,['Classical']
+"October 23, 2020",2020,43,My Echo,Laura Veirs,84,79,8,7,Raven Marching Band Records,['Pop/Rock']
+"October 23, 2020",2020,43,Forgotten Days,Pallbearer,84,72,8,6,Nuclear Blast,"['Pop/Rock', 'Heavy Metal', 'Doom Metal', 'Progressive Metal']"
+"August 28, 2020",2020,35,Mama You Can Bet!,Jyoti,84,0,7,0,SomeOthaShip,"['Jazz', 'R&B', 'Experimental Electronic', 'Electric Jazz']"
+"August 14, 2020",2020,33,A Celebration of Endings,Biffy Clyro,84,83,16,26,Warner Bros.,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 25, 2020",2020,39,Blue Hearts,Bob Mould,84,75,10,6,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 12, 2020",2020,24,Room for the Moon,Kate NV,84,72,7,6,RVNG Intl.,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 8, 2020",2020,19,Mutable Set,Blake Mills,84,83,7,7,Verve,['Pop/Rock']
+"April 3, 2020",2020,14,It Is What It Is,Thundercat,84,79,23,67,Brainfeeder,['R&B']
+"September 11, 2020",2020,37,RE-ANIMATOR,Everything Everything,84,83,10,24,Everything Everything,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Dance-Rock']"
+"January 17, 2020",2020,3,Countless Branches,Bill Fay,84,70,13,12,Dead Oceans,['Folk']
+"August 28, 2020",2020,35,Inner Song,Kelly Lee Owens,84,84,15,28,Smalltown Supersound,"['Electronic', 'Pop/Rock']"
+"November 13, 2020",2020,46,Lamentations,William Basinski,84,0,7,0,Temporary Residence,"['Electronic', 'Avant-Garde', 'Experimental Ambient', 'Conceptual Art', 'Microsound', 'Post-Minimalism', 'Tape Music']"
+"June 5, 2020",2020,23,All Things Being Equal,Sonic Boom,84,83,10,7,Carpark Records,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Dream Pop', 'Neo-Psychedelia']"
+"June 26, 2020",2020,26,Coriky,Coriky,84,79,7,8,Dischord Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"August 21, 2020",2020,34,Motherhood,No Joy,84,88,8,5,Joyful Noise,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Noise Pop', 'Shoegaze']"
+"March 13, 2020",2020,11,Underneath,Code Orange,84,85,11,50,Roadrunner,['Pop/Rock']
+"March 6, 2020",2020,10,Eternal Atake,Lil Uzi Vert,84,70,9,233,Atlantic,['Rap']
+"October 23, 2020",2020,43,songs and instrumentals,Adrianne Lenker,84,83,19,29,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"February 28, 2020",2020,9,Suddenly,Caribou,84,80,24,59,Merge,"['Electronic', 'Pop/Rock']"
+"June 26, 2020",2020,26,Whats Your Pleasure,Jessie Ware,84,91,18,330,Interscope,['Pop/Rock']
+"April 24, 2020",2020,17,Good Souls Better Angels,Lucinda Williams,84,87,19,18,Highway 20 Records,['Folk']
+"November 20, 2020",2020,47,In Blue,The Bug,84,0,8,0,Hyperdub,"['Electronic', 'Experimental Dub', 'Ambient Dub']"
+"July 31, 2020",2020,31,Welcome to Hard Times,Charley Crockett,84,64,7,5,Son Of Davy,['Country']
+"March 13, 2020",2020,11,We Are Sent Here by History,Shabaka the Ancestors,84,78,11,13,Impulse!,['Jazz']
+"February 14, 2020",2020,7,Dark Matter,Moses Boyd,84,84,12,10,Exodus,['Jazz']
+"June 5, 2020",2020,23,Fantasize Your Ghost,Ohmme,83,0,11,0,Joyful Noise,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Experimental Rock']"
+"May 8, 2020",2020,19,Petals for Armor,Hayley Williams,83,91,22,436,Atlantic,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 13, 2020",2020,46,Because of a Flower,Ana Roxanne,83,0,8,0,Kranky,"['Electronic', 'Experimental', 'Avant-Garde', 'Experimental Ambient']"
+"September 25, 2020",2020,39,By the Fire,Thurston Moore,83,75,13,6,Daydream Library,"['Experimental', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'Experimental Rock', 'American Underground', 'Free Jazz']"
+"January 17, 2020",2020,3,Circles,Mac Miller,83,79,14,486,Warner Records,['Rap']
+"March 6, 2020",2020,10,Your Life Is a Record,Brandy Clark,83,69,7,7,Warner Bros.,"['Country', 'Americana', 'Contemporary Country']"
+"October 9, 2020",2020,41,Lament,Touché Amoré,83,85,9,0,Epitaph,['Pop/Rock']
+"March 22, 2020",2020,12,31520,Childish Gambino,83,73,16,258,RCA,"['R&B', 'Pop/Rock']"
+"August 28, 2020",2020,35,Whole New Mess,Angel Olsen,83,82,16,26,Jagjaguwar,['Pop/Rock']
+"June 12, 2020",2020,24,Pick Me Up Off the Floor,Norah Jones,83,80,10,20,Blue Note,"['Jazz', 'Pop/Rock']"
+"March 6, 2020",2020,10,Out of My Province,Nadia Reid,83,77,8,10,Spacebomb,['Pop/Rock']
+"November 20, 2020",2020,47,Night Network,The Cribs,83,83,10,11,Sonic Blew,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 2, 2020",2020,40,Working Mens Club,Working Mens Club,83,83,10,6,Heavenly,['Pop/Rock']
+"April 3, 2020",2020,14,Never Will,Ashley McBryde,83,85,7,19,Warner Nashville,"['Country', 'Contemporary Country', 'New Traditionalist']"
+"March 27, 2020",2020,13,Clockdust,Rustin Man,83,0,8,0,Domino,['Pop/Rock']
+"April 10, 2020",2020,15,The Universe Inside,The Dream Syndicate,83,0,8,0,Anti-,"['Pop/Rock', 'Alternative/Indie Rock', 'Neo-Psychedelia']"
+"March 13, 2020",2020,11,A Written Testimony,Jay Electronica,83,75,11,73,Roc Nation,['Rap']
+"June 19, 2020",2020,25,You Make Me Feel,Don Bryant,83,0,7,0,Fat Possum Records,"['R&B', 'Soul']"
+"March 6, 2020",2020,10,The Long Goodbye,Riz Ahmed,83,78,7,6,N/A,[]
+"July 17, 2020",2020,29,Lianne La Havas,Lianne La Havas,83,86,19,55,Nonesuch,['R&B']
+"April 24, 2020",2020,17,For Their Love,Other Lives,83,78,7,4,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"May 22, 2020",2020,21,Island,Owen Pallett,83,81,9,9,Domino Recording,['Pop/Rock']
+"January 31, 2020",2020,5,Likewise,Frances Quinlan,83,67,12,15,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"August 14, 2020",2020,33,Even in Exile,James Dean Bradfield,83,82,13,5,Montyray,['Pop/Rock']
+"October 2, 2020",2020,40,Midnight Manor,The Nude Party,83,0,7,0,New West,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia', 'Garage Rock Revival']"
+"March 27, 2020",2020,13,Cenizas,Nicolas Jaar,82,82,7,18,Other People,['Electronic']
+"June 5, 2020",2020,23,Head Above the Water,Brigid Mae Power,82,83,9,4,Fire Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Folk']"
+"March 20, 2020",2020,12,Rejoice,Tony Allen,82,0,8,0,World Circuit,['Jazz']
+"May 15, 2020",2020,20,A Steady Drip Drip Drip,Sparks,82,84,16,13,BMG,['Pop/Rock']
+"July 3, 2020",2020,27,Forever Blue,AA Williams,82,0,8,0,Bella Union,['Pop/Rock']
+"August 7, 2020",2020,32,Jaguar,Victoria Monét,82,90,7,0,Tribe,['R&B']
+"January 17, 2020",2020,3,Football Money,Kiwi Jr,82,69,12,22,Persona Non Grata,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 4, 2020",2020,36,Sun Racket,Throwing Muses,82,0,10,0,Fire Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 21, 2020",2020,8,Companion Rises,Six Organs of Admittance,82,86,9,7,Drag City,"['Experimental', 'Pop/Rock', 'Alternative/Indie Rock']"
+"October 23, 2020",2020,43,Dont Shy Away,Loma,82,0,8,0,Sub Pop,['Alternative/Indie Rock']
+"October 16, 2020",2020,42,Anime Trauma and Divorce,Open Mike Eagle,82,79,7,7,Auto Reverse,['Rap']
+"May 15, 2020",2020,20,how im feeling now,Charli XCX,82,86,16,398,Atlantic,"['Pop', 'Pop/Rock', 'Left-Field Pop']"
+"March 13, 2020",2020,11,Guerrilla,Nazar,82,0,7,0,Hyperdub,"['Electronic', 'Techno', 'Experimental Techno', 'Experimental Club']"
+"March 27, 2020",2020,13,Before Love Came To Kill Us,Jessie Reyez,82,87,10,63,Island,"['R&B', 'Pop/Rock']"
+"March 6, 2020",2020,10,England Is a Garden,Cornershop,82,72,10,5,Ample Play,['Pop/Rock']
+"November 20, 2020",2020,47,Live Drugs,The War on Drugs,82,83,7,9,Super High Quality Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"December 11, 2020",2020,50,Plastic Bouquet,Kacy Clayton,82,58,8,4,New West,['Folk']
+"September 11, 2020",2020,37,From King to a God,Conway the Machine,82,83,8,12,Empire,['Rap']
+"July 3, 2020",2020,27,On Sunset,Paul Weller,82,80,16,14,Polydor,"['Jazz', 'Pop/Rock']"
+"July 17, 2020",2020,29,Gaslighter,The Chicks,82,83,21,121,Columbia,['Country']
+"February 21, 2020",2020,8,Map of the Soul 7,BTS,82,92,12,9092,Bighit,"['Pop', 'Rap', 'Pop/Rock', 'Pop-Rap', 'Asian Pop', 'K-Pop']"
+"July 10, 2020",2020,28,Unfollow the Rules,Rufus Wainwright,82,83,15,13,BMG,['Pop/Rock']
+"April 3, 2020",2020,14,Im Your Empress Of,Empress Of,82,84,9,38,Terrible,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance', 'Indie Electronic', 'Left-Field Pop']"
+"May 22, 2020",2020,21,Ghosts of West Virginia,Steve Earle the Dukes,82,84,10,5,New West,['Country']
+"May 15, 2020",2020,20,Reunions,Jason Isbell and the 400 Unit,82,83,16,18,Southeastern Records,['Pop/Rock']
+"May 1, 2020",2020,18,Alphabetland,X,82,0,10,0,Fat Possum,['Pop/Rock']
+"January 17, 2020",2020,3,Nijimusi,OOIOO,82,0,8,0,Thrill Jockey,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 17, 2020",2020,29,Ultimate Success Today,Protomartyr,82,85,18,24,Domino,['Pop/Rock']
+"July 24, 2020",2020,30,All the Time,Jessy Lanza,82,73,15,16,Hyperdub,"['Pop', 'Electronic']"
+"March 6, 2020",2020,10,Heavy Light,US Girls,82,76,16,40,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 16, 2020",2020,42,SIGN,Autechre,82,72,12,6,Warp,"['Electronic', 'Techno', 'Pop/Rock', 'Experimental Techno', 'Ambient Techno', 'IDM']"
+"February 28, 2020",2020,9,color theory,Soccer Mommy,81,83,22,55,Loma Vista,['Pop/Rock']
+"August 28, 2020",2020,35,Shape Destroy,Ruston Kelly,81,0,7,0,Rounder,"['Country', 'Alt-Country', 'Americana', 'Pop/Rock', 'Alternative Country-Rock', 'Contemporary Country']"
+"May 8, 2020",2020,19,Straight Songs of Sorrow,Mark Lanegan,81,80,16,14,Heavenly,['Pop/Rock']
+"June 12, 2020",2020,24,Ungodly Hour,Chloe x Halle,81,90,9,414,Parkwood Entertainment,['R&B']
+"October 23, 2020",2020,43,Love Is the King,Jeff Tweedy,81,82,11,9,dBpm,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 3, 2020",2020,27,Keleketla!,Keleketla!,81,0,9,0,Ahead of Our Time,"['Jazz', 'International', 'African Traditions', 'Afro-beat', 'African Jazz', 'Global Jazz']"
+"February 7, 2020",2020,6,UNLOCKED,Denzel Curry,81,81,9,85,Loma Vista,['Rap']
+"September 4, 2020",2020,36,Zeros,Declan McKenna,81,90,11,90,Tomplicated,"['Singer/Songwriter', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Singer/Songwriter']"
+"October 2, 2020",2020,40,Shamir,Shamir,81,83,8,4,Self-released,['Pop/Rock']
+"August 28, 2020",2020,35,Club Future Nostalgia The Remix Album,Dua Lipa,81,47,7,1430,Warner,['Pop/Rock']
+"August 21, 2020",2020,34,Down in the Weeds Where the World Once Was,Bright Eyes,81,77,24,22,Dead Oceans,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter', 'Protest Songs']"
+"October 30, 2020",2020,44,Magic Oneohtrix Point Never,Oneohtrix Point Never,81,83,11,19,Warp,['Electronic']
+"November 13, 2020",2020,46,Starting Over,Chris Stapleton,81,85,10,23,Mercury Nashville,['Country']
+"June 19, 2020",2020,25,The Avalanche,Owen,81,74,8,5,Polyvinyl,"['Emo', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"March 20, 2020",2020,12,Let It All In,Arbouretum,81,0,8,0,Thrill Jockey,"['Singer/Songwriter', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Experimental Rock', 'Noise Pop', 'Alternative Singer/Songwriter', 'Alternative Country-Rock', 'Indie Folk']"
+"August 21, 2020",2020,34,Source,Nubya Garcia,81,81,10,9,Concord,"['Jazz', 'Jazz Instrument', 'Contemporary Jazz', 'Crossover Jazz', 'Saxophone Jazz']"
+"December 18, 2020",2020,51,McCartney III,Paul McCartney,81,82,24,105,Capitol,['Pop/Rock']
+"June 26, 2020",2020,26,True Story of Bananagun,Bananagun,81,86,10,5,Full Time Hobby,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"January 17, 2020",2020,3,Land of No Junction,Aoife Nessa Frances,81,0,7,0,Ba Da Bing Records,['Pop/Rock']
+"May 8, 2020",2020,19,Warnings,I Break Horses,81,86,11,11,Bella Union,['Pop/Rock']
+"March 27, 2020",2020,13,Three,The Necks,81,0,8,0,Northern Spy,"['Jazz', 'Avant-Garde', 'Pop/Rock', 'Contemporary Instrumental']"
+"August 21, 2020",2020,34,Androgynous Mary,Girl Friday,81,0,8,0,Hardly Art,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 10, 2020",2020,28,Thats How Rumors Get Started,Margo Price,81,79,16,8,Loma Vista,['Country']
+"July 24, 2020",2020,30,Old Flowers,Courtney Marie Andrews,81,58,15,9,Fat Possum Records,"['Country', 'Folk']"
+"May 22, 2020",2020,21,Strange to Explain,Woods,81,83,12,9,Woodsist,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi', 'Indie Folk']"
+"October 16, 2020",2020,42,Fake It Flowers,Beabadoobee,81,87,18,45,Dirty Hit,['Pop/Rock']
+"July 31, 2020",2020,31,OnOn,Daniel Blumberg,81,0,7,0,Mute,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 12, 2020",2020,24,To Love Is to Live,Jehnny Beth,81,78,20,12,Caroline,['Pop/Rock']
+"May 22, 2020",2020,21,Banana Skin Shoes,Badly Drawn Boy,81,77,7,10,One Last Fruit,['Pop/Rock']
+"April 3, 2020",2020,14,Revel in the Drama,Ren Harvieu,81,87,8,6,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 30, 2020",2020,44,The Raging Wrath Of The Easter Bunny Demo,Mr Bungle,81,85,9,13,Ipecac,"['Pop/Rock', 'Heavy Metal', 'Noise-Rock', 'Death Metal', 'Speed/Thrash Metal']"
+"July 10, 2020",2020,28,1000 gecs the Tree of Clues,100 gecs,81,75,7,37,Big Beat,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Dance']"
+"January 24, 2020",2020,4,The Neon Skyline,Andy Shauf,81,79,12,23,Anti-,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 2, 2020",2020,40,Savage Mode II,21 Savage,81,80,10,56,Columbia,['Rap']
+"October 23, 2020",2020,43,Song Machine Season One Strange Timez,Gorillaz,81,88,15,115,Parlophone,"['Rap', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Rap', 'Underground Rap', 'Left-Field Rap']"
+"June 19, 2020",2020,25,Lamb of God,Lamb of God,81,83,8,23,Epic,"['Pop/Rock', 'Heavy Metal']"
+"March 6, 2020",2020,10,Superstar,Caroline Rose,81,81,14,15,New West,['Pop/Rock']
+"March 27, 2020",2020,13,Ghosts V Together,Nine Inch Nails,81,77,11,19,The Null Corporation,"['Industrial', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Experimental Ambient', 'Industrial Metal']"
+"October 23, 2020",2020,43,III,Fuzz,81,0,7,0,In the Red Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Neo-Psychedelia']"
+"January 17, 2020",2020,3,Modus Vivendi,070 Shake,80,79,10,70,G.O.O.D.,['Rap']
+"September 25, 2020",2020,39,The Ascension,Sufjan Stevens,80,84,25,73,Asthmatic Kitty,['Pop/Rock']
+"March 6, 2020",2020,10,Traditional Techniques,Stephen Malkmus,80,70,18,10,Matador,['Pop/Rock']
+"January 31, 2020",2020,5,Have We Met,Destroyer,80,76,21,31,Merge,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 18, 2020",2020,38,Giver Taker,Anjimile,80,0,9,0,Father/Daughter Records,"['Folk', 'Alternative/Indie Rock']"
+"October 2, 2020",2020,40,The New OK,Drive-By Truckers,80,58,10,5,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Hard Rock', 'Alternative Country-Rock', 'Southern Rock']"
+"September 11, 2020",2020,37,American Head,The Flaming Lips,80,87,23,30,Warner Bros.,['Pop/Rock']
+"April 10, 2020",2020,15,The Loves of Your Life,Hamilton Leithauser,80,81,11,13,Glassnote Entertainment Group,['Pop/Rock']
+"August 14, 2020",2020,33,Total Freedom,Kathleen Edwards,80,76,9,8,Dualtone Music,['Pop/Rock']
+"March 13, 2020",2020,11,La Vita Nuova,Maria McKee,80,83,7,4,N/A,['Pop/Rock']
+"July 24, 2020",2020,30,Wu Hen,Kamaal Williams,80,0,8,0,Warp,['Jazz']
+"September 11, 2020",2020,37,Comma,Sam Prekop,80,0,7,0,Thrill Jockey,"['Avant-Garde', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Indie Pop', 'Post-Rock', 'Experimental Electronic']"
+"March 20, 2020",2020,12,After Hours,The Weeknd,80,88,20,1368,Island,['R&B']
+"October 16, 2020",2020,42,Someone New,Helena Deland,80,82,7,9,Luminelle Recordings,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"June 12, 2020",2020,24,Quickening,Orlando Weeks,80,78,9,6,PIAS,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 5, 2020",2020,23,Sideways to New Italy,Rolling Blackouts Coastal Fever,80,84,17,18,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 24, 2020",2020,4,Mind Hive,Wire,80,70,15,23,Pink Flag,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 17, 2020",2020,3,X The Godless Void and Other Stories,And You Will Know Us by the Trail of Dead,80,86,12,12,Dine Alone,['Pop/Rock']
+"July 3, 2020",2020,27,Bedroom,drmm,80,78,,0,,[]
+"March 6, 2020",2020,10,Collector,Disq,80,84,10,7,Saddle Creek Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"March 27, 2020",2020,13,High Risk Behaviour,The Chats,80,76,13,14,Bargain Bin!,['Pop/Rock']
+"March 27, 2020",2020,13,Red Sun Through Smoke,Ian William Craig,80,0,7,0,FatCat Records,"['Electronic', 'Avant-Garde', 'Pop/Rock', 'Alternative/Indie Rock', 'Experimental Ambient', 'Experimental Electronic', 'Neo-Classical', 'Tape Music']"
+"February 7, 2020",2020,6,Never Not Together,Nada Surf,80,81,9,11,Barsuk,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 7, 2020",2020,32,Eight Gates,Jason Molina,80,68,11,4,Secretly Canadian,['Pop/Rock']
+"January 31, 2020",2020,5,The Unraveling,Drive-By Truckers,80,72,16,17,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Country-Rock', 'Southern Rock']"
+"October 9, 2020",2020,41,Atlas Vending,METZ,80,83,12,9,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 21, 2020",2020,34,Twelfth,Old 97s,80,0,8,0,ATO,['Pop/Rock']
+"November 20, 2020",2020,47,BE,BTS,80,91,12,3188,Big Hit,"['Asian Pop', 'K-Pop']"
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"January 17, 2020",2020,3,Manic,Halsey,80,83,18,988,Capitol,"['Pop', 'Vocal', 'Pop/Rock', 'Left-Field Pop']"
+"April 17, 2020",2020,16,Oneiric Formulary,Sir Richard Bishop,80,0,7,0,Drag City,"['Jazz', 'New Age', 'Spoken Word', 'Pop/Rock', 'Alternative/Indie Rock', 'Experimental Rock', 'International', 'New Acoustic', 'Progressive Folk', 'World Fusion', 'Western European Traditions', 'Flamenco', 'Ethnic Fusion', 'Solo Instrumental', 'Finger-Picked Guitar', 'Progressive Alternative']"
+"June 26, 2020",2020,26,Welcome to Bobbys Motel,Pottery,80,0,12,0,PTKF,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 11, 2020",2020,37,The Universal Want,Doves,80,84,18,12,Virgin EMI,['Pop/Rock']
+"December 4, 2020",2020,49,Nightmare Vacation,Rico Nasty,80,76,12,27,Sugar Trap,['Rap']
+"March 27, 2020",2020,13,Ghosts VI Locusts,Nine Inch Nails,80,73,10,15,The Null Corporation,"['Industrial', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Experimental Ambient', 'Industrial Metal']"
+"April 17, 2020",2020,16,Nothing Is True Everything Is Possible,Enter Shikari,80,85,7,33,So Recordings,['Pop/Rock']
+"October 30, 2020",2020,44,Existential Reckoning,Puscifer,80,90,7,26,BMG,"['Industrial', 'Pop/Rock', 'Alternative/Indie Rock', 'Electro-Industrial']"
+"March 27, 2020",2020,13,Gigaton,Pearl Jam,80,84,26,113,Monkeywrench,['Pop/Rock']
+"April 3, 2020",2020,14,Viscerals,Pigs Pigs Pigs Pigs Pigs Pigs Pigs,80,74,13,10,Rocket Recordings,"['Pop/Rock', 'Alternative/Indie Rock', 'Noise-Rock']"
+"June 26, 2020",2020,26,Mordechai,Khruangbin,79,82,18,23,Dead Oceans,"['Pop/Rock', 'Alternative/Indie Rock', 'Neo-Psychedelia', 'Deep Funk Revival']"
+"May 29, 2020",2020,22,Chromatica,Lady Gaga,79,85,25,9899,Interscope,"['Pop', 'Vocal', 'Pop/Rock']"
+"February 21, 2020",2020,8,Spook the Herd,Lanterns on the Lake,79,88,8,9,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 21, 2020",2020,21,Dedicated Side B,Carly Rae Jepsen,79,89,7,232,Schoolboy,"['Pop', 'Pop/Rock']"
+"March 6, 2020",2020,10,Sorry You Couldnt Make It,Swamp Dogg,79,0,8,0,Joyful Noise,"['R&B', 'Country']"
+"February 7, 2020",2020,6,Big Exercise,Homesick,79,0,10,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock', 'New Wave/Post-Punk Revival']"
+"February 14, 2020",2020,7,Stray,Bambara,79,79,10,8,Wharf Cat Records,"['Pop/Rock', 'Alternative/Indie Rock', 'New Wave/Post-Punk Revival']"
+"June 12, 2020",2020,24,Self Made Man,Larkin Poe,79,78,8,8,Tricki-Woo,['Pop/Rock']
+"June 5, 2020",2020,23,The Godfather 3,Wiley,79,0,7,0,Wiley,['Rap']
+"February 21, 2020",2020,8,The Allegory,Royce da 59,79,83,7,49,eOne,"['Rap', 'Pop/Rock', 'Underground Rap', 'Hardcore Rap', 'Midwest Rap']"
+"March 27, 2020",2020,13,The Caretaker,Half Waif,79,82,9,6,Anti-,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic']"
+"October 23, 2020",2020,43,Just Dropped In To See What Condition My Rendition Was In,Sharon Jones the Dap-Kings,79,0,9,0,Daptone,['Pop/Rock']
+"May 22, 2020",2020,21,Consummation,Katie von Schleicher,79,0,8,0,Ba Da Bing Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi', 'Alternative Singer/Songwriter']"
+"January 10, 2020",2020,2,Walking Like We Do,The Big Moon,79,62,13,52,Fiction,['Pop/Rock']
+"October 23, 2020",2020,43,Visions of Bodies Being Burned,clipping,79,84,14,35,Sub Pop,"['Rap', 'Avant-Garde', 'Underground Rap', 'Noise', 'Left-Field Rap', 'Horror Rap']"
+"September 11, 2020",2020,37,Shame,Uniform,79,0,8,0,Sacred Bones,"['Industrial', 'Pop/Rock', 'Alternative/Indie Rock', 'Noise-Rock']"
+"May 22, 2020",2020,21,I Love the New Sky,Tim Burgess,79,83,11,4,Bella Union,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'British Trad Rock']"
+"March 27, 2020",2020,13,925,Sorry,79,82,15,14,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'New Wave/Post-Punk Revival', 'Noise-Rock']"
+"November 20, 2020",2020,47,Shadow of Fear,Cabaret Voltaire,79,0,8,0,Mute,"['Electronic', 'Industrial', 'Techno', 'Pop/Rock', 'Experimental Rock', 'Experimental Electronic']"
+"March 27, 2020",2020,13,Are You in Love,Basia Bulat,79,78,9,4,Secret City Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 20, 2020",2020,12,Through Water,Lpsley,79,81,,0,,[]
+"February 14, 2020",2020,7,The Slow Rush,Tame Impala,79,84,30,386,Interscope,['Pop/Rock']
+"February 21, 2020",2020,8,Miss Anthropocene,Grimes,79,88,27,365,4AD,['Electronic']
+"November 13, 2020",2020,46,Power Up,ACDC,79,88,19,51,Columbia,['Pop/Rock']
+"October 23, 2020",2020,43,Featuring Ty Dolla ign,Ty Dolla ign,79,81,7,14,Atlantic,"['Rap', 'R&B']"
+"July 10, 2020",2020,28,XOXO,The Jayhawks,79,79,8,7,Sham,"['Country', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Country-Rock']"
+"November 6, 2020",2020,45,Book of Curses,Adulkt Life,79,0,8,0,What's Yr Rupture?,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Punk Revival']"
+"June 19, 2020",2020,25,Somewhere,Gum Country,79,0,7,0,Waterslide,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Noise Pop', 'Shoegaze']"
+"July 10, 2020",2020,28,Pure Luxury,NZCA Lines,79,0,12,0,Memphis Industries,['Electronic']
+"October 30, 2020",2020,44,E3 AF,Dizzee Rascal,79,0,10,0,Island / Universal,"['Rap', 'British Rap', 'Grime']"
+"May 1, 2020",2020,18,I Grow Tired But Dare Not Fall Asleep,Ghostpoet,79,83,12,9,PIAS,['Pop/Rock']
+"June 26, 2020",2020,26,Our Two Skins,Gordi,79,74,8,8,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative Singer/Songwriter']"
+"July 10, 2020",2020,28,Healing Is a Miracle,Julianna Barwick,79,81,13,7,Ninja Tune,['Electronic']
+"July 10, 2020",2020,28,Jump Rope Gazers,The Beths,79,81,19,14,Carpark Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 24, 2020",2020,4,Bonny Light Horseman,Bonny Light Horseman,78,77,12,7,37D03D,['Folk']
+"October 23, 2020",2020,43,Sam Amidon,Sam Amidon,78,0,8,0,Nonesuch,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Traditional Folk', 'Indie Folk']"
+"August 28, 2020",2020,35,Blackbirds,Bettye LaVette,78,0,7,0,Verve,['R&B']
+"October 23, 2020",2020,43,Karma Desire,Actress,78,90,10,4,Ninja Tune,"['Electronic', 'Techno', 'Experimental Techno', 'Ambient Techno']"
+"October 23, 2020",2020,43,Getting Into Knives,The Mountain Goats,78,83,14,4,Merge,['Pop/Rock']
+"June 5, 2020",2020,23,The Prettiest Curse,Hinds,78,77,15,14,Mom + Pop Music,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 13, 2020",2020,46,Trip,Lambchop,78,0,8,0,Merge,['Pop/Rock']
+"February 28, 2020",2020,9,Rakka,Vladislav Delay,78,0,7,0,N/A,"['Electronic', 'Techno', 'Techno-Dub']"
+"September 18, 2020",2020,38,Apple,AG Cook,78,76,10,5,PC Music,"['Electronic', 'Ambient', 'Pop/Rock', 'Indie Electronic', 'Alternative Dance', 'Experimental Ambient', 'Left-Field Pop']"
+"January 31, 2020",2020,5,I Was Born Swimming,Squirrel Flower,78,82,13,12,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"February 21, 2020",2020,8,Cape God,Allie X,78,90,8,174,Twin Records,['Pop/Rock']
+"January 10, 2020",2020,2,Seeking Thrills,Georgia,78,73,18,45,Domino,['Pop/Rock']
+"February 14, 2020",2020,7,Honeymoon,Beach Bunny,78,82,9,22,Mom + Pop Music,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Pop Punk']"
+"November 13, 2020",2020,46,Hey U x,BENEE,78,85,8,28,Island,['Pop/Rock']
+"August 28, 2020",2020,35,SM2 Live,Metallica,78,60,8,59,Blackened Recordings,['Pop/Rock']
+"June 5, 2020",2020,23,Your Hero Is Not Dead,Westerman,78,84,10,11,Partisan,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 7, 2020",2020,6,All or Nothing,Shopping,78,80,12,4,FatCat Records,"['Pop/Rock', 'New Wave/Post-Punk Revival']"
+"May 29, 2020",2020,22,Italian Ice,Nicole Atkins,78,87,8,6,Single Lock Records,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"May 1, 2020",2020,18,Whats New Tomboy,Damien Jurado,78,83,13,4,Mama Bird Recording Co.,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"February 14, 2020",2020,7,Swimmer,Tennis,78,85,9,28,Mutually Detrimental,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop']"
+"July 31, 2020",2020,31,Made Of Rain,The Psychedelic Furs,78,79,13,8,Cooking Vinyl Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 17, 2020",2020,29,Flower of Devotion,Dehd,78,83,9,14,Fire Talk,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 21, 2020",2020,8,Ordinary Man,Ozzy Osbourne,78,78,15,54,Epic,"['Pop/Rock', 'Album Rock', 'Heavy Metal', 'Hard Rock', 'Pop-Metal', 'Neo-Classical Metal', 'British Metal']"
+"February 28, 2020",2020,9,Fungus II,Wasted Shirt,78,0,8,0,Revolver USA,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Experimental Rock', 'Noise-Rock']"
+"June 5, 2020",2020,23,Deep Down Happy,Sports Team,78,43,11,72,Island,['Pop/Rock']
+"September 25, 2020",2020,39,Haunted Painting,Sad13,78,82,9,5,Wax Nine Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 30, 2020",2020,44,Hey Clockface,Elvis Costello,78,80,17,9,Concord,['Pop/Rock']
+"January 31, 2020",2020,5,Storm Damage,Ben Watt,78,0,8,0,Caroline,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter', 'Alternative Pop/Rock']"
+"February 28, 2020",2020,9,The Main Thing,Real Estate,77,79,13,13,Domino,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"August 28, 2020",2020,35,Dream Nails,Dream Nails,77,0,7,0,Alcopop!,['Pop/Rock']
+"September 18, 2020",2020,38,Alicia,Alicia Keys,77,86,12,66,RCA,"['R&B', 'Adult Contemporary R&B', 'Contemporary R&B']"
+"September 25, 2020",2020,39,Daughter,Lydia Loveless,77,0,8,0,"Honey, You're Gonna Be Late","['Alt-Country', 'Pop/Rock', 'Alternative/Indie Rock']"
+"August 14, 2020",2020,33,Have You Lost Your Mind Yet,Fantastic Negrito,77,0,8,0,Cooking Vinyl,"['Blues', 'Pop/Rock']"
+"January 31, 2020",2020,5,Silver Tongue,Torres,77,86,19,12,Merge,['Alternative/Indie Rock']
+"July 10, 2020",2020,28,Waterfall II,My Morning Jacket,77,84,14,21,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia', 'Alternative Country-Rock', 'Indie Folk']"
+"August 28, 2020",2020,35,The Baby,Samia,77,84,8,7,Grand Jury Music,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"October 9, 2020",2020,41,April,Emmy the Great,77,0,8,0,Bella Union,"['Pop/Rock', 'Alternative/Indie Rock']"
+"June 12, 2020",2020,24,Love Death Dancing,Jack Garratt,77,82,7,9,Island,"['Pop', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative R&B', 'Left-Field Pop']"
+"July 17, 2020",2020,29,Hate for Sale,Pretenders,77,78,16,8,BMG,['Pop/Rock']
+"August 14, 2020",2020,33,Blonde on the Tracks,Emma Swift,77,0,7,0,Continental Song City,['New Age']
+"April 10, 2020",2020,15,Jacqueline,Jackie Lynn,77,80,8,4,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Alternative Singer/Songwriter']"
+"March 6, 2020",2020,10,Beat Poetry for Survivalists,Luke Haines,77,0,8,0,Omnivore,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"February 7, 2020",2020,6,LP5,John Moreland,77,0,9,0,Old Omens,['Country']
+"September 11, 2020",2020,37,WE ARE CHAOS,Marilyn Manson,77,88,11,109,Loma Vista,"['Pop/Rock', 'Alternative Metal', 'Heavy Metal', 'Industrial Metal']"
+"June 19, 2020",2020,25,Shadow Offering,Braids,77,75,14,4,Secret City Records,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 18, 2020",2020,38,Cantus Descant,Sarah Davachi,77,0,7,0,LATE,['Avant-Garde']
+"December 11, 2020",2020,50,What to Look for in Summer Live,Belle and Sebastian,77,0,10,0,Matador,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Alternative Singer/Songwriter', 'Chamber Pop', 'Twee Pop']"
+"November 20, 2020",2020,47,KG,King Gizzard the Lizard Wizard,77,90,11,33,Universal,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia', 'Neo-Prog']"
+"October 9, 2020",2020,41,10 Songs,Travis,77,84,7,13,BMG,"['Britpop', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'British Trad Rock']"
+"September 18, 2020",2020,38,Breach,Fenne Lily,77,0,9,0,Dead Oceans,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"May 8, 2020",2020,19,It Was Good Until It Wasnt,Kehlani,77,87,13,94,Atlantic,['R&B']
+"July 3, 2020",2020,27,So When You Gonna,Dream Wife,77,82,13,6,Lucky Number,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 27, 2020",2020,13,Local Honey,Brian Fallon,77,84,9,17,Orchard,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter', 'Heartland Rock']"
+"January 17, 2020",2020,3,El Dorado,Marcus King,77,69,9,7,Universal,['Pop/Rock']
+"August 21, 2020",2020,34,SUGAREGG,Bully,77,0,13,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 1, 2020",2020,18,Making a Door Less Open,Car Seat Headrest,77,74,23,49,Matador,['Pop/Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"April 17, 2020",2020,16,The Don of Diamond Dreams,Shabazz Palaces,77,80,14,21,Sub Pop,"['Rap', 'Pop/Rock']"
+"October 16, 2020",2020,42,Serpentine Prison,Matt Berninger,77,75,20,8,Concord,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"September 25, 2020",2020,39,Renegade Breakdown,Marie Davidson,76,0,8,0,Ninja Tune,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Club/Dance', 'Indie Electronic', 'Synth Pop', 'French Pop']"
+"September 25, 2020",2020,39,Ultra Mono,Idles,76,77,22,55,Partisan,['Pop/Rock']
+"June 12, 2020",2020,24,Startisha,Naeem,76,0,8,0,37D03D,['Rap']
+"October 30, 2020",2020,44,Great Dismal,Nothing,76,81,13,11,Relapse Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Metal', 'Heavy Metal', 'Noise-Rock', 'Shoegaze']"
+"August 21, 2020",2020,34,Imploding the Mirage,The Killers,76,86,22,148,Island,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'New Wave/Post-Punk Revival']"
+"March 27, 2020",2020,13,Illusion of Time,Daniel Avery,76,68,7,4,Mute,"['Electronic', 'Pop/Rock', 'Experimental Ambient', 'Experimental Electronic']"
+"January 31, 2020",2020,5,Sorry for the Late Reply,Sltface,76,67,,0,,[]
+"January 17, 2020",2020,3,Dream On,Alice Boman,76,75,7,4,Play It Again Sam,"['Pop/Rock', 'Alternative/Indie Rock', 'Lo-Fi', 'Indie Electronic']"
+"January 17, 2020",2020,3,Marigold,Pinegrove,76,69,15,25,Rough Trade,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 10, 2020",2020,2,Rare,Selena Gomez,76,87,12,9456,Interscope,"['Pop', 'Vocal', 'Pop/Rock']"
+"September 18, 2020",2020,38,Find the Sun,Deradoorian,76,0,10,0,Anti-,['Pop/Rock']
+"May 29, 2020",2020,22,Harmony Avenue,Jade Hairpins,76,0,8,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'New Wave/Post-Punk Revival', 'Alternative Dance']"
+"March 27, 2020",2020,13,Snapshot of a Beginner,Nap Eyes,76,0,10,0,Jagjaguwar,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 21, 2020",2020,8,Random Desire,Greg Dulli,76,87,11,6,BMG,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 15, 2020",2020,20,The Mosaic of Transformation,Kaitlyn Aurelia Smith,76,0,8,0,Ghostly International,"['Electronic', 'Ambient', 'New Age', 'Pop/Rock', 'Indie Electronic']"
+"October 2, 2020",2020,40,Melanie C,Melanie C,76,84,8,26,Red Girl Media,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Dance-Pop', 'Contemporary Pop/Rock']"
+"January 31, 2020",2020,5,Be Up a Hello,Squarepusher,76,65,15,10,Warp,"['Electronic', 'Electronica', 'Pop/Rock', 'IDM', ""Jungle/Drum'n'Bass"", 'Experimental Jungle', ""Drill'n'bass""]"
+"January 24, 2020",2020,4,Sing in a World Thats Falling Apart,Black Lips,76,71,12,8,Fire Records,['Pop/Rock']
+"January 17, 2020",2020,3,Ur Fun,Of Montreal,76,67,8,13,Polyvinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Electronic', 'Dance-Rock']"
+"August 21, 2020",2020,34,The Neon,Erasure,76,66,7,19,Mute,"['Pop/Rock', 'Alternative/Indie Rock', 'Dance-Pop', 'Alternative Dance']"
+"August 7, 2020",2020,32,Pyramid,Jaga Jazzist,75,0,8,0,Brainfeeder,"['Electronic', 'Jazz', 'Pop/Rock', 'Alternative/Indie Rock', 'Post-Rock', 'Progressive Jazz', 'Modern Big Band', 'Clubjazz']"
+"June 5, 2020",2020,23,Gene,LA Priest,75,0,7,0,Domino,['Pop/Rock']
+"May 29, 2020",2020,22,Beginners,Christian Lee Hutson,75,0,9,0,Anti-,['Folk']
+"July 10, 2020",2020,28,Legends Never Die,Juice WRLD,75,79,10,117,Interscope,['Rap']
+"August 7, 2020",2020,32,Dreamland,Glass Animals,75,84,11,74,Polydor,['Pop/Rock']
+"April 3, 2020",2020,14,Migration Stories,M Ward,75,78,14,10,Anti-,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"September 18, 2020",2020,38,Host,Cults,75,0,7,0,Sinderlyn,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 7, 2020",2020,32,Limbo,Aminé,75,81,7,0,Underwater Peoples,"['Pop/Rock', 'Alternative/Indie Rock']"
+"February 21, 2020",2020,8,HUMANIST,Humanist,75,0,8,0,Ignition Records,['Pop/Rock']
+"May 29, 2020",2020,22,Future Teenage Cave Artists,Deerhoof,75,86,11,9,Joyful Noise,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 10, 2020",2020,15,The New Abnormal,The Strokes,75,91,25,440,RCA,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 24, 2020",2020,4,Hotspot,Pet Shop Boys,75,76,19,34,X2,"['House', 'Pop/Rock', 'Alternative/Indie Rock', 'Dance-Pop', 'Alternative Dance', 'Synth Pop', 'Dance-Rock']"
+"June 12, 2020",2020,24,Arrow,Noveller,75,0,9,0,Ba Da Bing Records,"['Electronic', 'Avant-Garde', 'Pop/Rock', 'Experimental Ambient', 'Noise', 'Solo Instrumental']"
+"January 31, 2020",2020,5,ACCA,AlaNi,75,0,7,0,N/A,"['Jazz', 'Vocal', 'Pop/Rock', 'Vocal Jazz']"
+"June 5, 2020",2020,23,Muzz,Muzz,75,87,13,13,Matador,['Pop/Rock']
+"February 21, 2020",2020,8,Hyacinth,Spinning Coin,75,0,9,0,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"August 21, 2020",2020,34,Songs for the General Public,The Lemon Twigs,75,74,18,13,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Neo-Psychedelia', 'Alternative Singer/Songwriter']"
+"May 15, 2020",2020,20,Will This Make Me Good,Nick Hakim,75,0,7,0,ATO,"['R&B', 'Neo-Psychedelia', 'Alternative Singer/Songwriter', 'Alternative R&B']"
+"November 27, 2020",2020,48,Plastic Hearts,Miley Cyrus,75,93,22,2903,RCA,"['Pop', 'Vocal', 'Pop/Rock']"
+"December 25, 2020",2020,52,Whole Lotta Red,Playboi Carti,75,72,7,188,Interscope,"['Rap', 'Holiday', 'Southern Rap', 'Contemporary Rap']"
+"July 3, 2020",2020,27,First Rose of Spring,Willie Nelson,75,0,8,0,Sony Music,"['Pop/Rock', 'Progressive Country', 'Traditional Country']"
+"July 10, 2020",2020,28,The Glow,DMAs,75,84,9,5,Infectious,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"May 15, 2020",2020,20,Quickies,Magnetic Fields,75,64,13,5,Nonesuch,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 25, 2020",2020,39,What You Gonna Do When the Grid Goes Down,Public Enemy,75,80,13,7,Def Jam,['Rap']
+"March 27, 2020",2020,13,Far Enough,Cable Ties,75,0,8,0,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'New Wave/Post-Punk Revival', 'Punk Revival']"
+"March 6, 2020",2020,10,Silver Landings,Mandy Moore,75,88,10,33,Verve,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Singer/Songwriter']"
+"January 17, 2020",2020,3,Deleter,Holy Fuck,75,74,10,10,Forced Exposure,['Pop/Rock']
+"December 4, 2020",2020,49,Odins Raven Magic,Sigur Rós,74,78,11,0,Krunk,['Pop/Rock']
+"June 19, 2020",2020,25,Planets Mad,Baauer,74,80,7,4,LuckyMe,"['Electronic', 'Pop/Rock']"
+"November 6, 2020",2020,45,Confetti,Little Mix,74,91,10,1132,RCA,['Pop/Rock']
+"May 15, 2020",2020,20,Sorceress,Jess Williamson,74,0,11,0,Mexican Summer,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter', 'Indie Folk']"
+"June 26, 2020",2020,26,KiCk i,Arca,74,87,16,141,XL,"['Electronic', 'Pop/Rock', 'Experimental Electronic']"
+"January 17, 2020",2020,3,Everything Else Has Gone Wrong,Bombay Bicycle Club,74,70,16,24,Caroline,['Pop/Rock']
+"October 9, 2020",2020,41,As Long as You Are,Future Islands,74,87,18,20,4AD,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 3, 2020",2020,14,If Youre Dreaming,Anna Burch,74,70,12,8,Polyvinyl,['Pop/Rock']
+"February 28, 2020",2020,9,Everyday Nothing,Brooke Bentham,74,0,7,0,Allpoints,"['Pop/Rock', 'Alternative/Indie Rock']"
+"October 30, 2020",2020,44,Self Worth,Mourn,74,0,7,0,Captured Tracks,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 21, 2020",2020,8,Myopia,Agnes Obel,74,81,8,19,Blue Note,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Singer/Songwriter']"
+"January 31, 2020",2020,5,Mystic Familiar,Dan Deacon,74,88,14,10,Domino,"['Electronic', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Experimental Rock']"
+"July 31, 2020",2020,31,Suckers Lunch,Madeline Kenney,74,0,9,0,Carpark Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"March 13, 2020",2020,11,Sixteen Oceans,Four Tet,74,83,8,13,Temporary Residence,"['Electronic', 'House', 'Downtempo', 'Club/Dance', 'Indie Electronic', 'Experimental Techno', 'Left-Field House', 'Ambient Techno', 'IDM']"
+"July 17, 2020",2020,29,Brightest Blue,Ellie Goulding,74,88,10,266,Interscope,"['Pop', 'Pop/Rock', 'Dance-Pop', 'Synth Pop']"
+"May 15, 2020",2020,20,The Quickening,Jim White,74,0,8,0,Thrill Jockey,"['Folk', 'Avant-Garde', 'Alternative/Indie Rock', 'Experimental Rock', 'Instrumental Rock', 'Structured Improvisation']"
+"August 28, 2020",2020,35,Got to Be Tough,Toots the Maytals,74,0,10,0,BMG,['Reggae']
+"June 5, 2020",2020,23,Goons Be Gone,No Age,74,0,10,0,Drag City,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Lo-Fi', 'Noise Pop', 'Noise-Rock']"
+"January 10, 2020",2020,2,Making a New World,Field Music,73,70,18,28,Memphis Industries,['Pop/Rock']
+"January 17, 2020",2020,3,There Is No Year,Algiers,73,69,19,16,Matador,"['Pop/Rock', 'Alternative/Indie Rock']"
+"July 10, 2020",2020,28,None of Us Are Getting out of This Life Alive,The Streets,73,80,15,5,Island,"['Electronic', 'Rap']"
+"October 16, 2020",2020,42,Sundowner,Kevin Morby,73,0,12,0,Dead Oceans,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"April 24, 2020",2020,17,Harkin,Harkin,73,0,8,0,N/A,['Pop/Rock']
+"April 17, 2020",2020,16,Knuckleball Express,The Howling Hex,73,0,7,0,Fat Possum Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"February 21, 2020",2020,8,Man Alive!,King Krule,73,82,21,41,True Panther Sounds,"['Pop/Rock', 'Alternative/Indie Rock']"
+"March 13, 2020",2020,11,You Know Im Not Going Anywhere,The Districts,73,80,10,4,Fat Possum Records,['Pop/Rock']
+"February 7, 2020",2020,6,West of Eden,HMLTD,73,80,9,29,Lucky Number,['Alternative/Indie Rock']
+"September 4, 2020",2020,36,Fall To Pieces,Tricky,73,81,16,7,!K7,"['Electronic', 'Trip-Hop']"
+"February 28, 2020",2020,9,Disco Volador,The Orielles,73,80,10,7,Heavenly,"['Pop/Rock', 'Alternative/Indie Rock']"
+"April 24, 2020",2020,17,Dear Life,Brendan Benson,73,80,12,6,Third Man Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Pop', 'Power Pop']"
+"May 1, 2020",2020,18,Hirudin,Austra,73,73,11,14,Domino,['Pop/Rock']
+"September 25, 2020",2020,39,Free Love,Sylvan Esso,73,0,9,0,Loma Vista,"['Pop/Rock', 'Alternative/Indie Rock']"
+"January 31, 2020",2020,5,High Road,Kesha,73,86,19,361,RCA,"['Electronic', 'Dance-Pop', 'Party Rap']"
+"April 24, 2020",2020,17,Wake UP!,Hazel English,73,81,11,16,Polyvinyl,['Pop/Rock']
+"March 27, 2020",2020,13,Abolition of the Royal Familia,The Orb,73,0,7,0,Cooking Vinyl,['Electronic']
+"March 27, 2020",2020,13,New Me Same Us,Little Dragon,73,74,10,14,Ninja Tune,['Pop/Rock']
+"March 13, 2020",2020,11,Birthmarks,Hilary Woods,73,0,7,0,Sacred Bones,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock']"
+"June 12, 2020",2020,24,MTV Unplugged Live at Hull City Hall,Liam Gallagher,73,83,10,10,Warner Bros.,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Pop/Rock', 'British Trad Rock']"
+"May 15, 2020",2020,20,Gentle Grip,Public Practice,72,0,8,0,Wharf Cat Records,['Pop/Rock']
+"October 2, 2020",2020,40,Under the Spell of Joy,Death Valley Girls,72,80,9,4,Suicide Squeeze,['Pop/Rock']
+"April 3, 2020",2020,14,I Feel Alive,TOPS,72,81,9,8,Musique TOPS,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Indie Pop']"
+"March 20, 2020",2020,12,Mixing Colours,Roger Eno,72,0,11,0,Deutsche Grammophon,['Electronic']
+"November 6, 2020",2020,45,DISCO,Kylie Minogue,72,89,16,446,BMG,"['Pop', 'Pop/Rock', 'Alternative/Indie Rock', 'Dance-Pop', 'Club/Dance', 'Alternative Dance', 'Neo-Disco']"
+"August 28, 2020",2020,35,Energy,Disclosure,72,78,15,24,Island,"['Electronic', 'Club/Dance']"
+"March 20, 2020",2020,12,Colores,J Balvin,72,71,8,72,Universal,"['Latin', 'Latin Pop', 'Latin Rap', 'Latin Dance', 'Reggaeton', 'Urbano']"
+"January 10, 2020",2020,2,I Disagree,Poppy,72,86,16,340,Sumerian Records,"['Pop', 'Electronic', 'Pop/Rock', 'Left-Field Pop']"
+"September 18, 2020",2020,38,Protean Threat,Osees,72,88,10,9,Castle Face,['Pop/Rock']
+"August 21, 2020",2020,34,Kings Disease,Nas,72,82,9,62,Mass Appeal,['Rap']
+"July 17, 2020",2020,29,Sun Piano,Laraaji,72,0,7,0,All Saints,"['Contemporary Instrumental', 'Neo-Classical', 'Piano/New Age']"
+"September 25, 2020",2020,39,Tickets to My Downfall,Machine Gun Kelly,72,78,7,121,Interscope,"['Rap', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Hardcore Rap', 'Midwest Rap', 'Contemporary Rap', 'Pop Punk']"
+"March 24, 2020",2020,13,Aporia,Sufjan Stevens,72,71,14,19,Asthmatic Kitty,['Pop/Rock']
+date,year,week_num,album,artist,meta_score,user_score,crit_num,user_num,label,genres
+"September 4, 2020",2020,36,All That Emotion,Hannah Georgas,72,0,9,0,Brassland,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"April 3, 2020",2020,14,Womb,Purity Ring,72,81,11,19,4AD,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic']"
+"October 30, 2020",2020,44,Positions,Ariana Grande,72,73,24,5768,Republic,['Pop/Rock']
+"October 2, 2020",2020,40,Shiver,Jónsi,71,84,16,0,Krunk,[]
+"October 30, 2020",2020,44,Earth To Dora,Eels,71,78,13,12,Pias America,['Pop/Rock']
+"September 4, 2020",2020,36,Detroit 2,Big Sean,71,82,8,31,Def Jam,"['Rap', 'Midwest Rap', 'Pop-Rap', 'Contemporary Rap']"
+"July 31, 2020",2020,31,Such Pretty Forks in the Road,Alanis Morissette,71,89,12,80,Epiphany Records,['Pop/Rock']
+"September 25, 2020",2020,39,Generations,Will Butler,71,90,8,4,Merge,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock']"
+"October 2, 2020",2020,40,The Album,BlackPink,71,85,,0,,[]
+"December 11, 2020",2020,50,Man on the Moon Vol 3 The Chosen,Kid Cudi,71,84,10,297,Republic,['Rap']
+"July 17, 2020",2020,29,Species,Bing Ruth,71,0,7,0,4AD,"['Ambient', 'Avant-Garde', 'Pop/Rock', 'Post-Rock', 'Post-Minimalism']"
+"May 1, 2020",2020,18,Do You Wonder About Me,Diet Cig,71,76,15,7,Frenchkiss Records,['Pop/Rock']
+"January 24, 2020",2020,4,Concrete and Glass,Nicolas Godin,71,0,7,0,Because Music,"['Pop/Rock', 'Club/Dance']"
+"February 21, 2020",2020,8,Names of North End Women,Lee RanaldoRal Refree,70,0,,0,,[]
+"March 20, 2020",2020,12,Uneasy Laughter,Moaning,70,0,7,0,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'New Wave/Post-Punk Revival']"
+"June 12, 2020",2020,24,Plays the Songs of Daniel Johnston,Built to Spill,70,0,9,0,Ernest Jenning,['Pop/Rock']
+"January 24, 2020",2020,4,Thin Mind,Wolf Parade,70,79,13,17,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock']"
+"May 22, 2020",2020,21,Chunky Shrapnel Live,King Gizzard the Lizard Wizard,70,80,7,5,ATO,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Metal', 'Heavy Metal', 'Neo-Psychedelia', 'Neo-Prog']"
+"April 10, 2020",2020,15,Antarctica,Flat Worms,70,0,8,0,God Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock', 'Noise-Rock']"
+"March 13, 2020",2020,11,Deap Lips,Deap Lips,70,51,9,7,Cooking Vinyl,"['Pop/Rock', 'Alternative/Indie Rock', 'Garage Punk', 'Indie Rock', 'Punk Blues', 'Experimental Rock', 'Noise Pop', 'Neo-Psychedelia']"
+"April 17, 2020",2020,16,Earth,EOB,70,83,15,28,Capitol,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"July 3, 2020",2020,27,Shoot For The Stars Aim For The Moon,Pop Smoke,70,65,13,50,Victor Victor Worldwide,['Rap']
+"January 31, 2020",2020,5,When We Stay Alive,Poliça,70,69,13,0,Memphis Industries,['Pop/Rock']
+"December 11, 2020",2020,50,Think of Spring,M Ward,70,0,8,0,Anti-,"['Folk', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Folk']"
+"August 14, 2020",2020,33,Candid,Whitney,70,0,7,0,Secretly Canadian,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop']"
+"June 19, 2020",2020,25,Tearless,Amnesia Scanner,70,0,8,0,Pan,['Electronic']
+"May 15, 2020",2020,20,High Off Life,Future,70,74,9,32,Epic,"['Rap', 'Southern Rap', 'Contemporary Rap']"
+"August 21, 2020",2020,34,Freeze Melt,Cut Copy,69,84,8,7,Cutters Records,"['Pop/Rock', 'Alternative/Indie Rock', 'New Wave/Post-Punk Revival', 'Alternative Dance']"
+"May 22, 2020",2020,21,Notes on a Conditional Form,The 1975,69,69,28,190,Interscope,['Pop/Rock']
+"March 13, 2020",2020,11,Ricky Music,Porches,69,68,10,5,Domino,"['Pop/Rock', 'Alternative/Indie Rock']"
+"September 25, 2020",2020,39,ACR Loco,A Certain Ratio,69,0,7,0,Mute,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Alternative Dance', 'Dance-Rock']"
+"September 18, 2020",2020,38,Tea for the Tillerman 2,Yusuf,69,80,10,5,A&M,['Pop/Rock']
+"May 15, 2020",2020,20,Starz,Yung Lean,68,81,7,26,Year0001,['Pop/Rock']
+"April 3, 2020",2020,14,Born Again,Ellis,68,0,8,0,Fat Possum Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Alternative Singer/Songwriter']"
+"February 14, 2020",2020,7,And Its Still Alright,Nathaniel Rateliff,68,87,11,7,Fantasy,['Pop/Rock']
+"February 7, 2020",2020,6,Supervision,La Roux,68,71,14,43,Believe Direct Limited,['Pop/Rock']
+"November 27, 2020",2020,48,No Fun Mondays,Billie Joe Armstrong,68,0,7,0,Reprise,['Pop/Rock']
+"February 7, 2020",2020,6,Father of All,Green Day,68,48,25,212,Reprise,['Pop/Rock']
+"October 16, 2020",2020,42,Dark Hearts,Annie,67,87,7,9,Annie Melody,"['Pop', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Dance', 'Left-Field Pop']"
+"May 29, 2020",2020,22,Heartbreaker Please,Teddy Thompson,67,0,7,0,Chalky Sounds,['Folk']
+"December 4, 2020",2020,49,Weird!,Yungblud,66,80,8,44,Geffen,"['Pop', 'Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Left-Field Pop', 'Pop Punk']"
+"February 21, 2020",2020,8,Always Tomorrow,Best Coast,66,79,18,14,Concord,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Indie Pop', 'Noise Pop']"
+"September 4, 2020",2020,36,Angelheaded Hipster The Songs of Marc Bolan T Rex,Various Artists,65,0,8,0,BMG,"['Pop/Rock', 'Adult Alternative Pop/Rock', 'Alternative/Indie Rock', 'Contemporary Pop/Rock', 'Indie Rock', 'Post-Punk', 'Tribute Albums', 'Sophisti-Pop']"
+"January 17, 2020",2020,3,RYC,Mura Masa,65,66,12,23,Interscope,"['Electronic', 'Club/Dance']"
+"December 4, 2020",2020,49,Wonder,Shawn Mendes,65,81,9,1019,Island,['Pop/Rock']
+"December 18, 2020",2020,51,Music to Be Murdered By - Side B Deluxe Edition,Eminem,65,89,7,500,Shady Records / Interscope,[]
+"October 30, 2020",2020,44,Love Goes,Sam Smith,64,83,13,173,Capitol,"['Pop', 'Adult Contemporary', 'Vocal', 'Pop/Rock']"
+"January 17, 2020",2020,3,Music To Be Murdered By,Eminem,64,85,17,5057,Shady Records / Interscope,['Rap']
+"August 28, 2020",2020,35,The Third Gleam,The Avett Brothers,64,0,8,0,Loma Vista,"['Folk', 'Alt-Country', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Folk']"
+"June 26, 2020",2020,26,Portrait of an Ugly Man,Remo Drive,64,0,7,0,Epitaph,"['Pop/Rock', 'Alternative/Indie Rock', 'Art Rock']"
+"August 7, 2020",2020,32,Purple Noon,Washed Out,63,85,16,21,Sub Pop,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Electronic', 'Chillwave']"
+"May 1, 2020",2020,18,The Mother Stone,Caleb Landry Jones,63,87,8,6,Sacred Bones,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Neo-Psychedelia']"
+"March 13, 2020",2020,11,Heartbreak Weather,Niall Horan,63,89,8,325,Capitol,['Pop/Rock']
+"May 15, 2020",2020,20,Lovers Rock,The Dears,63,76,7,5,Dangerbird Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Indie Rock', 'Post-Rock', 'Chamber Pop']"
+"May 15, 2020",2020,20,All Visible Objects,Moby,62,71,8,8,Mute,"['Electronic', 'Ambient', 'House', 'Electronica', 'Techno', 'Trance', 'Club/Dance', 'Ambient Techno', 'Progressive House']"
+"January 31, 2020",2020,5,Funeral,Lil Wayne,62,64,10,102,Young Money,['Rap']
+"April 17, 2020",2020,16,Blame It on Baby,DaBaby,62,43,9,52,Interscope,['Rap']
+"March 20, 2020",2020,12,I Am Not a Dog on a Chain,Morrissey,62,83,13,30,BMG,"['Pop/Rock', 'Alternative/Indie Rock']"
+"November 27, 2020",2020,48,Cyr,The Smashing Pumpkins,61,68,21,61,Sumerian Records,"['Grunge', 'Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock', 'Indie Rock']"
+"February 28, 2020",2020,9,American Standard,James Taylor,60,85,8,4,Fantasy,"['Adult Contemporary', 'Vocal', 'Pop/Rock', 'Contemporary Pop/Rock', 'Soft Rock', 'Traditional Pop']"
+"June 19, 2020",2020,25,Bigger Love,John Legend,59,71,7,15,Columbia,"['Pop', 'R&B', 'Soul']"
+"January 10, 2020",2020,2,The Deadbeat Bang of Heartbreak City,Beach Slang,59,45,9,17,Bridge Nine Records,"['Pop/Rock', 'Alternative/Indie Rock', 'Alternative Pop/Rock']"
+"August 28, 2020",2020,35,Smile,Katy Perry,58,83,18,11467,Capitol,"['Pop', 'Pop/Rock']"
+"February 14, 2020",2020,7,Changes,Justin Bieber,57,53,16,4344,Def Jam,"['Pop', 'Pop/Rock']"
+"May 29, 2020",2020,22,Chapter 1 Snake Oil,Diplo,46,33,10,22,Columbia,['Country']
