@@ -20,7 +20,7 @@ Metacritic scrapping apps:
 - An [app](https://github.com/dorisep/meta_gui/blob/main/apps/historical_scrape.py) that collects the archived releases from all previous years.
 
 Spotify playlist generation app:
-- An interface for the Spoitfy [api](https://github.com/dorisep/meta_gui/blob/main/apps/playlist_app.py) that creates a playlist on users account.
+- An [interface](https://github.com/dorisep/meta_gui/blob/main/apps/playlist_app.py) for the Spoitfy api that creates a playlist on an account.
 
 Tkinter app:
 - A [grahical user interface](https://github.com/dorisep/meta_gui/blob/main/apps/meta_GUI.py) that tracks the current week and runs the scaping function and playlist generation.
