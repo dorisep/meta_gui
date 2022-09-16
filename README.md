@@ -1,5 +1,5 @@
 # Meta_GUI
-A graphical interface that coordinates an app to scrape metacritic website for new music for each week, generates dynamically labelled csv files and an app that populates a playlist in my spotify account by using the Spotify API.
+A graphical interface that coordinates an app to collect new music each week from metacritic, stores metadata on these albums,  generates dynamically labelled csv files and an app that populates a playlist in my spotify account by using the Spotify API.
 ## Overview
 ---
 I enjoyed working on this project as an exercise in broadening my foundation in python and app developement overall. I look forward to aquiring new skills and understanding as I continue its developement.
