@@ -1,4 +1,5 @@
 # Meta_GUI
+---
 A graphical interface that coordinates an app to collect new music each week from metacritic, stores metadata on these albums,  generates dynamically labelled csv files and an app that populates a playlist in my spotify account by using the Spotify API.
 ## Overview
 ---
@@ -26,7 +27,7 @@ Tkinter app:
 - A [grahical user interface](https://github.com/dorisep/meta_gui/blob/main/apps/meta_GUI.py) that tracks the current week and runs the scaping function and playlist generation.
 
 ## Sources
-
+---
 The following are resources I used in this project:
 
 Spotify [API](https://developer.spotify.com/documentation/web-api/) documentation. All neccesary credentials can be found here.
