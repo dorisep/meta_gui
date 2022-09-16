@@ -29,7 +29,7 @@ Tkinter app:
 
 The following are resources I used in this project:
 
-Spotify [API]{https://developer.spotify.com/documentation/web-api/} documentation. All neccesary credentials can be found here.
+Spotify [API](https://developer.spotify.com/documentation/web-api/) documentation. All neccesary credentials can be found here.
 
 CodingEntrepreneurs [tutorial](https://www.youtube.com/watch?v=xdq6Gz33khQ&list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6&index=19).
 
