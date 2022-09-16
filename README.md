@@ -15,7 +15,7 @@ As a music enthusiast, I am always exploring new music.
 
 While many streaming services have playlists and access to new releasses, I grew tired of feeling bound to algorithyms and coallating my own playlists. 
 
-What I really wanted was a raw dump of albums into a list that I could listen to and select from regardless of my listening history of derived preferences. 
+What I really wanted was a raw dump of albums into a list that I could listen to and select from regardless of my listening history or derived preferences. 
 
 That led to the aformentioned applications. Which also grew as I decided to flesh out my understanding of python and development overall. 
 
