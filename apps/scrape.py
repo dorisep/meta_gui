@@ -8,6 +8,7 @@ from datetime import datetime as dt
 from base64 import b64encode
 from pickle import load, dump
 from playlist_app import create_playlist
+# coding=python
 
 def meta_scrape(week_num, year):
     
